@@ -1,0 +1,160 @@
+{
+    "type": "single",
+    "name": "Revelations from the Past",
+    "url": "https://genshin-impact.fandom.com/wiki/Revelations_from_the_Past",
+    "starting_location": {
+        "plaintext": "Tequemecan Valley , Natlan",
+        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Golden Entreaty",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Golden_Entreaty",
+            "Image": "Item_Golden_Entreaty.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "The Cornerstone of Stars and Flames",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/The_Cornerstone_of_Stars_and_Flames",
+            "Image": "Item_The_Cornerstone_of_Stars_and_Flames.png",
+            "Rarity": "5"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the entrance to the ruins",
+            "markdown": "Go to the entrance to the ruins"
+        },
+        {
+            "plaintext": "Place the talisman",
+            "markdown": "Place the talisman"
+        },
+        {
+            "plaintext": "Open the barrier blocking the entrance to the ruins",
+            "markdown": "Open the barrier blocking the entrance to the ruins"
+        },
+        {
+            "plaintext": "Explore the ruins",
+            "markdown": "Explore the ruins"
+        },
+        {
+            "plaintext": "Investigate the ruins",
+            "markdown": "Investigate the ruins"
+        },
+        {
+            "plaintext": "Open the barrier",
+            "markdown": "Open the barrier"
+        },
+        {
+            "plaintext": "Meet up with (\"Little One\")",
+            "markdown": "Meet up with (\"Little One\")"
+        },
+        {
+            "plaintext": "Explore the ruins",
+            "markdown": "Explore the ruins"
+        },
+        {
+            "plaintext": "Investigate the ruins",
+            "markdown": "Investigate the ruins"
+        },
+        {
+            "plaintext": "Traverse the corridor",
+            "markdown": "Traverse the corridor"
+        },
+        {
+            "plaintext": "Unlock the mechanism",
+            "markdown": "Unlock the mechanism"
+        },
+        {
+            "plaintext": "Examine the mural",
+            "markdown": "Examine the mural"
+        },
+        {
+            "plaintext": "Meet up with (\"Little One\")",
+            "markdown": "Meet up with (\"Little One\")"
+        },
+        {
+            "plaintext": "Continue the trial",
+            "markdown": "Continue the trial"
+        },
+        {
+            "plaintext": "Traverse the lava",
+            "markdown": "Traverse the lava"
+        },
+        {
+            "plaintext": "Defeat the opponents",
+            "markdown": "Defeat the opponents",
+            "substeps": [
+                {
+                    "plaintext": "Rockfond Rifthound Whelp x6",
+                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x6",
+                    "img": {
+                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Abyss-Corroded Golden Wolflord x1",
+                    "markdown": "<img:abyss-corroded_golden_wolflord> \u25c0Abyss-Corroded Golden Wolflord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss-Corroded_Golden_Wolflord\u25b7 x1",
+                    "img": {
+                        "abyss-corroded_golden_wolflord": "Golden_Wolflord_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Traverse the lava",
+            "markdown": "Traverse the lava"
+        },
+        {
+            "plaintext": "Touch the inscription",
+            "markdown": "Touch the inscription"
+        },
+        {
+            "plaintext": "Continue onward",
+            "markdown": "Continue onward"
+        },
+        {
+            "plaintext": "Obtain the token",
+            "markdown": "Obtain the token"
+        }
+    ],
+    "dialogue": true
+}

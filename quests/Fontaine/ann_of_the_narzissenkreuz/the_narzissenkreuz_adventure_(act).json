@@ -1,0 +1,17 @@
+{
+    "type": "act",
+    "name": "The Narzissenkreuz Adventure (Act)",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure_%28Act%29",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "The Narzissenkreuz Adventure",
+            "markdown": "\u25c0The Narzissenkreuz Adventure\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure\u25b7"
+        },
+        {
+            "plaintext": "The Story of \"the Princess\" and \"the Adventure Team\"",
+            "markdown": "\u25c0The Story of \"the Princess\" and \"the Adventure Team\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Story_of_%22the_Princess%22_and_%22the_Adventure_Team%22\u25b7"
+        }
+    ]
+}

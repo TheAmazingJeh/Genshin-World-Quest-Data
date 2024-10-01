@@ -1,0 +1,139 @@
+{
+    "type": "single",
+    "name": "Even Beasts Stumble",
+    "url": "https://genshin-impact.fandom.com/wiki/Even_Beasts_Stumble",
+    "starting_location": {
+        "plaintext": "Yasna Monument , Sumeru",
+        "markdown": "\u25c0Yasna Monument\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yasna_Monument\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Rescue the person surrounded by monsters",
+            "markdown": "Rescue the person surrounded by monsters",
+            "substeps": [
+                {
+                    "plaintext": "Dendro Samachurl x1",
+                    "markdown": "<img:dendro_samachurl> \u25c0Dendro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendro_Samachurl\u25b7 x1",
+                    "img": {
+                        "dendro_samachurl": "Dendro_Samachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wooden Shield Hilichurl Guard x1",
+                    "markdown": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 x1",
+                    "img": {
+                        "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl x1",
+                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x1",
+                    "img": {
+                        "hilichurl": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Elber",
+            "markdown": "Talk to \u25c0Elber\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elber\u25b7"
+        },
+        {
+            "plaintext": "Find the lost Sumpter Beast (north location)",
+            "markdown": "Find the lost \u25c0Sumpter Beast\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shaggy_Sumpter_Beast\u25b7 (north location)",
+            "substeps": [
+                {
+                    "plaintext": "Defeat all the hilichurls",
+                    "markdown": "Defeat all the hilichurls",
+                    "substeps": [
+                        {
+                            "plaintext": "Wooden Shieldwall Mitachurl x1",
+                            "markdown": "<img:wooden_shieldwall_mitachurl> \u25c0Wooden Shieldwall Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shieldwall_Mitachurl\u25b7 x1",
+                            "img": {
+                                "wooden_shieldwall_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Wooden Shield Hilichurl Guard x1",
+                            "markdown": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 x1",
+                            "img": {
+                                "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Fighter x1",
+                            "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x1",
+                            "img": {
+                                "hilichurl_fighter": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Soothe the Sumpter Beast",
+                    "markdown": "Soothe the Sumpter Beast"
+                }
+            ]
+        },
+        {
+            "plaintext": "Find the lost Sumpter Beast (south location)",
+            "markdown": "Find the lost Sumpter Beast (south location)",
+            "substeps": [
+                {
+                    "plaintext": "Soothe the Sumpter Beast",
+                    "markdown": "Soothe the Sumpter Beast"
+                }
+            ]
+        },
+        {
+            "plaintext": "Take the goods back to Elber",
+            "markdown": "Take the goods back to Elber",
+            "substeps": [
+                {
+                    "plaintext": "Give Elber  Harra Fruit x4 and  Zaytun Peach x3.",
+                    "markdown": "Give Elber <img:harra_fruit> \u25c0Harra Fruit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Harra_Fruit\u25b7 x4 and <img:zaytun_peach> \u25c0Zaytun Peach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zaytun_Peach\u25b7 x3.",
+                    "img": {
+                        "harra_fruit": "Item_Harra_Fruit.png",
+                        "zaytun_peach": "Item_Zaytun_Peach.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Elber",
+            "markdown": "Talk to Elber"
+        }
+    ],
+    "dialogue": true
+}

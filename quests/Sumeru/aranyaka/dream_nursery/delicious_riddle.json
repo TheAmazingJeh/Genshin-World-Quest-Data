@@ -1,0 +1,85 @@
+{
+    "type": "single",
+    "name": "Delicious Riddle",
+    "url": "https://genshin-impact.fandom.com/wiki/Delicious_Riddle",
+    "starting_location": {
+        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
+        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete step 1 of Festival Utsava",
+        "markdown": "Complete step 1 of \u25c0Festival Utsava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Festival_Utsava\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Araesha's Flower",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Araesha%27s_Flower",
+            "Image": "Item_Aranara_Flower.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Have a crack at Araesha's riddle",
+            "markdown": "Have a crack at Araesha's riddle",
+            "substeps": [
+                {
+                    "plaintext": "Give  Apple",
+                    "markdown": "Give <img:apple> \u25c0Apple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apple\u25b7",
+                    "img": {
+                        "apple": "Item_Apple.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Take a stab at Araesha's second riddle",
+            "markdown": "Take a stab at Araesha's second riddle",
+            "substeps": [
+                {
+                    "plaintext": "Give  Viparyas",
+                    "markdown": "Give <img:viparyas> \u25c0Viparyas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Viparyas\u25b7",
+                    "img": {
+                        "viparyas": "Item_Viparyas.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Test your wit with Araesha's third riddle",
+            "markdown": "Test your wit with Araesha's third riddle",
+            "substeps": [
+                {
+                    "plaintext": "Give  Starshroom",
+                    "markdown": "Give <img:starshroom> \u25c0Starshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starshroom\u25b7",
+                    "img": {
+                        "starshroom": "Item_Starshroom.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

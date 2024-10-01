@@ -1,0 +1,48 @@
+{
+    "type": "single",
+    "name": "Leroy: Hangman's Noose",
+    "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Hangman%27s_Noose",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Vasari Passage , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Observe what's going on near Benoit's residence",
+            "markdown": "Observe what's going on near Benoit's residence"
+        },
+        {
+            "plaintext": "Discuss with Paimon",
+            "markdown": "Discuss with Paimon"
+        },
+        {
+            "plaintext": "Go and examine the strange box (0/2)",
+            "markdown": "Go and examine the strange box (0/2)"
+        }
+    ],
+    "dialogue": true
+}

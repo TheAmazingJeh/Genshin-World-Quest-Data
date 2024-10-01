@@ -1,0 +1,98 @@
+{
+    "type": "single",
+    "name": "The Sea of Fog and the Rite of the Trees",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Sea_of_Fog_and_the_Rite_of_the_Trees",
+    "starting_location": {
+        "plaintext": "Inazuma City , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Kama",
+            "markdown": "Talk to \u25c0Kama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kama\u25b7"
+        },
+        {
+            "plaintext": "Go to Tsurumi Island and look for Ruu",
+            "markdown": "Go to \u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7 and look for \u25c0Ruu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruu\u25b7"
+        },
+        {
+            "plaintext": "Go deeper into Tsurumi Island",
+            "markdown": "Go deeper into Tsurumi Island"
+        },
+        {
+            "plaintext": "Talk to the people of Tsurumi Island",
+            "markdown": "Talk to the people of Tsurumi Island"
+        },
+        {
+            "plaintext": "Destroy the perches",
+            "markdown": "Destroy the perches"
+        },
+        {
+            "plaintext": "Search for the perch's scattered power",
+            "markdown": "Search for the \u25c0perch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Perch\u25b7's scattered power"
+        },
+        {
+            "plaintext": "Destroy the perches",
+            "markdown": "Destroy the perches"
+        },
+        {
+            "plaintext": "Destroy the perches (0/3)",
+            "markdown": "Destroy the perches (0/3)"
+        },
+        {
+            "plaintext": "Go to the ceremonial site",
+            "markdown": "Go to the ceremonial site"
+        },
+        {
+            "plaintext": "Go to Tsurumi Island and look for Ruu once again",
+            "markdown": "Go to Tsurumi Island and look for Ruu once again"
+        },
+        {
+            "plaintext": "Talk to Ruu",
+            "markdown": "Talk to Ruu"
+        },
+        {
+            "plaintext": "Talk to Sumida",
+            "markdown": "Talk to \u25c0Sumida\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida\u25b7"
+        }
+    ],
+    "dialogue": true
+}

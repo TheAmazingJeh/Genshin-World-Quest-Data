@@ -1,0 +1,163 @@
+{
+    "type": "single",
+    "name": "The World of Aranara",
+    "url": "https://genshin-impact.fandom.com/wiki/The_World_of_Aranara",
+    "starting_location": {
+        "plaintext": "Vimara Village , Sumeru",
+        "markdown": "\u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Stories of You and the Aranara",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Stories_of_You_and_the_Aranara",
+            "Image": "Item_Stories_of_You_and_the_Aranara.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Paimon",
+            "markdown": "Talk to Paimon"
+        },
+        {
+            "plaintext": "Return to Vimara Village and talk to Amadhiah",
+            "markdown": "Return to \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7 and talk to \u25c0Amadhiah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Amadhiah\u25b7"
+        },
+        {
+            "plaintext": "Go to where Vanarana is",
+            "markdown": "Go to where \u25c0Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 is",
+            "substeps": [
+                {
+                    "plaintext": "Obtain the Vintage Lyre",
+                    "markdown": "Obtain the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Enter Vanarana",
+            "markdown": "Enter Vanarana"
+        },
+        {
+            "plaintext": "Play the Rhythm of the Great Dream at the designated location",
+            "markdown": "Play the Rhythm of the Great Dream at the designated location",
+            "substeps": [
+                {
+                    "plaintext": "Equip the Vintage Lyre and play the five notes shown on screen",
+                    "markdown": "Equip the Vintage Lyre and play the five notes shown on screen"
+                }
+            ]
+        },
+        {
+            "plaintext": "Go through the \"arch\"",
+            "markdown": "Go through the \u25c0\"arch\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Phantasmal_Gate\u25b7"
+        },
+        {
+            "plaintext": "Complete the trial of the Phantasmal Seed",
+            "markdown": "Complete the trial of the Phantasmal Seed"
+        },
+        {
+            "plaintext": "Collect Phantasmal Seeds",
+            "markdown": "Collect Phantasmal Seeds",
+            "substeps": [
+                {
+                    "plaintext": "Particles collected (0/15)",
+                    "markdown": "Particles collected (0/15)"
+                },
+                {
+                    "plaintext": "Collecting a Phantasmal Seed will reset the timer to 90 seconds",
+                    "markdown": "Collecting a Phantasmal Seed will reset the timer to 90 seconds"
+                },
+                {
+                    "plaintext": "An enemy hit will deduct the timer by 30 seconds",
+                    "markdown": "An enemy hit will deduct the timer by 30 seconds"
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow the strange traces",
+            "markdown": "Follow the strange traces"
+        },
+        {
+            "plaintext": "Play the Rhythm of the Great Dream in front of the strange stone",
+            "markdown": "Play the Rhythm of the Great Dream in front of the strange stone"
+        },
+        {
+            "plaintext": "Help the Aranara (0/3)",
+            "markdown": "Help the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7 (0/3)"
+        },
+        {
+            "plaintext": "Go to the place that Arama mentioned",
+            "markdown": "Go to the place that \u25c0Arama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arama\u25b7 mentioned"
+        },
+        {
+            "plaintext": "Eliminate the Vanagni threat",
+            "markdown": "Eliminate the Vanagni threat",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:  Pyro Whopperflower x1",
+                    "markdown": "Wave 1: <img:pyro_whopperflower> \u25c0Pyro Whopperflower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Whopperflower\u25b7 x1",
+                    "img": {
+                        "pyro_whopperflower": "Pyro_Whopperflower_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 2:  Pyro Whopperflower x3",
+                    "markdown": "Wave 2: <img:pyro_whopperflower> \u25c0Pyro Whopperflower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Whopperflower\u25b7 x3",
+                    "img": {
+                        "pyro_whopperflower": "Pyro_Whopperflower_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to Silapna",
+            "markdown": "Return to \u25c0Silapna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Silapna\u25b7"
+        },
+        {
+            "plaintext": "Play the Rhythm of the Great Dream in front of Silapna",
+            "markdown": "Play the Rhythm of the Great Dream in front of Silapna"
+        },
+        {
+            "plaintext": "Head to the house and talk to Araja",
+            "markdown": "Head to the house and talk to \u25c0Araja\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araja\u25b7"
+        }
+    ],
+    "dialogue": true
+}

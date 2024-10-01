@@ -1,0 +1,52 @@
+{
+    "type": "single",
+    "name": "Scrolls and Sword Manuals of Guhua",
+    "url": "https://genshin-impact.fandom.com/wiki/Scrolls_and_Sword_Manuals_of_Guhua",
+    "starting_location": {
+        "plaintext": "Mt. Lingmeng , Liyue",
+        "markdown": "\u25c0Mt. Lingmeng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Lingmeng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter the Arcane Archive",
+            "markdown": "Enter the Arcane Archive"
+        },
+        {
+            "plaintext": "Search the Arcane Archive",
+            "markdown": "Search the Arcane Archive"
+        },
+        {
+            "plaintext": "Find the secret stashed in the Arcane Archive",
+            "markdown": "Find the secret stashed in the Arcane Archive"
+        },
+        {
+            "plaintext": "Activate the mechanism",
+            "markdown": "Activate the mechanism"
+        }
+    ],
+    "dialogue": true
+}

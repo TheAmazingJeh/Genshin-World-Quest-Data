@@ -1,0 +1,69 @@
+{
+    "type": "single",
+    "name": "\"Fin of Watatsumi\"",
+    "url": "https://genshin-impact.fandom.com/wiki/%22Fin_of_Watatsumi%22",
+    "starting_location": {
+        "plaintext": "Watatsumi Island , Inazuma",
+        "markdown": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the \"Fin\"",
+            "markdown": "Go to the \"Fin\""
+        },
+        {
+            "plaintext": "Read the stone tablet at the \"Fin\"",
+            "markdown": "Read the stone tablet at the \"Fin\""
+        },
+        {
+            "plaintext": "Break the \"Fin\" Seal",
+            "markdown": "Break the \"Fin\" Seal",
+            "substeps": [
+                {
+                    "plaintext": "To break the seal, orient the fish statues such that there is a blue line of the circle below.",
+                    "markdown": "To break the seal, orient the fish statues such that there is a blue line of the circle below."
+                },
+                {
+                    "plaintext": "Once the 3 statues are in position, interact with the Mysterious Pillar.",
+                    "markdown": "Once the 3 statues are in position, interact with the \u25c0Mysterious Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Pillar\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the Spirit Pearl",
+            "markdown": "Obtain the \u25c0Spirit Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spirit_Pearl\u25b7"
+        }
+    ],
+    "dialogue": true
+}

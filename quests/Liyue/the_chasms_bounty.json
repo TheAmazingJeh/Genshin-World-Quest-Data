@@ -1,0 +1,133 @@
+{
+    "type": "single",
+    "name": "The Chasm's Bounty",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Chasm%27s_Bounty",
+    "starting_location": {
+        "plaintext": "Nameless Ruins , The Chasm: Underground Mines , Liyue",
+        "markdown": "\u25c0Nameless Ruins\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nameless_Ruins\u25b7 , \u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Step 6\u200d in Wherefore Did the Spiritstone Descend?",
+        "markdown": "Complete Step 6\u200d in \u25c0Wherefore Did the Spiritstone Descend?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wherefore_Did_the_Spiritstone_Descend%3F\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for Qi Ding, the missing miner",
+            "markdown": "Search for \u25c0Qi Ding\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qi_Ding\u25b7, the missing miner"
+        },
+        {
+            "plaintext": "Talk to Qi Ding, the miner at The Chasm",
+            "markdown": "Talk to Qi Ding, the miner at The Chasm"
+        },
+        {
+            "plaintext": "Hand the confused Qi Ding over to Jinwu",
+            "markdown": "Hand the confused Qi Ding over to Jinwu"
+        },
+        {
+            "plaintext": "Help Qi Ding look for the lost doll",
+            "markdown": "Help Qi Ding look for the lost doll"
+        },
+        {
+            "plaintext": "Defeat the Abyss creatures near to the box",
+            "markdown": "Defeat the \u25c0Abyss\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss\u25b7 creatures near to the box",
+            "substeps": [
+                {
+                    "plaintext": "Rockfond Rifthound Whelp x2",
+                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                    "img": {
+                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Examine the strange box",
+            "markdown": "Examine the strange box"
+        },
+        {
+            "plaintext": "Look for the source of the voice",
+            "markdown": "Look for the source of the voice"
+        },
+        {
+            "plaintext": "Look for the doll in the place Qi Nan indicated",
+            "markdown": "Look for the doll in the place Qi Nan indicated"
+        },
+        {
+            "plaintext": "Defeat the Abyss creatures near Qi Nan",
+            "markdown": "Defeat the Abyss creatures near Qi Nan",
+            "substeps": [
+                {
+                    "plaintext": "Rockfond Rifthound Whelp x2",
+                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                    "img": {
+                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Rockfond Rifthound x1",
+                    "markdown": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 x1",
+                    "img": {
+                        "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Qi Nan",
+            "markdown": "Talk to \u25c0Qi Nan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qi_Nan\u25b7"
+        },
+        {
+            "plaintext": "Find the lost doll",
+            "markdown": "Find the lost doll"
+        },
+        {
+            "plaintext": "Talk to Paimon",
+            "markdown": "Talk to Paimon"
+        },
+        {
+            "plaintext": "Bring the doll back to camp and pass it to Qi Ding",
+            "markdown": "Bring the \u25c0doll\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Toy_Doll\u25b7 back to camp and pass it to Qi Ding",
+            "substeps": [
+                {
+                    "plaintext": "The camp at the surface.",
+                    "markdown": "The camp at the surface."
+                }
+            ]
+        },
+        {
+            "plaintext": "Tell Muning about Qi Ding",
+            "markdown": "Tell \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7 about Qi Ding"
+        }
+    ],
+    "dialogue": true
+}

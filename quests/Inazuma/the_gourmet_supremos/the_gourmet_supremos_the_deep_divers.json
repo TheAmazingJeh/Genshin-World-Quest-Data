@@ -1,0 +1,117 @@
+{
+    "type": "single",
+    "name": "The Gourmet Supremos: The Deep Divers",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_The_Deep_Divers",
+    "starting_location": {
+        "plaintext": "Yashiori Island , Inazuma",
+        "markdown": "\u25c0Yashiori Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yashiori_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Recipe: Onigiri",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Onigiri",
+            "Image": "Item_Onigiri.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Delicious Onigiri",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Onigiri",
+            "Image": "Item_Delicious_Onigiri.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Xudong",
+            "markdown": "Talk to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
+        },
+        {
+            "plaintext": "Pick Fresh Seagrass",
+            "markdown": "Pick \u25c0Fresh Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fresh_Seagrass\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Summon Electrogranum from the Thunder Sakura Bough next to the drop shaft and glide down through the barrier.",
+                    "markdown": "Summon \u25c0Electrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electrogranum\u25b7 from the \u25c0Thunder Sakura Bough\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Bough\u25b7 next to the drop shaft and glide down through the barrier."
+                },
+                {
+                    "plaintext": "Activate the device to drain the water.",
+                    "markdown": "Activate the device to drain the water."
+                },
+                {
+                    "plaintext": "Activate the Cube Device, guarded by Ruin Destroyers. This unlocks the shaft and rewards you with an Exquisite Chest.",
+                    "markdown": "Activate the \u25c0Cube Device\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Cube\u25b7, guarded by Ruin Destroyers. This unlocks the shaft and rewards you with an \u25c0Exquisite Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Exquisite_Chest\u25b7.",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Destroyer x3",
+                            "markdown": "<img:ruin_destroyer> \u25c0Ruin Destroyer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Destroyer\u25b7 x3",
+                            "img": {
+                                "ruin_destroyer": "Ruin_Destroyer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Glide down the shaft, where some Hydro Slimes await.",
+                    "markdown": "Glide down the shaft, where some Hydro Slimes await.",
+                    "substeps": [
+                        {
+                            "plaintext": "Wave 1: Hydro Slime x3",
+                            "markdown": "Wave 1:<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x3",
+                            "img": {
+                                "hydro_slime": "Hydro_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Wave 2: Hydro Slime x3",
+                            "markdown": "Wave 2:<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x3",
+                            "img": {
+                                "hydro_slime": "Hydro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Follow the Seelie and get the Fresh Seagrass along its path.",
+                    "markdown": "Follow the \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 and get the Fresh Seagrass along its path."
+                },
+                {
+                    "plaintext": "Activate the Electro Monument to unlock the ceiling gate.",
+                    "markdown": "Activate the \u25c0Electro Monument\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Monument\u25b7 to unlock the ceiling gate."
+                },
+                {
+                    "plaintext": "Summon Electrogranum with the Thunder Sakura Bough and use the Thunder Spheres to go back to the surface, where the Seelie rewards you with an Exquisite Chest.",
+                    "markdown": "Summon Electrogranum with the Thunder Sakura Bough and use the \u25c0Thunder Spheres\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sphere\u25b7 to go back to the surface, where the Seelie rewards you with an \u25c0Exquisite Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Exquisite_Chest\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Bring the Fresh Seagrass to Xudong",
+            "markdown": "Bring the Fresh Seagrass to Xudong"
+        }
+    ],
+    "dialogue": true
+}

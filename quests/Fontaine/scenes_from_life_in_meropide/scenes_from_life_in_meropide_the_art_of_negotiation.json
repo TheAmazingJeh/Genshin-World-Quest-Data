@@ -1,0 +1,54 @@
+{
+    "type": "single",
+    "name": "Scenes from Life in Meropide: The Art of Negotiation",
+    "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_The_Art_of_Negotiation",
+    "starting_location": {
+        "plaintext": "Administrative Area , Fontaine",
+        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Purchase \"The Art of Negotiation\" from the Rag and Bone Shop",
+        "markdown": "Purchase \u25c0\"The Art of Negotiation\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22The_Art_of_Negotiation%22\u25b7 from the \u25c0Rag and Bone Shop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rag_and_Bone_Shop\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "280",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Paimon",
+            "markdown": "Talk to Paimon"
+        },
+        {
+            "plaintext": "Talk to Monglane",
+            "markdown": "Talk to Monglane"
+        }
+    ],
+    "dialogue": true
+}

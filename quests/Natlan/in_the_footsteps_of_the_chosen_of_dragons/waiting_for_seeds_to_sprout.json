@@ -1,0 +1,72 @@
+{
+    "type": "single",
+    "name": "Waiting For Seeds to Sprout",
+    "url": "https://genshin-impact.fandom.com/wiki/Waiting_For_Seeds_to_Sprout",
+    "starting_location": {
+        "plaintext": "Coatepec Mountain , Natlan",
+        "markdown": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Plant the seed with your Saurian buddy",
+            "markdown": "Plant the seed with your Saurian buddy"
+        },
+        {
+            "plaintext": "Infuse the seed with Phlogiston",
+            "markdown": "Infuse the seed with Phlogiston"
+        },
+        {
+            "plaintext": "Defeat the attracted Phlogiston Aphids",
+            "markdown": "Defeat the attracted Phlogiston Aphids"
+        },
+        {
+            "plaintext": "Re-infuse the seed with Phlogiston",
+            "markdown": "Re-infuse the seed with Phlogiston"
+        },
+        {
+            "plaintext": "Defeat the attracted monsters",
+            "markdown": "Defeat the attracted monsters",
+            "substeps": [
+                {
+                    "plaintext": "Eroding Avatar of Lava x1",
+                    "markdown": "<img:eroding_avatar_of_lava> \u25c0Eroding Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eroding_Avatar_of_Lava\u25b7 x1",
+                    "img": {
+                        "eroding_avatar_of_lava": "Eroding_Avatar_of_Lava_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Pyro Slime x2",
+                    "markdown": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 x2",
+                    "img": {
+                        "pyro_slime": "Pyro_Slime_Icon.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

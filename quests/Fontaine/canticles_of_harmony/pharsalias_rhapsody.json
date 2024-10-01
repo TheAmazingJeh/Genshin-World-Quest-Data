@@ -1,0 +1,23 @@
+{
+    "type": "act",
+    "name": "Pharsalia's Rhapsody",
+    "url": "https://genshin-impact.fandom.com/wiki/Pharsalia%27s_Rhapsody",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Gradus ad Capitolium",
+            "markdown": "\u25c0Gradus ad Capitolium\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gradus_ad_Capitolium\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Golden Aqueduct Reconstruction: Part I",
+                    "markdown": "\u25c0Golden Aqueduct Reconstruction: Part I\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Aqueduct_Reconstruction:_Part_I\u25b7"
+                },
+                {
+                    "plaintext": "Golden Aqueduct Reconstruction: Part II",
+                    "markdown": "\u25c0Golden Aqueduct Reconstruction: Part II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Aqueduct_Reconstruction:_Part_II\u25b7"
+                }
+            ]
+        }
+    ]
+}

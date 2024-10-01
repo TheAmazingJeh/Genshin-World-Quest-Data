@@ -1,0 +1,83 @@
+{
+    "type": "single",
+    "name": "Neko Is a Cat: Shrine Recipe",
+    "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat%3A_Shrine_Recipe",
+    "starting_location": {
+        "plaintext": "Asase Shrine , Inazuma",
+        "markdown": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Invigorating Kitty Meal",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Invigorating_Kitty_Meal",
+            "Image": "Item_Invigorating_Kitty_Meal.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Start the quest by talking to Neko",
+            "markdown": "Start the quest by talking to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+        },
+        {
+            "plaintext": "Talk to Taisuke and Etsuko",
+            "markdown": "Talk to \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7 and \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
+        },
+        {
+            "plaintext": "Ask Kiminami Anna for help",
+            "markdown": "Ask \u25c0Kiminami Anna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kiminami_Anna\u25b7 for help"
+        },
+        {
+            "plaintext": "Give three servings of  Seagrass to Kiminami Anna",
+            "markdown": "Give three servings of <img:seagrass> \u25c0Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seagrass\u25b7 to Kiminami Anna",
+            "img": {
+                "seagrass": "Item_Seagrass.png"
+            }
+        },
+        {
+            "plaintext": "Report back to Neko",
+            "markdown": "Report back to Neko"
+        },
+        {
+            "plaintext": "Give the Delicious  Invigorating Kitty Meal to the kittens (0/3)",
+            "markdown": "Give the Delicious <img:invigorating_kitty_meal> \u25c0Invigorating Kitty Meal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Invigorating_Kitty_Meal\u25b7 to the kittens (0/3)",
+            "img": {
+                "invigorating_kitty_meal": "Item_Invigorating_Kitty_Meal.png"
+            },
+            "substeps": [
+                {
+                    "plaintext": "There are no Cooking Stoves at Asase Shrine. It is recommended to prepare the dishes before heading there.",
+                    "markdown": "There are no Cooking Stoves at Asase Shrine. It is recommended to prepare the dishes before heading there."
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Neko",
+            "markdown": "Report back to Neko"
+        }
+    ],
+    "dialogue": true
+}

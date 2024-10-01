@@ -1,0 +1,63 @@
+{
+    "type": "single",
+    "name": "Scenes from Life in Meropide: Visible Hands",
+    "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Visible_Hands",
+    "starting_location": {
+        "plaintext": "Production Zone , Fontaine",
+        "markdown": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Scenes from Life in Meropide: Every Debt has a Creditor",
+        "markdown": "Complete \u25c0Scenes from Life in Meropide: Every Debt has a Creditor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Every_Debt_has_a_Creditor\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "280",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Defeat the wandering Primordial Aberrants in the Geode Mine Shaft",
+            "markdown": "Defeat the wandering Primordial Aberrants in the \u25c0Geode Mine Shaft\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geode_Mine_Shaft\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Bubbler Seahorse x4",
+                    "markdown": "<img:bubbler_seahorse> \u25c0Bubbler Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbler_Seahorse\u25b7 x4",
+                    "img": {
+                        "bubbler_seahorse": "Bubbler_Seahorse_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Report to Maupoil",
+            "markdown": "Report to Maupoil"
+        }
+    ],
+    "dialogue": true
+}

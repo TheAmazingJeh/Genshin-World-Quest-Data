@@ -1,0 +1,55 @@
+{
+    "type": "single",
+    "name": "Scenes from Life in Meropide: Dead End",
+    "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Dead_End",
+    "starting_location": {
+        "plaintext": "Administrative Area , Fontaine",
+        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "280",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Find Clynes near the Rift of Erosion",
+            "markdown": "Find \u25c0Clynes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clynes\u25b7 near the Rift of Erosion"
+        },
+        {
+            "plaintext": "Help Clynes operate the terminal",
+            "markdown": "Help Clynes operate the terminal"
+        },
+        {
+            "plaintext": "Talk to Clynes",
+            "markdown": "Talk to Clynes"
+        }
+    ],
+    "dialogue": true
+}

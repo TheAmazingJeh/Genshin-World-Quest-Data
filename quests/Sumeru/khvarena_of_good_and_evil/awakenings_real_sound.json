@@ -1,0 +1,105 @@
+{
+    "type": "single",
+    "name": "Awakening's Real Sound",
+    "url": "https://genshin-impact.fandom.com/wiki/Awakening%27s_Real_Sound",
+    "starting_location": {
+        "plaintext": "Hills of Barsom , Sumeru",
+        "markdown": "\u25c0Hills of Barsom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hills_of_Barsom\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Hills of Barsom to search for Rashnu",
+            "markdown": "Go to the \u25c0Hills of Barsom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hills_of_Barsom\u25b7 to search for \u25c0Rashnu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rashnu\u25b7"
+        },
+        {
+            "plaintext": "Go to the giant tree to search for Rashnu",
+            "markdown": "Go to the giant tree to search for Rashnu"
+        },
+        {
+            "plaintext": "Go to the location Nasejuna mentioned",
+            "markdown": "Go to the location \u25c0Nasejuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nasejuna\u25b7 mentioned"
+        },
+        {
+            "plaintext": "Search for clues in the cavern",
+            "markdown": "Search for clues in the cavern",
+            "substeps": [
+                {
+                    "plaintext": "Thundercraven Rifthound Whelp x3",
+                    "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x3",
+                    "img": {
+                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Nasejuna",
+            "markdown": "Talk to Nasejuna"
+        },
+        {
+            "plaintext": "Copy Drum Score (0/5)",
+            "markdown": "Copy \u25c0Drum Score\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Korybantes_Scores\u25b7 (0/5)"
+        },
+        {
+            "plaintext": "Look for other Kory Drums (0/3)",
+            "markdown": "Look for other \u25c0Kory Drums\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Korybantes\u25b7 (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "This step is skipped if you have collected the Kory Drums already",
+                    "markdown": "This step is skipped if you have collected the Kory Drums already"
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the giant tree",
+            "markdown": "Go to the giant tree"
+        },
+        {
+            "plaintext": "Return the Kory Drums to their place",
+            "markdown": "Return the Kory Drums to their place"
+        },
+        {
+            "plaintext": "Perform according to the drum score (0/5)",
+            "markdown": "Perform according to the drum score (0/5)"
+        }
+    ],
+    "dialogue": true
+}

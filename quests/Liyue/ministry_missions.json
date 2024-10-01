@@ -1,0 +1,36 @@
+{
+    "type": "single",
+    "name": "Ministry Missions",
+    "url": "https://genshin-impact.fandom.com/wiki/Ministry_Missions",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Farewell, Archaic Lord",
+        "markdown": "Complete \u25c0Farewell, Archaic Lord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Farewell,_Archaic_Lord\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Condensed Resin",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Condensed_Resin",
+            "Image": "Item_Condensed_Resin.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Speak to Ms. Yu.",
+            "markdown": "Speak to \u25c0Ms. Yu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ms._Yu\u25b7."
+        }
+    ],
+    "dialogue": true
+}

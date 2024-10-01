@@ -1,0 +1,152 @@
+{
+    "type": "single",
+    "name": "A Company Vanishing Into the Deep",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Company_Vanishing_Into_the_Deep",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Defeat the Fatui force",
+            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7 force",
+            "substeps": [
+                {
+                    "plaintext": "This step is optional, depending on the dialogue chosen.",
+                    "markdown": "This step is optional, depending on the dialogue chosen."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the defeated Fatui",
+            "markdown": "Talk to the defeated Fatui",
+            "substeps": [
+                {
+                    "plaintext": "This depends on the previous step.",
+                    "markdown": "This depends on the previous step."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the Fatui some food",
+            "markdown": "Give the Fatui some food",
+            "substeps": [
+                {
+                    "plaintext": "Give 4 units of any one of these items:  Apple,  Sunsettia,  Eel Meat,  Rice,  Shrimp Meat,  Bamboo Shoot,  Tofu,  Potato,  Tomato,  Fowl,  Radish,  Carrot,  Fish,  Raw Meat,  Bird Egg",
+                    "markdown": "Give 4 units of any one of these items: <img:apple> \u25c0Apple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apple\u25b7, <img:sunsettia> \u25c0Sunsettia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sunsettia\u25b7, <img:eel_meat> \u25c0Eel Meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eel_Meat\u25b7, <img:rice> \u25c0Rice\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rice\u25b7, <img:shrimp_meat> \u25c0Shrimp Meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shrimp_Meat\u25b7, <img:bamboo_shoot> \u25c0Bamboo Shoot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bamboo_Shoot\u25b7, <img:tofu> \u25c0Tofu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tofu\u25b7, <img:potato> \u25c0Potato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Potato\u25b7, <img:tomato> \u25c0Tomato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tomato\u25b7, <img:fowl> \u25c0Fowl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fowl\u25b7, <img:radish> \u25c0Radish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Radish\u25b7, <img:carrot> \u25c0Carrot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Carrot\u25b7, <img:fish> \u25c0Fish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fish\u25b7, <img:raw_meat> \u25c0Raw Meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Raw_Meat\u25b7, <img:bird_egg> \u25c0Bird Egg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bird_Egg\u25b7",
+                    "img": {
+                        "apple": "Item_Apple.png",
+                        "sunsettia": "Item_Sunsettia.png",
+                        "eel_meat": "Item_Eel_Meat.png",
+                        "rice": "Item_Rice.png",
+                        "shrimp_meat": "Item_Shrimp_Meat.png",
+                        "bamboo_shoot": "Item_Bamboo_Shoot.png",
+                        "tofu": "Item_Tofu.png",
+                        "potato": "Item_Potato.png",
+                        "tomato": "Item_Tomato.png",
+                        "fowl": "Item_Fowl.png",
+                        "radish": "Item_Radish.png",
+                        "carrot": "Item_Carrot.png",
+                        "fish": "Item_Fish.png",
+                        "raw_meat": "Item_Raw_Meat.png",
+                        "bird_egg": "Item_Bird_Egg.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the incoming Fatui   Fatui Skirmisher - Geochanter Bracer x1 Fatui Skirmisher - Pyroslinger Bracer x1",
+            "markdown": "Defeat the incoming Fatui  <img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+            "img": {
+                "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png",
+                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+            },
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Anton",
+            "markdown": "Talk to Anton"
+        },
+        {
+            "plaintext": "Go to the supply station to look for clues",
+            "markdown": "Go to the supply station to look for clues",
+            "substeps": [
+                {
+                    "plaintext": "Read the Lost Document",
+                    "markdown": "Read the Lost Document"
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the attacking Treasure Hoarders",
+            "markdown": "Defeat the attacking Treasure Hoarders",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Crusher x1",
+                    "markdown": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Gravedigger x1",
+                    "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Find Yanbo's Note and give it to the Fatui",
+            "markdown": "Find \u25c0Yanbo's Note\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yanbo%27s_Note\u25b7 and give it to the Fatui"
+        }
+    ],
+    "dialogue": true
+}

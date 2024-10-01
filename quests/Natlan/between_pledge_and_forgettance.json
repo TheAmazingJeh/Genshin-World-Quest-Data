@@ -1,0 +1,85 @@
+{
+    "type": "series",
+    "name": "Between Pledge and Forgettance",
+    "url": "https://genshin-impact.fandom.com/wiki/Between_Pledge_and_Forgettance",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "900",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "110",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "105,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Reaffirmed Accord of Appellation",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Reaffirmed_Accord_of_Appellation",
+            "Image": "Item_Reaffirmed_Accord_of_Appellation.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "7",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "7",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "The Cornerstone of Stars and Flames",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/The_Cornerstone_of_Stars_and_Flames",
+            "Image": "Item_The_Cornerstone_of_Stars_and_Flames.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Talisman of Waxaklahun Ubah Kan",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Talisman_of_Waxaklahun_Ubah_Kan",
+            "Image": "Item_Talisman_of_Waxaklahun_Ubah_Kan.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Golden Entreaty",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Golden_Entreaty",
+            "Image": "Item_Golden_Entreaty.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Lost in the Woods",
+            "markdown": "\u25c0Lost in the Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lost_in_the_Woods\u25b7"
+        },
+        {
+            "plaintext": "Rite of the Bold",
+            "markdown": "\u25c0Rite of the Bold\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rite_of_the_Bold\u25b7"
+        },
+        {
+            "plaintext": "Revelations from the Past",
+            "markdown": "\u25c0Revelations from the Past\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Revelations_from_the_Past\u25b7"
+        }
+    ]
+}

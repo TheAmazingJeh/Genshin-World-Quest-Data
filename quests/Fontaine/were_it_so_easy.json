@@ -1,0 +1,87 @@
+{
+    "type": "single",
+    "name": "Were It So Easy",
+    "url": "https://genshin-impact.fandom.com/wiki/Were_It_So_Easy",
+    "starting_location": {
+        "plaintext": "Merusea Village , Beryl Region , Fontaine",
+        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Beryl Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Beryl_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Cosanzeana 's request from There Will Come Soft Rains",
+        "markdown": "Complete \u25c0Cosanzeana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cosanzeana\u25b7 's request from \u25c0There Will Come Soft Rains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/There_Will_Come_Soft_Rains\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Tidalga",
+            "Value": "8",
+            "Link": "https://genshin-impact.fandom.com/wiki/Tidalga",
+            "Image": "Item_Tidalga.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the flower garden",
+            "markdown": "Go to the flower garden"
+        },
+        {
+            "plaintext": "Defeat the Breacher Primus",
+            "markdown": "Defeat the Breacher Primus",
+            "substeps": [
+                {
+                    "plaintext": "Overgrown Breacher Primus x1",
+                    "markdown": "<img:overgrown_breacher_primus> \u25c0Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Overgrown_Breacher_Primus\u25b7 x1",
+                    "img": {
+                        "overgrown_breacher_primus": "Overgrown_Breacher_Primus_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Look for clues in the area",
+            "markdown": "Look for clues in the area"
+        },
+        {
+            "plaintext": "Defeat the Gardemek",
+            "markdown": "Defeat the \u25c0Gardemek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gardemek\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Area Alert Mek x1",
+                    "markdown": "<img:area_alert_mek> \u25c0Area Alert Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Area_Alert_Mek\u25b7 x1",
+                    "img": {
+                        "area_alert_mek": "Area_Alert_Mek_Icon.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

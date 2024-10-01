@@ -1,0 +1,69 @@
+{
+    "type": "single",
+    "name": "Lost in a Foreign Land: Seeking",
+    "url": "https://genshin-impact.fandom.com/wiki/Lost_in_a_Foreign_Land%3A_Seeking",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Katarina",
+            "markdown": "Talk to \u25c0Katarina\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katarina\u25b7"
+        },
+        {
+            "plaintext": "Look for clues Nikolay left behind",
+            "markdown": "Look for clues \u25c0Nikolay\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nikolay\u25b7 left behind"
+        },
+        {
+            "plaintext": "Find the place mentioned in Nikolay's diary",
+            "markdown": "Find the place mentioned in Nikolay's diary",
+            "substeps": [
+                {
+                    "plaintext": "Defeat the Ruin Guard by the entrance",
+                    "markdown": "Defeat the \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 by the entrance"
+                }
+            ]
+        },
+        {
+            "plaintext": "Read the information Nikolay left behind",
+            "markdown": "Read the information Nikolay left behind"
+        },
+        {
+            "plaintext": "Tell Katarina about the clues you found",
+            "markdown": "Tell Katarina about the clues you found"
+        }
+    ],
+    "dialogue": true
+}

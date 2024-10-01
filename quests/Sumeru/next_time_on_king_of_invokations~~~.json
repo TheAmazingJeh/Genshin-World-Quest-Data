@@ -1,0 +1,55 @@
+{
+    "type": "single",
+    "name": "Next Time, On King of Invokations...",
+    "url": "https://genshin-impact.fandom.com/wiki/Next_Time%2C_On_King_of_Invokations...",
+    "starting_location": {
+        "plaintext": "Sumeru City , Sumeru",
+        "markdown": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete:",
+        "markdown": "Complete:"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Fukumoto",
+            "markdown": "Talk to \u25c0Fukumoto\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fukumoto_(King_of_Invokations)\u25b7"
+        },
+        {
+            "plaintext": "Meet up with Fukumoto at Puspa Cafe",
+            "markdown": "Meet up with Fukumoto at \u25c0Puspa Cafe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Puspa_Cafe\u25b7"
+        },
+        {
+            "plaintext": "Talk to Cyno",
+            "markdown": "Talk to \u25c0Cyno\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyno\u25b7"
+        },
+        {
+            "plaintext": "Take some pictures of Cyno",
+            "markdown": "Take some pictures of Cyno"
+        }
+    ],
+    "dialogue": true
+}

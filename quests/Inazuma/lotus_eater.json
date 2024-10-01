@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "Lotus Eater",
+    "url": "https://genshin-impact.fandom.com/wiki/Lotus_Eater",
+    "starting_location": {
+        "plaintext": "The Serpent's Heart , Enkanomiya , Inazuma",
+        "markdown": "\u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Subterranean Trials of Drake and Serpent",
+        "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "First obtain the Golden Bridle during the World Quest The Subterranean Trials of Drake and Serpent and change to Evernight.",
+            "markdown": "First obtain the \u25c0Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Bridle\u25b7 during the World Quest \u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7 and change to \u25c0Evernight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight\u25b7."
+        },
+        {
+            "plaintext": "Glide down north from The Serpent's Heart northwest-most waypoint.",
+            "markdown": "Glide down north from \u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7 northwest-most waypoint."
+        },
+        {
+            "plaintext": "Along the cliff of the north side of the island, there is a cave.",
+            "markdown": "Along the cliff of the north side of the island, there is a cave."
+        },
+        {
+            "plaintext": "Enter the cave, turn left and glide towards the walls, roughly with your back to the fishing spot in the middle of the cave.",
+            "markdown": "Enter the cave, turn left and glide towards the walls, roughly with your back to the fishing spot in the middle of the cave."
+        },
+        {
+            "plaintext": "One of the walls is missing a large part, resulting in a V-shaped gap. Climb through that gap. Don't jump down immediately.",
+            "markdown": "One of the walls is missing a large part, resulting in a V-shaped gap. Climb through that gap. Don't jump down immediately."
+        },
+        {
+            "plaintext": "Glide down on the left side towards the Ruin Sentinel that is by a Time Trial Challenge.",
+            "markdown": "Glide down on the left side towards the Ruin Sentinel that is by a \u25c0Time Trial Challenge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Time_Trial_Challenge\u25b7."
+        },
+        {
+            "plaintext": "Kill the Ruin Sentinel.",
+            "markdown": "Kill the \u25c0Ruin Sentinel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Sentinels\u25b7."
+        },
+        {
+            "plaintext": "Activate the Altar Pattern that was behind the Ruin Sentinel",
+            "markdown": "Activate the \u25c0Altar Pattern\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Altar_Pattern\u25b7 that was behind the Ruin Sentinel"
+        },
+        {
+            "plaintext": "Return to The Altar at The Serpent's Heart and enter the Altar Pattern from the previous step.",
+            "markdown": "Return to \u25c0The Altar at The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Altar_at_The_Serpent%27s_Heart\u25b7 and enter the Altar Pattern from the previous step."
+        }
+    ],
+    "dialogue": true
+}

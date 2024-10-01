@@ -1,0 +1,103 @@
+{
+    "type": "series",
+    "name": "Aranyaka",
+    "url": "https://genshin-impact.fandom.com/wiki/Aranyaka",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "5,050",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "640",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "510,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Vasoma Fruit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Vasoma_Fruit",
+            "Image": "Item_Vasoma_Fruit.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Garland",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Garland",
+            "Image": "Item_Garland.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Araesha's Flower",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Araesha%27s_Flower",
+            "Image": "Item_Aranara_Flower.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "The Siblings' Flowers",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/The_Siblings%27_Flowers",
+            "Image": "Item_The_Siblings%27_Flowers.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Arakanta's Flower",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Arakanta%27s_Flower",
+            "Image": "Item_Aranara_Flower.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Stories of You and the Aranara",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Stories_of_You_and_the_Aranara",
+            "Image": "Item_Stories_of_You_and_the_Aranara.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "39",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "39",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Part I - Woodland Encounter",
+            "markdown": "Part I - \u25c0Woodland Encounter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Woodland_Encounter\u25b7"
+        },
+        {
+            "plaintext": "Part II - Dream Nursery",
+            "markdown": "Part II - \u25c0Dream Nursery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dream_Nursery\u25b7"
+        },
+        {
+            "plaintext": "Part III - Nursery of Lost Dreams",
+            "markdown": "Part III - \u25c0Nursery of Lost Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nursery_of_Lost_Dreams\u25b7"
+        },
+        {
+            "plaintext": "Part IV - In the End, the Forest Will Remember",
+            "markdown": "Part IV - \u25c0In the End, the Forest Will Remember\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_the_End,_the_Forest_Will_Remember\u25b7"
+        }
+    ]
+}

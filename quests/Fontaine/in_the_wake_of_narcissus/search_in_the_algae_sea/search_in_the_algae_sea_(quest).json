@@ -1,0 +1,102 @@
+{
+    "type": "single",
+    "name": "Search in the Algae Sea (Quest)",
+    "url": "https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea_%28Quest%29",
+    "starting_location": {
+        "plaintext": "The Narzissenkreuz Ordo , Fontaine",
+        "markdown": "\u25c0The Narzissenkreuz Ordo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Ordo\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Initial Facts",
+        "markdown": "Complete \u25c0Initial Facts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Initial_Facts\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Caterpillar when you're ready",
+            "markdown": "Talk to Caterpillar when you're ready"
+        },
+        {
+            "plaintext": "Collect more leads and gather your thoughts (0/3)",
+            "markdown": "Collect more leads and gather your thoughts (0/3)"
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Stop Al and Jak, who have lost control",
+            "markdown": "Stop \u25c0Al\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Al\u25b7 and \u25c0Jak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jak\u25b7, who have lost control"
+        },
+        {
+            "plaintext": "Enter the \"Bubble\"",
+            "markdown": "Enter the \"Bubble\""
+        },
+        {
+            "plaintext": "Talk to Caterpillar when you're ready",
+            "markdown": "Talk to Caterpillar when you're ready"
+        },
+        {
+            "plaintext": "Follow Caterpillar's directions to the specified location",
+            "markdown": "Follow Caterpillar's directions to the specified location"
+        },
+        {
+            "plaintext": "Enter the Tower of Gestalt",
+            "markdown": "Enter the \u25c0Tower of Gestalt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tower_of_Gestalt\u25b7"
+        },
+        {
+            "plaintext": "Defeat Jakob",
+            "markdown": "Defeat \u25c0Jakob\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakob\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Jakob \u2014 Narzissenkreuz Artificial Apostle",
+                    "markdown": "<img:iniquitous_baptist> \u25c0Jakob \u2014 Narzissenkreuz Artificial Apostle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iniquitous_Baptist\u25b7",
+                    "img": {
+                        "iniquitous_baptist": "Iniquitous_Baptist_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the lower level",
+            "markdown": "Go to the lower level"
+        }
+    ],
+    "dialogue": true
+}

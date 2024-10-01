@@ -1,0 +1,75 @@
+{
+    "type": "single",
+    "name": "The Fallen Falcon",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Fallen_Falcon",
+    "starting_location": {
+        "plaintext": "Tanit Camps",
+        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Tadhla's Feather",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Tadhla%27s_Feather",
+            "Image": "Item_Tadhla%27s_Feather.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the place where Tadhla is waiting for you",
+            "markdown": "Go to the place where \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7 is waiting for you"
+        },
+        {
+            "plaintext": "Talk to Tadhla",
+            "markdown": "Talk to Tadhla"
+        },
+        {
+            "plaintext": "Defeat Tadhla",
+            "markdown": "Defeat Tadhla",
+            "substeps": [
+                {
+                    "plaintext": "Tadhla - Bent-Winged Falcon",
+                    "markdown": "<img:eremite_galehunter> \u25c0Tadhla - Bent-Winged Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Galehunter\u25b7",
+                    "img": {
+                        "eremite_galehunter": "Eremite_Galehunter_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Confront Masseira",
+            "markdown": "Confront Masseira"
+        }
+    ],
+    "dialogue": true
+}

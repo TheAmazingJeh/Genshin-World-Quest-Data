@@ -1,0 +1,84 @@
+{
+    "type": "single",
+    "name": "Meteoric Lance",
+    "url": "https://genshin-impact.fandom.com/wiki/Meteoric_Lance",
+    "starting_location": {
+        "plaintext": "Morte Region , Fontaine",
+        "markdown": "\u25c0Morte Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Morte_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Find the Seal",
+            "markdown": "Find the Seal"
+        },
+        {
+            "plaintext": "Study the Riddle Slate",
+            "markdown": "Study the Riddle Slate"
+        },
+        {
+            "plaintext": "Look for a way forward",
+            "markdown": "Look for a way forward",
+            "substeps": [
+                {
+                    "plaintext": "Solve the Operable Mechanism puzzle to raise the gate to the lift and descend to the next floor.",
+                    "markdown": "Solve the \u25c0Operable Mechanism\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Operable_Mechanism\u25b7 puzzle to raise the gate to the lift and descend to the next floor."
+                }
+            ]
+        },
+        {
+            "plaintext": "Solve the Orthant's puzzle",
+            "markdown": "Solve the Orthant's puzzle",
+            "substeps": [
+                {
+                    "plaintext": "Solve the Operable Mechanism: Lifting Column puzzle to the east and descend to the lower floor.",
+                    "markdown": "Solve the Operable Mechanism: Lifting Column puzzle to the east and descend to the lower floor."
+                },
+                {
+                    "plaintext": "Solve the Energy Flow puzzle and return to the second floor from the Regulating Valve it connects to.",
+                    "markdown": "Solve the Energy Flow puzzle and return to the second floor from the Regulating Valve it connects to."
+                },
+                {
+                    "plaintext": "Lead the Seelie to its Seelie Court to get access to the underwater area",
+                    "markdown": "Lead the Seelie to its Seelie Court to get access to the underwater area"
+                },
+                {
+                    "plaintext": "Go down to the underwater area under the main machine in the middle of the room.",
+                    "markdown": "Go down to the underwater area under the main machine in the middle of the room.",
+                    "substeps": [
+                        {
+                            "plaintext": "Underwater Patrol Mek x2",
+                            "markdown": "<img:underwater_patrol_mek> \u25c0Underwater Patrol Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Underwater_Patrol_Mek\u25b7 x2",
+                            "img": {
+                                "underwater_patrol_mek": "Underwater_Patrol_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Solve the Energy Flow puzzle and use the Xenochromatic Hunter's Ray to break the Fontemer Seagrass leading to the device, and Go Up twice.",
+                    "markdown": "Solve the Energy Flow puzzle and use the \u25c0Xenochromatic Hunter's Ray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xenochromatic_Hunter%27s_Ray\u25b7 to break the Fontemer Seagrass leading to the device, and Go Up twice."
+                },
+                {
+                    "plaintext": "Release the Energy Flow.",
+                    "markdown": "Release the Energy Flow.",
+                    "substeps": [
+                        {
+                            "plaintext": "Recon Log Mek - Ousia x2",
+                            "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x2",
+                            "img": {
+                                "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the \"Wish\" piece",
+            "markdown": "Obtain the \"Wish\" piece"
+        }
+    ],
+    "dialogue": true
+}

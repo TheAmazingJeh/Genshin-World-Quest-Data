@@ -1,0 +1,70 @@
+{
+    "type": "single",
+    "name": "A Certain Notice",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Certain_Notice",
+    "starting_location": {
+        "plaintext": "Palais Mermonia , , Fontaine .",
+        "markdown": "\u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7 , , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7 ."
+    },
+    "requirements": {
+        "plaintext": "Complete As Light Rain Falls Without Reason",
+        "markdown": "Complete \u25c0As Light Rain Falls Without Reason\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_Light_Rain_Falls_Without_Reason\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Gattineo / Difor",
+            "markdown": "Talk to \u25c0Gattineo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gattineo\u25b7 / \u25c0Difor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Difor\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "The NPC to talk to will be determined by the player's answer to Iaune.",
+                    "markdown": "The NPC to talk to will be determined by the player's answer to Iaune."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Difor / Gattineo",
+            "markdown": "Talk to Difor / Gattineo",
+            "substeps": [
+                {
+                    "plaintext": "The NPC to talk to will be the NPC that was not chosen when talking to Iaune.",
+                    "markdown": "The NPC to talk to will be the NPC that was not chosen when talking to Iaune."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Roialte",
+            "markdown": "Talk to \u25c0Roialte\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Roialte\u25b7"
+        }
+    ],
+    "dialogue": true
+}

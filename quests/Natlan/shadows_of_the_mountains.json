@@ -1,0 +1,53 @@
+{
+    "type": "series",
+    "name": "Shadows of the Mountains",
+    "url": "https://genshin-impact.fandom.com/wiki/Shadows_of_the_Mountains",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "800",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "60,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "8",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Beneath the Crystal Rock",
+            "markdown": "\u25c0Beneath the Crystal Rock\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Beneath_the_Crystal_Rock\u25b7"
+        },
+        {
+            "plaintext": "Peace to the Slumbering",
+            "markdown": "\u25c0Peace to the Slumbering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peace_to_the_Slumbering\u25b7"
+        }
+    ]
+}

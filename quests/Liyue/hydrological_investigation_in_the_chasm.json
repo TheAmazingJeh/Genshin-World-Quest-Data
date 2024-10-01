@@ -1,0 +1,55 @@
+{
+    "type": "single",
+    "name": "Hydrological Investigation in The Chasm",
+    "url": "https://genshin-impact.fandom.com/wiki/Hydrological_Investigation_in_The_Chasm",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Completed Chasm Spelunkers quest",
+        "markdown": "Completed \u25c0Chasm Spelunkers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chasm_Spelunkers\u25b7 quest"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "90,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Place the strange object by the water",
+            "markdown": "Place the strange object by the water"
+        },
+        {
+            "plaintext": "Use Hydro reactions to activate the strange object",
+            "markdown": "Use Hydro reactions to activate the strange object"
+        },
+        {
+            "plaintext": "Defeat the Hydro Geovishap that emerged",
+            "markdown": "Defeat the Hydro Geovishap that emerged"
+        },
+        {
+            "plaintext": "Tell Khedive about what happened by the water",
+            "markdown": "Tell Khedive about what happened by the water"
+        }
+    ],
+    "dialogue": true
+}

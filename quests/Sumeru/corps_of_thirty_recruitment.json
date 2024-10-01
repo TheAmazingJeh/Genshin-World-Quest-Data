@@ -1,0 +1,36 @@
+{
+    "type": "single",
+    "name": "Corps of Thirty Recruitment",
+    "url": "https://genshin-impact.fandom.com/wiki/Corps_of_Thirty_Recruitment",
+    "starting_location": {
+        "plaintext": "Treasures Street , Sumeru",
+        "markdown": "\u25c0Treasures Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_Street\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Dawn (Quest)",
+        "markdown": "Complete \u25c0Dawn (Quest)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_(Quest)\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Effendi",
+            "markdown": "Talk to \u25c0Effendi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Effendi\u25b7"
+        }
+    ],
+    "dialogue": true
+}

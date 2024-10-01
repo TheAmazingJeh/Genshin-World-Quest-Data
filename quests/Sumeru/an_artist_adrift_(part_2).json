@@ -1,0 +1,107 @@
+{
+    "type": "single",
+    "name": "An Artist Adrift (Part 2)",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Artist_Adrift_%28Part_2%29",
+    "starting_location": {
+        "plaintext": "Realm of Farakhkert , Sumeru",
+        "markdown": "\u25c0Realm of Farakhkert\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Realm_of_Farakhkert\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the camp by the water",
+            "markdown": "Go to the camp by the water"
+        },
+        {
+            "plaintext": "Search for Julien",
+            "markdown": "Search for \u25c0Julien\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Julien\u25b7"
+        },
+        {
+            "plaintext": "Save Julien",
+            "markdown": "Save Julien",
+            "substeps": [
+                {
+                    "plaintext": "Wooden Shieldwall Mitachurl x1",
+                    "markdown": "<img:wooden_shieldwall_mitachurl> \u25c0Wooden Shieldwall Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shieldwall_Mitachurl\u25b7 x1",
+                    "img": {
+                        "wooden_shieldwall_mitachurl": "Mitachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl x2",
+                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x2",
+                    "img": {
+                        "hilichurl": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Julien",
+            "markdown": "Talk to Julien"
+        },
+        {
+            "plaintext": "Follow the path and look for the missing sketch",
+            "markdown": "Follow the path and look for the missing sketch",
+            "substeps": [
+                {
+                    "plaintext": "\"Critic-In-Waiting\" x1",
+                    "markdown": "<img:blazing_axe_mitachurl> \u25c0\"Critic-In-Waiting\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                    "img": {
+                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl x2",
+                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x2",
+                    "img": {
+                        "hilichurl": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Pepper",
+            "markdown": "Talk to \u25c0Pepper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pepper_(NPC)\u25b7"
+        },
+        {
+            "plaintext": "Retrieve the sketch",
+            "markdown": "Retrieve the sketch"
+        },
+        {
+            "plaintext": "Go to the camp and talk to Julien",
+            "markdown": "Go to the camp and talk to Julien"
+        }
+    ],
+    "dialogue": true
+}

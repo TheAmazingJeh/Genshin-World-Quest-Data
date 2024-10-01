@@ -1,0 +1,105 @@
+{
+    "type": "single",
+    "name": "Tanuki-Bayashi in the Forest",
+    "url": "https://genshin-impact.fandom.com/wiki/Tanuki-Bayashi_in_the_Forest",
+    "starting_location": {
+        "plaintext": "Chinju Forest , Inazuma",
+        "markdown": "\u25c0Chinju Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chinju_Forest\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for source of the strange voice",
+            "markdown": "Search for source of the strange voice"
+        },
+        {
+            "plaintext": "Defeat the hilichurls",
+            "markdown": "Defeat the hilichurls"
+        },
+        {
+            "plaintext": "Talk to the Weird Statue",
+            "markdown": "Talk to the \u25c0Weird Statue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ioroi\u25b7"
+        },
+        {
+            "plaintext": "Find the little tanuki (0/3)",
+            "markdown": "Find the little \u25c0tanuki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bake-Danuki\u25b7 (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "\"Shousei\" will appear on the path with gates and can be found immediately. After following it, it will turn into a torch. Light the torch to reveal the tanuki.",
+                    "markdown": "\u25c0\"Shousei\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Shousei%22\u25b7 will appear on the path with gates and can be found immediately. After following it, it will turn into a torch. Light the torch to reveal the tanuki."
+                },
+                {
+                    "plaintext": "\"Kichiboushi\" appears as a barrel on a rock next to a group of hilichurls and can be found immediately. Paimon will make a comment about the hilichurls. Defeating the hilichurls is not required.",
+                    "markdown": "\u25c0\"Kichiboushi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kichiboushi%22\u25b7 appears as a barrel on a rock next to a group of hilichurls and can be found immediately. Paimon will make a comment about the hilichurls. Defeating the hilichurls is not required."
+                },
+                {
+                    "plaintext": "\"Gyoubu Koban\" is sitting on a rock along the forest path and can only be found after at least one of the other tanuki are found. Following it will lead to three torches. Light the westernmost torch to reveal the tanuki.",
+                    "markdown": "\u25c0\"Gyoubu Koban\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Gyoubu_Koban%22\u25b7 is sitting on a rock along the forest path and can only be found after at least one of the other tanuki are found. Following it will lead to three torches. Light the westernmost torch to reveal the tanuki."
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Ioroi",
+            "markdown": "Report back to Ioroi",
+            "substeps": [
+                {
+                    "plaintext": "Obtain Ioroi's Ward",
+                    "markdown": "Obtain \u25c0Ioroi's Ward\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ioroi%27s_Ward\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to the location of the barrier",
+            "markdown": "Head to the location of the barrier"
+        },
+        {
+            "plaintext": "Destroy the barrier",
+            "markdown": "Destroy the barrier",
+            "substeps": [
+                {
+                    "plaintext": "Adjust the lanterns according to the figure on the gate. Both lanterns up next to the gate should be adjusted to 2. The lantern further in the cave behind the root on the ground should be adjusted to 3. The lantern on the ground close to the Pray lantern should be adjusted to 4.",
+                    "markdown": "Adjust the lanterns according to the figure on the gate. Both lanterns up next to the gate should be adjusted to 2. The lantern further in the cave behind the root on the ground should be adjusted to 3. The lantern on the ground close to the Pray lantern should be adjusted to 4."
+                },
+                {
+                    "plaintext": "Defeat Ochimusha.",
+                    "markdown": "Defeat \u25c0Ochimusha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ochimusha\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Hanachirusato",
+            "markdown": "Talk to \u25c0Hanachirusato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hanachirusato\u25b7"
+        }
+    ],
+    "dialogue": true
+}

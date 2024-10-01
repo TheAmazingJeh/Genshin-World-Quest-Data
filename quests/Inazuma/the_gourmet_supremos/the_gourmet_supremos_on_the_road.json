@@ -1,0 +1,74 @@
+{
+    "type": "single",
+    "name": "The Gourmet Supremos: On the Road",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_On_the_Road",
+    "starting_location": {
+        "plaintext": "Inazuma City , Narukami Island , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Delicious Jewelry Soup",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Jewelry_Soup",
+            "Image": "Item_Delicious_Jewelry_Soup.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Xudong",
+            "markdown": "Talk to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
+        },
+        {
+            "plaintext": "Go to the designated location to look for cooking ingredients",
+            "markdown": "Go to the designated location to look for cooking ingredients"
+        },
+        {
+            "plaintext": "Explore further and find cooking ingredients",
+            "markdown": "Explore further and find cooking ingredients"
+        },
+        {
+            "plaintext": "Talk to the people in front of you",
+            "markdown": "Talk to the people in front of you"
+        },
+        {
+            "plaintext": "Look for cooking ingredients (0/3)",
+            "markdown": "Look for cooking ingredients (0/3)"
+        },
+        {
+            "plaintext": "Find a good spot for cooking",
+            "markdown": "Find a good spot for cooking"
+        }
+    ],
+    "dialogue": true
+}

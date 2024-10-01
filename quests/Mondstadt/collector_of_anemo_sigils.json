@@ -1,0 +1,21 @@
+{
+    "type": "single",
+    "name": "Collector of Anemo Sigils",
+    "url": "https://genshin-impact.fandom.com/wiki/Collector_of_Anemo_Sigils",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Reach Adventure Rank 9",
+        "markdown": "Reach \u25c0Adventure Rank\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventure_Rank\u25b7 9"
+    },
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Talk to the shop owner, Marjorie",
+            "markdown": "Talk to the shop owner, \u25c0Marjorie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marjorie\u25b7"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "Aranakin's Old Friend",
+    "url": "https://genshin-impact.fandom.com/wiki/Aranakin%27s_Old_Friend",
+    "starting_location": {
+        "plaintext": "Chatrakam Cave , Sumeru",
+        "markdown": "\u25c0Chatrakam Cave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chatrakam_Cave\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Aranyaka : Part II - Dream Nursery",
+        "markdown": "\u25c0Aranyaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka\u25b7 : Part II - \u25c0Dream Nursery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dream_Nursery\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Play Aranakin's song",
+            "markdown": "Play Aranakin's song"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Get close to Aranakin",
+            "markdown": "Get close to Aranakin"
+        },
+        {
+            "plaintext": "Follow Aranakin",
+            "markdown": "Follow Aranakin"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Investigate the tree house",
+            "markdown": "Investigate the tree house"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Read the notebook on the second floor of the tree house",
+            "markdown": "Read the notebook on the second floor of the tree house"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        }
+    ],
+    "dialogue": true
+}

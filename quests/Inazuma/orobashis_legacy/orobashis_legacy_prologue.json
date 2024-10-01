@@ -1,0 +1,38 @@
+{
+    "type": "single",
+    "name": "Orobashi's Legacy: Prologue",
+    "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy%3A_Prologue",
+    "starting_location": {
+        "plaintext": "Fort Fujitou , Inazuma",
+        "markdown": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ritou Escape Plan in Chapter II : Act I - The Immovable God and the Eternal Euthymia",
+        "markdown": "Complete \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7 in \u25c0Chapter II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chapter_II\u25b7 : Act I - \u25c0The Immovable God and the Eternal Euthymia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Immovable_God_and_the_Eternal_Euthymia\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": null,
+    "dialogue": true
+}

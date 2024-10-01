@@ -1,0 +1,64 @@
+{
+    "type": "single",
+    "name": "Cleanup At Dawn",
+    "url": "https://genshin-impact.fandom.com/wiki/Cleanup_At_Dawn",
+    "starting_location": {
+        "plaintext": "Dawn Winery , Mondstadt",
+        "markdown": "\u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Song of the Dragon and Freedom",
+        "markdown": "Complete \u25c0Song of the Dragon and Freedom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Song_of_the_Dragon_and_Freedom\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Tea Break Pancake",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Tea_Break_Pancake",
+            "Image": "Item_Tea_Break_Pancake.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Follow Adelinde into the Dawn Winery",
+            "markdown": "Follow Adelinde into the Dawn Winery"
+        },
+        {
+            "plaintext": "Clean all the stains (0/4)",
+            "markdown": "Clean all the stains (0/4)",
+            "substeps": [
+                {
+                    "plaintext": "Use Anemo or Hydro Skills to clean the stains on the floor.",
+                    "markdown": "Use Anemo or Hydro Skills to clean the stains on the floor."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Adelinde",
+            "markdown": "Talk to Adelinde"
+        }
+    ],
+    "dialogue": true
+}

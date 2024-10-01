@@ -1,0 +1,114 @@
+{
+    "type": "single",
+    "name": "Perils in the Dark",
+    "url": "https://genshin-impact.fandom.com/wiki/Perils_in_the_Dark",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Take the path that leads deeper in",
+            "markdown": "Take the path that leads deeper in"
+        },
+        {
+            "plaintext": "Examine the dark fog in front of you",
+            "markdown": "Examine the dark fog in front of you"
+        },
+        {
+            "plaintext": "Look for clues near the dark fog",
+            "markdown": "Look for clues near the dark fog"
+        },
+        {
+            "plaintext": "Read the logs",
+            "markdown": "Read the logs",
+            "substeps": [
+                {
+                    "plaintext": "Completing this step unlocks a portion of the map.",
+                    "markdown": "Completing this step unlocks a portion of the map."
+                },
+                {
+                    "plaintext": "Nameless Ruins and the rest of Stony Halls are revealed on the map.",
+                    "markdown": "\u25c0Nameless Ruins\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nameless_Ruins\u25b7 and the rest of \u25c0Stony Halls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stony_Halls\u25b7 are revealed on the map."
+                }
+            ]
+        },
+        {
+            "plaintext": "Ring the two bells on either side of the ruins (0/2)",
+            "markdown": "Ring the two bells on either side of the ruins (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "See Notes below for the puzzle solutions.",
+                    "markdown": "See Notes below for the puzzle solutions."
+                }
+            ]
+        },
+        {
+            "plaintext": "Approach the dark fog",
+            "markdown": "Approach the dark fog"
+        },
+        {
+            "plaintext": "Defeat the Abyss Lector",
+            "markdown": "Defeat the Abyss Lector",
+            "substeps": [
+                {
+                    "plaintext": "Abyss Lector: Fathomless Flames x1 (Egill)",
+                    "markdown": "<img:abyss_lector_fathomless_flames> \u25c0Abyss Lector: Fathomless Flames\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Lector:_Fathomless_Flames\u25b7 x1 (Egill)",
+                    "img": {
+                        "abyss_lector_fathomless_flames": "Abyss_Lector_Fathomless_Flames_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Abyss Lector: Violet Lightning x1 (Agnarr)",
+                    "markdown": "<img:abyss_lector_violet_lightning> \u25c0Abyss Lector: Violet Lightning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Lector:_Violet_Lightning\u25b7 x1 (Agnarr)",
+                    "img": {
+                        "abyss_lector_violet_lightning": "Abyss_Lector_Violet_Lightning_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Pick up the object that the Abyss Lector left behind",
+            "markdown": "Pick up the \u25c0object\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Curious_Cube\u25b7 that the Abyss Lector left behind"
+        }
+    ],
+    "dialogue": true
+}

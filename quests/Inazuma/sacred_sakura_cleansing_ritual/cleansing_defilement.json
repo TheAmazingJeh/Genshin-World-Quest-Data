@@ -1,0 +1,60 @@
+{
+    "type": "single",
+    "name": "Cleansing Defilement",
+    "url": "https://genshin-impact.fandom.com/wiki/Cleansing_Defilement",
+    "starting_location": {
+        "plaintext": "Chinju Forest , Inazuma Kamisato Estate , Inazuma Araumi , Inazuma",
+        "markdown": "\u25c0Chinju Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chinju_Forest\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7 \u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7 \u25c0Araumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araumi\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "8",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Complete the Sacred Sakura Cleansing Ritual (0/3).",
+            "markdown": "Complete the Sacred Sakura Cleansing Ritual (0/3).",
+            "substeps": [
+                {
+                    "plaintext": "The locations are in Chinju Forest, Araumi, and Kamisato Estate",
+                    "markdown": "The locations are in \u25c0Chinju Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chinju_Forest\u25b7, \u25c0Araumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araumi\u25b7, and \u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

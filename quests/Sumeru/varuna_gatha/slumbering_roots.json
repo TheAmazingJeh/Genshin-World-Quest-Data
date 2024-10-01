@@ -1,0 +1,83 @@
+{
+    "type": "single",
+    "name": "Slumbering Roots",
+    "url": "https://genshin-impact.fandom.com/wiki/Slumbering_Roots",
+    "starting_location": {
+        "plaintext": "Apam Woods , Sumeru",
+        "markdown": "\u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head to the Grove of Dreams to find Arakunti",
+            "markdown": "Head to the \u25c0Grove of Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grove_of_Dreams\u25b7 to find \u25c0Arakunti\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arakunti\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "You can find the entry to the Grove of Dreams by going north from the marker of the quest on the map, following a large tree root to a stone littered opening on the ground. Jump down the opening.",
+                    "markdown": "You can find the entry to the Grove of Dreams by going north from the marker of the quest on the map, following a large tree root to a stone littered opening on the ground. Jump down the opening."
+                }
+            ]
+        },
+        {
+            "plaintext": "Play the Rhythm of the Great Dream at the designated location to lure the Aranara out",
+            "markdown": "Play the Rhythm of the Great Dream at the designated location to lure the Aranara out",
+            "substeps": [
+                {
+                    "plaintext": "Quest Navigation: Equip instrument and play Aranara music to draw out the Aranara in hiding",
+                    "markdown": "Quest Navigation: Equip instrument and play Aranara music to draw out the Aranara in hiding"
+                }
+            ]
+        },
+        {
+            "plaintext": "Find the \"branch\" with Arakunti",
+            "markdown": "Find the \"branch\" with Arakunti"
+        },
+        {
+            "plaintext": "Play the Rhythm of the Great Dream in front of Silapna",
+            "markdown": "Play the Rhythm of the Great Dream in front of \u25c0Silapna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Silapna\u25b7"
+        },
+        {
+            "plaintext": "Make the three \"leaves\" in the dream turn towards the \"branch\"",
+            "markdown": "Make the three \"leaves\" in the dream turn towards the \"branch\""
+        },
+        {
+            "plaintext": "Play the Rhythm of the Great Dream in front of Silapna",
+            "markdown": "Play the Rhythm of the Great Dream in front of Silapna"
+        },
+        {
+            "plaintext": "Talk to Arakunti",
+            "markdown": "Talk to Arakunti"
+        }
+    ],
+    "dialogue": true
+}

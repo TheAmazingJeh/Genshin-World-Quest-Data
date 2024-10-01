@@ -1,0 +1,73 @@
+{
+    "type": "single",
+    "name": "...What Do Adventurers Do Again?",
+    "url": "https://genshin-impact.fandom.com/wiki/...What_Do_Adventurers_Do_Again%3F",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Farewell, Archaic Lord",
+        "markdown": "Complete \u25c0Farewell, Archaic Lord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Farewell,_Archaic_Lord\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Guide to Prosperity",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Guide_to_Prosperity",
+            "Image": "Item_Guide_to_Prosperity.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Tiantian",
+            "markdown": "Talk to \u25c0Tiantian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tiantian\u25b7"
+        },
+        {
+            "plaintext": "Defeat all opponents and clear the obstacles",
+            "markdown": "Defeat all opponents and clear the obstacles"
+        },
+        {
+            "plaintext": "Talk to Tiantian",
+            "markdown": "Talk to Tiantian"
+        },
+        {
+            "plaintext": "Defeat the Treasure Hoarders in Lisha",
+            "markdown": "Defeat the Treasure Hoarders in Lisha"
+        },
+        {
+            "plaintext": "Talk to Tiantian",
+            "markdown": "Talk to Tiantian"
+        }
+    ],
+    "dialogue": true
+}

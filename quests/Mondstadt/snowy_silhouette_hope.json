@@ -1,0 +1,90 @@
+{
+    "type": "single",
+    "name": "Snowy Silhouette: Hope",
+    "url": "https://genshin-impact.fandom.com/wiki/Snowy_Silhouette%3A_Hope",
+    "starting_location": {
+        "plaintext": "Dragonspine , Mondstadt",
+        "markdown": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Non-completion of Shadows Amidst Snowstorms",
+        "markdown": "Non-completion of \u25c0Shadows Amidst Snowstorms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shadows_Amidst_Snowstorms\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Joel",
+            "markdown": "Talk to \u25c0Joel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Joel\u25b7"
+        },
+        {
+            "plaintext": "Go to the Adventurers' Guild",
+            "markdown": "Go to the \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7"
+        },
+        {
+            "plaintext": "Go to Dragonspine and look for clues",
+            "markdown": "Go to Dragonspine and look for clues"
+        },
+        {
+            "plaintext": "Defeat all opponents",
+            "markdown": "Defeat all opponents",
+            "substeps": [
+                {
+                    "plaintext": "Ice Shieldwall Mitachurl x1",
+                    "markdown": "<img:ice_shieldwall_mitachurl> \u25c0Ice Shieldwall Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ice_Shieldwall_Mitachurl\u25b7 x1",
+                    "img": {
+                        "ice_shieldwall_mitachurl": "Mitachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl x1",
+                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x1",
+                    "img": {
+                        "hilichurl": "Hilichurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl Fighter x1",
+                    "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x1",
+                    "img": {
+                        "hilichurl_fighter": "Hilichurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Pyro Hilichurl Shooter x1",
+                    "markdown": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 x1",
+                    "img": {
+                        "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Pallad",
+            "markdown": "Talk to \u25c0Pallad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reckless_Pallad\u25b7"
+        },
+        {
+            "plaintext": "Talk to Cyrus",
+            "markdown": "Talk to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7"
+        },
+        {
+            "plaintext": "Report back to Joel",
+            "markdown": "Report back to Joel"
+        }
+    ],
+    "dialogue": true
+}

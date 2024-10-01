@@ -1,0 +1,86 @@
+{
+    "type": "series",
+    "name": "A Gifted Rose",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Gifted_Rose",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "160",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "120,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Glabrous Beans",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Glabrous_Beans",
+            "Image": "Item_Glabrous_Beans.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "12",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Delicious Butter Chicken",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Butter_Chicken",
+            "Image": "Item_Delicious_Butter_Chicken.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Delicious Shawarma Wrap",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Shawarma_Wrap",
+            "Image": "Item_Delicious_Shawarma_Wrap.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Delicious Tahchin",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Tahchin",
+            "Image": "Item_Delicious_Tahchin.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "A Gifted Rose: Prickly as Thorns",
+            "markdown": "\u25c0A Gifted Rose: Prickly as Thorns\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gifted_Rose:_Prickly_as_Thorns\u25b7"
+        },
+        {
+            "plaintext": "A Gifted Rose: Long Day Ahead",
+            "markdown": "\u25c0A Gifted Rose: Long Day Ahead\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gifted_Rose:_Long_Day_Ahead\u25b7"
+        },
+        {
+            "plaintext": "A Gifted Rose: Can Stones Bloom",
+            "markdown": "\u25c0A Gifted Rose: Can Stones Bloom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gifted_Rose:_Can_Stones_Bloom\u25b7"
+        },
+        {
+            "plaintext": "A Gifted Rose: Ballad of Days Gone By",
+            "markdown": "\u25c0A Gifted Rose: Ballad of Days Gone By\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gifted_Rose:_Ballad_of_Days_Gone_By\u25b7"
+        },
+        {
+            "plaintext": "A Gifted Rose: Some People Never Fade Away",
+            "markdown": "\u25c0A Gifted Rose: Some People Never Fade Away\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gifted_Rose:_Some_People_Never_Fade_Away\u25b7"
+        }
+    ]
+}

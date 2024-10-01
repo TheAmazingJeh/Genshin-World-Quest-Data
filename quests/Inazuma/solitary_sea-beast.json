@@ -1,0 +1,149 @@
+{
+    "type": "single",
+    "name": "Solitary Sea-Beast",
+    "url": "https://genshin-impact.fandom.com/wiki/Solitary_Sea-Beast",
+    "starting_location": {
+        "plaintext": "Watatsumi Island , Inazuma",
+        "markdown": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Kumi",
+            "markdown": "Talk to Kumi"
+        },
+        {
+            "plaintext": "Give Kumi three Sakura Blooms",
+            "markdown": "Give Kumi three \u25c0Sakura Blooms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sakura_Bloom\u25b7"
+        },
+        {
+            "plaintext": "Head to the Hilichurl camp in the west",
+            "markdown": "Head to the Hilichurl camp in the west"
+        },
+        {
+            "plaintext": "Rescue Anisa",
+            "markdown": "Rescue \u25c0Anisa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anisa\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Electro Samachurl x1",
+                            "markdown": "<img:electro_samachurl> \u25c0Electro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Samachurl\u25b7 x1",
+                            "img": {
+                                "electro_samachurl": "Electro_Samachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Rock Shield Hilichurl Guard x2",
+                            "markdown": "<img:rock_shield_hilichurl_guard> \u25c0Rock Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rock_Shield_Hilichurl_Guard\u25b7 x2",
+                            "img": {
+                                "rock_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Electro Hilichurl Grenadier x1",
+                            "markdown": "<img:electro_hilichurl_grenadier> \u25c0Electro Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Hilichurl_Grenadier\u25b7 x1",
+                            "img": {
+                                "electro_hilichurl_grenadier": "Electro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Blazing Axe Mitachurl x1",
+                            "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                            "img": {
+                                "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Grenadier x2",
+                            "markdown": "<img:hilichurl_grenadier> \u25c0Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Grenadier\u25b7 x2",
+                            "img": {
+                                "hilichurl_grenadier": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Anisa",
+            "markdown": "Talk to Anisa"
+        },
+        {
+            "plaintext": "Solve the puzzle of the Watatsumi statue",
+            "markdown": "Solve the puzzle of the Watatsumi statue",
+            "substeps": [
+                {
+                    "plaintext": "Activate the one Hydro and two Electro Monuments nearby.",
+                    "markdown": "Activate the one Hydro and two Electro \u25c0Monuments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Monument\u25b7 nearby."
+                },
+                {
+                    "plaintext": "Complete the Light-Up Tile Puzzle by lighting up all the tiles without walking over it twice or going off the tiles.",
+                    "markdown": "Complete the \u25c0Light-Up Tile Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Light-Up_Tile_Puzzle\u25b7 by lighting up all the tiles without walking over it twice or going off the tiles."
+                },
+                {
+                    "plaintext": "The Mysterious Pillar can be activated before starting the puzzle or in the midst of the puzzle.",
+                    "markdown": "The \u25c0Mysterious Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Pillar\u25b7 can be activated before starting the puzzle or in the midst of the puzzle."
+                },
+                {
+                    "plaintext": "Completing the puzzle gives an Exquisite Chest.",
+                    "markdown": "Completing the puzzle gives an \u25c0Exquisite Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Exquisite_Chest\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Anisa",
+            "markdown": "Talk to Anisa"
+        },
+        {
+            "plaintext": "Talk to Kumi",
+            "markdown": "Talk to Kumi"
+        }
+    ],
+    "dialogue": true
+}

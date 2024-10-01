@@ -1,0 +1,59 @@
+{
+    "type": "single",
+    "name": "The Long-Failed \"Graph Adversarial Technology\"...",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Long-Failed_%22Graph_Adversarial_Technology%22...",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Quartier Lyonnais , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Quartier Lyonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Lyonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Archon Quest Prologue : Act III - Song of the Dragon and Freedom",
+        "markdown": "Complete \u25c0Archon Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Archon_Quest\u25b7 \u25c0Prologue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Prologue\u25b7 : Act III - \u25c0Song of the Dragon and Freedom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Song_of_the_Dragon_and_Freedom\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "\"Special Analysis Zoom Lens\"",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Special_Analysis_Zoom_Lens%22",
+            "Image": "Item_Special_Analysis_Zoom_Lens.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "If the player participated in the Graph Adversarial Technology Experiment Log event",
+            "markdown": "If the player participated in the \u25c0Graph Adversarial Technology Experiment Log\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Graph_Adversarial_Technology_Experiment_Log\u25b7 event",
+            "substeps": [
+                {
+                    "plaintext": "Talk to Lepine-Pauline",
+                    "markdown": "Talk to \u25c0Lepine-Pauline\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lepine-Pauline\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "If the player did not participate in the Graph Adversarial Technology Experiment Log event",
+            "markdown": "If the player did not participate in the Graph Adversarial Technology Experiment Log event",
+            "substeps": [
+                {
+                    "plaintext": "Talk to Charlotte",
+                    "markdown": "Talk to \u25c0Charlotte\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charlotte\u25b7"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

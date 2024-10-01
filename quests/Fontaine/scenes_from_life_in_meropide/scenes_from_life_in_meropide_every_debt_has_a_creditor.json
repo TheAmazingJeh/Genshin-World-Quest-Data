@@ -1,0 +1,64 @@
+{
+    "type": "single",
+    "name": "Scenes from Life in Meropide: Every Debt has a Creditor",
+    "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Every_Debt_has_a_Creditor",
+    "starting_location": {
+        "plaintext": "Administrative Area , Fontaine",
+        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete An Eye for an Eye",
+        "markdown": "Complete \u25c0An Eye for an Eye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Eye_for_an_Eye\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "280",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Examine the gear patterns on the wall",
+            "markdown": "Examine the gear patterns on the wall",
+            "substeps": [
+                {
+                    "plaintext": "This step is skipped if the gear patterns were examined before talking to Galvaryet.",
+                    "markdown": "This step is skipped if the gear patterns were examined before talking to Galvaryet."
+                }
+            ]
+        },
+        {
+            "plaintext": "Find the culprit behind the graffiti",
+            "markdown": "Find the culprit behind the graffiti"
+        },
+        {
+            "plaintext": "Talk to Galvaryet",
+            "markdown": "Talk to Galvaryet"
+        }
+    ],
+    "dialogue": true
+}

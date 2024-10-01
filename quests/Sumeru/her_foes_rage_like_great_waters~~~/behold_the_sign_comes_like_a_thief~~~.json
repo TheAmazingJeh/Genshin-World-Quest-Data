@@ -1,0 +1,99 @@
+{
+    "type": "single",
+    "name": "Behold, the Sign Comes Like A Thief...",
+    "url": "https://genshin-impact.fandom.com/wiki/Behold%2C_the_Sign_Comes_Like_A_Thief...",
+    "starting_location": {
+        "plaintext": "Tanit Camps , Sumeru",
+        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Yuften",
+            "markdown": "Talk to \u25c0Yuften\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yuften\u25b7"
+        },
+        {
+            "plaintext": "Head to the last known location of the merchant caravan",
+            "markdown": "Head to the last known location of the merchant caravan"
+        },
+        {
+            "plaintext": "Investigate the area",
+            "markdown": "Investigate the area"
+        },
+        {
+            "plaintext": "Follow the trail of clues",
+            "markdown": "Follow the trail of clues"
+        },
+        {
+            "plaintext": "Follow the trail of clues",
+            "markdown": "Follow the trail of clues"
+        },
+        {
+            "plaintext": "Investigate the Hilichurl camp",
+            "markdown": "Investigate the \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurls\u25b7 camp"
+        },
+        {
+            "plaintext": "Look for clues in the area",
+            "markdown": "Look for clues in the area"
+        },
+        {
+            "plaintext": "Defeat the Eremite assassins",
+            "markdown": "Defeat \u25c0the Eremite\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eremite\u25b7 assassins",
+            "substeps": [
+                {
+                    "plaintext": "Bouhanu \u2014 Eremite Assassin x1",
+                    "markdown": "<img:eremite_linebreaker> \u25c0Bouhanu \u2014 Eremite Assassin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 x1",
+                    "img": {
+                        "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Eremite Crossbow x1",
+                    "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
+                    "img": {
+                        "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Report your findings back to Yuften",
+            "markdown": "Report your findings back to Yuften"
+        },
+        {
+            "plaintext": "Report your findings to Babel",
+            "markdown": "Report your findings to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
+        }
+    ],
+    "dialogue": true
+}

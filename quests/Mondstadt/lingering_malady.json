@@ -1,0 +1,65 @@
+{
+    "type": "single",
+    "name": "Lingering Malady",
+    "url": "https://genshin-impact.fandom.com/wiki/Lingering_Malady",
+    "starting_location": {
+        "plaintext": "Outside the Cathedral, Mondstadt",
+        "markdown": "Outside the Cathedral, \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Reach Adventure Rank 30",
+        "markdown": "Reach \u25c0Adventure Rank\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventure_Rank\u25b7 30"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Northern Smoked Chicken",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Northern_Smoked_Chicken",
+            "Image": "Item_Northern_Smoked_Chicken.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Aramis",
+            "markdown": "Talk to \u25c0Aramis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aramis\u25b7"
+        },
+        {
+            "plaintext": "Look for posters and billboards in Mondstadt (0/4)",
+            "markdown": "Look for posters and billboards in Mondstadt (0/4)"
+        },
+        {
+            "plaintext": "Talk to Aramis",
+            "markdown": "Talk to Aramis"
+        }
+    ],
+    "dialogue": true
+}

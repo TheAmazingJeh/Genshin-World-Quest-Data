@@ -1,0 +1,92 @@
+{
+    "type": "single",
+    "name": "To the Night, What is the Night's",
+    "url": "https://genshin-impact.fandom.com/wiki/To_the_Night%2C_What_is_the_Night%27s",
+    "starting_location": {
+        "plaintext": "Tequemecan Valley , Natlan",
+        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "\"Scions of the Canopy\" Reputation EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Scions_of_the_Canopy%22_Reputation_EXP",
+            "Image": "Item_%22Scions_of_the_Canopy%22_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Shattered Night Jade",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Shattered_Night_Jade",
+            "Image": "Item_Shattered_Night_Jade.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to the strange person",
+            "markdown": "Talk to the strange person"
+        },
+        {
+            "plaintext": "Go to the camp",
+            "markdown": "Go to the camp"
+        },
+        {
+            "plaintext": "Talk to Legba",
+            "markdown": "Talk to Legba"
+        },
+        {
+            "plaintext": "Open the gate",
+            "markdown": "Open the gate"
+        },
+        {
+            "plaintext": "Search the ruins",
+            "markdown": "Search the ruins"
+        },
+        {
+            "plaintext": "Find a way to venture deeper into the ruins",
+            "markdown": "Find a way to venture deeper into the ruins"
+        },
+        {
+            "plaintext": "Place the Obsidian Statue back on the Altar",
+            "markdown": "Place the Obsidian Statue back on the Altar"
+        }
+    ],
+    "dialogue": true
+}

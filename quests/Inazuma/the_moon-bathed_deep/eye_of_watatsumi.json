@@ -1,0 +1,120 @@
+{
+    "type": "single",
+    "name": "\"Eye of Watatsumi\"",
+    "url": "https://genshin-impact.fandom.com/wiki/%22Eye_of_Watatsumi%22",
+    "starting_location": {
+        "plaintext": "Watatsumi Island , Inazuma",
+        "markdown": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Spirit Pearl",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Spirit_Pearl",
+            "Image": "Item_Spirit_Pearl.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the \"Eye\"",
+            "markdown": "Go to the \"Eye\""
+        },
+        {
+            "plaintext": "Read the stone tablet at the \"Eye\"",
+            "markdown": "Read the stone tablet at the \"Eye\""
+        },
+        {
+            "plaintext": "Break the seal over the shrine",
+            "markdown": "Break the seal over the shrine",
+            "substeps": [
+                {
+                    "plaintext": "Use Elemental Sight to locate the three Elemental Orbs, and use Pyro, Cryo, Anemo, or Geo to disperse them. (Electro and Hydro will not work, although Hydro will cause the Elemental Orb to be visually Electro-Charged, even without Elemental Sight.) Several enemies may appear, but they do not need to be defeated.",
+                    "markdown": "Use \u25c0Elemental Sight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Sight\u25b7 to locate the three Elemental Orbs, and use \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7, \u25c0Cryo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo\u25b7, \u25c0Anemo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo\u25b7, or \u25c0Geo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo\u25b7 to disperse them. (\u25c0Electro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro\u25b7 and \u25c0Hydro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro\u25b7 will not work, although \u25c0Hydro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro\u25b7 will cause the Elemental Orb to be visually \u25c0Electro-Charged\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro-Charged\u25b7, even without Elemental Sight.) Several enemies may appear, but they do not need to be defeated.",
+                    "substeps": [
+                        {
+                            "plaintext": "At the north orb (near the water), no enemies spawn, but the following enemies that are unrelated to the quest are in the vicinity:",
+                            "markdown": "At the north orb (near the water), no enemies spawn, but the following enemies that are unrelated to the quest are in the vicinity:",
+                            "substeps": [
+                                {
+                                    "plaintext": "Ruin Destroyer x2",
+                                    "markdown": "<img:ruin_destroyer> \u25c0Ruin Destroyer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Destroyer\u25b7 x2",
+                                    "img": {
+                                        "ruin_destroyer": "Ruin_Destroyer_Icon.png"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "plaintext": "At the northwest orb (on the cliff):",
+                            "markdown": "At the northwest orb (on the cliff):",
+                            "substeps": [
+                                {
+                                    "plaintext": "Anemo Specter x3",
+                                    "markdown": "<img:anemo_specter> \u25c0Anemo Specter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Specter\u25b7 x3",
+                                    "img": {
+                                        "anemo_specter": "Anemo_Specter_Icon.png"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "plaintext": "At the south orb (near the water):",
+                            "markdown": "At the south orb (near the water):",
+                            "substeps": [
+                                {
+                                    "plaintext": "Electro Slime x4",
+                                    "markdown": "<img:electro_slime> \u25c0Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Slime\u25b7 x4",
+                                    "img": {
+                                        "electro_slime": "Electro_Slime_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Mutant Electro Slime x2",
+                                    "markdown": "<img:mutant_electro_slime> \u25c0Mutant Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mutant_Electro_Slime\u25b7 x2",
+                                    "img": {
+                                        "mutant_electro_slime": "Mutant_Electro_Slime_Icon.png"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the Spirit Pearl",
+            "markdown": "Obtain the \u25c0Spirit Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spirit_Pearl\u25b7"
+        }
+    ],
+    "dialogue": true
+}

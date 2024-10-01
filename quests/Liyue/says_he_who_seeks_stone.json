@@ -1,0 +1,54 @@
+{
+    "type": "single",
+    "name": "Says He Who Seeks Stone",
+    "url": "https://genshin-impact.fandom.com/wiki/Says_He_Who_Seeks_Stone",
+    "starting_location": {
+        "plaintext": "The Chasm , Liyue",
+        "markdown": "\u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Surreptitious Seven-Star Seal Sundering",
+        "markdown": "Complete \u25c0Surreptitious Seven-Star Seal Sundering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Surreptitious_Seven-Star_Seal_Sundering\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Muning",
+            "markdown": "Talk to \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7"
+        },
+        {
+            "plaintext": "Obtain 3 Archaic Stones for Muning",
+            "markdown": "Obtain 3 \u25c0Archaic Stones\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Archaic_Stone_(Says_He_Who_Seeks_Stone)\u25b7 for Muning"
+        }
+    ],
+    "dialogue": true
+}

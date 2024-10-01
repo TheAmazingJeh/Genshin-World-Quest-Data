@@ -1,0 +1,69 @@
+{
+    "type": "single",
+    "name": "Cooking, the Aroma of Homecoming",
+    "url": "https://genshin-impact.fandom.com/wiki/Cooking%2C_the_Aroma_of_Homecoming",
+    "starting_location": {
+        "plaintext": "Apam Woods , Sumeru",
+        "markdown": "\u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Recipe: Masala Cheese Balls",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Masala_Cheese_Balls",
+            "Image": "Item_Masala_Cheese_Balls.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for Arapas",
+            "markdown": "Look for \u25c0Arapas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapas\u25b7"
+        },
+        {
+            "plaintext": "Investigate the pot emitting the aroma",
+            "markdown": "Investigate the pot emitting the aroma"
+        },
+        {
+            "plaintext": "Obtain  \"Living Spring\"",
+            "markdown": "Obtain <img:living_spring> \u25c0\"Living Spring\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Living_Spring\u25b7",
+            "img": {
+                "living_spring": "Item_Living_Spring.png"
+            }
+        },
+        {
+            "plaintext": "Give Living Spring to Arapas",
+            "markdown": "Give Living Spring to Arapas"
+        }
+    ],
+    "dialogue": true
+}

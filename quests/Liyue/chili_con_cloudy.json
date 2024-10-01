@@ -1,0 +1,141 @@
+{
+    "type": "single",
+    "name": "Chili Con Cloudy",
+    "url": "https://genshin-impact.fandom.com/wiki/Chili_Con_Cloudy",
+    "starting_location": {
+        "plaintext": "Chenyu Vale: Upper Vale , Chenyu Vale",
+        "markdown": "\u25c0Chenyu Vale: Upper Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Upper_Vale\u25b7 , \u25c0Chenyu Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Treasure Hoarder camp",
+            "markdown": "Go to the Treasure Hoarder camp",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Treasure Hoarders: Crusher x1",
+                            "markdown": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Handyman x1",
+                            "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Marksman x1",
+                            "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Scout x2",
+                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x2",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Treasure Hoarders: Seaman x1",
+                            "markdown": "<img:treasure_hoarders_seaman> \u25c0Treasure Hoarders: Seaman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Seaman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_seaman": "Treasure_Hoarder_Seaman_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Handyman x1",
+                            "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Marksman x1",
+                            "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Scout x1",
+                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Wenhua",
+            "markdown": "Talk to Wenhua"
+        },
+        {
+            "plaintext": "Go back to Wenhua's camp",
+            "markdown": "Go back to Wenhua's camp"
+        },
+        {
+            "plaintext": "Talk to Wenhua",
+            "markdown": "Talk to Wenhua"
+        },
+        {
+            "plaintext": "Watch Yunyun and Chili Pepper's competition",
+            "markdown": "Watch \u25c0Yunyun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yunyun\u25b7 and \u25c0Chili Pepper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chili_Pepper\u25b7's competition"
+        },
+        {
+            "plaintext": "Check on Chili Pepper",
+            "markdown": "Check on Chili Pepper"
+        },
+        {
+            "plaintext": "Check on Yunyun",
+            "markdown": "Check on Yunyun"
+        }
+    ],
+    "dialogue": true
+}

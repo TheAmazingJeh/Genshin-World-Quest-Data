@@ -1,0 +1,86 @@
+{
+    "type": "single",
+    "name": "For All Children Who Long for Life",
+    "url": "https://genshin-impact.fandom.com/wiki/For_All_Children_Who_Long_for_Life",
+    "starting_location": {
+        "plaintext": "Land of Grounded Dreams , Sumeru",
+        "markdown": "\u25c0Land of Grounded Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Grounded_Dreams\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the deepest part of the cave",
+            "markdown": "Go to the deepest part of the cave"
+        },
+        {
+            "plaintext": "Defeat Marana's Avatar",
+            "markdown": "Defeat \u25c0Marana's Avatar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marana%27s_Avatar\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Follow Arama to destroy the Withering Zone, then use Four-Leaf Sigils to move quickly, and attack Marana's Avatar. Repeat this process 2 more times.",
+                    "markdown": "Follow \u25c0Arama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arama\u25b7 to destroy the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7, then use \u25c0Four-Leaf Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Four-Leaf_Sigil\u25b7 to move quickly, and attack Marana's Avatar. Repeat this process 2 more times."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the final enemy",
+            "markdown": "Defeat the final enemy",
+            "substeps": [
+                {
+                    "plaintext": "Destroy the inactive Marana's Avatar.",
+                    "markdown": "Destroy the inactive Marana's Avatar."
+                },
+                {
+                    "plaintext": "Rifthounds will keep spawning to attack. Focus on Marana's Avatar instead.",
+                    "markdown": "\u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthounds\u25b7 will keep spawning to attack. Focus on Marana's Avatar instead."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Arama",
+            "markdown": "Talk to Arama"
+        },
+        {
+            "plaintext": "Play the Rhythm of the Great Dream",
+            "markdown": "Play the Rhythm of the Great Dream"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,64 @@
+{
+    "type": "single",
+    "name": "Solo Venture",
+    "url": "https://genshin-impact.fandom.com/wiki/Solo_Venture",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Did not accept A Fine Opportunity? before completing Prologue Act I: The Outlander Who Caught the Wind \u200d",
+        "markdown": "Did not accept \u25c0A Fine Opportunity?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Fine_Opportunity%3F\u25b7 before completing \u25c0Prologue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Prologue\u25b7 Act I: \u25c0The Outlander Who Caught the Wind\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Outlander_Who_Caught_the_Wind\u25b7 \u200d"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "6,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Teyvat Fried Egg",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teyvat_Fried_Egg",
+            "Image": "Item_Teyvat_Fried_Egg.png",
+            "Rarity": "1"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Jack",
+            "markdown": "Talk to \u25c0Jack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack\u25b7"
+        },
+        {
+            "plaintext": "Go to the Thousand Winds Temple and look for Jack's lost items (0/2)",
+            "markdown": "Go to the \u25c0Thousand Winds Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thousand_Winds_Temple\u25b7 and look for Jack's lost items (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "Locate Jack's Map and Jack's Adventurer Handbook",
+                    "markdown": "Locate \u25c0Jack's Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack%27s_Map\u25b7 and \u25c0Jack's Adventurer Handbook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack%27s_Adventurer_Handbook\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Jack",
+            "markdown": "Report back to Jack"
+        }
+    ],
+    "dialogue": true
+}

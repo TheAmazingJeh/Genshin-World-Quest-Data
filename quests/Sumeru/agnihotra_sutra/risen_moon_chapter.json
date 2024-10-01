@@ -1,0 +1,121 @@
+{
+    "type": "single",
+    "name": "Risen Moon Chapter",
+    "url": "https://genshin-impact.fandom.com/wiki/Risen_Moon_Chapter",
+    "starting_location": {
+        "plaintext": "Lokapala Jungle , Sumeru",
+        "markdown": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The World of Aranara",
+        "markdown": "\u25c0The World of Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_World_of_Aranara\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Find Aragaru (if Starry Night Chapter was completed first)",
+            "markdown": "Find \u25c0Aragaru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aragaru\u25b7 (if \u25c0Starry Night Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter\u25b7 was completed first)"
+        },
+        {
+            "plaintext": "Talk to \"Aragaru\" / Talk to \"the Aranara that suddenly appeared\"",
+            "markdown": "Talk to \"Aragaru\" / Talk to \"the Aranara that suddenly appeared\""
+        },
+        {
+            "plaintext": "Use the Kusava to open up the path",
+            "markdown": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kusava\u25b7 to open up the path"
+        },
+        {
+            "plaintext": "Defeat the Fungi",
+            "markdown": "Defeat the Fungi"
+        },
+        {
+            "plaintext": "Explore the cave",
+            "markdown": "Explore the cave"
+        },
+        {
+            "plaintext": "Continue exploring the cave",
+            "markdown": "Continue exploring the cave"
+        },
+        {
+            "plaintext": "Defeat the Fungi",
+            "markdown": "Defeat the Fungi"
+        },
+        {
+            "plaintext": "Investigate the runes surrounded by Fungi",
+            "markdown": "Investigate the runes surrounded by Fungi"
+        },
+        {
+            "plaintext": "Continue looking for runes (0/3)",
+            "markdown": "Continue looking for runes (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "The runes are hidden behind plant-eroded stones, which can be destroyed by using the \"Kusava.\"",
+                    "markdown": "The runes are hidden behind plant-eroded stones, which can be destroyed by using the \u25c0\"Kusava.\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Aragaru",
+            "markdown": "Talk to Aragaru"
+        },
+        {
+            "plaintext": "Exit the cave",
+            "markdown": "Exit the cave"
+        },
+        {
+            "plaintext": "Enter the place where the Barsam Flower is located",
+            "markdown": "Enter the place where the Barsam Flower is located"
+        },
+        {
+            "plaintext": "Explore the Realm of Khab",
+            "markdown": "Explore the Realm of Khab"
+        },
+        {
+            "plaintext": "Use the Kusava to break the seal on the  Barsam Flower (0/3)",
+            "markdown": "Use the Kusava to break the seal on the <img:barsam_flower> \u25c0Barsam Flower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Barsam_Flower\u25b7 (0/3)",
+            "img": {
+                "barsam_flower": "Item_Barsam_Flower.png"
+            },
+            "substeps": [
+                {
+                    "plaintext": "Follow the 3 Seelies and destroy the plant-eroded stones along the way. The third Seelie is behind the green barrier, which will be removed by the other 2 Seelies.",
+                    "markdown": "Follow the 3 \u25c0Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 and destroy the plant-eroded stones along the way. The third Seelie is behind the green barrier, which will be removed by the other 2 Seelies."
+                }
+            ]
+        },
+        {
+            "plaintext": "Pick the Barsam Flower",
+            "markdown": "Pick the Barsam Flower"
+        }
+    ],
+    "dialogue": true
+}

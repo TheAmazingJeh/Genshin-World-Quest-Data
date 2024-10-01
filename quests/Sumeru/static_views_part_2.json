@@ -1,0 +1,48 @@
+{
+    "type": "single",
+    "name": "Static Views, Part 2",
+    "url": "https://genshin-impact.fandom.com/wiki/Static_Views%2C_Part_2",
+    "starting_location": null,
+    "requirements": {
+        "plaintext": "",
+        "markdown": ""
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Complete Static Views.",
+            "markdown": "Complete \u25c0Static Views\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Static_Views\u25b7."
+        },
+        {
+            "plaintext": "Complete Step 1 of Festival Utsava.",
+            "markdown": "Complete Step 1 of \u25c0Festival Utsava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Festival_Utsava\u25b7."
+        },
+        {
+            "plaintext": "Find the treasure chests of Pictures 1 to 8 in the Mysterious Clipboard.",
+            "markdown": "Find the treasure chests of Pictures 1 to 8 in the \u25c0Mysterious Clipboard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka_(Gadget)#Mysterious_Clipboard\u25b7.",
+            "substeps": [
+                {
+                    "plaintext": "Some chests are in areas that are unlocked by Agnihotra Sutra, Vimana Agama, and Varuna Gatha.",
+                    "markdown": "Some chests are in areas that are unlocked by \u25c0Agnihotra Sutra\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Agnihotra_Sutra\u25b7, \u25c0Vimana Agama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimana_Agama\u25b7, and \u25c0Varuna Gatha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Varuna_Gatha\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Complete the hidden exploration objective Seed from the Valley of Life in The Chasm: Underground Mines. This completes Picture 10.",
+            "markdown": "Complete the hidden exploration objective \u25c0Seed from the Valley of Life\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seed_from_the_Valley_of_Life\u25b7 in \u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7. This completes Picture 10."
+        },
+        {
+            "plaintext": "Wait for daily reset.",
+            "markdown": "Wait for \u25c0daily reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reset\u25b7."
+        }
+    ],
+    "dialogue": true
+}

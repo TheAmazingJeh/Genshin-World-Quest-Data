@@ -1,0 +1,93 @@
+{
+    "type": "single",
+    "name": "Tadhla the Falcon",
+    "url": "https://genshin-impact.fandom.com/wiki/Tadhla_the_Falcon",
+    "starting_location": {
+        "plaintext": "Tanit Camps",
+        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Wait for daily reset after completing The Dirge of Bilqis",
+        "markdown": "Wait for daily reset after completing \u25c0The Dirge of Bilqis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Dirge_of_Bilqis\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Masseira",
+            "markdown": "Talk to \u25c0Masseira\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Masseira\u25b7"
+        },
+        {
+            "plaintext": "Go to Tadhla's last known location",
+            "markdown": "Go to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7's last known location"
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Defeat the Fatui",
+            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
+                    "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Tadhla",
+            "markdown": "Talk to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7"
+        },
+        {
+            "plaintext": "Talk to Masseira",
+            "markdown": "Talk to Masseira"
+        }
+    ],
+    "dialogue": true
+}

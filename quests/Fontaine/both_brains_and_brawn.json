@@ -1,0 +1,227 @@
+{
+    "type": "single",
+    "name": "Both Brains and Brawn",
+    "url": "https://genshin-impact.fandom.com/wiki/Both_Brains_and_Brawn",
+    "starting_location": {
+        "plaintext": "Administrative Area , Fontaine",
+        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "",
+        "markdown": ""
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "900",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Pankration Fonta Cup",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Pankration_Fonta_Cup",
+            "Image": "Item_Pankration_Fonta_Cup.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Pankration Ring",
+            "markdown": "Go to the \u25c0Pankration Ring\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pankration_Ring\u25b7"
+        },
+        {
+            "plaintext": "Find Poiret",
+            "markdown": "Find \u25c0Poiret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Poiret\u25b7"
+        },
+        {
+            "plaintext": "Talk to Poiret",
+            "markdown": "Talk to Poiret"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to \u25c0Roussimoff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Roussimoff\u25b7"
+        },
+        {
+            "plaintext": "Win the competition",
+            "markdown": "Win the competition"
+        },
+        {
+            "plaintext": "Talk to Goncourt",
+            "markdown": "Talk to \u25c0Goncourt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Goncourt\u25b7"
+        },
+        {
+            "plaintext": "Go to the Rag and Bone Shop",
+            "markdown": "Go to the \u25c0Rag and Bone Shop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rag_and_Bone_Shop\u25b7"
+        },
+        {
+            "plaintext": "Talk to Goncourt",
+            "markdown": "Talk to Goncourt"
+        },
+        {
+            "plaintext": "Break the wooden boxes and recover the props",
+            "markdown": "Break the wooden boxes and recover the props"
+        },
+        {
+            "plaintext": "Talk to Goncourt",
+            "markdown": "Talk to Goncourt"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to Roussimoff"
+        },
+        {
+            "plaintext": "Win the competition",
+            "markdown": "Win the competition"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to Roussimoff"
+        },
+        {
+            "plaintext": "Talk to Genevieve",
+            "markdown": "Talk to \u25c0Genevieve\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Genevieve\u25b7"
+        },
+        {
+            "plaintext": "Go to the Rift of Erosion",
+            "markdown": "Go to the \u25c0Rift of Erosion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rift_of_Erosion\u25b7"
+        },
+        {
+            "plaintext": "Talk to Genevieve",
+            "markdown": "Talk to Genevieve"
+        },
+        {
+            "plaintext": "Demonstrate throwing techniques to the pair",
+            "markdown": "Demonstrate throwing techniques to the pair"
+        },
+        {
+            "plaintext": "Talk to Poiret",
+            "markdown": "Talk to Poiret"
+        },
+        {
+            "plaintext": "Go to Pankration Ring the next day between 18:00 and 22:00",
+            "markdown": "Go to Pankration Ring the next day between 18:00 and 22:00"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to Roussimoff"
+        },
+        {
+            "plaintext": "Win the competition",
+            "markdown": "Win the competition"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to Roussimoff"
+        },
+        {
+            "plaintext": "Find Genevieve",
+            "markdown": "Find Genevieve"
+        },
+        {
+            "plaintext": "Talk to Genevieve",
+            "markdown": "Talk to Genevieve"
+        },
+        {
+            "plaintext": "Go to the production zone",
+            "markdown": "Go to the \u25c0production zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7"
+        },
+        {
+            "plaintext": "Talk to Poiret",
+            "markdown": "Talk to Poiret"
+        },
+        {
+            "plaintext": "Demonstrate the destructive power of Pneumousia annihilation reactions to Poiret",
+            "markdown": "Demonstrate the destructive power of Pneumousia annihilation reactions to Poiret"
+        },
+        {
+            "plaintext": "Talk to Poiret",
+            "markdown": "Talk to Poiret"
+        },
+        {
+            "plaintext": "Go to Pankration Ring the next day between 18:00 and 22:00",
+            "markdown": "Go to Pankration Ring the next day between 18:00 and 22:00"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to Roussimoff"
+        },
+        {
+            "plaintext": "Win during the competition",
+            "markdown": "Win during the competition"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to Roussimoff"
+        },
+        {
+            "plaintext": "Win the competition",
+            "markdown": "Win the competition"
+        },
+        {
+            "plaintext": "Talk to Roussimoff",
+            "markdown": "Talk to Roussimoff"
+        },
+        {
+            "plaintext": "Defeat the clockwork meka",
+            "markdown": "Defeat the clockwork meka",
+            "substeps": [
+                {
+                    "plaintext": "Recon Log Mek - Ousia x3",
+                    "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x3",
+                    "img": {
+                        "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Champvallon",
+            "markdown": "Talk to \u25c0Champvallon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Champvallon\u25b7"
+        }
+    ],
+    "dialogue": true
+}

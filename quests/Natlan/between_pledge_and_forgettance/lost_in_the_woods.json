@@ -1,0 +1,91 @@
+{
+    "type": "single",
+    "name": "Lost in the Woods",
+    "url": "https://genshin-impact.fandom.com/wiki/Lost_in_the_Woods",
+    "starting_location": {
+        "plaintext": "Tequemecan Valley , Natlan",
+        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Reaffirmed Accord of Appellation",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Reaffirmed_Accord_of_Appellation",
+            "Image": "Item_Reaffirmed_Accord_of_Appellation.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Defeat the Rifthounds",
+            "markdown": "Defeat the Rifthounds",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:  Thundercraven Rifthound Whelp x3",
+                    "markdown": "Wave 1: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x3",
+                    "img": {
+                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 2:  Thundercraven Rifthound Whelp x2",
+                    "markdown": "Wave 2: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                    "img": {
+                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Speak to the giant beast",
+            "markdown": "Speak to the giant beast"
+        },
+        {
+            "plaintext": "Shatter the rock and rescue the whelp",
+            "markdown": "Shatter the rock and rescue the whelp"
+        },
+        {
+            "plaintext": "Speak to the young creature",
+            "markdown": "Speak to the young creature"
+        },
+        {
+            "plaintext": "Give the little one an awesome new name!",
+            "markdown": "Give the little one an awesome new name!"
+        },
+        {
+            "plaintext": "Talk to your Saurian companion",
+            "markdown": "Talk to your Saurian companion"
+        },
+        {
+            "plaintext": "Follow your Saurian companion",
+            "markdown": "Follow your Saurian companion"
+        },
+        {
+            "plaintext": "Leave the strange space",
+            "markdown": "Leave the strange space"
+        }
+    ],
+    "dialogue": true
+}

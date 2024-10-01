@@ -1,0 +1,231 @@
+{
+    "type": "single",
+    "name": "An Eye for an Eye",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Eye_for_an_Eye",
+    "starting_location": {
+        "plaintext": "Administrative Area , Fontaine",
+        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Leave the Fortress of Meropide",
+            "markdown": "Leave the \u25c0Fortress of Meropide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide\u25b7"
+        },
+        {
+            "plaintext": "Talk to Lanoire",
+            "markdown": "Talk to \u25c0Lanoire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lanoire\u25b7"
+        },
+        {
+            "plaintext": "Defeat the Gardemeks",
+            "markdown": "Defeat the Gardemeks",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Suppression Specialist Mek - Ousia x1",
+                            "markdown": "<img:suppression_specialist_mek_-_ousia> \u25c0Suppression Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "suppression_specialist_mek_-_ousia": "Suppression_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Recon Log Mek - Ousia x2",
+                            "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x2",
+                            "img": {
+                                "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Suppression Specialist Mek - Ousia x1",
+                            "markdown": "<img:suppression_specialist_mek_-_ousia> \u25c0Suppression Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "suppression_specialist_mek_-_ousia": "Suppression_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Annihilation Specialist Mek - Ousia x1",
+                            "markdown": "<img:annihilation_specialist_mek_-_ousia> \u25c0Annihilation Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "annihilation_specialist_mek_-_ousia": "Annihilation_Specialist_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:  Annihilation Specialist Mek - Ousia x2",
+                    "markdown": "Wave 3: <img:annihilation_specialist_mek_-_ousia> \u25c0Annihilation Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek_-_Ousia\u25b7 x2",
+                    "img": {
+                        "annihilation_specialist_mek_-_ousia": "Annihilation_Specialist_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Gardemeks",
+            "markdown": "Defeat the Gardemeks",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Assault Specialist Mek - Ousia x1",
+                            "markdown": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Annihilation Specialist Mek - Ousia x1",
+                            "markdown": "<img:annihilation_specialist_mek_-_ousia> \u25c0Annihilation Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "annihilation_specialist_mek_-_ousia": "Annihilation_Specialist_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Assault Specialist Mek - Ousia x1",
+                            "markdown": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Suppression Specialist Mek - Ousia x1",
+                            "markdown": "<img:suppression_specialist_mek_-_ousia> \u25c0Suppression Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "suppression_specialist_mek_-_ousia": "Suppression_Specialist_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Noailles",
+            "markdown": "Talk to \u25c0Noailles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Noailles\u25b7"
+        },
+        {
+            "plaintext": "Talk to Monglane",
+            "markdown": "Talk to \u25c0Monglane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Monglane\u25b7"
+        },
+        {
+            "plaintext": "Look for Caterpillar and Lanoire",
+            "markdown": "Look for \u25c0Caterpillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Caterpillar\u25b7 and Lanoire"
+        },
+        {
+            "plaintext": "Talk to Estienne",
+            "markdown": "Talk to \u25c0Estienne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Estienne\u25b7"
+        },
+        {
+            "plaintext": "Talk to Caterpillar",
+            "markdown": "Talk to Caterpillar"
+        },
+        {
+            "plaintext": "Prepare to leave the Fortress of Meropide",
+            "markdown": "Prepare to leave the Fortress of Meropide"
+        },
+        {
+            "plaintext": "Go to the abandoned production zone without being noticed",
+            "markdown": "Go to the \u25c0abandoned production zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abandoned_Production_Zone\u25b7 without being noticed"
+        },
+        {
+            "plaintext": "Use the searchlight to draw away the guards",
+            "markdown": "Use the searchlight to draw away the guards"
+        },
+        {
+            "plaintext": "Use the loudspeaker to draw away the guards",
+            "markdown": "Use the loudspeaker to draw away the guards"
+        },
+        {
+            "plaintext": "Operate the drive valve to open the passage leading to the Geode Mine Shaft",
+            "markdown": "Operate the drive valve to open the passage leading to the Geode Mine Shaft"
+        },
+        {
+            "plaintext": "Go to the Geode Mine Shaft",
+            "markdown": "Go to the \u25c0Geode Mine Shaft\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geode_Mine_Shaft\u25b7"
+        },
+        {
+            "plaintext": "Acquire the energy storage device and unlock the research terminal ahead (0/3)",
+            "markdown": "Acquire the energy storage device and unlock the research terminal ahead (0/3)"
+        },
+        {
+            "plaintext": "Keep moving",
+            "markdown": "Keep moving"
+        },
+        {
+            "plaintext": "Talk to Caterpillar",
+            "markdown": "Talk to Caterpillar"
+        },
+        {
+            "plaintext": "Defeat Noailles",
+            "markdown": "Defeat Noailles",
+            "substeps": [
+                {
+                    "plaintext": "File:Noailles (Enemy) Icon.png Noailles \u2014 Just Desserts",
+                    "markdown": "\u25c0File:Noailles (Enemy) Icon.png\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special:Upload?wpDestFile=Noailles_(Enemy)_Icon.png\u25b7 \u25c0Noailles \u2014 Just Desserts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Noailles_(Enemy)\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Noailles",
+            "markdown": "Talk to Noailles"
+        },
+        {
+            "plaintext": "Leave the Fortress of Meropide",
+            "markdown": "Leave the Fortress of Meropide"
+        }
+    ],
+    "dialogue": true
+}

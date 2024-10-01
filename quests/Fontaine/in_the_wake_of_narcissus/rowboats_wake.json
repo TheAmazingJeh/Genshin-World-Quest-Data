@@ -1,0 +1,13 @@
+{
+    "type": "act",
+    "name": "Rowboat's Wake",
+    "url": "https://genshin-impact.fandom.com/wiki/Rowboat%27s_Wake",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Rowboat's Wake",
+            "markdown": "\u25c0Rowboat's Wake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rowboat%27s_Wake_(Quest)\u25b7"
+        }
+    ]
+}

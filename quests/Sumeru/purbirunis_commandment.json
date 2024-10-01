@@ -1,0 +1,112 @@
+{
+    "type": "single",
+    "name": "Purbiruni's Commandment",
+    "url": "https://genshin-impact.fandom.com/wiki/Purbiruni%27s_Commandment",
+    "starting_location": {
+        "plaintext": "The Akademiya , Sumeru",
+        "markdown": "\u25c0The Akademiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Akademiya\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "",
+        "markdown": ""
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for the Purbiruni scholar",
+            "markdown": "Search for the Purbiruni scholar",
+            "substeps": [
+                {
+                    "plaintext": "Talk to Iris (Sumeru City)",
+                    "markdown": "Talk to \u25c0Iris (Sumeru City)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iris_(Sumeru_City)\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Search for Sadife",
+            "markdown": "Search for \u25c0Sadife\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sadife\u25b7"
+        },
+        {
+            "plaintext": "Find Sadife's case",
+            "markdown": "Find Sadife's case",
+            "substeps": [
+                {
+                    "plaintext": "Investigate the southwestern spot, located across from the tent at the quest area if approaching from the Garden of Endless Pillars",
+                    "markdown": "Investigate the southwestern spot, located across from the tent at the quest area if approaching from the \u25c0Garden of Endless Pillars\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Garden_of_Endless_Pillars\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Treasure Hoarders",
+            "markdown": "Defeat the Treasure Hoarders",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Marksman x1",
+                    "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Scout x1",
+                    "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Gravedigger x1",
+                    "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Pyro Potioneer x1",
+                    "markdown": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Sadife",
+            "markdown": "Report back to Sadife"
+        },
+        {
+            "plaintext": "Report back to Khedive",
+            "markdown": "Report back to Khedive"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,13 @@
+{
+    "type": "act",
+    "name": "Kingdom Through the Looking-Glass",
+    "url": "https://genshin-impact.fandom.com/wiki/Kingdom_Through_the_Looking-Glass",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Ann's Story",
+            "markdown": "\u25c0Ann's Story\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ann%27s_Story\u25b7"
+        }
+    ]
+}

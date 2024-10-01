@@ -1,0 +1,87 @@
+{
+    "type": "single",
+    "name": "A Land Entombed",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Land_Entombed",
+    "starting_location": {
+        "plaintext": "Dragonspine , Mondstadt",
+        "markdown": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Return to the base camp and ask the researchers for clues regarding the journal.",
+            "markdown": "Return to the base camp and ask the researchers for clues regarding the journal."
+        },
+        {
+            "plaintext": "If any parts have not been collected, obtain the following steps:",
+            "markdown": "If any parts have not been collected, obtain the following steps:",
+            "substeps": [
+                {
+                    "plaintext": "(If Part I is missing) Head for the \"secret chamber\" to search for journals",
+                    "markdown": "(If Part I is missing) Head for the \"secret chamber\" to search for journals"
+                },
+                {
+                    "plaintext": "(If Part II is missing) Go to the \"cellar in the southwestern ruins\" to search for journals",
+                    "markdown": "(If Part II is missing) Go to the \"cellar in the southwestern ruins\" to search for journals"
+                },
+                {
+                    "plaintext": "(If Part III is missing) Head to \"South Base Camp\" to search for journals",
+                    "markdown": "(If Part III is missing) Head to \"South Base Camp\" to search for journals"
+                },
+                {
+                    "plaintext": "If all three parts were collected before completing Step 1, the quest directly goes to Step 3.",
+                    "markdown": "If all three parts were collected before completing Step 1, the quest directly goes to Step 3."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the gathered journals to Stevens",
+            "markdown": "Give the gathered journals to \u25c0Stevens\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stevens\u25b7"
+        }
+    ],
+    "dialogue": true
+}

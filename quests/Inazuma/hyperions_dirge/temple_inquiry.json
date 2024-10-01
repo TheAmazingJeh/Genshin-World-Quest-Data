@@ -1,0 +1,59 @@
+{
+    "type": "single",
+    "name": "Temple Inquiry",
+    "url": "https://genshin-impact.fandom.com/wiki/Temple_Inquiry",
+    "starting_location": {
+        "plaintext": "Evernight Temple , Enkanomiya , Inazuma",
+        "markdown": "\u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Subterranean Trials of Drake and Serpent",
+        "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Offerings of the Temple",
+            "Value": "\u2014",
+            "Link": "https://genshin-impact.fandom.com/wiki/Offerings_of_the_Temple",
+            "Image": "Item_Offerings_of_the_Temple.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Activate the spirit's trial",
+            "markdown": "Activate the spirit's trial",
+            "substeps": [
+                {
+                    "plaintext": "Defeat 3 opponents in 60 second(s)",
+                    "markdown": "Defeat 3 opponents in 60 second(s)",
+                    "substeps": [
+                        {
+                            "plaintext": "Rockfond Rifthound x1",
+                            "markdown": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 x1",
+                            "img": {
+                                "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Rockfond Rifthound Whelp x2",
+                            "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "A Precious Chest will spawn after defeating the opponents.",
+                    "markdown": "A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will spawn after defeating the opponents."
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the offerings from the spirit",
+            "markdown": "Obtain the \u25c0offerings from the spirit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Offerings_of_the_Temple\u25b7"
+        }
+    ],
+    "dialogue": true
+}

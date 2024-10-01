@@ -1,0 +1,122 @@
+{
+    "type": "single",
+    "name": "Ah, Fresh Meat!",
+    "url": "https://genshin-impact.fandom.com/wiki/Ah%2C_Fresh_Meat%21",
+    "starting_location": {
+        "plaintext": "Dragonspine Adventurer Camp , Mondstadt",
+        "markdown": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete In the Mountains or defeat The Great Snowboar King",
+        "markdown": "Complete \u25c0In the Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_the_Mountains\u25b7 or defeat \u25c0The Great Snowboar King\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Great_Snowboar_King\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Delicious Goulash",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Goulash",
+            "Image": "Item_Delicious_Goulash.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Recipe: Goulash",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Goulash",
+            "Image": "Item_Goulash.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Obtain 10 pieces of  Chilled Meat",
+            "markdown": "Obtain 10 pieces of <img:chilled_meat> \u25c0Chilled Meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chilled_Meat\u25b7",
+            "img": {
+                "chilled_meat": "Item_Chilled_Meat.png"
+            }
+        },
+        {
+            "plaintext": "Speak to Harris",
+            "markdown": "Speak to Harris"
+        },
+        {
+            "plaintext": "Obtain the  meat of the Great Snowboar King",
+            "markdown": "Obtain the <img:great_snowboar_king_meat> \u25c0meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Great_Snowboar_King_Meat\u25b7 of \u25c0the Great Snowboar King\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Great_Snowboar_King\u25b7",
+            "img": {
+                "great_snowboar_king_meat": "Item_Chilled_Meat.png"
+            },
+            "substeps": [
+                {
+                    "plaintext": "To spawn the Great Snowboar King, melt and kill all the Snowboars in the area.",
+                    "markdown": "To spawn the Great Snowboar King, melt and kill all the Snowboars in the area."
+                }
+            ]
+        },
+        {
+            "plaintext": "Speak to Harris",
+            "markdown": "Speak to Harris",
+            "substeps": [
+                {
+                    "plaintext": "Harris will give the player  Recipe: Goulash",
+                    "markdown": "Harris will give the player <img:recipe_goulash> \u25c0Recipe: Goulash\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recipe:_Goulash\u25b7",
+                    "img": {
+                        "recipe_goulash": "Item_Goulash.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Make Goulash",
+            "markdown": "Make Goulash",
+            "substeps": [
+                {
+                    "plaintext": "Submit Delicious or Normal Goulash to Harris. He will not accept Suspicious Goulash.",
+                    "markdown": "Submit Delicious or Normal Goulash to Harris. He will not accept Suspicious Goulash."
+                }
+            ]
+        },
+        {
+            "plaintext": "Look for Harris at 18:00",
+            "markdown": "Look for Harris at 18:00"
+        },
+        {
+            "plaintext": "Speak to Harris",
+            "markdown": "Speak to Harris"
+        }
+    ],
+    "dialogue": true
+}

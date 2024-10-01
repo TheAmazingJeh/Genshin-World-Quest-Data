@@ -1,0 +1,67 @@
+{
+    "type": "single",
+    "name": "Through the Looking Glass",
+    "url": "https://genshin-impact.fandom.com/wiki/Through_the_Looking_Glass",
+    "starting_location": {
+        "plaintext": "??? , Fontaine",
+        "markdown": "\u25c0???\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%3F%3F%3F\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "In the Wake of Narcissus",
+        "markdown": "\u25c0In the Wake of Narcissus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_the_Wake_of_Narcissus\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Start the quest by completing the 6 Looking Glass puzzles",
+            "markdown": "Start the quest by completing the 6 \u25c0Looking Glass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Looking_Glass\u25b7 puzzles",
+            "substeps": [
+                {
+                    "plaintext": "See Looking Glass \u00a7 Locations for map locations and context images.",
+                    "markdown": "See \u25c0Looking Glass \u00a7 Locations\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Looking_Glass#Locations\u25b7 for map locations and context images."
+                }
+            ]
+        },
+        {
+            "plaintext": "Then enter one of the Looking Glasses displaying sunflowers at any of the Looking Glass puzzle locations:",
+            "markdown": "Then enter one of the Looking Glasses displaying sunflowers at any of the Looking Glass puzzle locations:"
+        }
+    ],
+    "dialogue": true
+}

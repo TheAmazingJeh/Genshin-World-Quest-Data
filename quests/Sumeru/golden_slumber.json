@@ -1,0 +1,61 @@
+{
+    "type": "series",
+    "name": "Golden Slumber",
+    "url": "https://genshin-impact.fandom.com/wiki/Golden_Slumber",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,650",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "190",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "170,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "16",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "16",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Lost in the Sands",
+            "markdown": "\u25c0Lost in the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lost_in_the_Sands\u25b7"
+        },
+        {
+            "plaintext": "An Introduction to Indoor Archaeology",
+            "markdown": "\u25c0An Introduction to Indoor Archaeology\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Introduction_to_Indoor_Archaeology\u25b7"
+        },
+        {
+            "plaintext": "The Secret of Al-Ahmar",
+            "markdown": "\u25c0The Secret of Al-Ahmar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Secret_of_Al-Ahmar\u25b7"
+        },
+        {
+            "plaintext": "Dreams Beneath the Searing Sand",
+            "markdown": "\u25c0Dreams Beneath the Searing Sand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dreams_Beneath_the_Searing_Sand\u25b7"
+        }
+    ]
+}

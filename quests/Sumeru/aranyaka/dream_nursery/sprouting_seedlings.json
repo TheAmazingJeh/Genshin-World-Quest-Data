@@ -1,0 +1,47 @@
+{
+    "type": "single",
+    "name": "Sprouting Seedlings",
+    "url": "https://genshin-impact.fandom.com/wiki/Sprouting_Seedlings",
+    "starting_location": {
+        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
+        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Varuna Gatha",
+        "markdown": "\u25c0Varuna Gatha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Varuna_Gatha\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head to the garden cared for by AranakulaGarden locationAdditional context",
+            "markdown": "Head to the garden cared for by \u25c0Aranakula\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranakula\u25b7\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Sprouting_Seedlings_Garden_Location.png\u25b7Garden location\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Sprouting_Seedlings_Garden_Location_Context.png\u25b7Additional context"
+        },
+        {
+            "plaintext": "Talk to Aranakula",
+            "markdown": "Talk to Aranakula"
+        }
+    ],
+    "dialogue": true
+}

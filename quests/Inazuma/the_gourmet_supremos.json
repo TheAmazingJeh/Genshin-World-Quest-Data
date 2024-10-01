@@ -1,0 +1,139 @@
+{
+    "type": "series",
+    "name": "The Gourmet Supremos",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "850",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "80",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "160,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "9",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Delicious Crab Roe Kourayaki",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Crab_Roe_Kourayaki",
+            "Image": "Item_Delicious_Crab_Roe_Kourayaki.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Delicious Jewelry Soup",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Jewelry_Soup",
+            "Image": "Item_Delicious_Jewelry_Soup.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Delicious Onigiri",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Onigiri",
+            "Image": "Item_Delicious_Onigiri.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Delicious Sakura Tempura",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Sakura_Tempura",
+            "Image": "Item_Delicious_Sakura_Tempura.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Crab Roe Kourayaki",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Crab_Roe_Kourayaki",
+            "Image": "Item_Crab_Roe_Kourayaki.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Recipe: Fish With Cream Sauce",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Fish_With_Cream_Sauce",
+            "Image": "Item_Fish_With_Cream_Sauce.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Recipe: Onigiri",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Onigiri",
+            "Image": "Item_Onigiri.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Recipe: Potato Boat",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Potato_Boat",
+            "Image": "Item_Potato_Boat.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Sakura Tempura",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sakura_Tempura",
+            "Image": "Item_Sakura_Tempura.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Sashimi Platter",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sashimi_Platter",
+            "Image": "Item_Sashimi_Platter.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Recipe: Tandoori Roast Chicken",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Tandoori_Roast_Chicken",
+            "Image": "Item_Tandoori_Roast_Chicken.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Gourmet Supremos, Assemble!",
+            "markdown": "\u25c0Gourmet Supremos, Assemble!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gourmet_Supremos,_Assemble!\u25b7"
+        },
+        {
+            "plaintext": "The Gourmet Supremos: Of Shrines and Sakura",
+            "markdown": "\u25c0The Gourmet Supremos: Of Shrines and Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Of_Shrines_and_Sakura\u25b7"
+        },
+        {
+            "plaintext": "The Gourmet Supremos: The Seashore Strider",
+            "markdown": "\u25c0The Gourmet Supremos: The Seashore Strider\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Seashore_Strider\u25b7"
+        },
+        {
+            "plaintext": "The Gourmet Supremos: The Deep Divers",
+            "markdown": "\u25c0The Gourmet Supremos: The Deep Divers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Deep_Divers\u25b7"
+        },
+        {
+            "plaintext": "The Gourmet Supremos: On the Road",
+            "markdown": "\u25c0The Gourmet Supremos: On the Road\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_On_the_Road\u25b7"
+        },
+        {
+            "plaintext": "The Gourmet Supremos: The Importance of Eating Well",
+            "markdown": "\u25c0The Gourmet Supremos: The Importance of Eating Well\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well\u25b7"
+        }
+    ]
+}

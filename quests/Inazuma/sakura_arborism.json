@@ -1,0 +1,132 @@
+{
+    "type": "single",
+    "name": "Sakura Arborism",
+    "url": "https://genshin-impact.fandom.com/wiki/Sakura_Arborism",
+    "starting_location": null,
+    "requirements": {
+        "plaintext": "Complete Tatara Tales (Quest)",
+        "markdown": "Complete \u25c0Tatara Tales (Quest)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales_(Quest)\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Investigate the Treasure Hoarder camp",
+            "markdown": "Investigate the Treasure Hoarder camp"
+        },
+        {
+            "plaintext": "Interrogate the remaining Treasure Hoarder",
+            "markdown": "Interrogate the \u25c0remaining Treasure Hoarder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hideaki\u25b7"
+        },
+        {
+            "plaintext": "Report back to Miyuki",
+            "markdown": "Report back to Miyuki"
+        },
+        {
+            "plaintext": "Remove the \"juvenile antics\" left on the Thunder Sakura by the Treasure Hoarders (0/5)",
+            "markdown": "Remove the \"juvenile antics\" left on the \u25c0Thunder Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura\u25b7 by the Treasure Hoarders (0/5)",
+            "substeps": [
+                {
+                    "plaintext": "Use Elemental Sight to find three blue swirls (on the ground) for each tree. Stand over a swirl and let the tree's lightning strike it, the swirl will then disappear. Do this for each of the swirls.",
+                    "markdown": "Use \u25c0Elemental Sight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Sight\u25b7 to find three blue swirls (on the ground) for each tree. Stand over a swirl and let the tree's lightning strike it, the swirl will then disappear. Do this for each of the swirls."
+                },
+                {
+                    "plaintext": "You may find less than three swirls if the tree's lightning struck it before you used Elemental Sight.",
+                    "markdown": "You may find less than three swirls if the tree's lightning struck it before you used Elemental Sight."
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Miyuki",
+            "markdown": "Report back to Miyuki"
+        },
+        {
+            "plaintext": "Investigate the Treasure Hoarder camp again",
+            "markdown": "Investigate the Treasure Hoarder camp again"
+        },
+        {
+            "plaintext": "Defeat the attacking Fatui",
+            "markdown": "Defeat the attacking \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_(Enemies)\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Miyuki",
+            "markdown": "Talk to Miyuki"
+        },
+        {
+            "plaintext": "Resist the Thunder Sakura Crystal",
+            "markdown": "Resist the Thunder Sakura Crystal",
+            "substeps": [
+                {
+                    "plaintext": "Pure Electro Hypostasis x1",
+                    "markdown": "<img:pure_electro_hypostasis> \u25c0Pure Electro Hypostasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pure_Electro_Hypostasis\u25b7 x1",
+                    "img": {
+                        "pure_electro_hypostasis": "Electro_Hypostasis_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Miyuki",
+            "markdown": "Talk to Miyuki"
+        }
+    ],
+    "dialogue": true
+}

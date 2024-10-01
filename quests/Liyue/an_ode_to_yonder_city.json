@@ -1,0 +1,91 @@
+{
+    "type": "single",
+    "name": "An Ode to Yonder City",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Ode_to_Yonder_City",
+    "starting_location": {
+        "plaintext": "Wangshu Inn , Liyue",
+        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete A New Star Approaches",
+        "markdown": "Complete \u25c0A New Star Approaches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_New_Star_Approaches\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Teachings of Prosperity",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Prosperity",
+            "Image": "Item_Teachings_of_Prosperity.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Teachings of Diligence",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Diligence",
+            "Image": "Item_Teachings_of_Diligence.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Teachings of Gold",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold",
+            "Image": "Item_Teachings_of_Gold.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Qingzhou's Signature",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Qingzhou%27s_Signature",
+            "Image": "Item_Transcription.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Qingzhou",
+            "markdown": "Talk to \u25c0Qingzhou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingzhou\u25b7"
+        },
+        {
+            "plaintext": "Look for poetic inspiration at the south wharf",
+            "markdown": "Look for poetic inspiration at the south wharf"
+        },
+        {
+            "plaintext": "Look for poetic inspiration at Bubu Pharmacy",
+            "markdown": "Look for poetic inspiration at Bubu Pharmacy"
+        },
+        {
+            "plaintext": "Look for poetic inspiration near Yujing Terrace",
+            "markdown": "Look for poetic inspiration near Yujing Terrace"
+        },
+        {
+            "plaintext": "Talk to people at Yujing Terrace (0/2)",
+            "markdown": "Talk to people at Yujing Terrace (0/2)"
+        },
+        {
+            "plaintext": "Report back to Qingzhou",
+            "markdown": "Report back to Qingzhou"
+        }
+    ],
+    "dialogue": true
+}

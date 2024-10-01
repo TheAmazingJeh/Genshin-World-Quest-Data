@@ -1,0 +1,88 @@
+{
+    "type": "single",
+    "name": "And This Treasure Goes To...",
+    "url": "https://genshin-impact.fandom.com/wiki/And_This_Treasure_Goes_To...",
+    "starting_location": {
+        "plaintext": "Lingju Pass , Liyue",
+        "markdown": "\u25c0Lingju Pass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingju_Pass\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "(Optional) Investigate the strange camp (0/3)",
+            "markdown": "(Optional) Investigate the strange camp (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Interact with the note, the bonfire, and the \"Neatly-Written Diary.\"",
+                    "markdown": "Interact with the note, the bonfire, and the \"Neatly-Written Diary.\""
+                }
+            ]
+        },
+        {
+            "plaintext": "(Optional) Look for the missing scholar",
+            "markdown": "(Optional) Look for the missing scholar"
+        },
+        {
+            "plaintext": "Defeat the Treasure Hoarders and obtain the key",
+            "markdown": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7 and obtain the key",
+            "substeps": [
+                {
+                    "plaintext": "The key is in a chest which unlocks after the treasure hoarders have been defeated.",
+                    "markdown": "The key is in a chest which unlocks after the treasure hoarders have been defeated."
+                }
+            ]
+        },
+        {
+            "plaintext": "Open the cage",
+            "markdown": "Open the cage"
+        },
+        {
+            "plaintext": "Collect the treasure",
+            "markdown": "Collect the treasure",
+            "substeps": [
+                {
+                    "plaintext": "It is buried besides the giant golden tree southeast of the Treasure Hoarders camp.",
+                    "markdown": "It is buried besides the giant golden tree southeast of the Treasure Hoarders camp."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,55 @@
+{
+    "type": "single",
+    "name": "Scenes from Life in Meropide: Safe Operation",
+    "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Safe_Operation",
+    "starting_location": {
+        "plaintext": "Abandoned Production Zone , Fontaine",
+        "markdown": "\u25c0Abandoned Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abandoned_Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "280",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the abandoned production zone",
+            "markdown": "Go to the abandoned production zone"
+        },
+        {
+            "plaintext": "Operate the drive valve to open access to Supply Warehouse 1",
+            "markdown": "Operate the drive valve to open access to Supply Warehouse 1"
+        },
+        {
+            "plaintext": "Enter Supply Warehouse 1",
+            "markdown": "Enter Supply Warehouse 1"
+        }
+    ],
+    "dialogue": true
+}

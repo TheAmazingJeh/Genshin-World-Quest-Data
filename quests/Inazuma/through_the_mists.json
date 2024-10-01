@@ -1,0 +1,61 @@
+{
+    "type": "series",
+    "name": "Through the Mists",
+    "url": "https://genshin-impact.fandom.com/wiki/Through_the_Mists",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,600",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "180",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "160,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "16",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "A Particularly Particular Author",
+            "markdown": "\u25c0A Particularly Particular Author\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Particularly_Particular_Author\u25b7"
+        },
+        {
+            "plaintext": "Octave of the Maushiro",
+            "markdown": "\u25c0Octave of the Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Octave_of_the_Maushiro\u25b7"
+        },
+        {
+            "plaintext": "The Sea of Fog and the Rite of the Trees",
+            "markdown": "\u25c0The Sea of Fog and the Rite of the Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Sea_of_Fog_and_the_Rite_of_the_Trees\u25b7"
+        },
+        {
+            "plaintext": "The Sun-Wheel and Mt. Kanna",
+            "markdown": "\u25c0The Sun-Wheel and Mt. Kanna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Sun-Wheel_and_Mt._Kanna\u25b7"
+        }
+    ]
+}

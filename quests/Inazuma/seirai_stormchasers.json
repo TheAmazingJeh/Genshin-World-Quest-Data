@@ -1,0 +1,61 @@
+{
+    "type": "series",
+    "name": "Seirai Stormchasers",
+    "url": "https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "55,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Peculiar Pinion (Quest Item)",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Peculiar_Pinion_(Quest_Item)",
+            "Image": "Item_Peculiar_Pinion.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "13",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Seirai Stormchasers: Part I",
+            "markdown": "\u25c0Seirai Stormchasers: Part I\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers:_Part_I\u25b7"
+        },
+        {
+            "plaintext": "Seirai Stormchasers: Part II",
+            "markdown": "\u25c0Seirai Stormchasers: Part II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers:_Part_II\u25b7"
+        },
+        {
+            "plaintext": "Seirai Stormchasers: Part III",
+            "markdown": "\u25c0Seirai Stormchasers: Part III\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers:_Part_III\u25b7"
+        },
+        {
+            "plaintext": "Seirai Stormchasers: Part IV",
+            "markdown": "\u25c0Seirai Stormchasers: Part IV\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers:_Part_IV\u25b7"
+        }
+    ]
+}

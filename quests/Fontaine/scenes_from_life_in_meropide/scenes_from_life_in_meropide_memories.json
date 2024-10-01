@@ -1,0 +1,72 @@
+{
+    "type": "single",
+    "name": "Scenes from Life in Meropide: Memories",
+    "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Memories",
+    "starting_location": {
+        "plaintext": "Production Zone , Fortress of Meropide , Fontaine",
+        "markdown": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fortress of Meropide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Batch 1 and 2 Scenes from Life in Meropide quests\u200d",
+        "markdown": "Batch 1 and 2 \u25c0Scenes from Life in Meropide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide\u25b7 quests\u200d"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "280",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Examine the three loudspeakers separately",
+            "markdown": "Examine the three loudspeakers separately",
+            "substeps": [
+                {
+                    "plaintext": "Approach the broadcasting speaker and disable it",
+                    "markdown": "Approach the broadcasting speaker and disable it"
+                },
+                {
+                    "plaintext": "Disable the other two speakers, then enable the original speaker",
+                    "markdown": "Disable the other two speakers, then enable the original speaker"
+                },
+                {
+                    "plaintext": "Repeat for each speaker",
+                    "markdown": "Repeat for each speaker"
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the location mentioned by the loudspeaker",
+            "markdown": "Go to the \u25c0location\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rift_of_Erosion\u25b7 mentioned by the loudspeaker"
+        },
+        {
+            "plaintext": "Talk to Clynes",
+            "markdown": "Talk to \u25c0Clynes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clynes\u25b7"
+        }
+    ],
+    "dialogue": true
+}

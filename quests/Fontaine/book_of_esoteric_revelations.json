@@ -1,0 +1,90 @@
+{
+    "type": "single",
+    "name": "Book of Esoteric Revelations",
+    "url": "https://genshin-impact.fandom.com/wiki/Book_of_Esoteric_Revelations",
+    "starting_location": {
+        "plaintext": "Merusea Village , Fontaine",
+        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Strange Part",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Strange_Part",
+            "Image": "Item_Strange_Part.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the place where the book is hidden",
+            "markdown": "Go to the place where the book is hidden"
+        },
+        {
+            "plaintext": "Find the pages (0/3)",
+            "markdown": "Find the pages (0/3)"
+        },
+        {
+            "plaintext": "Decipher the page",
+            "markdown": "Decipher the page"
+        },
+        {
+            "plaintext": "Find Canotila",
+            "markdown": "Find Canotila"
+        },
+        {
+            "plaintext": "Drive away the Rifthounds",
+            "markdown": "Drive away the \u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthound\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Rifthound? \u2014 Gap-Infiltrating Alien?",
+                    "markdown": "<img:thundercraven_rifthound> \u25c0Rifthound? \u2014 Gap-Infiltrating Alien?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7",
+                    "img": {
+                        "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Keep exploring",
+            "markdown": "Keep exploring"
+        }
+    ],
+    "dialogue": true
+}

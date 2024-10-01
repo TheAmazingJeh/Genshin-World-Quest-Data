@@ -1,0 +1,30 @@
+{
+    "type": "single",
+    "name": "The Heart of Ouroboros",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Heart_of_Ouroboros",
+    "starting_location": {
+        "plaintext": "The Serpent's Heart , Enkanomiya , Inazuma",
+        "markdown": "\u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Go to the Serpent's Heart",
+            "markdown": "Go to the \u25c0Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7"
+        },
+        {
+            "plaintext": "Active the secret message at the altar in the Serpent's Heart",
+            "markdown": "Active the secret message at the altar in the Serpent's Heart"
+        },
+        {
+            "plaintext": "Solve the riddle at the altar in the Serpent's Heart",
+            "markdown": "Solve the riddle at \u25c0the altar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Altar_at_The_Serpent%27s_Heart\u25b7 in the Serpent's Heart"
+        },
+        {
+            "plaintext": "Obtain the fragment of the Reins of Revival",
+            "markdown": "Obtain the fragment of the \u25c0Reins of Revival\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reins_of_Revival_Fragment_(Serpent%27s_Heart)\u25b7"
+        }
+    ],
+    "dialogue": true
+}

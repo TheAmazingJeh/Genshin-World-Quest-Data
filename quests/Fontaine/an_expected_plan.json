@@ -1,0 +1,224 @@
+{
+    "type": "single",
+    "name": "An Expected Plan",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Expected_Plan",
+    "starting_location": {
+        "plaintext": "Lumidouce Harbor , Fontaine",
+        "markdown": "\u25c0Lumidouce Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lumidouce_Harbor\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "",
+        "markdown": ""
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go below Lumidouce Harbor",
+            "markdown": "Go below Lumidouce Harbor"
+        },
+        {
+            "plaintext": "Talk to Fusilier",
+            "markdown": "Talk to Fusilier"
+        },
+        {
+            "plaintext": "Stay quiet and listen for clues",
+            "markdown": "Stay quiet and listen for clues"
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to \u25c0Chaussivert\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chaussivert\u25b7"
+        },
+        {
+            "plaintext": "Defeat the attackers",
+            "markdown": "Defeat the attackers",
+            "substeps": [
+                {
+                    "plaintext": "Chaussivert \u2014 \"Lumidouce Harbor-Watcher!\"",
+                    "markdown": "<img:treasure_hoarders_pugilist> \u25c0Chaussivert \u2014 \"Lumidouce Harbor-Watcher!\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7",
+                    "img": {
+                        "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Follow Chaussivert back onto the ship",
+            "markdown": "Follow Chaussivert back onto the ship"
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Look for Covault at The Rusty Rudder",
+            "markdown": "Look for \u25c0Covault\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Covault\u25b7 at \u25c0The Rusty Rudder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22The_Rusty_Rudder%22\u25b7"
+        },
+        {
+            "plaintext": "Find Covault",
+            "markdown": "Find Covault"
+        },
+        {
+            "plaintext": "Look for Covault",
+            "markdown": "Look for Covault"
+        },
+        {
+            "plaintext": "Subdue Covault",
+            "markdown": "Subdue Covault",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Raptor x1",
+                    "markdown": "<img:treasure_hoarders_raptor> \u25c0Treasure Hoarders: Raptor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Raptor\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_raptor": "Treasure_Hoarder_Marksman_3_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Go to the \"drop point\"",
+            "markdown": "Go to the \"drop point\""
+        },
+        {
+            "plaintext": "Follow Covault",
+            "markdown": "Follow Covault"
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Defeat the mutineers",
+            "markdown": "Defeat the mutineers",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Marksman x1",
+                    "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Recon Log Mek - Ousia x1",
+                    "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x1",
+                    "img": {
+                        "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to the ship",
+            "markdown": "Return to the ship"
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Go to the real \"drop point\"",
+            "markdown": "Go to the real \"drop point\""
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Stealthily follow the couriers",
+            "markdown": "Stealthily follow the couriers"
+        },
+        {
+            "plaintext": "Talk to the couriers",
+            "markdown": "Talk to the couriers"
+        },
+        {
+            "plaintext": "Subdue the couriers",
+            "markdown": "Subdue the couriers",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Scout x2",
+                    "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x2",
+                    "img": {
+                        "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Chaussivert",
+            "markdown": "Talk to Chaussivert"
+        },
+        {
+            "plaintext": "Find the shipment's delivery point",
+            "markdown": "Find the shipment's delivery point"
+        },
+        {
+            "plaintext": "Search ahead for the shipment's delivery point",
+            "markdown": "Search ahead for the shipment's delivery point"
+        },
+        {
+            "plaintext": "Continue searching for the shipment's delivery point",
+            "markdown": "Continue searching for the shipment's delivery point"
+        },
+        {
+            "plaintext": "Look for clues around the house",
+            "markdown": "Look for clues around the house"
+        },
+        {
+            "plaintext": "Talk to Edwin",
+            "markdown": "Talk to \u25c0Edwin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Edwin\u25b7"
+        }
+    ],
+    "dialogue": true
+}

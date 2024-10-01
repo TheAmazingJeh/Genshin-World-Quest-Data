@@ -1,0 +1,120 @@
+{
+    "type": "single",
+    "name": "A Lone Ship In Guyun",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Lone_Ship_In_Guyun",
+    "starting_location": {
+        "plaintext": "Sea of Clouds , Liyue",
+        "markdown": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "16,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Black-Back Perch Stew",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Black-Back_Perch_Stew",
+            "Image": "Item_Black-Back_Perch_Stew.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Suling",
+            "markdown": "Talk to \u25c0Suling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suling\u25b7"
+        },
+        {
+            "plaintext": "Talk to Sea Drake",
+            "markdown": "Talk to \u25c0Sea Drake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_Drake\u25b7"
+        },
+        {
+            "plaintext": "Talk to Xu Liushi",
+            "markdown": "Talk to \u25c0Xu Liushi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xu_Liushi\u25b7"
+        },
+        {
+            "plaintext": "Talk to Furong",
+            "markdown": "Talk to \u25c0Furong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Furong\u25b7"
+        },
+        {
+            "plaintext": "Talk to Mora-Grubber",
+            "markdown": "Talk to \u25c0Mora-Grubber\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mora-Grubber\u25b7"
+        },
+        {
+            "plaintext": "Talk to Yinxing",
+            "markdown": "Talk to \u25c0Yinxing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yinxing\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Give the letter to Bolai",
+                    "markdown": "Give \u25c0the letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yinxing%27s_Letter_to_Bolai\u25b7 to \u25c0Bolai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bolai\u25b7"
+                },
+                {
+                    "plaintext": "Report back to Yinxing",
+                    "markdown": "Report back to Yinxing"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Little Yue",
+            "markdown": "Talk to \u25c0Little Yue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Yue\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Help Little Yue look for Starconches on the beach",
+                    "markdown": "Help Little Yue look for \u25c0Starconches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starconch\u25b7 on the beach"
+                },
+                {
+                    "plaintext": "Talk to Little Yue",
+                    "markdown": "Talk to Little Yue"
+                },
+                {
+                    "plaintext": "Give the present to Changchang",
+                    "markdown": "Give \u25c0the present\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Yue%27s_Gift\u25b7 to \u25c0Changchang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Changchang\u25b7"
+                },
+                {
+                    "plaintext": "Talk to Little Yue",
+                    "markdown": "Talk to Little Yue"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Juza",
+            "markdown": "Talk to \u25c0Juza\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Juza\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Give 3 portions of meat to Juza",
+                    "markdown": "Give 3 portions of meat to Juza"
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Juza",
+            "markdown": "Report back to Juza"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,301 @@
+{
+    "type": "single",
+    "name": "Floating Jade, Treasure of Chenyu",
+    "url": "https://genshin-impact.fandom.com/wiki/Floating_Jade%2C_Treasure_of_Chenyu",
+    "starting_location": {
+        "plaintext": "Chenyu Vale: Upper Vale , Liyue",
+        "markdown": "\u25c0Chenyu Vale: Upper Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Upper_Vale\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Follow Little Mao",
+            "markdown": "Follow \u25c0Little Mao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Mao\u25b7"
+        },
+        {
+            "plaintext": "Try entering the waterfall",
+            "markdown": "Try entering the waterfall"
+        },
+        {
+            "plaintext": "Explore the domain",
+            "markdown": "Explore the domain"
+        },
+        {
+            "plaintext": "Clean the mural",
+            "markdown": "Clean the mural"
+        },
+        {
+            "plaintext": "Talk to Little Mao",
+            "markdown": "Talk to Little Mao"
+        },
+        {
+            "plaintext": "Go to the watchtower at Yilong Wharf",
+            "markdown": "Go to the watchtower at \u25c0Yilong Wharf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yilong_Wharf\u25b7"
+        },
+        {
+            "plaintext": "Board the bamboo raft and go to the Jademouth",
+            "markdown": "Board the bamboo raft and go to the \u25c0Jademouth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jademouth\u25b7"
+        },
+        {
+            "plaintext": "Listen to stories of the past",
+            "markdown": "Listen to stories of the past"
+        },
+        {
+            "plaintext": "Go to the Jademouth",
+            "markdown": "Go to the Jademouth"
+        },
+        {
+            "plaintext": "Investigate the stone shrine (0/2)",
+            "markdown": "Investigate the stone shrine (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Treasure Hoarders: Marksman x1",
+                            "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Handyman x2",
+                            "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x2",
+                            "img": {
+                                "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Scout x3",
+                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x3",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Treasure Hoarders: Gravedigger x1",
+                            "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Marksman x2",
+                            "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x2",
+                            "img": {
+                                "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Scout x2",
+                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x2",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "img": {
+                        "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png",
+                        "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png",
+                        "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png",
+                        "treasure_hoarders_hydro_potioneer": "Treasure_Hoarder_Hydro_Potioneer_Icon.png"
+                    },
+                    "substeps": [
+                        {
+                            "plaintext": "Lousan x1",
+                            "markdown": "<img:treasure_hoarders_crusher> \u25c0Lousan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Xi Xiao'er x1",
+                            "markdown": "<img:treasure_hoarders_pugilist> \u25c0Xi Xiao'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Go back beneath the jade",
+            "markdown": "Go back beneath the jade"
+        },
+        {
+            "plaintext": "Try using your adeptal energy...",
+            "markdown": "Try using your adeptal energy..."
+        },
+        {
+            "plaintext": "Jump into the whirlpool",
+            "markdown": "Jump into the whirlpool"
+        },
+        {
+            "plaintext": "Follow the carp",
+            "markdown": "Follow the \u25c0carp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fujin\u25b7"
+        },
+        {
+            "plaintext": "Talk to the golden carp",
+            "markdown": "Talk to the golden carp"
+        },
+        {
+            "plaintext": "Collect the scattered adeptal energy (0/4)",
+            "markdown": "Collect the scattered adeptal energy (0/4)",
+            "substeps": [
+                {
+                    "plaintext": "Beast Lord path:",
+                    "markdown": "Beast Lord path:",
+                    "substeps": [
+                        {
+                            "plaintext": "Wave 1:  Hydro Mimic Squirrel x2",
+                            "markdown": "Wave 1: <img:hydro_mimic_squirrel> \u25c0Hydro Mimic Squirrel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Squirrel\u25b7 x2",
+                            "img": {
+                                "hydro_mimic_squirrel": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Wave 2:  Hydro Mimic Squirrel x2",
+                            "markdown": "Wave 2: <img:hydro_mimic_squirrel> \u25c0Hydro Mimic Squirrel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Squirrel\u25b7 x2",
+                            "img": {
+                                "hydro_mimic_squirrel": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Wave 3: File:\"Beast Lord of Fuyu\" Icon.png \"Beast Lord of Fuyu\" \u2014 A... Boar Created By Adeptal Power",
+                            "markdown": "Wave 3: \u25c0File:\"Beast Lord of Fuyu\" Icon.png\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special:Upload?wpDestFile=%22Beast_Lord_of_Fuyu%22_Icon.png\u25b7 \u25c0\"Beast Lord of Fuyu\" \u2014 A... Boar Created By Adeptal Power\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Beast_Lord_of_Fuyu%22\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Seelie path:",
+                    "markdown": "\u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 path:",
+                    "substeps": [
+                        {
+                            "plaintext": "Wave 1:",
+                            "markdown": "Wave 1:",
+                            "substeps": [
+                                {
+                                    "plaintext": "Blazing Axe Mitachurl x1",
+                                    "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                                    "img": {
+                                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Hilichurl Fighter x1",
+                                    "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x1",
+                                    "img": {
+                                        "hilichurl_fighter": "Hilichurl_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Hilichurl x1",
+                                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x1",
+                                    "img": {
+                                        "hilichurl": "Hilichurl_Icon.png"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "plaintext": "Wave 2:",
+                            "markdown": "Wave 2:",
+                            "substeps": [
+                                {
+                                    "plaintext": "Hydro Hilichurl Rogue x1",
+                                    "markdown": "<img:hydro_hilichurl_rogue> \u25c0Hydro Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Hilichurl_Rogue\u25b7 x1",
+                                    "img": {
+                                        "hydro_hilichurl_rogue": "Hydro_Hilichurl_Rogue_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Electro Hilichurl Shooter x1",
+                                    "markdown": "<img:electro_hilichurl_shooter> \u25c0Electro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Hilichurl_Shooter\u25b7 x1",
+                                    "img": {
+                                        "electro_hilichurl_shooter": "Electro_Hilichurl_Shooter_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Pyro Hilichurl Shooter x1",
+                                    "markdown": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 x1",
+                                    "img": {
+                                        "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Hilichurl Grenadier x1",
+                                    "markdown": "<img:hilichurl_grenadier> \u25c0Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Grenadier\u25b7 x1",
+                                    "img": {
+                                        "hilichurl_grenadier": "Pyro_Hilichurl_Shooter_Icon.png"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to the Votive Rainjade",
+            "markdown": "Return to the \u25c0Votive Rainjade\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Votive_Rainjade\u25b7"
+        },
+        {
+            "plaintext": "Talk to Little Mao",
+            "markdown": "Talk to Little Mao"
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        }
+    ],
+    "dialogue": true
+}

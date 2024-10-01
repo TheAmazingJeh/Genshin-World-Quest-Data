@@ -1,0 +1,66 @@
+{
+    "type": "single",
+    "name": "The Great Mountain Survey",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Great_Mountain_Survey",
+    "starting_location": {
+        "plaintext": "Entombed City - Outskirts , Mondstadt",
+        "markdown": "\u25c0Entombed City - Outskirts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Entombed_City_-_Outskirts\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Retrieve the survey beacons (0/4)",
+            "markdown": "Retrieve the survey beacons (0/4)"
+        },
+        {
+            "plaintext": "Talk to Esther",
+            "markdown": "Talk to Esther"
+        },
+        {
+            "plaintext": "Place the survey beacons (0/4)",
+            "markdown": "Place the survey beacons (0/4)"
+        },
+        {
+            "plaintext": "Report back to Esther",
+            "markdown": "Report back to Esther"
+        }
+    ],
+    "dialogue": true
+}

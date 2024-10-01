@@ -1,0 +1,154 @@
+{
+    "type": "single",
+    "name": "Dimming Mushroom's Call for Help",
+    "url": "https://genshin-impact.fandom.com/wiki/Dimming_Mushroom%27s_Call_for_Help",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Xamaran",
+            "markdown": "Talk to \u25c0Xamaran\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xamaran\u25b7"
+        },
+        {
+            "plaintext": "Give Xamaran some of the Adjuvant's power",
+            "markdown": "Give Xamaran some of the \u25c0Adjuvant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lumenstone_Adjuvant\u25b7's power",
+            "substeps": [
+                {
+                    "plaintext": "This costs 5 bars of the Lumenstone Adjuvant's power.",
+                    "markdown": "This costs 5 bars of the Lumenstone Adjuvant's power."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Xamaran",
+            "markdown": "Talk to Xamaran"
+        },
+        {
+            "plaintext": "Help Xamaran clear the foul energy out",
+            "markdown": "Help Xamaran clear the foul energy out",
+            "substeps": [
+                {
+                    "plaintext": "Use the Lumenstone Adjuvant to clear 3 Oozing Concretions in the area.",
+                    "markdown": "Use the Lumenstone Adjuvant to clear 3 \u25c0Oozing Concretions\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oozing_Concretions\u25b7 in the area."
+                }
+            ]
+        },
+        {
+            "plaintext": "Tell Xamaran that the foul energy has been cleansed",
+            "markdown": "Tell Xamaran that the foul energy has been cleansed"
+        },
+        {
+            "plaintext": "Help Xamaran's kin (0/5)",
+            "markdown": "Help Xamaran's kin (0/5)",
+            "substeps": [
+                {
+                    "plaintext": "Each recharge expends 1 bar of the Lumenstone Adjuvant's power.",
+                    "markdown": "Each recharge expends 1 bar of the Lumenstone Adjuvant's power."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Xamaran",
+            "markdown": "Talk to Xamaran"
+        },
+        {
+            "plaintext": "Follow the water's flow and search for the source of the foul energy",
+            "markdown": "Follow the water's flow and search for the source of the foul energy",
+            "substeps": [
+                {
+                    "plaintext": "Follow the river upstream to reach the source",
+                    "markdown": "Follow the river upstream to reach the source"
+                }
+            ]
+        },
+        {
+            "plaintext": "Use the Blessings of Wisdom on the source of the foul energy",
+            "markdown": "Use the Blessings of Wisdom on the source of the foul energy",
+            "substeps": [
+                {
+                    "plaintext": "[Optional] Defeat enemies:",
+                    "markdown": "[Optional] Defeat enemies:",
+                    "substeps": [
+                        {
+                            "plaintext": "Pyro Abyss Mage x1",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hydro Abyss Mage x1",
+                            "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Electro Abyss Mage x1",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Use Lumenstone Adjuvant (2 bars) to remove the Oozing Concretion.",
+                    "markdown": "Use Lumenstone Adjuvant (2 bars) to remove the Oozing Concretion."
+                },
+                {
+                    "plaintext": "Interact with the spot quickly to use the  Blessings of Wisdom. A Precious Chest will appear.",
+                    "markdown": "Interact with the spot quickly to use the <img:blessings_of_wisdom> \u25c0Blessings of Wisdom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blessings_of_Wisdom\u25b7. A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will appear.",
+                    "img": {
+                        "blessings_of_wisdom": "Item_Blessings_of_Wisdom.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Tell Xamaran that the foul energy's source has been cleared out",
+            "markdown": "Tell Xamaran that the foul energy's source has been cleared out"
+        }
+    ],
+    "dialogue": true
+}

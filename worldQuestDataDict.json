@@ -1,0 +1,729 @@
+{
+    "timeUpdated": "2024-09-28 03:12:47",
+    "regions": {
+        "Mondstadt": {
+            "series": {
+                "battlefield_of_dice_cats_and_cards": [
+                    "come_try_genius_invokation_tcg"
+                ]
+            },
+            "single": [
+                "a_fine_opportunity",
+                "a_guest_from_liyue",
+                "a_land_entombed",
+                "adventure_rank_ascension_1",
+                "adventure_rank_ascension_2",
+                "adventure_rank_ascension_3",
+                "adventure_rank_ascension_4",
+                "after_the_storm",
+                "ah_fresh_meat",
+                "ascension_challenge_i",
+                "ascension_challenge_ii",
+                "ascension_challenge_iii",
+                "ascension_challenge_iv",
+                "bough_keeper_dainsleif",
+                "break_the_sword_cemetery_seal",
+                "busy_adventurers_guild",
+                "cleanup_at_dawn",
+                "collector_of_anemo_sigils",
+                "equivalent_exchange",
+                "every_day_a_new_adventure",
+                "exploding_population",
+                "flighty_flora~~~_and_flora",
+                "in_the_aftermath",
+                "in_the_mountains",
+                "knight_of_the_realm",
+                "lingering_malady",
+                "lost_in_the_snow",
+                "low-temperature_warning",
+                "mine_craft",
+                "mondstadt_and_its_archon",
+                "new_horizons_of_adventure",
+                "not_to_be_missed",
+                "question_and_answer",
+                "scent_on_the_wind",
+                "sharpening_the_axe_wont_hinder_the_work",
+                "snowy_silhouette_hope",
+                "snowy_silhouette_reunion",
+                "solo_venture",
+                "the_art_of_cooking",
+                "the_blessings_of_the_seven",
+                "the_call_of_mystical_martial_arts",
+                "the_festering_fang",
+                "the_great_mountain_survey",
+                "the_great_mountain_survey_ii",
+                "thief-catcher",
+                "time_and_wind",
+                "time_waits_for_no_man",
+                "unbegun_unending_story",
+                "welcome_to_the_adventurers_guild",
+                "when_the_trail_goes_cold",
+                "windrise_windfall",
+                "wisdom_of_ancient_civilizations",
+                "world_level_ascension"
+            ]
+        },
+        "Liyue": {
+            "series": {
+                "chenyus_blessings_of_sunken_jade": [
+                    "qiaoying_of_the_sacred_mountain",
+                    "floating_jade_treasure_of_chenyu",
+                    "an_ancient_sacrifice_of_sacred_brocade"
+                ],
+                "hereafter": [
+                    "hereafter_the_trail_of_pervases",
+                    "hereafter_all_is_well",
+                    "hereafter_return_to_the_mountains"
+                ],
+                "the_chasm_delvers": [
+                    "chasm_spelunkers",
+                    "first_miasmic_contact",
+                    "meeting_new_people~~~_and_foiling_some_bandits",
+                    "perils_in_the_dark",
+                    "the_heavenly_stones_debris",
+                    "wherefore_did_the_spiritstone_descend"
+                ],
+                "lost_in_a_foreign_land": [
+                    "lost_in_a_foreign_land_(quest)",
+                    "lost_in_a_foreign_land_seeking"
+                ],
+                "valors_afterglow": [
+                    "valors_afterglow_(quest)",
+                    "valors_afterglow_return_by_sundown",
+                    "valors_afterglow_the_faint_light_remembered"
+                ]
+            },
+            "single": [
+                "a_cliff-side_heros_past",
+                "a_company_vanishing_into_the_deep",
+                "a_dish_beyond_mortal_ken",
+                "a_little_game",
+                "a_lone_ship_in_guyun",
+                "a_provisional_arrangement",
+                "a_quiet_day_in_liyue_harbor",
+                "a_teapot_to_call_home_part_i",
+                "a_teapot_to_call_home_part_ii",
+                "a_wangshan_walk_to_remember",
+                "an_adeptal_summons",
+                "an_ode_to_yonder_city",
+                "and_this_treasure_goes_to~~~",
+                "big_business",
+                "blackcliff_woes",
+                "book_in_the_woods",
+                "changchangs_little_friend",
+                "chili_con_cloudy",
+                "dimming_mushrooms_call_for_help",
+                "endless_research",
+                "fishing_for_jade",
+                "garcias_paean",
+                "hydrological_investigation_in_the_chasm",
+                "luhua_landscape",
+                "ministry_missions",
+                "mycological_investigation_in_the_chasm",
+                "necessary_procedures",
+                "nine_pillars_of_peace",
+                "no_restoring_this_past_land_of_beauty",
+                "old_tastes_die_hard",
+                "on_the_stage_behind_the_stage",
+                "our_chenyu_vale_trek",
+                "overstretched",
+                "paleontological_investigation_in_the_chasm",
+                "perfect_shot",
+                "pressing_deadlines",
+                "qiaoying_the_village_of_many_tales",
+                "return_of_the_jade_chamber",
+                "says_he_who_seeks_stone",
+                "scrolls_and_sword_manuals_of_guhua",
+                "share_not_your_treasures",
+                "shrouded_vale_hidden_hero",
+                "silently_the_butterfly_crosses_the_valley",
+                "snapshots",
+                "stolen_by_the_rightful_owner",
+                "temporary_acclimatization",
+                "the_adventurers_guilds_affairs",
+                "the_chasms_bounty",
+                "the_chi_of_yore",
+                "the_cloud-padded_path_to_the_chiwang_repose",
+                "the_dealing_sands",
+                "the_millennial_mountains",
+                "the_missing_miner",
+                "the_ocean_pearl",
+                "the_roaming_abode",
+                "the_secret_of_nantianmen",
+                "the_tales_behind_the_fan",
+                "the_tree_who_stands_alone",
+                "the_yakshas_wish",
+                "threefold_expectations",
+                "tianqiu_treasure_trail",
+                "trails_in_tianqiu",
+                "treasure_lost_treasure_found_(part_1)",
+                "treasure_lost_treasure_found_(part_2)",
+                "undetected_infiltration",
+                "will_of_stone",
+                "words_worth_their_weight_in_mora",
+                "~~~what_do_adventurers_do_again"
+            ]
+        },
+        "Inazuma": {
+            "series": {
+                "film_notes": [
+                    "outlander_brigade",
+                    "mushounin"
+                ],
+                "neko_is_a_cat": [
+                    "neko_is_a_cat_shrine_cleanup",
+                    "neko_is_a_cat_wooden_shelf",
+                    "neko_is_a_cat_the_children",
+                    "neko_is_a_cat_shrine_recipe",
+                    "neko_is_a_cat_cat_and_stone",
+                    "neko_is_a_cat_stone_humans_troubles",
+                    "neko_is_a_cat_shrine_canteen",
+                    "neko_is_a_cat_ding-a-ling_metal_ball",
+                    "neko_is_a_cat_a_good_turn_comes_late"
+                ],
+                "orobashis_legacy": [
+                    "orobashis_legacy_prologue",
+                    "orobashis_legacy_part_i",
+                    "orobashis_legacy_part_ii",
+                    "orobashis_legacy_part_iii",
+                    "orobashis_legacy_part_iv",
+                    "orobashis_legacy_part_v"
+                ],
+                "ritou_travel_permit": [
+                    "chisatos_letter"
+                ],
+                "sacred_sakura_cleansing_ritual": [
+                    "a_strange_story_in_konda",
+                    "cleansing_defilement",
+                    "sacrificial_offering",
+                    "tanuki-bayashi_in_the_forest",
+                    "yougou_cleansing"
+                ],
+                "seirai_stormchasers": [
+                    "seirai_stormchasers_part_i",
+                    "seirai_stormchasers_part_ii",
+                    "seirai_stormchasers_part_iii",
+                    "seirai_stormchasers_part_iv"
+                ],
+                "tatara_tales": [
+                    "tatara_tales_(quest)",
+                    "tatara_tales_priority_investigation",
+                    "tatara_tales_purification_device",
+                    "tatara_tales_data_collection",
+                    "tatara_tales_process_is_everything",
+                    "tatara_tales_functional_test",
+                    "tatara_tales_final_preparations",
+                    "tatara_tales_the_last_act"
+                ],
+                "the_gourmet_supremos": [
+                    "gourmet_supremos_assemble",
+                    "the_gourmet_supremos_of_shrines_and_sakura",
+                    "the_gourmet_supremos_the_seashore_strider",
+                    "the_gourmet_supremos_the_deep_divers",
+                    "the_gourmet_supremos_on_the_road",
+                    "the_gourmet_supremos_the_importance_of_eating_well"
+                ],
+                "the_moon-bathed_deep": [
+                    "eye_of_watatsumi",
+                    "fang_of_watatsumi",
+                    "fin_of_watatsumi",
+                    "heart_of_watatsumi",
+                    "tail_of_watatsumi",
+                    "the_moon-bathed_deep_(quest)"
+                ],
+                "the_very_special_fortune_slip": [
+                    "shuumatsuban_operations",
+                    "the_replacements_secret",
+                    "where_the_dandelions_find_rest"
+                ],
+                "through_the_mists": [
+                    "a_particularly_particular_author",
+                    "octave_of_the_maushiro",
+                    "the_sea_of_fog_and_the_rite_of_the_trees",
+                    "the_sun-wheel_and_mt~_kanna"
+                ],
+                "erebos_secret": [
+                    "kunados_trial",
+                    "the_three_great_martial_trials",
+                    "yachimatahikos_trial",
+                    "yachimatahimes_trial"
+                ],
+                "from_dusk_to_dawn_in_byakuyakoku": [
+                    "dreams_in_the_gaps",
+                    "the_entrance_to_tokoyo",
+                    "the_heart_of_ouroboros",
+                    "the_subterranean_trials_of_drake_and_serpent",
+                    "the_trail_of_drake_and_serpent"
+                ],
+                "hyperions_dirge": [
+                    "hyperions_dirge_(quest)",
+                    "narrow_inquiry",
+                    "serpents_heart_inquiry",
+                    "temple_inquiry"
+                ]
+            },
+            "single": [
+                "a_glimpse_into_the_pale_night",
+                "antigonus",
+                "battle_of_revenge",
+                "clean_house",
+                "collection_of_dragons_and_snakes",
+                "dates_challenge",
+                "divine_plant_of_the_depths",
+                "dreams_of_sword_art",
+                "fate_of_a_fighter",
+                "fertilizer~~~_salesperson",
+                "gazing_three_thousand_miles_away",
+                "hiromis_watch",
+                "home_lies_over_the_ocean",
+                "in_another_land",
+                "international_travel_log",
+                "katheryne_in_inazuma",
+                "lotus_eater",
+                "o_archon_have_i_done_right",
+                "omni-ubiquity_net_(quest)",
+                "pizza_from_another_land",
+                "relics_of_seirai",
+                "reminiscence_of_seirai",
+                "sakura_arborism",
+                "sinister_instruction",
+                "solitary_sea-beast",
+                "storytelling_method",
+                "temaria_game",
+                "the_art_of_horticulture",
+                "the_commissions_commission",
+                "the_farmers_treasure",
+                "the_narukami_trail",
+                "the_phaethons_syrtos",
+                "the_ritou_road",
+                "the_saga_of_mr~_forgetful",
+                "the_seventh_samurai",
+                "the_still_waters_flow",
+                "treatment_on_the_island",
+                "tricolor_file",
+                "yae_publishing_houses_invitation"
+            ]
+        },
+        "Sumeru": {
+            "series": {
+                "a_gifted_rose": [
+                    "a_gifted_rose_prickly_as_thorns",
+                    "a_gifted_rose_long_day_ahead",
+                    "a_gifted_rose_can_stones_bloom",
+                    "a_gifted_rose_ballad_of_days_gone_by",
+                    "a_gifted_rose_some_people_never_fade_away"
+                ],
+                "agnihotra_sutra": [
+                    "the_final_chapter",
+                    "risen_moon_chapter",
+                    "starry_night_chapter"
+                ],
+                "an_unwavering_culinary_dream": [
+                    "an_unwavering_culinary_dream_(quest)",
+                    "cooking_the_flavor_of_nature",
+                    "cooking_a_pleasant_memory",
+                    "cooking_the_aroma_of_homecoming",
+                    "cooking_the_beauty_of_sharing",
+                    "a_delicacy_for_nara"
+                ],
+                "apocalypse_lost": [
+                    "memories_of_gurabad"
+                ],
+                "aranyaka": [
+                    {
+                        "name": "woodland_encounter",
+                        "subquests": [
+                            "woodland_encounter_(quest)",
+                            "the_children_of_vimara_village",
+                            "into_the_woods",
+                            "the_lost_child"
+                        ]
+                    },
+                    {
+                        "name": "dream_nursery",
+                        "subquests": [
+                            "the_world_of_aranara",
+                            "children_of_the_forest",
+                            "encounter_in_the_woods",
+                            "for_a_better_reunion",
+                            "festival_utsava",
+                            "delicious_riddle",
+                            "garden_fairies",
+                            "rishboland_tiger_roaaar",
+                            "sprouting_seedlings",
+                            "taste_of_happiness",
+                            "the_rhythm_that_leads_to_the_gloomy_path",
+                            "the_rhythm_that_nurtures_the_sprout",
+                            "the_rhythm_that_reveals_the_beastly_trail"
+                        ]
+                    },
+                    {
+                        "name": "nursery_of_lost_dreams",
+                        "subquests": [
+                            "for_fruits_seeds_and_trees",
+                            "for_the_children_of_the_past",
+                            "for_all_children_who_long_for_life"
+                        ]
+                    },
+                    {
+                        "name": "in_the_end_the_forest_will_remember",
+                        "subquests": [
+                            "hello_thank_you_and_the_final_goodbye"
+                        ]
+                    }
+                ],
+                "golden_slumber": [
+                    "lost_in_the_sands",
+                    "an_introduction_to_indoor_archaeology",
+                    "the_secret_of_al-ahmar",
+                    "dreams_beneath_the_searing_sand"
+                ],
+                "her_foes_rage_like_great_waters~~~": [
+                    "behold_the_sign_comes_like_a_thief~~~",
+                    "make_bright_the_arrows_gather_the_shields~~~",
+                    "for_her_judgment_reaches_to_the_skies~~~"
+                ],
+                "khvarena_of_good_and_evil": [
+                    "the_splendorous_sky_that_day",
+                    "as_the_khvarenas_light_shows",
+                    "asipattravana_itihasa",
+                    "awakenings_real_sound",
+                    "the_hymn_of_tir_yazad_(part_1)",
+                    "the_hymn_of_tir_yazad_(part_2)",
+                    "as_the_khvarenas_light_shows_dukkha",
+                    "as_the_khvarenas_light_shows_nirodha",
+                    "as_the_khvarenas_light_shows_samudaya"
+                ],
+                "monumental_study": [
+                    "investigate_the_fatui_camps_marked_by_sosi",
+                    "monumental_study_(quest)"
+                ],
+                "old_notes_and_new_friends": [
+                    "dual_evidence",
+                    "soheils_wish",
+                    "deserts_remembrance",
+                    "hidden_mercenaries",
+                    "invisible_barrier"
+                ],
+                "pale_fire": [
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(asipattravana_swamp)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(east_tunigi_hollow)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(hangeh_afrasiyab)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(madinat_al-nuhas)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(north_tunigi_hollow_1)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(north_tunigi_hollow_2)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(north_tunigi_hollow_3)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(northwest_tunigi_hollow)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(west_temir_mountains_1)",
+                    "awaken_the_residual_pari_in_the_fravashi_trees_(west_temir_mountains_2)",
+                    "pale_fire_(quest)"
+                ],
+                "the_dirge_of_bilqis": [
+                    "wisdom_has_built_her_house_she_has_hewn_out_her_seven_pillars",
+                    "the_temple_where_sand_flows_like_tears",
+                    "dune-entombed_fecundity_part_i",
+                    "dune-entombed_fecundity_part_ii",
+                    "dune-entombed_fecundity_part_iii",
+                    "the_eternal_dream_ever_lush"
+                ],
+                "the_exile_(world_quest_series)": [
+                    "the_exile_sprouting",
+                    "the_exile_blooming"
+                ],
+                "the_gourmet_supremos": [
+                    "gourmet_supremos_within_our_duties",
+                    "the_gourmet_supremos_cleanup"
+                ],
+                "varuna_gatha": [
+                    "varuna_gatha_(quest)",
+                    "a_prayer_for_rain_on_the_fecund_land",
+                    "irate_iron_chunk",
+                    "memory_of_stone",
+                    "slumbering_roots"
+                ],
+                "vimana_agama": [
+                    "vimana_agama_first_chapter",
+                    "vimana_agama_royinjans_chapter",
+                    "vimana_agama_jazaris_chapter",
+                    "vimana_agama_dev_delver_chapter",
+                    "royinjans_chapter_linga",
+                    "royinjans_chapter_yoni"
+                ]
+            },
+            "single": [
+                "a_short_encounter_with_a_rare_bird",
+                "adventure_takes_courage_(world_quest)",
+                "afratus_dilemma",
+                "an_artist_adrift_(part_1)",
+                "an_artist_adrift_(part_2)",
+                "an_artist_adrift_(part_3)",
+                "another_home_there_may_yet_be",
+                "aragarus_drawing",
+                "aranagas_memory",
+                "aranakins_old_friend",
+                "blooming_sands",
+                "corps_of_thirty_recruitment",
+                "cost-effective_hook",
+                "courage_is_in_the_heart",
+                "even_beasts_stumble",
+                "for_a_dream_i_tarry",
+                "garcias_paean_a_gift_of_compatibility",
+                "giving_flowers",
+                "heart_of_amrita",
+                "join_the_eremites_and_embrace_a_wonderful_new_life",
+                "legends_of_the_stone_lock",
+                "lightcall_resonance",
+                "memorys_final_chapter",
+                "next_time_on_king_of_invokations~~~",
+                "purbirunis_commandment",
+                "recollections_of_a_fontainian",
+                "rejoice_with_me_for_what_was_lost_is_now_found",
+                "search_for_the_lost_monument_fragments",
+                "static_views",
+                "static_views_part_2",
+                "tadhla_the_falcon",
+                "the_falcons_hunt",
+                "the_fallen_falcon",
+                "the_foolish_fatuus",
+                "the_path_of_papers",
+                "the_price",
+                "treasure_of_wisdom_a_new_plan",
+                "trees_and_dreams",
+                "until_vana_is_healed",
+                "where_are_the_fierce_creatures"
+            ]
+        },
+        "Fontaine": {
+            "series": {
+                "ancient_colors": [
+                    {
+                        "name": "a_brush_of_seafoam_and_crimson",
+                        "subquests": [
+                            "the_illusions_finishings"
+                        ]
+                    },
+                    {
+                        "name": "a_gradient_of_dreams_and_ochre",
+                        "subquests": [
+                            "there_will_come_soft_rains"
+                        ]
+                    },
+                    {
+                        "name": "blue_longing_of_heart_and_moon",
+                        "subquests": [
+                            "limner_dreamer_and_robotic_dog"
+                        ]
+                    }
+                ],
+                "ann_of_the_narzissenkreuz": [
+                    {
+                        "name": "the_narzissenkreuz_adventure_(act)",
+                        "subquests": [
+                            "the_narzissenkreuz_adventure",
+                            "the_story_of_the_princess_and_the_adventure_team"
+                        ]
+                    },
+                    {
+                        "name": "kingdom_through_the_looking-glass",
+                        "subquests": [
+                            "anns_story"
+                        ]
+                    },
+                    {
+                        "name": "if_she_no_longer_dreams_of_you~~~",
+                        "subquests": [
+                            "mary-anns_story"
+                        ]
+                    }
+                ],
+                "canticles_of_harmony": [
+                    {
+                        "name": "pharsalias_rhapsody",
+                        "subquests": [
+                            "gradus_ad_capitolium",
+                            "golden_aqueduct_reconstruction_part_i",
+                            "golden_aqueduct_reconstruction_part_ii"
+                        ]
+                    },
+                    {
+                        "name": "requiem",
+                        "subquests": [
+                            "fortune_plango_vulnera"
+                        ]
+                    }
+                ],
+                "fontaine_research_institute_chronicles": [
+                    "fontaine_research_institute_stagnating_in_the_rubble",
+                    "go_to_the_institute_dormitories_and_retrieve_the_anchor",
+                    "go_to_the_institute_of_clockwork_applications_and_retrieve_the_anchor"
+                ],
+                "in_the_wake_of_narcissus": [
+                    {
+                        "name": "search_in_the_algae_sea",
+                        "subquests": [
+                            "cupids_lover",
+                            "meteoric_lance",
+                            "muses_mother",
+                            "search_in_the_algae_sea_(quest)",
+                            "thalia_and_melpomene"
+                        ]
+                    },
+                    {
+                        "name": "saviors_wake",
+                        "subquests": [
+                            "saviors_wake_(quest)"
+                        ]
+                    },
+                    {
+                        "name": "waking_from_the_great_dream",
+                        "subquests": [
+                            "waking_from_the_great_dream_(quest)"
+                        ]
+                    },
+                    {
+                        "name": "rowboats_wake",
+                        "subquests": [
+                            "rowboats_wake_(quest)"
+                        ]
+                    }
+                ],
+                "questioning_melusine_and_answering_machine": [
+                    "vagrants_and_scamps",
+                    "the_red_and_the_black",
+                    "questions_and_answers"
+                ],
+                "scenes_from_life_in_meropide": [
+                    "scenes_from_life_in_meropide_a_raw_deal",
+                    "scenes_from_life_in_meropide_an_actors_training",
+                    "scenes_from_life_in_meropide_chit-chat",
+                    "scenes_from_life_in_meropide_dead_end",
+                    "scenes_from_life_in_meropide_every_debt_has_a_creditor",
+                    "scenes_from_life_in_meropide_fists_of_fury",
+                    "scenes_from_life_in_meropide_memories",
+                    "scenes_from_life_in_meropide_safe_operation",
+                    "scenes_from_life_in_meropide_the_art_of_negotiation",
+                    "scenes_from_life_in_meropide_treat_the_symptoms",
+                    "scenes_from_life_in_meropide_unfinished_task",
+                    "scenes_from_life_in_meropide_visible_hands"
+                ],
+                "the_wild_fairy_of_erinnyes": [
+                    "foggy_forest_path_(quest)",
+                    "furious_mouth_of_the_spring",
+                    "wilting_weeping_willow",
+                    "within_the_depths_of_erinnyes"
+                ],
+                "unfinished_comedy": [
+                    "an_eye_for_an_eye",
+                    "game_of_the_rich",
+                    "hereafter~~~"
+                ]
+            },
+            "single": [
+                "a_certain_notice",
+                "a_certain_stamp",
+                "a_certain_trifle",
+                "a_fontainian_message",
+                "a_letter",
+                "an_expected_lie",
+                "an_expected_plan",
+                "another_horizon_of_adventure",
+                "aqueous_tidemarks",
+                "book_of_esoteric_revelations",
+                "both_brains_and_brawn",
+                "danger_lurks_everywhere_in_fontaine",
+                "daydreams_beyond_space_and_time",
+                "echoes_of_the_ancient_world",
+                "fishing_game",
+                "for_yesterday_and_tomorrow",
+                "free_verse",
+                "good_stuff_but_terrible_taste_(belleau_region)",
+                "good_stuff_but_terrible_taste_(central_beryl_region)",
+                "good_stuff_but_terrible_taste_(court_of_fontaine_region)",
+                "good_stuff_but_terrible_taste_(southeast_beryl_region)",
+                "good_stuff_but_terrible_taste_(west_beryl_region)",
+                "good_stuff_but_terrible_taste_\u2014_continued",
+                "happy_birthday",
+                "hey_this_isnt_pumpkin_soup~~~",
+                "impromptu_poem_of_the_crimson_dawn",
+                "in_expert_company_(i)",
+                "in_expert_company_(ii)",
+                "in_search_of_lost_time",
+                "in_search_of_lost_time_north",
+                "in_search_of_lost_time_south",
+                "in_search_of_lost_time_west",
+                "initial_facts",
+                "latecoming_homecoming",
+                "leroy_beautiful_friends",
+                "leroy_dying_flash",
+                "leroy_firing_squad",
+                "leroy_hangmans_noose",
+                "leroy_high_noon",
+                "leroy_queen_of_the_nights_aria",
+                "leroy_under_guard",
+                "our_purpose_is_in_another_canal",
+                "pursuit_(part_1)",
+                "pursuit_(part_2)",
+                "riddles_awaiting_answers",
+                "road_to_the_singularity",
+                "semi-automatic_forging",
+                "steambird_interview",
+                "still_mouthwatering",
+                "strange_stone_chronicle_(part_1)",
+                "strange_stone_chronicle_(part_2)",
+                "strange_stone_chronicle_(part_3)",
+                "the_final_question",
+                "the_fountain_flows_again",
+                "the_lone_phantom_sail",
+                "the_long-failed_graph_adversarial_technology~~~",
+                "the_three_primary_colors_of_the_solar_corona",
+                "through_the_looking_glass",
+                "treacherous_light_of_the_depths",
+                "truly_mouthwatering",
+                "unfinished_story",
+                "upon_a_flowery_field_of_grass",
+                "villains",
+                "were_it_so_easy",
+                "where_his_life_lies",
+                "wish-fulfilling_treasure_hunt"
+            ]
+        },
+        "Natlan": {
+            "series": {
+                "between_pledge_and_forgettance": [
+                    "lost_in_the_woods",
+                    "revelations_from_the_past",
+                    "rite_of_the_bold"
+                ],
+                "in_the_footsteps_of_the_chosen_of_dragons": [
+                    "a_saurian_lovers_ordinary_days",
+                    "feeling_like_fish_today",
+                    "gifts_and_gifts_in_return",
+                    "lies_and_promises",
+                    "lights_kamera_action",
+                    "special_friends",
+                    "tepetlisaurus_hide-and-seek",
+                    "treasures_and_collectors",
+                    "waiting_for_seeds_to_sprout",
+                    "weighty_wings"
+                ],
+                "shadows_of_the_mountains": [
+                    "beneath_the_crystal_rock",
+                    "peace_to_the_slumbering"
+                ],
+                "tale_of_dreams_plucked_from_fire": [
+                    "seeker_no_finding",
+                    "tracer_no_tracing"
+                ]
+            },
+            "single": [
+                "ripe_for_trouble",
+                "stride_on_rainbows_split_the_waves",
+                "the_case_of_the_crafting_bench",
+                "the_road_ahead",
+                "to_the_night_what_is_the_nights",
+                "to_wish_upon_a_star",
+                "toward_red-hot_adventure"
+            ]
+        }
+    }
+}

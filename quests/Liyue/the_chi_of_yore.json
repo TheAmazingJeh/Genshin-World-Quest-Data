@@ -1,0 +1,186 @@
+{
+    "type": "single",
+    "name": "The Chi of Yore",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Chi_of_Yore",
+    "starting_location": {
+        "plaintext": "Bishui Plain , Liyue",
+        "markdown": "\u25c0Bishui Plain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bishui_Plain\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Liyue Shrine of Depths Key",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Shrine_of_Depths_Key",
+            "Image": "Item_Liyue_Shrine_of_Depths_Key.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Investigate the ruin",
+            "markdown": "Investigate the ruin",
+            "substeps": [
+                {
+                    "plaintext": "Defeat the Ruin Hunter in the ruin then read the \"Incomplete writing\"",
+                    "markdown": "Defeat the \u25c0Ruin Hunter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Hunter\u25b7 in the ruin then read the \"Incomplete writing\""
+                },
+                {
+                    "plaintext": "Find the 3 strange stones near the ruin. There will be large chunks of amber near them",
+                    "markdown": "Find the 3 strange stones near the ruin. There will be large chunks of amber near them"
+                },
+                {
+                    "plaintext": "Open the Precious Chest that spawns close to the \"Incomplete writing\"",
+                    "markdown": "Open the Precious Chest that spawns close to the \"Incomplete writing\"",
+                    "substeps": [
+                        {
+                            "plaintext": "Obtain Collected Fragment",
+                            "markdown": "Obtain Collected Fragment"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Ask the locals of Qingce Village about the fragments",
+            "markdown": "Ask the locals of \u25c0Qingce Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingce_Village\u25b7 about the fragments"
+        },
+        {
+            "plaintext": "Ask Granny Ruoxin about the fragments",
+            "markdown": "Ask \u25c0Granny Ruoxin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Granny_Ruoxin\u25b7 about the fragments"
+        },
+        {
+            "plaintext": "Search for fragments near the Geo Statues",
+            "markdown": "Search for fragments near the Geo Statues",
+            "substeps": [
+                {
+                    "plaintext": "Location",
+                    "markdown": "\u25c0Location\u25b6\u25c1#Gameplay_Notes\u25b7"
+                },
+                {
+                    "plaintext": "Activate the statues in order: North, South East, North West, North East, South West",
+                    "markdown": "Activate the statues in order: North, South East, North West, North East, South West"
+                },
+                {
+                    "plaintext": "(the directions listed in the \"Incomplete writing\")",
+                    "markdown": "(the directions listed in the \"Incomplete writing\")",
+                    "substeps": [
+                        {
+                            "plaintext": "Obtain Collected Fragment",
+                            "markdown": "Obtain Collected Fragment"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the highest point of Qingce Village to search for fragments",
+            "markdown": "Go to the highest point of Qingce Village to search for fragments",
+            "substeps": [
+                {
+                    "plaintext": "Location",
+                    "markdown": "\u25c0Location\u25b6\u25c1#Gameplay_Notes\u25b7"
+                },
+                {
+                    "plaintext": "Activate the statues in order, starting from the one facing Stormterror's Lair as the 1st, then go clockwise for the 3rd, 4th, and 6th",
+                    "markdown": "Activate the statues in order, starting from the one facing \u25c0Stormterror's Lair\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stormterror%27s_Lair\u25b7 as the 1st, then go clockwise for the 3rd, 4th, and 6th",
+                    "substeps": [
+                        {
+                            "plaintext": "Obtain Collected Fragment",
+                            "markdown": "Obtain Collected Fragment"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Decipher the fragment",
+            "markdown": "Decipher the fragment"
+        },
+        {
+            "plaintext": "Find a way into the vault",
+            "markdown": "Find a way into the vault"
+        },
+        {
+            "plaintext": "Search the vault",
+            "markdown": "Search the vault",
+            "substeps": [
+                {
+                    "plaintext": "Two Common Chests can be found inside the vault.",
+                    "markdown": "Two Common \u25c0Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chest\u25b7 can be found inside the vault."
+                },
+                {
+                    "plaintext": "Treasure Hoarders spawn as you get closer to the mechanism in the center of the room.",
+                    "markdown": "\u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7 spawn as you get closer to the mechanism in the center of the room."
+                },
+                {
+                    "plaintext": "After interacting with the Qingce Cache mechanism, waves of monsters will attack while rocks fall down from the ceiling, dealing AoE Geo DMG. Your goal is to prevent them from destroying the structure.",
+                    "markdown": "After interacting with the Qingce Cache mechanism, waves of monsters will attack while rocks fall down from the ceiling, dealing AoE Geo DMG. Your goal is to prevent them from destroying the structure."
+                },
+                {
+                    "plaintext": "There is a pool of water in the room so you can use that to cause elemental reactions on the enemies (Frozen, Electro-Charged, Vaporize and Bloom)",
+                    "markdown": "There is a pool of water in the room so you can use that to cause \u25c0elemental reactions\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_reactions\u25b7 on the enemies (Frozen, Electro-Charged, Vaporize and Bloom)",
+                    "substeps": [
+                        {
+                            "plaintext": "First Wave:  Ruin Guard x1",
+                            "markdown": "First Wave: <img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Second Wave:  Ruin Guard x3",
+                            "markdown": "Second Wave: <img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x3",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Third Wave:  Ruin Hunter x1",
+                            "markdown": "Third Wave: <img:ruin_hunter> \u25c0Ruin Hunter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Hunter\u25b7 x1",
+                            "img": {
+                                "ruin_hunter": "Ruin_Hunter_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Find the treasure",
+            "markdown": "Find the treasure",
+            "substeps": [
+                {
+                    "plaintext": "Continue towards the back of the room to find 1 Luxurious, 1 Precious, 2 Exquisite, and 2 Common Chests. There is also a Geoculus and a Seelie in the room.",
+                    "markdown": "Continue towards the back of the room to find 1 Luxurious, 1 Precious, 2 Exquisite, and 2 Common Chests. There is also a \u25c0Geoculus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geoculus\u25b7 and a \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 in the room."
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to Qingce Village and report to Granny Ruoxin",
+            "markdown": "Head to Qingce Village and report to Granny Ruoxin"
+        }
+    ],
+    "dialogue": true
+}

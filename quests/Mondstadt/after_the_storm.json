@@ -1,0 +1,64 @@
+{
+    "type": "single",
+    "name": "After the Storm",
+    "url": "https://genshin-impact.fandom.com/wiki/After_the_Storm",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Song of the Dragon and Freedom",
+        "markdown": "Complete \u25c0Song of the Dragon and Freedom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Song_of_the_Dragon_and_Freedom\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Crystal Chunk",
+            "Value": "12",
+            "Link": "https://genshin-impact.fandom.com/wiki/Crystal_Chunk",
+            "Image": "Item_Crystal_Chunk.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Wagner",
+            "markdown": "Talk to \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7"
+        },
+        {
+            "plaintext": "Go and check for crystal ore in Stormterror's Lair (0/3)",
+            "markdown": "Go and check for crystal ore in \u25c0Stormterror's Lair\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stormterror%27s_Lair\u25b7 (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Each of these spots the player has to check has 4 Crystal Chunk nodes.",
+                    "markdown": "Each of these spots the player has to check has 4 \u25c0Crystal Chunk\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crystal_Chunk\u25b7 nodes."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the Crystal Chunks to Wagner",
+            "markdown": "Give the Crystal Chunks to Wagner"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,61 @@
+{
+    "type": "single",
+    "name": "Go to the Institute of Clockwork Applications and retrieve the Anchor",
+    "url": "https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_of_Clockwork_Applications_and_retrieve_the_Anchor",
+    "starting_location": {
+        "plaintext": "Fontaine Research Institute of Kinetic Energy Engineering Region , Fontaine",
+        "markdown": "\u25c0Fontaine Research Institute of Kinetic Energy Engineering Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute_of_Kinetic_Energy_Engineering_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Institute of Clockwork Applications",
+            "markdown": "Go to the Institute of Clockwork Applications"
+        },
+        {
+            "plaintext": "Defeat all the Gardemeks",
+            "markdown": "Defeat all the Gardemeks",
+            "substeps": [
+                {
+                    "plaintext": "Annihilation Specialist Mek - Pneuma x2",
+                    "markdown": "<img:annihilation_specialist_mek_-_pneuma> \u25c0Annihilation Specialist Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek_-_Pneuma\u25b7 x2",
+                    "img": {
+                        "annihilation_specialist_mek_-_pneuma": "Annihilation_Specialist_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Enter the Institute of Clockwork Applications",
+            "markdown": "Enter the Institute of Clockwork Applications"
+        },
+        {
+            "plaintext": "Retrieve the Survey Anchor",
+            "markdown": "Retrieve the Survey Anchor"
+        }
+    ],
+    "dialogue": true
+}

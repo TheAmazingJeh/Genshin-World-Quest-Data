@@ -1,0 +1,90 @@
+{
+    "type": "single",
+    "name": "Ripe For Trouble",
+    "url": "https://genshin-impact.fandom.com/wiki/Ripe_For_Trouble",
+    "starting_location": {
+        "plaintext": "Tequemecan Valley , Natlan",
+        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "\"Scions of the Canopy\" Reputation EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Scions_of_the_Canopy%22_Reputation_EXP",
+            "Image": "Item_%22Scions_of_the_Canopy%22_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "13,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter the cavern and look for Tisoc, who has gone missing",
+            "markdown": "Enter the cavern and look for Tisoc, who has gone missing"
+        },
+        {
+            "plaintext": "Explore the roots of the Flamegranate Tree",
+            "markdown": "Explore the roots of the Flamegranate Tree"
+        },
+        {
+            "plaintext": "Break the solidified magma",
+            "markdown": "Break the solidified magma"
+        },
+        {
+            "plaintext": "Continue forward",
+            "markdown": "Continue forward"
+        },
+        {
+            "plaintext": "Break the solidified magma",
+            "markdown": "Break the solidified magma"
+        },
+        {
+            "plaintext": "Go to the lower levels of the Flamegranate's roots",
+            "markdown": "Go to the lower levels of the Flamegranate's roots"
+        },
+        {
+            "plaintext": "Find a way to increase the Liquid Phlogiston levels",
+            "markdown": "Find a way to increase the Liquid Phlogiston levels"
+        },
+        {
+            "plaintext": "Break the large solidified magma",
+            "markdown": "Break the large solidified magma"
+        },
+        {
+            "plaintext": "Flee! Quickly!",
+            "markdown": "Flee! Quickly!"
+        },
+        {
+            "plaintext": "Talk to Tisoc",
+            "markdown": "Talk to Tisoc"
+        }
+    ],
+    "dialogue": true
+}

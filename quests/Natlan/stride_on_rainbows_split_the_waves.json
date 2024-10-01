@@ -1,0 +1,94 @@
+{
+    "type": "single",
+    "name": "Stride on Rainbows, Split the Waves",
+    "url": "https://genshin-impact.fandom.com/wiki/Stride_on_Rainbows%2C_Split_the_Waves",
+    "starting_location": {
+        "plaintext": "Ameyalco Waters , Natlan",
+        "markdown": "\u25c0Ameyalco Waters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ameyalco_Waters\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Help Rongo chase the Flowcurrent Birds away (0/6)",
+            "markdown": "Help Rongo chase the Flowcurrent Birds away (0/6)"
+        },
+        {
+            "plaintext": "Talk to Rongo",
+            "markdown": "Talk to Rongo"
+        },
+        {
+            "plaintext": "Talk to Rongo",
+            "markdown": "Talk to Rongo"
+        },
+        {
+            "plaintext": "Complete the surfing test",
+            "markdown": "Complete the surfing test"
+        },
+        {
+            "plaintext": "Talk to Rongo",
+            "markdown": "Talk to Rongo"
+        },
+        {
+            "plaintext": "Look around nearby for a way to repair the Spiritdoors",
+            "markdown": "Look around nearby for a way to repair the Spiritdoors"
+        },
+        {
+            "plaintext": "Talk to Rongo",
+            "markdown": "Talk to Rongo"
+        },
+        {
+            "plaintext": "Wait until the following day",
+            "markdown": "Wait until the following day"
+        },
+        {
+            "plaintext": "Check on the Great Training Arena of the Springs",
+            "markdown": "Check on the Great Training Arena of the Springs"
+        },
+        {
+            "plaintext": "Complete the Spiritway test",
+            "markdown": "Complete the Spiritway test"
+        },
+        {
+            "plaintext": "Talk to Rongo",
+            "markdown": "Talk to Rongo"
+        }
+    ],
+    "dialogue": true
+}

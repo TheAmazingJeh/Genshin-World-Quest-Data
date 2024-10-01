@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "In Search of Lost Time: North",
+    "url": "https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time%3A_North",
+    "starting_location": {
+        "plaintext": "Fontaine Research Institute of Kinetic Energy Engineering Region , Fontaine",
+        "markdown": "\u25c0Fontaine Research Institute of Kinetic Energy Engineering Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute_of_Kinetic_Energy_Engineering_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the lower level and investigate the strange voice",
+            "markdown": "Go to the lower level and investigate the strange voice"
+        },
+        {
+            "plaintext": "Defeat the Fatui",
+            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
+                    "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
+                    "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Continue exploring the tower",
+            "markdown": "Continue exploring the tower"
+        },
+        {
+            "plaintext": "Examine the terminal",
+            "markdown": "Examine the terminal"
+        }
+    ],
+    "dialogue": true
+}

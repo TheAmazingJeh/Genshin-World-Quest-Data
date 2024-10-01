@@ -1,0 +1,78 @@
+{
+    "type": "single",
+    "name": "Silently the Butterfly Crosses the Valley",
+    "url": "https://genshin-impact.fandom.com/wiki/Silently_the_Butterfly_Crosses_the_Valley",
+    "starting_location": {
+        "plaintext": "Lingshu Courtyard , Chenyu Vale: Southern Mountain , Liyue",
+        "markdown": "\u25c0Lingshu Courtyard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingshu_Courtyard\u25b7 , \u25c0Chenyu Vale: Southern Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Southern_Mountain\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Capture the butterflies",
+            "markdown": "Capture the butterflies"
+        },
+        {
+            "plaintext": "Chase the butterflies into the medicine jar (0/5)",
+            "markdown": "Chase the butterflies into the medicine jar (0/5)"
+        },
+        {
+            "plaintext": "Talk to the Sacred Simulacra",
+            "markdown": "Talk to the Sacred Simulacra"
+        },
+        {
+            "plaintext": "Investigate the ancient tree",
+            "markdown": "Investigate the ancient tree"
+        },
+        {
+            "plaintext": "Return to Adeptus's Repose",
+            "markdown": "Return to \u25c0Adeptus's Repose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adeptus%27s_Repose\u25b7"
+        },
+        {
+            "plaintext": "Look for the medicine jar mentioned by the Sacred Simalacrum",
+            "markdown": "Look for the medicine jar mentioned by the Sacred Simalacrum"
+        },
+        {
+            "plaintext": "Explore the hidden vault",
+            "markdown": "Explore the hidden vault"
+        }
+    ],
+    "dialogue": true
+}

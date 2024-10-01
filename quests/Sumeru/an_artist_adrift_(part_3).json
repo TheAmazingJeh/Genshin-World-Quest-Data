@@ -1,0 +1,87 @@
+{
+    "type": "single",
+    "name": "An Artist Adrift (Part 3)",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Artist_Adrift_%28Part_3%29",
+    "starting_location": {
+        "plaintext": "Hills of Barsom , Sumeru",
+        "markdown": "\u25c0Hills of Barsom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hills_of_Barsom\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the camp by the water",
+            "markdown": "Go to the camp by the water"
+        },
+        {
+            "plaintext": "Go to the Vourukasha Oasis",
+            "markdown": "Go to the Vourukasha Oasis"
+        },
+        {
+            "plaintext": "Talk to Julien",
+            "markdown": "Talk to Julien"
+        },
+        {
+            "plaintext": "Go to a vantage point with a better view",
+            "markdown": "Go to a vantage point with a better view",
+            "substeps": [
+                {
+                    "plaintext": "Complete a traversing type Time Trial Challenge.",
+                    "markdown": "Complete a traversing type \u25c0Time Trial Challenge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Time_Trial_Challenge\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Julien",
+            "markdown": "Talk to Julien"
+        },
+        {
+            "plaintext": "Leave the vantage point and keep moving",
+            "markdown": "Leave the vantage point and keep moving"
+        },
+        {
+            "plaintext": "Show Julien a special sight",
+            "markdown": "Show Julien a special sight",
+            "substeps": [
+                {
+                    "plaintext": "Complete the Sunyata Flower puzzle to advance the quest. Use Sorush to fly through each flower, starting with the flower in the center.",
+                    "markdown": "Complete the \u25c0Sunyata Flower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sunyata_Flower\u25b7 puzzle to advance the quest. Use Sorush to fly through each flower, starting with the flower in the center."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Julien",
+            "markdown": "Talk to Julien"
+        }
+    ],
+    "dialogue": true
+}

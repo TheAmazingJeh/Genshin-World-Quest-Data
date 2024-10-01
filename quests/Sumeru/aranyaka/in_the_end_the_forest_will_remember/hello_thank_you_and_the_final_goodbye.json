@@ -1,0 +1,69 @@
+{
+    "type": "single",
+    "name": "\"Hello,\" \"Thank You,\" and the Final \"Goodbye\"",
+    "url": "https://genshin-impact.fandom.com/wiki/%22Hello%2C%22_%22Thank_You%2C%22_and_the_Final_%22Goodbye%22",
+    "starting_location": {
+        "plaintext": "Land of Grounded Dreams , Sumeru",
+        "markdown": "\u25c0Land of Grounded Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Grounded_Dreams\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Stories of You and the Aranara",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Stories_of_You_and_the_Aranara",
+            "Image": "Item_Stories_of_You_and_the_Aranara.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Garland",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Garland",
+            "Image": "Item_Garland.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Arana",
+            "markdown": "Talk to \u25c0Arana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arana\u25b7"
+        },
+        {
+            "plaintext": "Return to Rana",
+            "markdown": "Return to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7"
+        },
+        {
+            "plaintext": "Talk to Rana",
+            "markdown": "Talk to Rana"
+        }
+    ],
+    "dialogue": true
+}

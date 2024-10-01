@@ -1,0 +1,344 @@
+{
+    "type": "single",
+    "name": "Dreams Beneath the Searing Sand",
+    "url": "https://genshin-impact.fandom.com/wiki/Dreams_Beneath_the_Searing_Sand",
+    "starting_location": {
+        "plaintext": "Sobek Oasis , Sumeru",
+        "markdown": "\u25c0Sobek Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sobek_Oasis\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Return to the oasis",
+            "markdown": "Return to the oasis"
+        },
+        {
+            "plaintext": "Defeat the Eremites",
+            "markdown": "Defeat \u25c0the Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eremites\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Eremite Linebreaker x1",
+                            "markdown": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 x1",
+                            "img": {
+                                "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Eremite Ravenbeak Halberdier x2",
+                            "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x2",
+                            "img": {
+                                "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Eremite Stone Enchanter x1",
+                            "markdown": "<img:eremite_stone_enchanter> \u25c0Eremite Stone Enchanter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Stone_Enchanter\u25b7 x1",
+                            "img": {
+                                "eremite_stone_enchanter": "Eremite_Stone_Enchanter_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Nachtigal",
+            "markdown": "Talk to \u25c0Nachtigal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nachtigal\u25b7"
+        },
+        {
+            "plaintext": "Go to the next oasis",
+            "markdown": "Go to the next oasis"
+        },
+        {
+            "plaintext": "Talk to Jebrael",
+            "markdown": "Talk to \u25c0Jebrael\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jebrael\u25b7"
+        },
+        {
+            "plaintext": "Talk to Tirzad",
+            "markdown": "Talk to \u25c0Tirzad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tirzad\u25b7"
+        },
+        {
+            "plaintext": "Go to Khaj-Nisut",
+            "markdown": "Go to \u25c0Khaj-Nisut\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Khaj-Nisut\u25b7"
+        },
+        {
+            "plaintext": "Search for Khaj-Nisut",
+            "markdown": "Search for Khaj-Nisut"
+        },
+        {
+            "plaintext": "Go to the Eremites' camp",
+            "markdown": "Go to the Eremites' camp"
+        },
+        {
+            "plaintext": "Talk to The Eremites",
+            "markdown": "Talk to The Eremites"
+        },
+        {
+            "plaintext": "Defeat the Eremites",
+            "markdown": "Defeat the Eremites",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Eremite Daythunder x1",
+                            "markdown": "<img:eremite_daythunder> \u25c0Eremite Daythunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Daythunder\u25b7 x1",
+                            "img": {
+                                "eremite_daythunder": "Eremite_Daythunder_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Eremite Sunfrost x1",
+                            "markdown": "<img:eremite_sunfrost> \u25c0Eremite Sunfrost\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sunfrost\u25b7 x1",
+                            "img": {
+                                "eremite_sunfrost": "Eremite_Sunfrost_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Eremite Galehunter x1",
+                            "markdown": "<img:eremite_galehunter> \u25c0Eremite Galehunter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Galehunter\u25b7 x1",
+                            "img": {
+                                "eremite_galehunter": "Eremite_Galehunter_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Eremite Ravenbeak Halberdier x2",
+                            "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x2",
+                            "img": {
+                                "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Jeht",
+            "markdown": "Talk to \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7"
+        },
+        {
+            "plaintext": "Search for clues in the Eremites' camp",
+            "markdown": "Search for clues in the Eremites' camp"
+        },
+        {
+            "plaintext": "Report back to Jebrael on the discovered clues",
+            "markdown": "Report back to Jebrael on the discovered clues"
+        },
+        {
+            "plaintext": "Pass the three trials (0/3)",
+            "markdown": "Pass the three trials (0/3)"
+        },
+        {
+            "plaintext": "Find the way to Khaj-Nisut",
+            "markdown": "Find the way to Khaj-Nisut"
+        },
+        {
+            "plaintext": "Enter Khaj-Nisut",
+            "markdown": "Enter Khaj-Nisut"
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring"
+        },
+        {
+            "plaintext": "Explore Khaj-Nisut's lower floor",
+            "markdown": "Explore Khaj-Nisut's lower floor"
+        },
+        {
+            "plaintext": "Descend further",
+            "markdown": "Descend further"
+        },
+        {
+            "plaintext": "Activate Plinth(s) of the Secret Rites",
+            "markdown": "Activate Plinth(s) of the Secret Rites"
+        },
+        {
+            "plaintext": "Continue forward",
+            "markdown": "Continue forward"
+        },
+        {
+            "plaintext": "Activate the mechanism in the center of the hall (0/3)",
+            "markdown": "Activate the mechanism in the center of the hall (0/3)"
+        },
+        {
+            "plaintext": "Go to Khaj-Nisut's upper floor",
+            "markdown": "Go to Khaj-Nisut's upper floor"
+        },
+        {
+            "plaintext": "Operate Prism of Khaj-Nisut and try to reach Khaj-Nisut's upper floor",
+            "markdown": "Operate Prism of Khaj-Nisut and try to reach Khaj-Nisut's upper floor"
+        },
+        {
+            "plaintext": "Defeat the opponents",
+            "markdown": "Defeat the opponents"
+        },
+        {
+            "plaintext": "Go to the upper floor",
+            "markdown": "Go to the upper floor"
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring"
+        },
+        {
+            "plaintext": "Approach the throne",
+            "markdown": "Approach the throne"
+        },
+        {
+            "plaintext": "Defeat Samail's subordinates",
+            "markdown": "Defeat Samail's subordinates",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
+                            "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Eremite Crossbow x2",
+                            "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x2",
+                            "img": {
+                                "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Eremite Daythunder x1",
+                            "markdown": "<img:eremite_daythunder> \u25c0Eremite Daythunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Daythunder\u25b7 x1",
+                            "img": {
+                                "eremite_daythunder": "Eremite_Daythunder_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Eremite Desert Clearwater x1",
+                            "markdown": "<img:eremite_desert_clearwater> \u25c0Eremite Desert Clearwater\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Desert_Clearwater\u25b7 x1",
+                            "img": {
+                                "eremite_desert_clearwater": "Eremite_Desert_Clearwater_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Eremite Stone Enchanter x1",
+                            "markdown": "<img:eremite_stone_enchanter> \u25c0Eremite Stone Enchanter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Stone_Enchanter\u25b7 x1",
+                            "img": {
+                                "eremite_stone_enchanter": "Eremite_Stone_Enchanter_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Eremite Ravenbeak Halberdier x1",
+                            "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x1",
+                            "img": {
+                                "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Eremite Crossbow x1",
+                            "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
+                            "img": {
+                                "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Escape from Khaj-Nisut",
+            "markdown": "Escape from Khaj-Nisut",
+            "substeps": [
+                {
+                    "plaintext": "Begins a Time Trial Challenge. If the sea of consciousness touches the player before they reach the exit, the challenge restarts from the beginning.",
+                    "markdown": "Begins a \u25c0Time Trial Challenge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Time_Trial_Challenge\u25b7. If the sea of consciousness touches the player before they reach the exit, the challenge restarts from the beginning."
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to Aaru Village",
+            "markdown": "Return to Aaru Village"
+        }
+    ],
+    "dialogue": true
+}

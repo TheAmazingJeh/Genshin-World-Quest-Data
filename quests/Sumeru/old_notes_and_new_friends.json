@@ -1,0 +1,67 @@
+{
+    "type": "series",
+    "name": "Old Notes and New Friends",
+    "url": "https://genshin-impact.fandom.com/wiki/Old_Notes_and_New_Friends",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,550",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "130,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "13",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "13",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Dual Evidence",
+            "markdown": "\u25c0Dual Evidence\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dual_Evidence\u25b7"
+        },
+        {
+            "plaintext": "Soheil's Wish",
+            "markdown": "\u25c0Soheil's Wish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil%27s_Wish\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Invisible Barrier",
+                    "markdown": "\u25c0Invisible Barrier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Invisible_Barrier\u25b7"
+                },
+                {
+                    "plaintext": "Hidden Mercenaries",
+                    "markdown": "\u25c0Hidden Mercenaries\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hidden_Mercenaries\u25b7"
+                },
+                {
+                    "plaintext": "Desert's Remembrance",
+                    "markdown": "\u25c0Desert's Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert%27s_Remembrance\u25b7"
+                }
+            ]
+        }
+    ]
+}

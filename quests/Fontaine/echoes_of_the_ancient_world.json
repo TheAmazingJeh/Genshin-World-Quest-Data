@@ -1,0 +1,134 @@
+{
+    "type": "single",
+    "name": "Echoes of the Ancient World",
+    "url": "https://genshin-impact.fandom.com/wiki/Echoes_of_the_Ancient_World",
+    "starting_location": {
+        "plaintext": "Merusea Village , Fontaine",
+        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete \"Hey, This Isn't Pumpkin Soup...\" and Ancient Colors",
+        "markdown": "Complete \u25c0\"Hey, This Isn't Pumpkin Soup...\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Hey,_This_Isn%27t_Pumpkin_Soup...%22\u25b7 and \u25c0Ancient Colors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Colors\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Strange Part",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Strange_Part",
+            "Image": "Item_Strange_Part.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for Carabosse",
+            "markdown": "Look for \u25c0Carabosse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Carabosse\u25b7"
+        },
+        {
+            "plaintext": "Go to the sealed cave",
+            "markdown": "Go to the sealed cave"
+        },
+        {
+            "plaintext": "Look for a way to break the seal",
+            "markdown": "Look for a way to break the seal"
+        },
+        {
+            "plaintext": "Find the lost score",
+            "markdown": "Find the lost score"
+        },
+        {
+            "plaintext": "Get back ashore",
+            "markdown": "Get back ashore"
+        },
+        {
+            "plaintext": "Talk to Katheryne",
+            "markdown": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7"
+        },
+        {
+            "plaintext": "Talk to Topyas",
+            "markdown": "Talk to \u25c0Topyas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Topyas\u25b7"
+        },
+        {
+            "plaintext": "Place the token",
+            "markdown": "Place the token"
+        },
+        {
+            "plaintext": "Use the Xenochromatic Armored Crab's ability to unleash shockwaves at the Conch Harp",
+            "markdown": "Use the \u25c0Xenochromatic\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xenochromatic_Creature\u25b7 Armored Crab's ability to unleash shockwaves at the Conch Harp"
+        },
+        {
+            "plaintext": "Clear out the creatures dwelling within the Conch Harp",
+            "markdown": "Clear out the creatures dwelling within the Conch Harp",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:  Armored Crab x3",
+                    "markdown": "Wave 1: <img:armored_crab> \u25c0Armored Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Armored_Crab\u25b7 x3",
+                    "img": {
+                        "armored_crab": "Armored_Crab_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 2:  Armored Crab x3",
+                    "markdown": "Wave 2: <img:armored_crab> \u25c0Armored Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Armored_Crab\u25b7 x3",
+                    "img": {
+                        "armored_crab": "Armored_Crab_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 3:  Sternshield Crab x1",
+                    "markdown": "Wave 3: <img:sternshield_crab> \u25c0Sternshield Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sternshield_Crab\u25b7 x1",
+                    "img": {
+                        "sternshield_crab": "Sternshield_Crab_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Admire the Conch Harp's performance",
+            "markdown": "Admire the Conch Harp's performance"
+        }
+    ],
+    "dialogue": true
+}

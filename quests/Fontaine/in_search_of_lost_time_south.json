@@ -1,0 +1,72 @@
+{
+    "type": "single",
+    "name": "In Search of Lost Time: South",
+    "url": "https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time%3A_South",
+    "starting_location": {
+        "plaintext": "New Fontaine Research Institute , Fontaine",
+        "markdown": "\u25c0New Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/New_Fontaine_Research_Institute\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter the sunken hydrology research station",
+            "markdown": "Enter the sunken hydrology research station"
+        },
+        {
+            "plaintext": "Investigate the main control room",
+            "markdown": "Investigate the main control room"
+        },
+        {
+            "plaintext": "Find a way to charge the research terminal",
+            "markdown": "Find a way to charge the research terminal",
+            "substeps": [
+                {
+                    "plaintext": "Deepwater Assault Mek x1",
+                    "markdown": "<img:deepwater_assault_mek> \u25c0Deepwater Assault Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Deepwater_Assault_Mek\u25b7 x1",
+                    "img": {
+                        "deepwater_assault_mek": "Deepwater_Assault_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Use the research terminal to access the hydrology research data",
+            "markdown": "Use the research terminal to access the hydrology research data"
+        },
+        {
+            "plaintext": "Talk to Broglie",
+            "markdown": "Talk to Broglie"
+        }
+    ],
+    "dialogue": true
+}

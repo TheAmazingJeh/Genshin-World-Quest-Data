@@ -1,0 +1,96 @@
+{
+    "type": "single",
+    "name": "Shuumatsuban Operations",
+    "url": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Operations",
+    "starting_location": {
+        "plaintext": "Inazuma City , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Gendou Ringo's Strange Fortune Slips and Omnipresence Over Mortals",
+        "markdown": "Complete \u25c0Gendou Ringo's Strange Fortune Slips\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gendou_Ringo%27s_Strange_Fortune_Slips\u25b7 and \u25c0Omnipresence Over Mortals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Omnipresence_Over_Mortals\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Special Bamboo Slip",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Special_Bamboo_Slip",
+            "Image": "Item_Bamboo_Slip.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head for the safehouse to investigate",
+            "markdown": "Head for the safehouse to investigate"
+        },
+        {
+            "plaintext": "Go to the safehouse to look for Gendou Ringo",
+            "markdown": "Go to the safehouse to look for \u25c0Gendou Ringo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gendou_Ringo\u25b7"
+        },
+        {
+            "plaintext": "Find the three spies (0/3)",
+            "markdown": "Find the three spies (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Win the trust of the spy in Ritou",
+                    "markdown": "Win the trust of the spy in Ritou"
+                },
+                {
+                    "plaintext": "Win the trust of the spy in Inazuma City",
+                    "markdown": "Win the trust of the spy in Inazuma City"
+                },
+                {
+                    "plaintext": "Win the trust of the spy at the hot springs",
+                    "markdown": "Win the trust of the spy at the hot springs",
+                    "substeps": [
+                        {
+                            "plaintext": "(Optional) Talk to Mikawa Akane to pinpoint her location",
+                            "markdown": "(Optional) Talk to \u25c0Mikawa Akane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikawa_Akane\u25b7 to pinpoint her location"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Report your intel to Momoyo",
+            "markdown": "Report your intel to \u25c0Momoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Momoyo\u25b7"
+        }
+    ],
+    "dialogue": true
+}

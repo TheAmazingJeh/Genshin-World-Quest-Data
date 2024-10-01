@@ -1,0 +1,68 @@
+{
+    "type": "single",
+    "name": "For a Dream I Tarry",
+    "url": "https://genshin-impact.fandom.com/wiki/For_a_Dream_I_Tarry",
+    "starting_location": {
+        "plaintext": "Lokapala Jungle , Sumeru",
+        "markdown": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Sumeru's Archon Quest and Aranyaka",
+        "markdown": "Sumeru's Archon Quest and \u25c0Aranyaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Help Javi look for his \"dream\"",
+            "markdown": "Help Javi look for his \"dream\""
+        },
+        {
+            "plaintext": "Give the \"dream\" to Javi",
+            "markdown": "Give the \u25c0\"dream\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Javi%27s_Dream\u25b7 to Javi"
+        },
+        {
+            "plaintext": "Collect Sumeru Rose Seeds (0/1)",
+            "markdown": "Collect \u25c0Sumeru Rose Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_Rose_Seed\u25b7 (0/1)",
+            "substeps": [
+                {
+                    "plaintext": "Purchase from Tubby or use Seed Dispensary.",
+                    "markdown": "Purchase from \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7 or use \u25c0Seed Dispensary\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seed_Dispensary\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Ami",
+            "markdown": "Talk to \u25c0Ami\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ami\u25b7"
+        }
+    ],
+    "dialogue": true
+}

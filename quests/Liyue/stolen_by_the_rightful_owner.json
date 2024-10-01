@@ -1,0 +1,65 @@
+{
+    "type": "single",
+    "name": "Stolen, by the Rightful Owner",
+    "url": "https://genshin-impact.fandom.com/wiki/Stolen%2C_by_the_Rightful_Owner",
+    "starting_location": {
+        "plaintext": "The Chasm , Liyue",
+        "markdown": "\u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Subregion)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Destroy the three Bedrock Keys in Surreptitious Seven-Star Seal Sundering",
+        "markdown": "Destroy the three Bedrock Keys in \u25c0Surreptitious Seven-Star Seal Sundering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Surreptitious_Seven-Star_Seal_Sundering\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for the ring that was stolen from Taliesin",
+            "markdown": "Look for the ring that was stolen from Taliesin"
+        },
+        {
+            "plaintext": "Give the ring back to Taliesin",
+            "markdown": "Give the ring back to Taliesin"
+        },
+        {
+            "plaintext": "Talk to Taliesin",
+            "markdown": "Talk to Taliesin"
+        }
+    ],
+    "dialogue": true
+}

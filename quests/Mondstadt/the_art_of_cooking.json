@@ -1,0 +1,71 @@
+{
+    "type": "single",
+    "name": "The Art of Cooking",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Art_of_Cooking",
+    "starting_location": {
+        "plaintext": "Starfell Valley , Mondstadt",
+        "markdown": "\u25c0Starfell Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starfell_Valley\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Clear the hilichurl camp in Going Upon the Breeze",
+        "markdown": "Clear the hilichurl camp in \u25c0Going Upon the Breeze\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Going_Upon_the_Breeze\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mushroom",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mushroom",
+            "Image": "Item_Mushroom.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Fowl",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fowl",
+            "Image": "Item_Fowl.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Wheat",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Wheat",
+            "Image": "Item_Wheat.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Bird Egg",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Bird_Egg",
+            "Image": "Item_Bird_Egg.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Speak to Lynn",
+            "markdown": "Speak to Lynn",
+            "substeps": [
+                {
+                    "plaintext": "She will provide you with 2 Fowl. If you are missing any other ingredients, investigate the barrel to her left using your interact button to get 1 Fowl and 1 Mushroom.",
+                    "markdown": "She will provide you with 2 \u25c0Fowl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fowl\u25b7. If you are missing any other ingredients, investigate the barrel to her left using your interact button to get 1 \u25c0Fowl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fowl\u25b7 and 1 \u25c0Mushroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mushroom\u25b7."
+                },
+                {
+                    "plaintext": "Use the campfire and pot to cook the skewers.",
+                    "markdown": "Use the campfire and pot to cook the skewers."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the Chicken-Mushroom Skewer to Lynn",
+            "markdown": "Give the \u25c0Chicken-Mushroom Skewer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chicken-Mushroom_Skewer\u25b7 to Lynn"
+        }
+    ],
+    "dialogue": true
+}

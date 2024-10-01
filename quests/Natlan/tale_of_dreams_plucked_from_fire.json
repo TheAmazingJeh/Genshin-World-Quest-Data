@@ -1,0 +1,60 @@
+{
+    "type": "series",
+    "name": "Tale of Dreams Plucked From Fire",
+    "url": "https://genshin-impact.fandom.com/wiki/Tale_of_Dreams_Plucked_From_Fire",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "550",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "70",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Iridescent Inscription Fragment",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Iridescent_Inscription_Fragment",
+            "Image": "Item_Iridescent_Inscription_Fragment.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Tracer No Tracing",
+            "markdown": "\u25c0Tracer No Tracing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tracer_No_Tracing\u25b7"
+        },
+        {
+            "plaintext": "Seeker No Finding",
+            "markdown": "\u25c0Seeker No Finding\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seeker_No_Finding\u25b7"
+        }
+    ]
+}

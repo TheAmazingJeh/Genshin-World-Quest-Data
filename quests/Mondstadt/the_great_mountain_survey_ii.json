@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "The Great Mountain Survey II",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Great_Mountain_Survey_II",
+    "starting_location": {
+        "plaintext": "Dragonspine , Mondstadt",
+        "markdown": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete In the Mountains and The Great Mountain Survey",
+        "markdown": "Complete \u25c0In the Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_the_Mountains\u25b7 and \u25c0The Great Mountain Survey\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Great_Mountain_Survey\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Esther",
+            "markdown": "Talk to Esther"
+        },
+        {
+            "plaintext": "Place beacon at the very top of Dragonspine mountain",
+            "markdown": "Place beacon at the very top of \u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 mountain"
+        },
+        {
+            "plaintext": "Report back to Esther",
+            "markdown": "Report back to Esther",
+            "substeps": [
+                {
+                    "plaintext": "You acquire Letter to Cyrus",
+                    "markdown": "You acquire \u25c0Letter to Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Letter_to_Cyrus\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Deliver the letter to Cyrus",
+            "markdown": "Deliver the letter to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7"
+        }
+    ],
+    "dialogue": true
+}

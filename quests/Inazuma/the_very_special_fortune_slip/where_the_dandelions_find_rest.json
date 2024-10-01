@@ -1,0 +1,139 @@
+{
+    "type": "single",
+    "name": "Where the Dandelions Find Rest",
+    "url": "https://genshin-impact.fandom.com/wiki/Where_the_Dandelions_Find_Rest",
+    "starting_location": {
+        "plaintext": "Mt. Yougou , Inazuma",
+        "markdown": "\u25c0Mt. Yougou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Yougou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Lyudochka's Fortune Slip",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Lyudochka%27s_Fortune_Slip",
+            "Image": "Item_Fortune_Slip_Opened.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head for the safehouse",
+            "markdown": "Head for the safehouse"
+        },
+        {
+            "plaintext": "Defeat the Fatui",
+            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui/Enemies\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Pursue the elemental trail",
+            "markdown": "Pursue the elemental trail"
+        },
+        {
+            "plaintext": "Enter the basement of the abandoned building",
+            "markdown": "Enter the basement of the abandoned building",
+            "substeps": [
+                {
+                    "plaintext": "Enter the Quest Domain: Beneath the Abandoned House",
+                    "markdown": "Enter the Quest Domain: \u25c0Beneath the Abandoned House\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Beneath_the_Abandoned_House\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow the elemental trail to search for Momoyo",
+            "markdown": "Follow the elemental trail to search for \u25c0Momoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Momoyo\u25b7"
+        },
+        {
+            "plaintext": "Look for a key",
+            "markdown": "Look for a \u25c0key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cell_Key\u25b7"
+        },
+        {
+            "plaintext": "Open the cell gate",
+            "markdown": "Open the cell gate"
+        },
+        {
+            "plaintext": "Give Lyudochka the good news",
+            "markdown": "Give \u25c0Lyudochka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka_Snezhevna\u25b7 the good news"
+        },
+        {
+            "plaintext": "Consult Aratani",
+            "markdown": "Consult \u25c0Aratani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aratani\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Obtain Lyudochka's Letter and Lyudochka's Mora Purse",
+                    "markdown": "Obtain \u25c0Lyudochka's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka%27s_Letter\u25b7 and \u25c0Lyudochka's Mora Purse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka%27s_Mora_Purse\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Tell Momoyo about the situation",
+            "markdown": "Tell Momoyo about the situation"
+        },
+        {
+            "plaintext": "Search for Lyudochka",
+            "markdown": "Search for Lyudochka",
+            "substeps": [
+                {
+                    "plaintext": "She is located on a boat in the southwestern spot of the quest area.",
+                    "markdown": "She is located on a boat in the southwestern spot of the quest area."
+                }
+            ]
+        },
+        {
+            "plaintext": "Pass \"that item\" to Lyudochka",
+            "markdown": "Pass \"\u25c0that item\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Fortune_Slip\u25b7\" to Lyudochka"
+        }
+    ],
+    "dialogue": true
+}

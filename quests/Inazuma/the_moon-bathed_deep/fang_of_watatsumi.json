@@ -1,0 +1,170 @@
+{
+    "type": "single",
+    "name": "\"Fang of Watatsumi\"",
+    "url": "https://genshin-impact.fandom.com/wiki/%22Fang_of_Watatsumi%22",
+    "starting_location": {
+        "plaintext": "Watatsumi Island , Inazuma",
+        "markdown": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Spirit Pearl",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Spirit_Pearl",
+            "Image": "Item_Spirit_Pearl.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the \"Fang\"",
+            "markdown": "Go to the \"Fang\""
+        },
+        {
+            "plaintext": "Read the stone tablet at the \"Fang\"",
+            "markdown": "Read the stone tablet at the \"Fang\""
+        },
+        {
+            "plaintext": "Protect the Ley Line Monolith",
+            "markdown": "Protect the \u25c0Ley Line Monolith\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ley_Line_Monolith\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "1st and 2nd wave:",
+                    "markdown": "1st and 2nd wave:",
+                    "substeps": [
+                        {
+                            "plaintext": "Hilichurl Berserker x2",
+                            "markdown": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 x2",
+                            "img": {
+                                "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Fighter x2",
+                            "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x2",
+                            "img": {
+                                "hilichurl_fighter": "Hilichurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Electro Hilichurl Grenadier x1",
+                            "markdown": "<img:electro_hilichurl_grenadier> \u25c0Electro Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Hilichurl_Grenadier\u25b7 x1",
+                            "img": {
+                                "electro_hilichurl_grenadier": "Electro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "3rd and 4th wave:",
+                    "markdown": "3rd and 4th wave:",
+                    "substeps": [
+                        {
+                            "plaintext": "Electro Hilichurl Shooter x1",
+                            "markdown": "<img:electro_hilichurl_shooter> \u25c0Electro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Hilichurl_Shooter\u25b7 x1",
+                            "img": {
+                                "electro_hilichurl_shooter": "Electro_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Electro Samachurl x1",
+                            "markdown": "<img:electro_samachurl> \u25c0Electro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Samachurl\u25b7 x1",
+                            "img": {
+                                "electro_samachurl": "Electro_Samachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hydro Samachurl x1",
+                            "markdown": "<img:hydro_samachurl> \u25c0Hydro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7 x1",
+                            "img": {
+                                "hydro_samachurl": "Hydro_Samachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Blazing Axe Mitachurl x1",
+                            "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                            "img": {
+                                "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Crackling Axe Mitachurl x1",
+                            "markdown": "<img:crackling_axe_mitachurl> \u25c0Crackling Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crackling_Axe_Mitachurl\u25b7 x1",
+                            "img": {
+                                "crackling_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "5th wave:",
+                    "markdown": "5th wave:",
+                    "substeps": [
+                        {
+                            "plaintext": "Nobushi: Hitsukeban x2",
+                            "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x2",
+                            "img": {
+                                "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Gravedigger x1",
+                            "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Pyro Potioneer x1",
+                            "markdown": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Electro Potioneer x1",
+                            "markdown": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the Spirit Pearl",
+            "markdown": "Obtain the \u25c0Spirit Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spirit_Pearl\u25b7"
+        }
+    ],
+    "dialogue": true
+}

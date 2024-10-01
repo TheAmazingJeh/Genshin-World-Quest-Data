@@ -1,0 +1,78 @@
+{
+    "type": "single",
+    "name": "Gourmet Supremos, Assemble!",
+    "url": "https://genshin-impact.fandom.com/wiki/Gourmet_Supremos%2C_Assemble%21",
+    "starting_location": {
+        "plaintext": "Inazuma",
+        "markdown": "\u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ritou Escape Plan",
+        "markdown": "Complete \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Recipe: Sakura Tempura",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sakura_Tempura",
+            "Image": "Item_Sakura_Tempura.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Delicious Sakura Tempura",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Sakura_Tempura",
+            "Image": "Item_Delicious_Sakura_Tempura.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Collect the Special Sakura Bloom",
+            "markdown": "Collect the \u25c0Special Sakura Bloom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Sakura_Bloom\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "This step will automatically be completed if one is already in your possession.",
+                    "markdown": "This step will automatically be completed if one is already in your possession."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the Special Sakura Bloom to Xudong",
+            "markdown": "Give the Special Sakura Bloom to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
+        },
+        {
+            "plaintext": "Talk to Xudong",
+            "markdown": "Talk to Xudong"
+        }
+    ],
+    "dialogue": true
+}

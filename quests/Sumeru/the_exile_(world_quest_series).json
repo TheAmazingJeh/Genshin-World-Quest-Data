@@ -1,0 +1,60 @@
+{
+    "type": "series",
+    "name": "The Exile (World Quest Series)",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Exile_%28World_Quest_Series%29",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Sumeru Rose",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Rose",
+            "Image": "Item_Sumeru_Rose.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Delicious Butter Chicken",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Butter_Chicken",
+            "Image": "Item_Delicious_Butter_Chicken.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "The Exile: Sprouting",
+            "markdown": "\u25c0The Exile: Sprouting\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Exile:_Sprouting\u25b7"
+        },
+        {
+            "plaintext": "The Exile: Blooming",
+            "markdown": "\u25c0The Exile: Blooming\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Exile:_Blooming\u25b7"
+        }
+    ]
+}

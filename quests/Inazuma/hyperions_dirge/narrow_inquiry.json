@@ -1,0 +1,46 @@
+{
+    "type": "single",
+    "name": "Narrow Inquiry",
+    "url": "https://genshin-impact.fandom.com/wiki/Narrow_Inquiry",
+    "starting_location": {
+        "plaintext": "The Narrows , Enkanomiya , Inazuma",
+        "markdown": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Subterranean Trials of Drake and Serpent",
+        "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Offerings of The Narrows",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Offerings_of_The_Narrows",
+            "Image": "Item_Offerings_of_The_Narrows.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Activate the spirit's trial",
+            "markdown": "Activate the spirit's trial",
+            "substeps": [
+                {
+                    "plaintext": "Defeat 3 opponents in 30 second(s) Primordial Bathysmal Vishap Hatchling x3",
+                    "markdown": "Defeat 3 opponents in 30 second(s)<img:primordial_bathysmal_vishap_hatchling> \u25c0Primordial Bathysmal Vishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap_Hatchling\u25b7 x3",
+                    "img": {
+                        "primordial_bathysmal_vishap_hatchling": "Primordial_Bathysmal_Vishap_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "A Precious Chest will spawn after defeating the opponents.",
+                    "markdown": "A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will spawn after defeating the opponents."
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the offerings from the spirit",
+            "markdown": "Obtain the \u25c0offerings from the spirit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Offerings_of_The_Narrows\u25b7"
+        }
+    ],
+    "dialogue": true
+}

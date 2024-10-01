@@ -1,0 +1,29 @@
+{
+    "type": "single",
+    "name": "Happy Birthday",
+    "url": "https://genshin-impact.fandom.com/wiki/Happy_Birthday",
+    "starting_location": {
+        "plaintext": "Court of Fontaine Region , Fontaine",
+        "markdown": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "",
+        "markdown": ""
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Find Lanoire",
+            "markdown": "Find Lanoire"
+        }
+    ],
+    "dialogue": true
+}

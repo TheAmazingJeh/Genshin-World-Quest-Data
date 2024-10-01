@@ -1,0 +1,40 @@
+{
+    "type": "single",
+    "name": "Yachimatahiko's Trial",
+    "url": "https://genshin-impact.fandom.com/wiki/Yachimatahiko%27s_Trial",
+    "starting_location": {
+        "plaintext": "Enkanomiya",
+        "markdown": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+    },
+    "requirements": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Go to The Emanant Skylight",
+            "markdown": "Go to \u25c0The Emanant Skylight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Emanant_Skylight\u25b7"
+        },
+        {
+            "plaintext": "Investigate the water in the pool during Evernight",
+            "markdown": "Investigate the water in the pool during Evernight",
+            "substeps": [
+                {
+                    "plaintext": "Step is completed upon reaching the Time Tunnel, even if the player does not go through it",
+                    "markdown": "Step is completed upon reaching the \u25c0Time Tunnel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Time_Tunnel\u25b7, even if the player does not go through it"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the afterimage in front of the seal",
+            "markdown": "Talk to the afterimage in front of the seal"
+        },
+        {
+            "plaintext": "Release all the Flames of the High Gate (0/4)",
+            "markdown": "Release all the Flames of the High Gate (0/4)"
+        },
+        {
+            "plaintext": "Talk to Uda",
+            "markdown": "Talk to \u25c0Uda\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uda\u25b7"
+        }
+    ],
+    "dialogue": true
+}

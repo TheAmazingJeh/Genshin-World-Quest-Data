@@ -1,0 +1,74 @@
+{
+    "type": "single",
+    "name": "Break the Sword Cemetery Seal",
+    "url": "https://genshin-impact.fandom.com/wiki/Break_the_Sword_Cemetery_Seal",
+    "starting_location": {
+        "plaintext": "Dadaupa Gorge , Mondstadt",
+        "markdown": "\u25c0Dadaupa Gorge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dadaupa_Gorge\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Talk to Dr. Livingstone or activate any of the three monuments to begin this quest.",
+        "markdown": "Talk to \u25c0Dr. Livingstone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dr._Livingstone\u25b7 or activate any of the three monuments to begin this quest."
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Anemoculus",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Anemoculus",
+            "Image": "Item_Anemoculus.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Explore and unlock the tri-seal",
+            "markdown": "Explore and unlock the tri-seal",
+            "substeps": [
+                {
+                    "plaintext": "The village to the south requires you to fight a Wooden Shield Mitachurl. Defeat it to unlock a Precious chest and the Electro monument.",
+                    "markdown": "The village to the south requires you to fight a \u25c0Wooden Shield Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Mitachurl\u25b7. Defeat it to unlock a Precious chest and the Electro monument."
+                },
+                {
+                    "plaintext": "The village to the north requires you to fight a few rounds in an arena against slimes, samachurls, and a Wooden Shield Mitachurl. Defeat them to unlock the Cryo monument, 2 Exquisite chests, and 2 Common chests. You must defeat them all within 100 seconds.",
+                    "markdown": "The village to the north requires you to fight a few rounds in an arena against \u25c0slimes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Slimes\u25b7, \u25c0samachurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Samachurls\u25b7, and a Wooden Shield Mitachurl. Defeat them to unlock the Cryo monument, 2 Exquisite chests, and 2 Common chests. You must defeat them all within 100 seconds."
+                },
+                {
+                    "plaintext": "The village to the east requires you to fight a Wooden Shield Mitachurl, an Anemo Samachurl, and a Cryo Abyss Mage. Defeat them to unlock a Precious chest and the Pyro monument.",
+                    "markdown": "The village to the east requires you to fight a Wooden Shield Mitachurl, an Anemo Samachurl, and a Cryo \u25c0Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Mage\u25b7. Defeat them to unlock a Precious chest and the Pyro monument."
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the treasure at the center of the Sword Cemetery",
+            "markdown": "Obtain the treasure at the center of the Sword Cemetery",
+            "substeps": [
+                {
+                    "plaintext": "The Luxurious Chest contains a Northlander Claymore Billet, a 4-star artifact, and Mystic Enhancement Ore.",
+                    "markdown": "The Luxurious \u25c0Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chest\u25b7 contains a \u25c0Northlander Claymore Billet\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Northlander_Claymore_Billet\u25b7, a 4-star artifact, and \u25c0Mystic Enhancement Ore\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore\u25b7."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

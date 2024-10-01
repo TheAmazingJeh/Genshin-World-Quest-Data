@@ -1,0 +1,61 @@
+{
+    "type": "single",
+    "name": "Giving Flowers",
+    "url": "https://genshin-impact.fandom.com/wiki/Giving_Flowers",
+    "starting_location": {
+        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
+        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete The Viparyas of Vanarana and The Rhythm that Reveals the Beastly Trail",
+        "markdown": "Complete \u25c0The Viparyas of Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Viparyas_of_Vanarana\u25b7 and \u25c0The Rhythm that Reveals the Beastly Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Reveals_the_Beastly_Trail\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Complete World Quest Series Aranyaka: Part II - Dream Nursery",
+            "markdown": "Complete \u25c0World Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/World_Quest\u25b7 Series \u25c0Aranyaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka\u25b7: Part II - \u25c0Dream Nursery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dream_Nursery\u25b7"
+        },
+        {
+            "plaintext": "Complete the objective The Viparyas of Vanarana, and re-visit the garden in the \"real\" Vanarana",
+            "markdown": "Complete the objective \u25c0The Viparyas of Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Viparyas_of_Vanarana\u25b7, and re-visit the garden in the \"real\" Vanarana"
+        },
+        {
+            "plaintext": "Talk to Varsha (initially labeled as \"???\")",
+            "markdown": "Talk to \u25c0Varsha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Varsha\u25b7 (initially labeled as \"???\")",
+            "substeps": [
+                {
+                    "plaintext": "Enter the cave southwest of Vanarana. The entrance is behind an Eremite tent, marked by a Seelie Court. Then, approach the Claustroflora further southwest and play the Rhythm of the Beastly Trail.",
+                    "markdown": "Enter the cave southwest of \u25c0Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7. The entrance is behind an Eremite tent, marked by a Seelie Court. Then, approach the \u25c0Claustroflora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Claustroflora\u25b7 further southwest and play the \u25c0Rhythm of the Beastly Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rhythm_of_the_Beastly_Trail\u25b7."
+                },
+                {
+                    "plaintext": "Varsha can be approached prior to completing The Viparyas of Vanara, but the quest does not appear in the quest log until it is completed.",
+                    "markdown": "Varsha can be approached prior to completing The Viparyas of Vanara, but the quest does not appear in the quest log until it is completed."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

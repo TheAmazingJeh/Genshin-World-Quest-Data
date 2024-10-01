@@ -1,0 +1,40 @@
+{
+    "type": "single",
+    "name": "Valor's Afterglow: The Faint Light Remembered",
+    "url": "https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow%3A_The_Faint_Light_Remembered",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines , Liyue",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Muning about Zhiqiong's departure",
+            "markdown": "Talk to \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7 about \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7's departure"
+        }
+    ],
+    "dialogue": true
+}

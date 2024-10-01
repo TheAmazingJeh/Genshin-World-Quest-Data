@@ -1,0 +1,135 @@
+{
+    "type": "single",
+    "name": "Vimana Agama: Jazari's Chapter",
+    "url": "https://genshin-impact.fandom.com/wiki/Vimana_Agama%3A_Jazari%27s_Chapter",
+    "starting_location": {
+        "plaintext": "Ardravi Valley , Sumeru",
+        "markdown": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Open the Ruin Golem seal",
+            "markdown": "Open the \u25c0Ruin Golem\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Golem_(Devantaka_Mountain)\u25b7 seal"
+        },
+        {
+            "plaintext": "Enter the Ruin Golem",
+            "markdown": "Enter the Ruin Golem"
+        },
+        {
+            "plaintext": "Activate the relays",
+            "markdown": "Activate the relays"
+        },
+        {
+            "plaintext": "Link the lower power system",
+            "markdown": "Link the lower power system"
+        },
+        {
+            "plaintext": "Talk to Jazari",
+            "markdown": "Talk to \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7"
+        },
+        {
+            "plaintext": "Connect all four relays in the middle",
+            "markdown": "Connect all four relays in the middle",
+            "substeps": [
+                {
+                    "plaintext": "Get all 3 Energy Blocks",
+                    "markdown": "Get all 3 \u25c0Energy Blocks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Energy_Block\u25b7"
+                },
+                {
+                    "plaintext": "Power relay with door that requires 3 Energy Blocks.",
+                    "markdown": "Power relay with door that requires 3 Energy Blocks."
+                },
+                {
+                    "plaintext": "Power relay with door that requires 2 Energy Blocks.",
+                    "markdown": "Power relay with door that requires 2 Energy Blocks."
+                },
+                {
+                    "plaintext": "Power relay with door that requires 1 Energy Block.",
+                    "markdown": "Power relay with door that requires 1 Energy Block."
+                },
+                {
+                    "plaintext": "Power relay without door.",
+                    "markdown": "Power relay without door."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Black Serpent Knight",
+            "markdown": "Defeat the Black Serpent Knight",
+            "substeps": [
+                {
+                    "plaintext": "Ynghildr - Sword of a Lost Homeland",
+                    "markdown": "<img:black_serpent_knight_windcutter> \u25c0Ynghildr - Sword of a Lost Homeland\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Black_Serpent_Knight:_Windcutter\u25b7",
+                    "img": {
+                        "black_serpent_knight_windcutter": "Black_Serpent_Knight_Windcutter_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Jazari",
+            "markdown": "Talk to Jazari"
+        },
+        {
+            "plaintext": "Connect to the pilot cabin power system",
+            "markdown": "Connect to the pilot cabin power system"
+        },
+        {
+            "plaintext": "Enter the pilot cabin",
+            "markdown": "Enter the pilot cabin"
+        },
+        {
+            "plaintext": "Activate the Ruin Golem",
+            "markdown": "Activate the Ruin Golem",
+            "substeps": [
+                {
+                    "plaintext": "Press Activate, then attack three times)",
+                    "markdown": "Press Activate, then attack three times)"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Jazari",
+            "markdown": "Talk to Jazari"
+        }
+    ],
+    "dialogue": true
+}

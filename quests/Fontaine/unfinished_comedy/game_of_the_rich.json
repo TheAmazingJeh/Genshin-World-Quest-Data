@@ -1,0 +1,178 @@
+{
+    "type": "single",
+    "name": "Game of the Rich",
+    "url": "https://genshin-impact.fandom.com/wiki/Game_of_the_Rich",
+    "starting_location": {
+        "plaintext": "Administrative Area , Fontaine",
+        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Darcy",
+            "markdown": "Talk to \u25c0Darcy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Darcy\u25b7"
+        },
+        {
+            "plaintext": "Go see Estienne with Darcy",
+            "markdown": "Go see \u25c0Estienne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Estienne\u25b7 with Darcy"
+        },
+        {
+            "plaintext": "Talk to the little girl",
+            "markdown": "Talk to the little girl"
+        },
+        {
+            "plaintext": "Go on an \"adventure\" with Lanoire",
+            "markdown": "Go on an \"adventure\" with \u25c0Lanoire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lanoire\u25b7"
+        },
+        {
+            "plaintext": "Hit the punching bag",
+            "markdown": "Hit the punching bag"
+        },
+        {
+            "plaintext": "Go on an \"adventure\" with Lanoire",
+            "markdown": "Go on an \"adventure\" with Lanoire"
+        },
+        {
+            "plaintext": "Listen to the noise box",
+            "markdown": "Listen to the noise box"
+        },
+        {
+            "plaintext": "Go on an \"adventure\" with Lanoire",
+            "markdown": "Go on an \"adventure\" with Lanoire"
+        },
+        {
+            "plaintext": "Go to the Rag and Bone Shop with Lanoire",
+            "markdown": "Go to the \u25c0Rag and Bone Shop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rag_and_Bone_Shop\u25b7 with Lanoire"
+        },
+        {
+            "plaintext": "Find \"Cater\"",
+            "markdown": "Find \"Cater\""
+        },
+        {
+            "plaintext": "Take a break nearby",
+            "markdown": "Take a break nearby"
+        },
+        {
+            "plaintext": "Look for Caterpillar and Lanoire",
+            "markdown": "Look for Caterpillar and Lanoire"
+        },
+        {
+            "plaintext": "Talk to Caterpillar",
+            "markdown": "Talk to Caterpillar"
+        },
+        {
+            "plaintext": "Obtain Credit Coupons (0/300)",
+            "markdown": "Obtain \u25c0Credit Coupons\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Credit_Coupons\u25b7 (0/300)",
+            "substeps": [
+                {
+                    "plaintext": "This quest step initiates Scenes from Life in Meropide: Safe Operation.",
+                    "markdown": "This quest step initiates \u25c0Scenes from Life in Meropide: Safe Operation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Safe_Operation\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Meet back at the usual place",
+            "markdown": "Meet back at the usual place"
+        },
+        {
+            "plaintext": "Take a break nearby",
+            "markdown": "Take a break nearby"
+        },
+        {
+            "plaintext": "Obtain Credit Coupons (0/300)",
+            "markdown": "Obtain Credit Coupons (0/300)",
+            "substeps": [
+                {
+                    "plaintext": "This quest step unlocks Scenes from Life in Meropide: Dead End, followed by Scenes from Life in Meropide: A Raw Deal.",
+                    "markdown": "This quest step unlocks \u25c0Scenes from Life in Meropide: Dead End\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Dead_End\u25b7, followed by \u25c0Scenes from Life in Meropide: A Raw Deal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_A_Raw_Deal\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Meet back at the usual place",
+            "markdown": "Meet back at the usual place"
+        },
+        {
+            "plaintext": "Talk to Rave",
+            "markdown": "Talk to \u25c0Rave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rave\u25b7"
+        },
+        {
+            "plaintext": "Meet back at the usual place",
+            "markdown": "Meet back at the usual place"
+        },
+        {
+            "plaintext": "Take a break nearby",
+            "markdown": "Take a break nearby"
+        },
+        {
+            "plaintext": "Obtain Credit Coupons (0/500)",
+            "markdown": "Obtain Credit Coupons (0/500)",
+            "substeps": [
+                {
+                    "plaintext": "This quest step unlocks Scenes from Life in Meropide: Treat the Symptoms and Scenes from Life in Meropide: Fists of Fury.",
+                    "markdown": "This quest step unlocks \u25c0Scenes from Life in Meropide: Treat the Symptoms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Treat_the_Symptoms\u25b7 and \u25c0Scenes from Life in Meropide: Fists of Fury\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Fists_of_Fury\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Meet back at the usual place",
+            "markdown": "Meet back at the usual place"
+        },
+        {
+            "plaintext": "Take a break nearby",
+            "markdown": "Take a break nearby"
+        },
+        {
+            "plaintext": "Obtain Credit Coupons (0/300)",
+            "markdown": "Obtain Credit Coupons (0/300)",
+            "substeps": [
+                {
+                    "plaintext": "This quest step unlocks Scenes from Life in Meropide: Chit-Chat and Scenes from Life in Meropide: Unfinished Task.",
+                    "markdown": "This quest step unlocks \u25c0Scenes from Life in Meropide: Chit-Chat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Chit-Chat\u25b7 and \u25c0Scenes from Life in Meropide: Unfinished Task\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Unfinished_Task\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the Administrative Area Bulletin Board",
+            "markdown": "Go to the \u25c0Administrative Area Bulletin Board\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide_Bulletin_Board\u25b7"
+        }
+    ],
+    "dialogue": true
+}

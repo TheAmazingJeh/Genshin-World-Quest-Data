@@ -1,0 +1,130 @@
+{
+    "type": "single",
+    "name": "The Rhythm that Nurtures the Sprout",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Nurtures_the_Sprout",
+    "starting_location": {
+        "plaintext": "Ashavan Realm , Sumeru",
+        "markdown": "\u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Encounter in the Woods",
+        "markdown": "\u25c0Encounter in the Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Encounter_in_the_Woods\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Vasoma Fruit",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Vasoma_Fruit",
+            "Image": "Item_Vasoma_Fruit.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head to the designated location to look for clues about Ashvattha's Concourses",
+            "markdown": "Head to the designated location to look for clues about Ashvattha's Concourses"
+        },
+        {
+            "plaintext": "Talk to Arama",
+            "markdown": "Talk to Arama"
+        },
+        {
+            "plaintext": "Observe the Sumeru Roses to find the hidden song",
+            "markdown": "Observe the Sumeru Roses to find the hidden song"
+        },
+        {
+            "plaintext": "Play the music according to the pattern of the roses",
+            "markdown": "Play the music according to the pattern of the roses",
+            "substeps": [
+                {
+                    "plaintext": "The player can now use the Vintage Lyre on a Sprouting Branch to summon Healthy Dendrograna.",
+                    "markdown": "The player can now use the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7 on a \u25c0Sprouting Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sprouting_Branch\u25b7 to summon \u25c0Healthy Dendrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Unlock the road ahead using the Rhythm of the Sprout",
+            "markdown": "Unlock the road ahead using the Rhythm of the Sprout"
+        },
+        {
+            "plaintext": "Keep going and reach Ashvattha's Concourse",
+            "markdown": "Keep going and reach Ashvattha's Concourse"
+        },
+        {
+            "plaintext": "Clean up the Withering Zone",
+            "markdown": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "There are Waverider Waypoints that the player can use to spawn a Waverider to get to the Withering Zone",
+                    "markdown": "There are Waverider Waypoints that the player can use to spawn a Waverider to get to the Withering Zone"
+                }
+            ]
+        },
+        {
+            "plaintext": "Investigate the trees inside Ashvattha's Concourse",
+            "markdown": "Investigate the trees inside Ashvattha's Concourse",
+            "substeps": [
+                {
+                    "plaintext": "Touch the tree to enter the quest domain The Rhythm that Nurtures the Sprout. Bringing along a bow user is recommended. The player can skip the next step if they touch the tree immediately.",
+                    "markdown": "Touch the tree to enter the quest domain \u25c0The Rhythm that Nurtures the Sprout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Nurtures_the_Sprout_(Domain)\u25b7. Bringing along a bow user is recommended. The player can skip the next step if they touch the tree immediately."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Arama and enter the Vasara Tree's dream",
+            "markdown": "Talk to Arama and enter the \u25c0Vasara Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vasara_Tree\u25b7's dream"
+        },
+        {
+            "plaintext": "Explore the dream of the Vasara Tree",
+            "markdown": "Explore the dream of the Vasara Tree"
+        },
+        {
+            "plaintext": "Investigate the Vasara Tree",
+            "markdown": "Investigate the Vasara Tree"
+        },
+        {
+            "plaintext": "Talk to Arama",
+            "markdown": "Talk to Arama"
+        }
+    ],
+    "dialogue": true
+}

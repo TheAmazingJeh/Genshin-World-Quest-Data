@@ -1,0 +1,25 @@
+{
+    "type": "act",
+    "name": "Woodland Encounter",
+    "url": "https://genshin-impact.fandom.com/wiki/Woodland_Encounter",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Woodland Encounter",
+            "markdown": "\u25c0Woodland Encounter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Woodland_Encounter_(Quest)\u25b7"
+        },
+        {
+            "plaintext": "The Children of Vimara Village",
+            "markdown": "\u25c0The Children of Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Children_of_Vimara_Village\u25b7"
+        },
+        {
+            "plaintext": "Into the Woods",
+            "markdown": "\u25c0Into the Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Into_the_Woods\u25b7"
+        },
+        {
+            "plaintext": "The Lost Child",
+            "markdown": "\u25c0The Lost Child\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Lost_Child\u25b7"
+        }
+    ]
+}

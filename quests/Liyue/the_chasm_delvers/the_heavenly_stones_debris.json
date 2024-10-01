@@ -1,0 +1,224 @@
+{
+    "type": "single",
+    "name": "The Heavenly Stone's Debris",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Heavenly_Stone%27s_Debris",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Tell Jinwu about what happened",
+            "markdown": "Tell \u25c0Jinwu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinwu\u25b7 about what happened"
+        },
+        {
+            "plaintext": "Look for the two keys to the gunpowder storehouse (0/2)",
+            "markdown": "Look for the two keys to the gunpowder storehouse (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "Storehouse Security Key No. 1: The southern key is in a pot on top of a water-filtration device.",
+                    "markdown": "\u25c0Storehouse Security Key No. 1\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Storehouse_Security_Key_No._1\u25b7: The southern key is in a pot on top of a water-filtration device."
+                },
+                {
+                    "plaintext": "Storehouse Security Key No. 2: The northern key is in a dig spot near the tent. Digging will reveal a barrel. Hitting the barrel will damage the player and reveal the key. A shield or a ranged attack can be used to avoid damage.",
+                    "markdown": "\u25c0Storehouse Security Key No. 2\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Storehouse_Security_Key_No._2\u25b7: The northern key is in a dig spot near the tent. Digging will reveal a barrel. Hitting the barrel will damage the player and reveal the key. A shield or a ranged attack can be used to avoid damage.",
+                    "substeps": [
+                        {
+                            "plaintext": "Near the tent is a passage that allows the player to move up to the surface where there will be a Luxurious Chest and a gate. Opening the gate will grant the Wonders of the World achievement \"All We Need Is Some Firewood and Some Vinegar...\" After moving up, the player can use the passage again to move back down to where they were before.",
+                            "markdown": "Near the tent is a passage that allows the player to move up to the surface where there will be a \u25c0Luxurious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luxurious_Chest\u25b7 and a gate. Opening the gate will grant the \u25c0Wonders of the World\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wonders_of_the_World\u25b7 achievement \u25c0\"All We Need Is Some Firewood and Some Vinegar...\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22All_We_Need_Is_Some_Firewood_and_Some_Vinegar...%22\u25b7 After moving up, the player can use the passage again to move back down to where they were before."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to open the door to the gunpowder storehouse",
+            "markdown": "Go to open the door to the gunpowder storehouse"
+        },
+        {
+            "plaintext": "Look for a cannonball",
+            "markdown": "Look for a \u25c0cannonball\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Set_of_Cannonballs\u25b7"
+        },
+        {
+            "plaintext": "Bring the cannonball back to the camp",
+            "markdown": "Bring the cannonball back to the camp"
+        },
+        {
+            "plaintext": "Make 3 Special Unmoving Essential Oils",
+            "markdown": "Make 3 Special Unmoving Essential Oils",
+            "substeps": [
+                {
+                    "plaintext": "Each oil requires Cor Lapis x2 and Frog x2.",
+                    "markdown": "Each oil requires \u25c0Cor Lapis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cor_Lapis\u25b7 x2 and \u25c0Frog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Frog_(Material)\u25b7 x2."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the Special Unmoving Essential Oils to Clitopho",
+            "markdown": "Give the Special Unmoving Essential Oils to Clitopho"
+        },
+        {
+            "plaintext": "Finish assembling the cannonball",
+            "markdown": "Finish assembling the cannonball",
+            "substeps": [
+                {
+                    "plaintext": "Completion of this step reveals the map areas for The Serpent's Cave and Underground Waterway.",
+                    "markdown": "Completion of this step reveals the map areas for \u25c0The Serpent's Cave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Cave\u25b7 and \u25c0Underground Waterway\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Underground_Waterway\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Read the Signaling Guide",
+            "markdown": "Read the Signaling Guide"
+        },
+        {
+            "plaintext": "Release the safety on the cannon's breech",
+            "markdown": "Release the safety on the cannon's breech",
+            "substeps": [
+                {
+                    "plaintext": "This step can be completed as soon as the Main Mining Area becomes available during Chasm Spelunkers.",
+                    "markdown": "This step can be completed as soon as the Main Mining Area becomes available during \u25c0Chasm Spelunkers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chasm_Spelunkers\u25b7."
+                },
+                {
+                    "plaintext": "Near the Teleport Waypoint, there is a spot where the player can observe the locations of the lamps.",
+                    "markdown": "Near the Teleport Waypoint, there is a spot where the player can observe the locations of the lamps.\u25c0\u25b6\u25c1https://static.wikia.nocookie.net/gensin-impact/images/9/98/World_Quest_The_Heavenly_Stone%27s_Debris_Detail_Image_1.png/revision/latest?cb=20220330185547\u25b7"
+                },
+                {
+                    "plaintext": "Activating a lamp will make it pulse at a certain frequency (speed). The lamp will be in the \"low frequency\" setting when first activated. After activating the lamp, the player can toggle it between these two settings: \"low frequency\" and \"high frequency\".",
+                    "markdown": "Activating a lamp will make it pulse at a certain frequency (speed). The lamp will be in the \"low frequency\" setting when first activated. After activating the lamp, the player can toggle it between these two settings: \"low frequency\" and \"high frequency\"."
+                },
+                {
+                    "plaintext": "There are three lamps that must be set in this configuration: \"Low lamp post, high-frequency flicker.\" \"Middle lamp post, low-frequency flicker.\" \"High lamp post, low-frequency flicker.\".",
+                    "markdown": "There are three lamps that must be set in this configuration: \"Low lamp post, high-frequency flicker.\" \"Middle lamp post, low-frequency flicker.\" \"High lamp post, low-frequency flicker.\"\u25c0\u25b6\u25c1https://static.wikia.nocookie.net/gensin-impact/images/d/d9/World_Quest_The_Heavenly_Stone%27s_Debris_Detail_Image_2.png/revision/latest?cb=20240609023224\u25b7."
+                },
+                {
+                    "plaintext": "When the frequencies have all been correctly set, the lamps will emit a steady glow and can no longer be interacted with.",
+                    "markdown": "When the frequencies have all been correctly set, the lamps will emit a steady glow and can no longer be interacted with."
+                }
+            ]
+        },
+        {
+            "plaintext": "Load the cannonball in together with Zhiqiong",
+            "markdown": "Load the cannonball in together with Zhiqiong"
+        },
+        {
+            "plaintext": "Use the great cannon to destroy the sealing rocks",
+            "markdown": "Use \u25c0the great cannon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mountainator\u25b7 to destroy the sealing rocks",
+            "substeps": [
+                {
+                    "plaintext": "Cannon alignment: left once, down twice.",
+                    "markdown": "Cannon alignment: left once, down twice."
+                },
+                {
+                    "plaintext": "Completing this step grants the Wonders of the World achievement Maintain Safety Distance.",
+                    "markdown": "Completing this step grants the \u25c0Wonders of the World\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wonders_of_the_World\u25b7 achievement \u25c0Maintain Safety Distance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maintain_Safety_Distance\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go further in",
+            "markdown": "Go further in"
+        },
+        {
+            "plaintext": "Talk to Zhiqiong",
+            "markdown": "Talk to Zhiqiong",
+            "substeps": [
+                {
+                    "plaintext": "Completion of this step reveals part of the map area for Stony Halls.",
+                    "markdown": "Completion of this step reveals part of the map area for \u25c0Stony Halls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stony_Halls\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Activate the mechanism (0/3)",
+            "markdown": "Activate the mechanism (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "The player must upgrade their Lumenstone Adjuvant to at least level 2 to complete this step.",
+                    "markdown": "The player must upgrade their \u25c0Lumenstone Adjuvant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lumenstone_Adjuvant\u25b7 to at least level 2 to complete this step."
+                },
+                {
+                    "plaintext": "Use the Lumenstone Adjuvant next to the Oozing Concretions, not next to the mechanisms.",
+                    "markdown": "Use the Lumenstone Adjuvant next to the \u25c0Oozing Concretions\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oozing_Concretions\u25b7, not next to the mechanisms."
+                },
+                {
+                    "plaintext": "At the west mechanism, the following enemy must be defeated:",
+                    "markdown": "At the west mechanism, the following enemy must be defeated:",
+                    "substeps": [
+                        {
+                            "plaintext": "Shadowy Husk: Standard Bearer x1",
+                            "markdown": "<img:shadowy_husk_standard_bearer> \u25c0Shadowy Husk: Standard Bearer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shadowy_Husk:_Standard_Bearer\u25b7 x1",
+                            "img": {
+                                "shadowy_husk_standard_bearer": "Shadowy_Husk_Standard_Bearer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Each mechanism requires 3 energy from the Lumenstone Adjuvant in order to recharge. Concentrated Lumenstone Energy can be used to recharge the Lumenstone Adjuvant and is found throughout the area. There is also a Ruin Brazier near the south mechanism.",
+                    "markdown": "Each mechanism requires 3 energy from the Lumenstone Adjuvant in order to recharge. \u25c0Concentrated Lumenstone Energy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Concentrated_Lumenstone_Energy\u25b7 can be used to recharge the Lumenstone Adjuvant and is found throughout the area. There is also a \u25c0Ruin Brazier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Brazier\u25b7 near the south mechanism."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the emerging monsters",
+            "markdown": "Defeat the emerging monsters",
+            "substeps": [
+                {
+                    "plaintext": "Abyss Herald: Wicked Torrents x1",
+                    "markdown": "<img:abyss_herald_wicked_torrents> \u25c0Abyss Herald: Wicked Torrents\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Herald:_Wicked_Torrents\u25b7 x1",
+                    "img": {
+                        "abyss_herald_wicked_torrents": "Abyss_Herald_Wicked_Torrents_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Completing this step unlocks access to Nameless Ruins and The Glowing Narrows.",
+                    "markdown": "Completing this step unlocks access to \u25c0Nameless Ruins\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nameless_Ruins\u25b7 and \u25c0The Glowing Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Glowing_Narrows\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Zhiqiong",
+            "markdown": "Talk to Zhiqiong"
+        }
+    ],
+    "dialogue": true
+}

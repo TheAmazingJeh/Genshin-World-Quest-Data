@@ -1,0 +1,37 @@
+{
+    "type": "single",
+    "name": "Strange Stone Chronicle (Part 1)",
+    "url": "https://genshin-impact.fandom.com/wiki/Strange_Stone_Chronicle_%28Part_1%29",
+    "starting_location": {
+        "plaintext": "\"A Very Bright Place,\" Fontaine",
+        "markdown": "\u25c0\"A Very Bright Place,\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22A_Very_Bright_Place%22\u25b7 \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ancient Colors",
+        "markdown": "Complete \u25c0Ancient Colors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Colors\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mora",
+            "Value": "100,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for Puca's Token",
+            "markdown": "Look for \u25c0Puca's Token\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Puca%27s_Token\u25b7"
+        },
+        {
+            "plaintext": "Give the token you found to Puca",
+            "markdown": "Give the token you found to Puca"
+        },
+        {
+            "plaintext": "Take the strange ore to the Gem Merchant in the Court of Fontaine",
+            "markdown": "Take the strange ore to the \u25c0Gem Merchant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chesil\u25b7 in the \u25c0Court of Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine\u25b7"
+        }
+    ],
+    "dialogue": true
+}

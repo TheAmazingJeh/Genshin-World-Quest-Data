@@ -1,0 +1,75 @@
+{
+    "type": "single",
+    "name": "A Certain Trifle",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Certain_Trifle",
+    "starting_location": {
+        "plaintext": "Palais Mermonia , Fontaine",
+        "markdown": "\u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Wait until the following morning (08:00 \u2013 12:00)",
+            "markdown": "Wait until the following morning (08:00 \u2013 12:00)"
+        },
+        {
+            "plaintext": "Talk to Iaune",
+            "markdown": "Talk to \u25c0Iaune\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iaune\u25b7"
+        },
+        {
+            "plaintext": "Talk to Roialte",
+            "markdown": "Talk to \u25c0Roialte\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Roialte\u25b7"
+        },
+        {
+            "plaintext": "Talk to Cornelia",
+            "markdown": "Talk to \u25c0Cornelia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cornelia\u25b7"
+        },
+        {
+            "plaintext": "Buy a keycap from Estelle",
+            "markdown": "Buy a keycap from \u25c0Estelle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Estelle\u25b7"
+        },
+        {
+            "plaintext": "Talk to Estelle",
+            "markdown": "Talk to Estelle"
+        },
+        {
+            "plaintext": "Return to the Maison Gestion",
+            "markdown": "Return to the \u25c0Maison Gestion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maison_Gestion\u25b7"
+        },
+        {
+            "plaintext": "Place the keycap on the typewriter",
+            "markdown": "Place the keycap on the typewriter"
+        }
+    ],
+    "dialogue": true
+}

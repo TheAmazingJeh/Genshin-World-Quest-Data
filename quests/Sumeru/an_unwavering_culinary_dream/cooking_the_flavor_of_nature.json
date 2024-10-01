@@ -1,0 +1,80 @@
+{
+    "type": "single",
+    "name": "Cooking, the Flavor of Nature",
+    "url": "https://genshin-impact.fandom.com/wiki/Cooking%2C_the_Flavor_of_Nature",
+    "starting_location": {
+        "plaintext": "Vissudha Field , Sumeru",
+        "markdown": "\u25c0Vissudha Field\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vissudha_Field\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete The World of Aranara",
+        "markdown": "Complete \u25c0The World of Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_World_of_Aranara\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Mushroom Hodgepodge",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Mushroom_Hodgepodge",
+            "Image": "Item_Mushroom_Hodgepodge.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for a rising pillar of smoke",
+            "markdown": "Look for a rising pillar of smoke"
+        },
+        {
+            "plaintext": "Use Dendro to heal the Aranara",
+            "markdown": "Use Dendro to heal the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7"
+        },
+        {
+            "plaintext": "Look for the \"Head Mushroom\"",
+            "markdown": "Look for the \"Head Mushroom\""
+        },
+        {
+            "plaintext": "Neutralize the Withering Zone and pick the Head Mushroom",
+            "markdown": "Neutralize the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7 and pick the Head Mushroom"
+        },
+        {
+            "plaintext": "Return to Arachatora's pot",
+            "markdown": "Return to \u25c0Arachatora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arachatora\u25b7's pot"
+        }
+    ],
+    "dialogue": true
+}

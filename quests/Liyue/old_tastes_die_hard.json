@@ -1,0 +1,68 @@
+{
+    "type": "single",
+    "name": "Old Tastes Die Hard",
+    "url": "https://genshin-impact.fandom.com/wiki/Old_Tastes_Die_Hard",
+    "starting_location": {
+        "plaintext": "Sea of Clouds , Liyue",
+        "markdown": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Recipe: Zhongyuan Chop Suey",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Zhongyuan_Chop_Suey",
+            "Image": "Item_Zhongyuan_Chop_Suey.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Mr. Zhu",
+            "markdown": "Talk to \u25c0Mr. Zhu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mr._Zhu\u25b7"
+        },
+        {
+            "plaintext": "Give the \"Sweetened Mistress\" to Mr. Zhu",
+            "markdown": "Give the \"Sweetened Mistress\" to Mr. Zhu",
+            "substeps": [
+                {
+                    "plaintext": "Give him a Sweet Madame of any quality. Mr. Zhu misremembered the name of the dish.",
+                    "markdown": "Give him a \u25c0Sweet Madame\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sweet_Madame\u25b7 of any quality. Mr. Zhu misremembered the name of the dish."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Mr. Zhu",
+            "markdown": "Talk to Mr. Zhu"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,54 @@
+{
+    "type": "single",
+    "name": "Treasure of Wisdom: A New Plan",
+    "url": "https://genshin-impact.fandom.com/wiki/Treasure_of_Wisdom%3A_A_New_Plan",
+    "starting_location": {
+        "plaintext": "Sumeru City , Sumeru",
+        "markdown": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Drusus' Riddles and wait for the daily reset",
+        "markdown": "Complete \u25c0Drusus' Riddles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Drusus%27_Riddles\u25b7 and wait for the daily reset"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Set up the riddles with Drusus",
+            "markdown": "Set up the riddles with Drusus"
+        },
+        {
+            "plaintext": "Set up the treasure with Drusus",
+            "markdown": "Set up the treasure with Drusus"
+        }
+    ],
+    "dialogue": true
+}

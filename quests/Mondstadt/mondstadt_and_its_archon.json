@@ -1,0 +1,75 @@
+{
+    "type": "single",
+    "name": "Mondstadt and its Archon",
+    "url": "https://genshin-impact.fandom.com/wiki/Mondstadt_and_its_Archon",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Should You Be Trapped in a Windless Land",
+        "markdown": "Complete \u25c0Should You Be Trapped in a Windless Land\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Should_You_Be_Trapped_in_a_Windless_Land\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "16,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Dandelion Seed",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Dandelion_Seed",
+            "Image": "Item_Dandelion_Seed.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for the Dandelion Seeds she requested",
+            "markdown": "Search for the \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7 she requested",
+            "substeps": [
+                {
+                    "plaintext": "If Dandelion Seeds are already in your inventory, this step will be skipped.",
+                    "markdown": "If Dandelion Seeds are already in your inventory, this step will be skipped."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the Dandelion Seeds to Grace",
+            "markdown": "Give the Dandelion Seeds to Grace"
+        },
+        {
+            "plaintext": "Climb to the Anemo Archon statue's hand and scatter the Dandelion Seeds",
+            "markdown": "Climb to the Anemo Archon statue's hand and scatter the \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7"
+        },
+        {
+            "plaintext": "Talk to Grace",
+            "markdown": "Talk to Grace"
+        }
+    ],
+    "dialogue": true
+}

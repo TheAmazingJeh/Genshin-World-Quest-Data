@@ -1,0 +1,74 @@
+{
+    "type": "single",
+    "name": "Necessary Procedures",
+    "url": "https://genshin-impact.fandom.com/wiki/Necessary_Procedures",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete A New Star Approaches",
+        "markdown": "Complete \u25c0A New Star Approaches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_New_Star_Approaches\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "100,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Ivanovich",
+            "markdown": "Talk to \u25c0Ivanovich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ivanovich\u25b7"
+        },
+        {
+            "plaintext": "Copy down the bulletin concerning business permits",
+            "markdown": "Copy down the bulletin concerning business permits"
+        },
+        {
+            "plaintext": "Talk to Ivanovich",
+            "markdown": "Talk to Ivanovich"
+        },
+        {
+            "plaintext": "Give the appropriate documents to Nervous An",
+            "markdown": "Give the appropriate documents to \u25c0Nervous An\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nervous_An\u25b7"
+        },
+        {
+            "plaintext": "Give the appropriate documents to Jiayi",
+            "markdown": "Give the appropriate documents to \u25c0Jiayi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jiayi\u25b7"
+        },
+        {
+            "plaintext": "Give the appropriate documents to Clerk Zhao",
+            "markdown": "Give the appropriate documents to \u25c0Clerk Zhao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clerk_Zhao\u25b7"
+        },
+        {
+            "plaintext": "Report back to Ivanovich",
+            "markdown": "Report back to Ivanovich"
+        }
+    ],
+    "dialogue": true
+}

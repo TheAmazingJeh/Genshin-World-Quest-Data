@@ -1,0 +1,92 @@
+{
+    "type": "series",
+    "name": "An Unwavering Culinary Dream",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "160",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "120,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Masala Cheese Balls",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Masala_Cheese_Balls",
+            "Image": "Item_Masala_Cheese_Balls.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Recipe: Mushroom Hodgepodge",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Mushroom_Hodgepodge",
+            "Image": "Item_Mushroom_Hodgepodge.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Recipe: Selva Salad",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Selva_Salad",
+            "Image": "Item_Selva_Salad.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "An Unwavering Culinary Dream",
+            "markdown": "\u25c0An Unwavering Culinary Dream\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream_(Quest)\u25b7"
+        },
+        {
+            "plaintext": "Cooking, the Flavor of Nature",
+            "markdown": "\u25c0Cooking, the Flavor of Nature\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Flavor_of_Nature\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Cooking, a Pleasant Memory",
+                    "markdown": "\u25c0Cooking, a Pleasant Memory\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_a_Pleasant_Memory\u25b7"
+                },
+                {
+                    "plaintext": "Cooking, the Aroma of Homecoming",
+                    "markdown": "\u25c0Cooking, the Aroma of Homecoming\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Aroma_of_Homecoming\u25b7"
+                },
+                {
+                    "plaintext": "Cooking, the Beauty of Sharing",
+                    "markdown": "\u25c0Cooking, the Beauty of Sharing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Beauty_of_Sharing\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "A Delicacy for Nara",
+            "markdown": "\u25c0A Delicacy for Nara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Delicacy_for_Nara\u25b7"
+        }
+    ]
+}

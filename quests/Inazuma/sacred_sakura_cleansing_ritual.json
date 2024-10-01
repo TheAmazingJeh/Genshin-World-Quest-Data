@@ -1,0 +1,81 @@
+{
+    "type": "series",
+    "name": "Sacred Sakura Cleansing Ritual",
+    "url": "https://genshin-impact.fandom.com/wiki/Sacred_Sakura_Cleansing_Ritual",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "180",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "160,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mask of Memories",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mask_of_Memories",
+            "Image": "Item_Mask_of_Memories.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "16",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "14",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Memento Lens",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Memento_Lens",
+            "Image": "Item_Memento_Lens.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "A Strange Story in Konda",
+            "markdown": "\u25c0A Strange Story in Konda\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Strange_Story_in_Konda\u25b7"
+        },
+        {
+            "plaintext": "Sacrificial Offering",
+            "markdown": "\u25c0Sacrificial Offering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacrificial_Offering\u25b7"
+        },
+        {
+            "plaintext": "Cleansing Defilement",
+            "markdown": "\u25c0Cleansing Defilement\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cleansing_Defilement\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Tanuki-Bayashi in the Forest",
+                    "markdown": "\u25c0Tanuki-Bayashi in the Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanuki-Bayashi_in_the_Forest\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Yougou Cleansing",
+            "markdown": "\u25c0Yougou Cleansing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yougou_Cleansing\u25b7"
+        }
+    ]
+}

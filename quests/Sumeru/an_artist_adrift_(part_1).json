@@ -1,0 +1,102 @@
+{
+    "type": "single",
+    "name": "An Artist Adrift (Part 1)",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Artist_Adrift_%28Part_1%29",
+    "starting_location": {
+        "plaintext": "Hills of Barsom , Sumeru",
+        "markdown": "\u25c0Hills of Barsom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hills_of_Barsom\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Splendorous Sky That Day",
+        "markdown": "\u25c0The Splendorous Sky That Day\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Splendorous_Sky_That_Day\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Speak to the person who has fallen on the ground",
+            "markdown": "Speak to the person who has fallen on the ground"
+        },
+        {
+            "plaintext": "Return with Julien to his camp",
+            "markdown": "Return with \u25c0Julien\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Julien\u25b7 to his camp"
+        },
+        {
+            "plaintext": "Talk to Julien",
+            "markdown": "Talk to Julien"
+        },
+        {
+            "plaintext": "Look for Julien's luggage in the water",
+            "markdown": "Look for Julien's luggage in the water"
+        },
+        {
+            "plaintext": "Look for Julien's luggage in the water",
+            "markdown": "Look for Julien's luggage in the water"
+        },
+        {
+            "plaintext": "Look for Julien's luggage on the beach",
+            "markdown": "Look for Julien's luggage on the beach"
+        },
+        {
+            "plaintext": "Check on the dog on the beach",
+            "markdown": "Check on \u25c0the dog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pepper_(NPC)\u25b7 on the beach"
+        },
+        {
+            "plaintext": "Investigate the sand pile",
+            "markdown": "Investigate the sand pile"
+        },
+        {
+            "plaintext": "Defeat all opponents",
+            "markdown": "Defeat all opponents",
+            "substeps": [
+                {
+                    "plaintext": "Blazing Axe Mitachurl x1",
+                    "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                    "img": {
+                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl x2",
+                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x2",
+                    "img": {
+                        "hilichurl": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the camp and talk to Julien",
+            "markdown": "Go to the camp and talk to Julien"
+        }
+    ],
+    "dialogue": true
+}

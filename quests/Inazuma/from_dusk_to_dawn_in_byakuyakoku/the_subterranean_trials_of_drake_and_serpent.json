@@ -1,0 +1,130 @@
+{
+    "type": "single",
+    "name": "The Subterranean Trials of Drake and Serpent",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent",
+    "starting_location": {
+        "plaintext": "Enkanomiya",
+        "markdown": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the ruins up ahead",
+            "markdown": "Go to the ruins up ahead"
+        },
+        {
+            "plaintext": "Investigate the ruin ahead",
+            "markdown": "Investigate the ruin ahead"
+        },
+        {
+            "plaintext": "Defeat the opponents that appeared",
+            "markdown": "Defeat the opponents that appeared"
+        },
+        {
+            "plaintext": "Examine the mechanism and open the great door",
+            "markdown": "Examine the mechanism and open the great door"
+        },
+        {
+            "plaintext": "Go into the ruins",
+            "markdown": "Go into the ruins"
+        },
+        {
+            "plaintext": "Talk to the person on the second floor",
+            "markdown": "Talk to the person on the second floor",
+            "substeps": [
+                {
+                    "plaintext": "Receive A Glimpse Into the Pale Night subquest: Investigating the inscribed map will light up the Enkanomiya Map",
+                    "markdown": "Receive \u25c0A Glimpse Into the Pale Night\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Glimpse_Into_the_Pale_Night\u25b7 subquest: Investigating the inscribed map will light up the \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 \u25c0Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Map\u25b7"
+                },
+                {
+                    "plaintext": "Skip to Step 11 if the Dull Golden Bridle was obtained before starting this step.",
+                    "markdown": "Skip to Step 11 if the \u25c0Dull Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dull_Golden_Bridle\u25b7 was obtained before starting this step."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the back of the library and seek out the Golden Bridle",
+            "markdown": "Go to the back of the library and seek out the \u25c0Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Bridle\u25b7"
+        },
+        {
+            "plaintext": "Investigate the rear of the library and solve the puzzle",
+            "markdown": "Investigate the rear of the library and solve the puzzle",
+            "substeps": [
+                {
+                    "plaintext": "Activate the east and south Triangular Mechanisms",
+                    "markdown": "Activate the east and south \u25c0Triangular Mechanisms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Triangular_Mechanisms\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the Golden Bridle",
+            "markdown": "Obtain the Golden Bridle"
+        },
+        {
+            "plaintext": "Go to the library and talk to Enjou",
+            "markdown": "Go to the library and talk to \u25c0Enjou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enjou\u25b7"
+        },
+        {
+            "plaintext": "Follow Enjou's instructions and explore up ahead",
+            "markdown": "Follow Enjou's instructions and explore up ahead"
+        },
+        {
+            "plaintext": "Go to the broken bridge in front of the Dainichi Mikoshi",
+            "markdown": "Go to the broken bridge in front of the \u25c0Dainichi Mikoshi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainichi_Mikoshi\u25b7"
+        },
+        {
+            "plaintext": "Talk to Enjou",
+            "markdown": "Talk to Enjou"
+        },
+        {
+            "plaintext": "Go to the Dainichi Mikoshi",
+            "markdown": "Go to the Dainichi Mikoshi"
+        },
+        {
+            "plaintext": "Investigate the mechanism",
+            "markdown": "Investigate the mechanism"
+        },
+        {
+            "plaintext": "Talk to Aru",
+            "markdown": "Talk to \u25c0Aru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aru\u25b7"
+        }
+    ],
+    "dialogue": true
+}

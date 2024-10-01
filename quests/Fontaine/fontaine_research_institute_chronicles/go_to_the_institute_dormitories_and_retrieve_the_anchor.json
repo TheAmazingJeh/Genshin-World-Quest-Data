@@ -1,0 +1,44 @@
+{
+    "type": "single",
+    "name": "Go to the Institute Dormitories and retrieve the Anchor",
+    "url": "https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_Dormitories_and_retrieve_the_Anchor",
+    "starting_location": {
+        "plaintext": "Fontaine Research Institute of Kinetic Energy Engineering Region , Fontaine",
+        "markdown": "\u25c0Fontaine Research Institute of Kinetic Energy Engineering Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute_of_Kinetic_Energy_Engineering_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Institute Dormitories",
+            "markdown": "Go to the Institute Dormitories"
+        },
+        {
+            "plaintext": "Retrieve the Survey Anchor",
+            "markdown": "Retrieve the Survey Anchor"
+        }
+    ],
+    "dialogue": true
+}

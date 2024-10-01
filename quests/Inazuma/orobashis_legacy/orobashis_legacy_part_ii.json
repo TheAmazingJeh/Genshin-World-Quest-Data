@@ -1,0 +1,111 @@
+{
+    "type": "single",
+    "name": "Orobashi's Legacy: Part II",
+    "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy%3A_Part_II",
+    "starting_location": {
+        "plaintext": "Fort Fujitou",
+        "markdown": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for the ward at the Serpent's Head",
+            "markdown": "Search for the \u25c0ward\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Pillar\u25b7 at the \u25c0Serpent's Head\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serpent%27s_Head\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Interact with the ward",
+                    "markdown": "Interact with the ward"
+                }
+            ]
+        },
+        {
+            "plaintext": "Search for the missing part",
+            "markdown": "Search for the missing part",
+            "substeps": [
+                {
+                    "plaintext": "Facing the ward, go left.",
+                    "markdown": "Facing the ward, go left.",
+                    "substeps": [
+                        {
+                            "plaintext": "Follow the elemental trace into a hole.",
+                            "markdown": "Follow the elemental trace into a hole."
+                        },
+                        {
+                            "plaintext": "Before jumping inside the hole, summon Electrograna.",
+                            "markdown": "Before jumping inside the hole, summon Electrograna."
+                        },
+                        {
+                            "plaintext": "Jump in and deactivate the barrier while activating the mechanism to lower the water.",
+                            "markdown": "Jump in and deactivate the barrier while activating the mechanism to lower the water."
+                        },
+                        {
+                            "plaintext": "Defeat 3 Ruin Destroyers, then 6 Hydro Slimes",
+                            "markdown": "Defeat 3 \u25c0Ruin Destroyers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Destroyer\u25b7, then 6 \u25c0Hydro Slimes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7"
+                        },
+                        {
+                            "plaintext": "Retrieve the Serpent's Head: Rock Pillar Warding Stone before the waterfall",
+                            "markdown": "Retrieve the \u25c0Serpent's Head: Rock Pillar Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serpent%27s_Head:_Rock_Pillar_Warding_Stone\u25b7 before the waterfall"
+                        },
+                        {
+                            "plaintext": "Note: This is the same location for The Gourmet Supremos: The Deep Divers quest.",
+                            "markdown": "Note: This is the same location for \u25c0The Gourmet Supremos: The Deep Divers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Deep_Divers\u25b7 quest."
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Facing the ward, go right",
+                    "markdown": "Facing the ward, go right",
+                    "substeps": [
+                        {
+                            "plaintext": "Follow the elemental trace to a Sacred Stone Puzzle on the body of water between Higi Village and Serpent's Head.",
+                            "markdown": "Follow the elemental trace to a \u25c0Sacred Stone Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Stone_Puzzle\u25b7 on the body of water between \u25c0Higi Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Higi_Village\u25b7 and \u25c0Serpent's Head\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serpent%27s_Head\u25b7."
+                        },
+                        {
+                            "plaintext": "Solve the puzzle (see below for solution)",
+                            "markdown": "Solve the puzzle (\u25c0see below for solution\u25b6\u25c1#Sacred_Stone_Puzzle\u25b7)"
+                        },
+                        {
+                            "plaintext": "Retrieve the Serpent's Head: Rock Pillar Pearl",
+                            "markdown": "Retrieve the \u25c0Serpent's Head: Rock Pillar Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serpent%27s_Head:_Rock_Pillar_Pearl\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Submit the two items to the ward.",
+                    "markdown": "Submit the two items to the ward."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

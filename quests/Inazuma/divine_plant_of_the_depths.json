@@ -1,0 +1,101 @@
+{
+    "type": "single",
+    "name": "Divine Plant of the Depths",
+    "url": "https://genshin-impact.fandom.com/wiki/Divine_Plant_of_the_Depths",
+    "starting_location": {
+        "plaintext": "Bourou Village , Watatsumi Island , Inazuma",
+        "markdown": "\u25c0Bourou Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bourou_Village\u25b7 , \u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Komaki",
+            "markdown": "Talk to \u25c0Komaki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Komaki\u25b7"
+        },
+        {
+            "plaintext": "Go to Watatsumi Island's shrine",
+            "markdown": "Go to \u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7's shrine",
+            "substeps": [
+                {
+                    "plaintext": "This is located in the west part of the island at Mouun Shrine",
+                    "markdown": "This is located in the west part of the island at \u25c0Mouun Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mouun_Shrine\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain  Water Welling With \"Wishes\"",
+            "markdown": "Obtain <img:water_welling_with_wishes> \u25c0Water Welling With \"Wishes\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Water_Welling_With_%22Wishes%22\u25b7",
+            "img": {
+                "water_welling_with_wishes": "Item_Water_Welling_With_Wishes.png"
+            }
+        },
+        {
+            "plaintext": "Return to the village in time",
+            "markdown": "Return to the village in time",
+            "substeps": [
+                {
+                    "plaintext": "Carry the water back to the shrine at Bourou Village in 120 second(s)",
+                    "markdown": "Carry the water back to the shrine at \u25c0Bourou Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bourou_Village\u25b7 in 120 \u25c0second\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Second\u25b7(s)"
+                },
+                {
+                    "plaintext": "Teleportation will result in failing the challenge.",
+                    "markdown": "Teleportation will result in failing the challenge."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Komaki",
+            "markdown": "Talk to Komaki"
+        },
+        {
+            "plaintext": "Go to the cave that Komaki mentioned",
+            "markdown": "Go to the cave that Komaki mentioned"
+        },
+        {
+            "plaintext": "Obtain the Clear Water",
+            "markdown": "Obtain the \u25c0Clear Water\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spiritherb_Water\u25b7"
+        },
+        {
+            "plaintext": "Talk to Komaki",
+            "markdown": "Talk to Komaki"
+        }
+    ],
+    "dialogue": true
+}

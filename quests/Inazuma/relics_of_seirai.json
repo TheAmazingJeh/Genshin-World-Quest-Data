@@ -1,0 +1,295 @@
+{
+    "type": "single",
+    "name": "Relics of Seirai",
+    "url": "https://genshin-impact.fandom.com/wiki/Relics_of_Seirai",
+    "starting_location": {
+        "plaintext": "Koseki Village , Inazuma",
+        "markdown": "\u25c0Koseki Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Koseki_Village\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Rescue the person surrounded by monsters",
+            "markdown": "Rescue the person surrounded by monsters",
+            "substeps": [
+                {
+                    "plaintext": "Hilichurl x3",
+                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x3",
+                    "img": {
+                        "hilichurl": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Fujiwara Toshiko",
+            "markdown": "Talk to \u25c0Fujiwara Toshiko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fujiwara_Toshiko\u25b7"
+        },
+        {
+            "plaintext": "Activate the mechanism",
+            "markdown": "Activate the mechanism",
+            "substeps": [
+                {
+                    "plaintext": "Pull the lever next to Fujiwara to start.",
+                    "markdown": "Pull the lever next to Fujiwara to start."
+                }
+            ]
+        },
+        {
+            "plaintext": "Check and activate the mechanism",
+            "markdown": "Check and activate the mechanism",
+            "substeps": [
+                {
+                    "plaintext": "Step on the 3 panels in the order indicated by Fujiwara Toshiko's Treasure Map. You can read the map again in Quest Item tab of your inventory. Take note of the 3 symbols in Inazuma Language.",
+                    "markdown": "Step on the 3 panels in the order indicated by \u25c0Fujiwara Toshiko's Treasure Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fujiwara_Toshiko%27s_Treasure_Map\u25b7. You can read the map again in Quest Item tab of your inventory. Take note of the 3 symbols in \u25c0Inazuma Language\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_Language\u25b7."
+                },
+                {
+                    "plaintext": "Facing the lever, step on the 3 panels from left to right.",
+                    "markdown": "Facing the lever, step on the 3 panels from left to right."
+                }
+            ]
+        },
+        {
+            "plaintext": "Enter the basement",
+            "markdown": "Enter the basement"
+        },
+        {
+            "plaintext": "Activate the mechanism",
+            "markdown": "Activate the mechanism",
+            "substeps": [
+                {
+                    "plaintext": "Pull the lever next to Fujiwara to start.",
+                    "markdown": "Pull the lever next to Fujiwara to start."
+                },
+                {
+                    "plaintext": "Facing the chest, start from the bottom-right panel.",
+                    "markdown": "Facing the chest, start from the bottom-right panel."
+                },
+                {
+                    "plaintext": "Walk over all the panels to the top-right panel.",
+                    "markdown": "Walk over all the panels to the top-right panel."
+                },
+                {
+                    "plaintext": "Walk over all the panels to the top-left panel.",
+                    "markdown": "Walk over all the panels to the top-left panel."
+                },
+                {
+                    "plaintext": "Walk over all the panels to the bottom-left panel.",
+                    "markdown": "Walk over all the panels to the bottom-left panel."
+                },
+                {
+                    "plaintext": "Walk over 2 panels to the right.",
+                    "markdown": "Walk over 2 panels to the right."
+                },
+                {
+                    "plaintext": "Walk over 1 panel to the top.",
+                    "markdown": "Walk over 1 panel to the top."
+                },
+                {
+                    "plaintext": "Walk over 1 panel to the left.",
+                    "markdown": "Walk over 1 panel to the left."
+                }
+            ]
+        },
+        {
+            "plaintext": "Activate the mechanism again",
+            "markdown": "Activate the mechanism again",
+            "substeps": [
+                {
+                    "plaintext": "Pull the lever next to Fujiwara to start.",
+                    "markdown": "Pull the lever next to Fujiwara to start."
+                },
+                {
+                    "plaintext": "Facing the chest, start from the bottom-left panel.",
+                    "markdown": "Facing the chest, start from the bottom-left panel."
+                },
+                {
+                    "plaintext": "Walk over all the panels to the top-left panel.",
+                    "markdown": "Walk over all the panels to the top-left panel."
+                },
+                {
+                    "plaintext": "Walk over 2 panels to the right.",
+                    "markdown": "Walk over 2 panels to the right."
+                },
+                {
+                    "plaintext": "Walk over 1 panel to the bottom.",
+                    "markdown": "Walk over 1 panel to the bottom."
+                },
+                {
+                    "plaintext": "Walk over 1 panel to the left.",
+                    "markdown": "Walk over 1 panel to the left."
+                },
+                {
+                    "plaintext": "Walk over 1 panel to the bottom.",
+                    "markdown": "Walk over 1 panel to the bottom."
+                },
+                {
+                    "plaintext": "Walk over all the panels to the bottom-right panel.",
+                    "markdown": "Walk over all the panels to the bottom-right panel."
+                },
+                {
+                    "plaintext": "Walk over all the panels to the top-right panel.",
+                    "markdown": "Walk over all the panels to the top-right panel."
+                }
+            ]
+        },
+        {
+            "plaintext": "Wait for Fujiwara Toshiko to open the chest",
+            "markdown": "Wait for Fujiwara Toshiko to open the chest"
+        },
+        {
+            "plaintext": "Talk to Fujiwara Toshiko",
+            "markdown": "Talk to Fujiwara Toshiko"
+        },
+        {
+            "plaintext": "Catch up with Fujiwara Toshiko",
+            "markdown": "Catch up with Fujiwara Toshiko"
+        },
+        {
+            "plaintext": "Follow Fujiwara Toshiko to the camp",
+            "markdown": "Follow Fujiwara Toshiko to the camp"
+        },
+        {
+            "plaintext": "Defeat the ambushing Treasure Hoarders",
+            "markdown": "Defeat the ambushing \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Electro Potioneer x1",
+                    "markdown": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Pyro Potioneer x1",
+                    "markdown": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Handyman x1",
+                    "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Gravedigger x1",
+                    "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow Fujiwara Toshiko to the camp",
+            "markdown": "Follow Fujiwara Toshiko to the camp"
+        },
+        {
+            "plaintext": "Defeat the Masterless Samurai",
+            "markdown": "Defeat the Masterless Samurai",
+            "substeps": [
+                {
+                    "plaintext": "Nobushi: Hitsukeban x1",
+                    "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x1",
+                    "img": {
+                        "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Nobushi: Kikouban x1",
+                    "markdown": "<img:nobushi_kikouban> \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7 x1",
+                    "img": {
+                        "nobushi_kikouban": "Nobushi_Kikouban_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Kairagi: Fiery Might x1",
+                    "markdown": "<img:kairagi_fiery_might> \u25c0Kairagi: Fiery Might\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 x1",
+                    "img": {
+                        "kairagi_fiery_might": "Kairagi_Fiery_Might_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow Fujiwara Toshiko to the camp",
+            "markdown": "Follow Fujiwara Toshiko to the camp"
+        },
+        {
+            "plaintext": "Defeat the ambushing Fatui",
+            "markdown": "Defeat the ambushing \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui/Enemies\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Pyroslinger Bracer x1",
+                    "markdown": "<img:fatui_pyroslinger_bracer> \u25c0Fatui Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyroslinger_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Anemoboxer Vanguard x1",
+                    "markdown": "<img:fatui_anemoboxer_vanguard> \u25c0Fatui Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Anemoboxer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Cryogunner Legionnaire x1",
+                    "markdown": "<img:fatui_cryogunner_legionnaire> \u25c0Fatui Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryogunner_Legionnaire\u25b7 x1",
+                    "img": {
+                        "fatui_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow Fujiwara Toshiko to the camp",
+            "markdown": "Follow Fujiwara Toshiko to the camp"
+        },
+        {
+            "plaintext": "Talk to Fujiwara Toshiko",
+            "markdown": "Talk to Fujiwara Toshiko"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,85 @@
+{
+    "type": "single",
+    "name": "A Gifted Rose: Prickly as Thorns",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Gifted_Rose%3A_Prickly_as_Thorns",
+    "starting_location": {
+        "plaintext": "Land of Lower Setekh , Sumeru",
+        "markdown": "\u25c0Land of Lower Setekh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Lower_Setekh\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete The Exile (World Quest Series) and interact with Sabbah",
+        "markdown": "Complete \u25c0The Exile (World Quest Series)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Exile_(World_Quest_Series)\u25b7 and interact with \u25c0Sabbah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sabbah\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Delicious Shawarma Wrap",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Shawarma_Wrap",
+            "Image": "Item_Delicious_Shawarma_Wrap.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Delicious Tahchin",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Tahchin",
+            "Image": "Item_Delicious_Tahchin.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Glabrous Beans",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Glabrous_Beans",
+            "Image": "Item_Glabrous_Beans.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to Affan's nursery",
+            "markdown": "Go to Affan's nursery"
+        },
+        {
+            "plaintext": "Clean Affan's nursery up",
+            "markdown": "Clean Affan's nursery up",
+            "substeps": [
+                {
+                    "plaintext": "Destroy the Withering Zone",
+                    "markdown": "Destroy the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Affan",
+            "markdown": "Talk to Affan"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,102 @@
+{
+    "type": "series",
+    "name": "Pale Fire",
+    "url": "https://genshin-impact.fandom.com/wiki/Pale_Fire",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Plume of Purifying Light",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Plume_of_Purifying_Light",
+            "Image": "Item_Plume_of_Purifying_Light.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Pale Fire",
+            "markdown": "\u25c0Pale Fire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pale_Fire_(Quest)\u25b7"
+        },
+        {
+            "plaintext": "The following quests can be completed in any order:",
+            "markdown": "The following quests can be completed in any order:",
+            "substeps": [
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_1)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Northwest_Tunigi_Hollow)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Asipattravana_Swamp)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_2)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_1)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(East_Tunigi_Hollow)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Hangeh_Afrasiyab)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Madinat_al-Nuhas)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_3)\u25b7"
+                },
+                {
+                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
+                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_2)\u25b7"
+                }
+            ]
+        }
+    ]
+}

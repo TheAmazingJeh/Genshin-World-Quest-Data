@@ -1,0 +1,76 @@
+{
+    "type": "single",
+    "name": "\"The Seventh Samurai\"",
+    "url": "https://genshin-impact.fandom.com/wiki/%22The_Seventh_Samurai%22",
+    "starting_location": {
+        "plaintext": "Inazuma City , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Xavier",
+            "markdown": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
+        },
+        {
+            "plaintext": "Help Xavier produce a film",
+            "markdown": "Help Xavier produce a film",
+            "substeps": [
+                {
+                    "plaintext": "Do not leave the recording area of the Film Kamera",
+                    "markdown": "Do not leave the recording area of the Film Kamera"
+                },
+                {
+                    "plaintext": "Bandits defeated: 0/3",
+                    "markdown": "Bandits defeated: 0/3"
+                },
+                {
+                    "plaintext": "Change position: 0/3",
+                    "markdown": "Change position: 0/3"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Xavier",
+            "markdown": "Talk to Xavier"
+        }
+    ],
+    "dialogue": true
+}

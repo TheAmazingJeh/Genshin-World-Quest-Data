@@ -1,0 +1,67 @@
+{
+    "type": "single",
+    "name": "Leroy: Queen of the Night's Aria",
+    "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Queen_of_the_Night%27s_Aria",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Vasari Passage , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Rainbow Rose",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Rainbow_Rose",
+            "Image": "Item_Rainbow_Rose.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Wait for the \"Bulle Fruit\" signal",
+            "markdown": "Wait for the \"Bulle Fruit\" signal"
+        },
+        {
+            "plaintext": "Go to the back window",
+            "markdown": "Go to the back window"
+        },
+        {
+            "plaintext": "Follow Benoit",
+            "markdown": "Follow Benoit"
+        },
+        {
+            "plaintext": "Go and ride the Navia Line",
+            "markdown": "Go and ride the Navia Line"
+        },
+        {
+            "plaintext": "Pursue Benoit",
+            "markdown": "Pursue Benoit"
+        },
+        {
+            "plaintext": "Witness the confrontation",
+            "markdown": "Witness the confrontation"
+        }
+    ],
+    "dialogue": true
+}

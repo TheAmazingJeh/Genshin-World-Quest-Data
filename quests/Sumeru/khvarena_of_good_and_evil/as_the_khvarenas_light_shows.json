@@ -1,0 +1,259 @@
+{
+    "type": "single",
+    "name": "As the Khvarena's Light Shows",
+    "url": "https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows",
+    "starting_location": {
+        "plaintext": "Vourukasha Oasis , Sumeru",
+        "markdown": "\u25c0Vourukasha Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vourukasha_Oasis\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Zurvan",
+            "markdown": "Talk to \u25c0Zurvan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zurvan\u25b7"
+        },
+        {
+            "plaintext": "Go to Sunyata Lake",
+            "markdown": "Go to Sunyata Lake"
+        },
+        {
+            "plaintext": "Let Sorush touch the Great Song of Khvarena",
+            "markdown": "Let \u25c0Sorush\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sorush\u25b7 touch the \u25c0Great Song of Khvarena\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Great_Song_of_Khvarena\u25b7"
+        },
+        {
+            "plaintext": "Talk to Nasejuna",
+            "markdown": "Talk to \u25c0Nasejuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nasejuna\u25b7"
+        },
+        {
+            "plaintext": "Look for the  Great Songs of Khvarena (0/3)",
+            "markdown": "Look for the <img:great_song_of_khvarena> \u25c0Great Songs of Khvarena\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Great_Song_of_Khvarena\u25b7 (0/3)",
+            "img": {
+                "great_song_of_khvarena": "Item_Great_Song_of_Khvarena.png"
+            }
+        },
+        {
+            "plaintext": "Find the final Great Song of Khvarena",
+            "markdown": "Find the final Great Song of Khvarena"
+        },
+        {
+            "plaintext": "Enter the ruins",
+            "markdown": "Enter the ruins"
+        },
+        {
+            "plaintext": "Continue onward",
+            "markdown": "Continue onward"
+        },
+        {
+            "plaintext": "Use the Farrwick to link the circuit and activate the left machine door",
+            "markdown": "Use the \u25c0Farrwick\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Farrwick\u25b7 to link the circuit and activate the left machine door"
+        },
+        {
+            "plaintext": "Look for the second Farrwick",
+            "markdown": "Look for the second Farrwick",
+            "substeps": [
+                {
+                    "plaintext": "Blazing Axe Mitachurl x1",
+                    "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                    "img": {
+                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl Berserker x1",
+                    "markdown": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 x1",
+                    "img": {
+                        "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Pyro Hilichurl Shooter x1",
+                    "markdown": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 x1",
+                    "img": {
+                        "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Nasejuna",
+            "markdown": "Talk to Nasejuna"
+        },
+        {
+            "plaintext": "Link the circuit and activate the right machine door",
+            "markdown": "Link the circuit and activate the right machine door"
+        },
+        {
+            "plaintext": "Go to the space on the right side",
+            "markdown": "Go to the space on the right side"
+        },
+        {
+            "plaintext": "Talk to Nasejuna",
+            "markdown": "Talk to Nasejuna"
+        },
+        {
+            "plaintext": "Look for the third Farrwick",
+            "markdown": "Look for the third Farrwick",
+            "substeps": [
+                {
+                    "plaintext": "Ruin Guard x1",
+                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1",
+                    "img": {
+                        "ruin_guard": "Ruin_Guard_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Ruin Defender x2",
+                    "markdown": "<img:ruin_defender> \u25c0Ruin Defender\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Defender\u25b7 x2",
+                    "img": {
+                        "ruin_defender": "Ruin_Defender_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow the path back to the control center",
+            "markdown": "Follow the path back to the control center"
+        },
+        {
+            "plaintext": "Talk to Nasejuna",
+            "markdown": "Talk to Nasejuna"
+        },
+        {
+            "plaintext": "Connect the three devices near the elevator",
+            "markdown": "Connect the three devices near the elevator"
+        },
+        {
+            "plaintext": "Activate the central control device",
+            "markdown": "Activate the central control device"
+        },
+        {
+            "plaintext": "Go to the elevator",
+            "markdown": "Go to the elevator"
+        },
+        {
+            "plaintext": "Take the elevator down",
+            "markdown": "Take the elevator down",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Cruiser x1",
+                            "markdown": "<img:ruin_cruiser> \u25c0Ruin Cruiser\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Cruiser\u25b7 x1",
+                            "img": {
+                                "ruin_cruiser": "Ruin_Cruiser_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Ruin Defender x1",
+                            "markdown": "<img:ruin_defender> \u25c0Ruin Defender\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Defender\u25b7 x1",
+                            "img": {
+                                "ruin_defender": "Ruin_Defender_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Ruin Destroyer x1",
+                            "markdown": "<img:ruin_destroyer> \u25c0Ruin Destroyer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Destroyer\u25b7 x1",
+                            "img": {
+                                "ruin_destroyer": "Ruin_Destroyer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Guard x2",
+                            "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x2",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Grader x2",
+                            "markdown": "<img:ruin_grader> \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7 x2",
+                            "img": {
+                                "ruin_grader": "Ruin_Grader_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the final Great Song of Khvarena",
+            "markdown": "Obtain the final Great Song of Khvarena"
+        },
+        {
+            "plaintext": "Defeat Nasejuna and the Abyss Herald",
+            "markdown": "Defeat Nasejuna and the Abyss Herald",
+            "substeps": [
+                {
+                    "plaintext": "Klingsor \u2014 \"Forsaker of the True Way\" x1",
+                    "markdown": "<img:abyss_herald_wicked_torrents> \u25c0Klingsor \u2014 \"Forsaker of the True Way\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Herald:_Wicked_Torrents\u25b7 x1",
+                    "img": {
+                        "abyss_herald_wicked_torrents": "Abyss_Herald_Wicked_Torrents_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Nasejuna x1",
+                    "markdown": "<img:eremite_crossbow> \u25c0Nasejuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
+                    "img": {
+                        "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Sorush",
+            "markdown": "Talk to Sorush"
+        }
+    ],
+    "dialogue": true
+}

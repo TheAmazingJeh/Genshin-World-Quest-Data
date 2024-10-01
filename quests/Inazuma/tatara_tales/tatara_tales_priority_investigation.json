@@ -1,0 +1,48 @@
+{
+    "type": "single",
+    "name": "Tatara Tales: Priority Investigation",
+    "url": "https://genshin-impact.fandom.com/wiki/Tatara_Tales%3A_Priority_Investigation",
+    "starting_location": {
+        "plaintext": "Tatarasuna , Inazuma",
+        "markdown": "\u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Xavier",
+            "markdown": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
+        },
+        {
+            "plaintext": "Place the beacons (0/3)",
+            "markdown": "Place the beacons (0/3)"
+        },
+        {
+            "plaintext": "Report back to Xavier",
+            "markdown": "Report back to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
+        }
+    ],
+    "dialogue": true
+}

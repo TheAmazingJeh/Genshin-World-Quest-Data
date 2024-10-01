@@ -1,0 +1,114 @@
+{
+    "type": "single",
+    "name": "Pursuit (Part 2)",
+    "url": "https://genshin-impact.fandom.com/wiki/Pursuit_%28Part_2%29",
+    "starting_location": {
+        "plaintext": "Canotila and the Book of Revealing , Fontaine",
+        "markdown": "\u25c0Canotila and the Book of Revealing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila_and_the_Book_of_Revealing\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter the world of Meditation through the Book of Revealing",
+            "markdown": "Enter the world of Meditation through the Book of Revealing"
+        },
+        {
+            "plaintext": "Talk to Canotila",
+            "markdown": "Talk to \u25c0Canotila\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila\u25b7"
+        },
+        {
+            "plaintext": "Continue the pursuit",
+            "markdown": "Continue the pursuit"
+        },
+        {
+            "plaintext": "Fight",
+            "markdown": "Fight",
+            "substeps": [
+                {
+                    "plaintext": "Anemo Hilichurl Rogue x1",
+                    "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
+                    "img": {
+                        "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Continue the pursuit",
+            "markdown": "Continue the pursuit"
+        },
+        {
+            "plaintext": "Fight",
+            "markdown": "Fight",
+            "substeps": [
+                {
+                    "plaintext": "Anemo Hilichurl Rogue x1",
+                    "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
+                    "img": {
+                        "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Go toward where the sound is coming from",
+            "markdown": "Go toward where the sound is coming from"
+        },
+        {
+            "plaintext": "Fight",
+            "markdown": "Fight",
+            "substeps": [
+                {
+                    "plaintext": "Anemo Hilichurl Rogue x1",
+                    "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
+                    "img": {
+                        "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Canotila",
+            "markdown": "Talk to Canotila"
+        },
+        {
+            "plaintext": "Awaken",
+            "markdown": "Awaken"
+        },
+        {
+            "plaintext": "Talk to Canotila",
+            "markdown": "Talk to Canotila"
+        }
+    ],
+    "dialogue": true
+}

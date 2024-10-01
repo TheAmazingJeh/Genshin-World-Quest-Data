@@ -1,0 +1,86 @@
+{
+    "type": "single",
+    "name": "Rowboat's Wake (Quest)",
+    "url": "https://genshin-impact.fandom.com/wiki/Rowboat%27s_Wake_%28Quest%29",
+    "starting_location": {
+        "plaintext": "Genesis of a Certain Micro-Universe , Fontaine",
+        "markdown": "\u25c0Genesis of a Certain Micro-Universe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Genesis_of_a_Certain_Micro-Universe\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Ann and re-seal the entrance to the Primordial Sea",
+            "markdown": "Talk to Ann and re-seal the entrance to the Primordial Sea"
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Dodge the cannon fire and break through the Bubble Formation",
+            "markdown": "Dodge the cannon fire and break through the Bubble Formation"
+        },
+        {
+            "plaintext": "Enter the tower",
+            "markdown": "Enter the tower"
+        },
+        {
+            "plaintext": "Keep moving ahead",
+            "markdown": "Keep moving ahead"
+        },
+        {
+            "plaintext": "Talk to Mary-Ann",
+            "markdown": "Talk to Mary-Ann"
+        },
+        {
+            "plaintext": "Smash the \"Will to Resist\"",
+            "markdown": "Smash the \"Will to Resist\""
+        },
+        {
+            "plaintext": "Talk to Mary-Ann",
+            "markdown": "Talk to Mary-Ann"
+        },
+        {
+            "plaintext": "Go to Merusea Village",
+            "markdown": "Go to Merusea Village"
+        }
+    ],
+    "dialogue": true
+}

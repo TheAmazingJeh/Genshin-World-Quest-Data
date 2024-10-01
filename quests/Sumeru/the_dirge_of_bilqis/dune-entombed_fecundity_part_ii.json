@@ -1,0 +1,225 @@
+{
+    "type": "single",
+    "name": "Dune-Entombed Fecundity: Part II",
+    "url": "https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity%3A_Part_II",
+    "starting_location": {
+        "plaintext": "Desert of Hadramaveth , Sumeru",
+        "markdown": "\u25c0Desert of Hadramaveth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert_of_Hadramaveth\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the place Azariq mentioned",
+            "markdown": "Go to the place \u25c0Azariq\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Azariq\u25b7 mentioned"
+        },
+        {
+            "plaintext": "Enter the machine wreckage",
+            "markdown": "Enter the machine wreckage"
+        },
+        {
+            "plaintext": "Open the cabin door and go inside",
+            "markdown": "Open the cabin door and go inside"
+        },
+        {
+            "plaintext": "Activate the giant machine's energy system",
+            "markdown": "Activate the giant machine's energy system"
+        },
+        {
+            "plaintext": "Enter the control cabin",
+            "markdown": "Enter the control cabin"
+        },
+        {
+            "plaintext": "Activate the machine",
+            "markdown": "Activate the machine"
+        },
+        {
+            "plaintext": "Go to your destination",
+            "markdown": "Go to your destination"
+        },
+        {
+            "plaintext": "Check on the condition of the machine's interior",
+            "markdown": "Check on the condition of the machine's interior"
+        },
+        {
+            "plaintext": "Discuss what to do with Azariq and the others",
+            "markdown": "Discuss what to do with Azariq and the others"
+        },
+        {
+            "plaintext": "Restore power to the left arm",
+            "markdown": "Restore power to the left arm"
+        },
+        {
+            "plaintext": "Go back to the control room and open the passage",
+            "markdown": "Go back to the control room and open the passage"
+        },
+        {
+            "plaintext": "Enter the cave through the ancient machine's arm",
+            "markdown": "Enter the cave through the ancient machine's arm"
+        },
+        {
+            "plaintext": "Keep exploring",
+            "markdown": "Keep exploring"
+        },
+        {
+            "plaintext": "Activate the ancient mechanism",
+            "markdown": "Activate the ancient mechanism"
+        },
+        {
+            "plaintext": "Go deeper into Mt. Damavand",
+            "markdown": "Go deeper into \u25c0Mt. Damavand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Damavand\u25b7"
+        },
+        {
+            "plaintext": "Look for the passage to proceed",
+            "markdown": "Look for the passage to proceed"
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Connect the junctions",
+            "markdown": "Connect the junctions"
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Open the ancient gate",
+            "markdown": "Open the ancient gate"
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Obtain Liloupar's fragment",
+            "markdown": "Obtain Liloupar's fragment"
+        },
+        {
+            "plaintext": "Open the door",
+            "markdown": "Open the door"
+        },
+        {
+            "plaintext": "Go to the deepest part of Mt. Damavand",
+            "markdown": "Go to the deepest part of Mt. Damavand"
+        },
+        {
+            "plaintext": "Activate the mysterious mechanism",
+            "markdown": "Activate the mysterious mechanism"
+        },
+        {
+            "plaintext": "Activate the mechanism",
+            "markdown": "Activate the mechanism"
+        },
+        {
+            "plaintext": "Defeat the attracted monsters",
+            "markdown": "Defeat the attracted monsters",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Primal Construct: Reshaper x1",
+                            "markdown": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x1",
+                            "img": {
+                                "primal_construct_reshaper": "Primal_Construct_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Primal Construct: Prospector x1",
+                            "markdown": "<img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 x1",
+                            "img": {
+                                "primal_construct_prospector": "Primal_Construct_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Whirling Electro Fungus x3",
+                            "markdown": "<img:whirling_electro_fungus> \u25c0Whirling Electro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whirling_Electro_Fungus\u25b7 x3",
+                            "img": {
+                                "whirling_electro_fungus": "Whirling_Electro_Fungus_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Stretchy Electro Fungus x2",
+                            "markdown": "<img:stretchy_electro_fungus> \u25c0Stretchy Electro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Electro_Fungus\u25b7 x2",
+                            "img": {
+                                "stretchy_electro_fungus": "Stretchy_Electro_Fungus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Grounded Geoshroom x2",
+                            "markdown": "<img:grounded_geoshroom> \u25c0Grounded Geoshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grounded_Geoshroom\u25b7 x2",
+                            "img": {
+                                "grounded_geoshroom": "Grounded_Geoshroom_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to the exit",
+            "markdown": "Head to the exit"
+        },
+        {
+            "plaintext": "Talk to Jeht and the others",
+            "markdown": "Talk to Jeht and the others"
+        },
+        {
+            "plaintext": "Return to the surface",
+            "markdown": "Return to the surface"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,94 @@
+{
+    "type": "single",
+    "name": "Wish-Fulfilling Treasure Hunt",
+    "url": "https://genshin-impact.fandom.com/wiki/Wish-Fulfilling_Treasure_Hunt",
+    "starting_location": {
+        "plaintext": "Tower of Ipsissimus , Fontaine",
+        "markdown": "\u25c0Tower of Ipsissimus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tower_of_Ipsissimus\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Rowboat's Wake",
+        "markdown": "Complete \u25c0Rowboat's Wake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rowboat%27s_Wake_(Quest)\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Salvage the lost items",
+            "markdown": "Salvage the lost items"
+        },
+        {
+            "plaintext": "Return to The Rusty Rudder to find Urville",
+            "markdown": "Return to \u25c0The Rusty Rudder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22The_Rusty_Rudder%22\u25b7 to find Urville"
+        },
+        {
+            "plaintext": "Go to the underwater shelter",
+            "markdown": "Go to the underwater shelter"
+        },
+        {
+            "plaintext": "Drive back the Ball Octopuses",
+            "markdown": "Drive back the Ball Octopuses",
+            "substeps": [
+                {
+                    "plaintext": "Lil' Red - Urville's Nemesis",
+                    "markdown": "<img:ball_octopus> \u25c0Lil' Red - Urville's Nemesis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ball_Octopus\u25b7",
+                    "img": {
+                        "ball_octopus": "Ball_Octopus_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Ball Octopus x2",
+                    "markdown": "<img:ball_octopus> \u25c0Ball Octopus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ball_Octopus\u25b7 x2",
+                    "img": {
+                        "ball_octopus": "Ball_Octopus_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Enter the underwater shelter",
+            "markdown": "Enter the underwater shelter"
+        },
+        {
+            "plaintext": "Find clues to the treasure",
+            "markdown": "Find clues to the treasure"
+        },
+        {
+            "plaintext": "Talk to Urville",
+            "markdown": "Talk to Urville"
+        },
+        {
+            "plaintext": "Take a picture for Urville and Nadia",
+            "markdown": "Take a picture for Urville and \u25c0Nadia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nadia_(Fontaine)\u25b7"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,42 @@
+{
+    "type": "series",
+    "name": "Ritou Travel Permit",
+    "url": "https://genshin-impact.fandom.com/wiki/Ritou_Travel_Permit",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Travel Permit",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Travel_Permit",
+            "Image": "Item_Quest_Letter.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Chisato's Letter",
+            "markdown": "\u25c0Chisato's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chisato%27s_Letter\u25b7"
+        }
+    ]
+}

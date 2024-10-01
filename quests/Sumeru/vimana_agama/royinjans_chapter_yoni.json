@@ -1,0 +1,69 @@
+{
+    "type": "single",
+    "name": "Royinjan's Chapter: Yoni",
+    "url": "https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter%3A_Yoni",
+    "starting_location": {
+        "plaintext": "Vimara Village , Sumeru",
+        "markdown": "\u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the designated areaDesignated areaAdditional context",
+            "markdown": "Go to the designated area\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Yoni_Start_Location.png\u25b7Designated area\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Yoni_Start_Location_Context.png\u25b7Additional context"
+        },
+        {
+            "plaintext": "Find an entrance",
+            "markdown": "Find an entrance",
+            "substeps": [
+                {
+                    "plaintext": "Break the Dendrogranum-Locked Rock with the nearby Auspicious Branch",
+                    "markdown": "Break the \u25c0Dendrogranum-Locked Rock\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum-Locked_Rock\u25b7 with the nearby \u25c0Auspicious Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Auspicious_Branch\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow the path",
+            "markdown": "Follow the path"
+        },
+        {
+            "plaintext": "Clean up The Withering",
+            "markdown": "Clean up \u25c0The Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7"
+        },
+        {
+            "plaintext": "Search for a mechanical component",
+            "markdown": "Search for a mechanical component"
+        }
+    ],
+    "dialogue": true
+}

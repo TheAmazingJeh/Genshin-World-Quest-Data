@@ -1,0 +1,235 @@
+{
+    "type": "single",
+    "name": "Wherefore Did the Spiritstone Descend?",
+    "url": "https://genshin-impact.fandom.com/wiki/Wherefore_Did_the_Spiritstone_Descend%3F",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to the Zhiqiong up ahead",
+            "markdown": "Talk to the \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7 up ahead"
+        },
+        {
+            "plaintext": "Go to the camp with Zhiqiong",
+            "markdown": "Go to the camp with Zhiqiong"
+        },
+        {
+            "plaintext": "Talk to Zhiqiong",
+            "markdown": "Talk to Zhiqiong"
+        },
+        {
+            "plaintext": "Go to the gate that Zhiqiong mentioned",
+            "markdown": "Go to the gate that Zhiqiong mentioned"
+        },
+        {
+            "plaintext": "Open Gate [sic]",
+            "markdown": "Open Gate [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7]"
+        },
+        {
+            "plaintext": "Go within the gate to investigate",
+            "markdown": "Go within the gate to investigate"
+        },
+        {
+            "plaintext": "Read the stone tablet",
+            "markdown": "Read the stone tablet"
+        },
+        {
+            "plaintext": "Purify the large crystal (0/5)",
+            "markdown": "Purify the large crystal (0/5)",
+            "substeps": [
+                {
+                    "plaintext": "Recharge each crystal by staying near them while carrying a Lumenstone Adjuvant charged with 3 bars.",
+                    "markdown": "Recharge each crystal by staying near them while carrying a \u25c0Lumenstone Adjuvant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lumenstone_Adjuvant\u25b7 charged with 3 bars."
+                },
+                {
+                    "plaintext": "The enemies are automatically defeated when the crystal is fully charged.",
+                    "markdown": "The enemies are automatically defeated when the crystal is fully charged."
+                },
+                {
+                    "plaintext": "Northeastern Crystal:",
+                    "markdown": "Northeastern Crystal:",
+                    "substeps": [
+                        {
+                            "plaintext": "Present before activation:",
+                            "markdown": "Present before activation:",
+                            "substeps": [
+                                {
+                                    "plaintext": "Pyro Abyss Mage x1",
+                                    "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                                    "img": {
+                                        "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Hydro Abyss Mage x1",
+                                    "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
+                                    "img": {
+                                        "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "plaintext": "Spawns on activation:",
+                            "markdown": "Spawns on activation:",
+                            "substeps": [
+                                {
+                                    "plaintext": "Pyro Abyss Mage x1",
+                                    "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                                    "img": {
+                                        "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Northwestern Crystal:",
+                    "markdown": "Northwestern Crystal:",
+                    "substeps": [
+                        {
+                            "plaintext": "Electro Abyss Mage x1",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Southwestern Crystal:",
+                    "markdown": "Southwestern Crystal:",
+                    "substeps": [
+                        {
+                            "plaintext": "Electro Abyss Mage x1",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Cryo Abyss Mage x1",
+                            "markdown": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Southern Crystal:",
+                    "markdown": "Southern Crystal:",
+                    "substeps": [
+                        {
+                            "plaintext": "Abyss Herald: Wicked Torrents x1",
+                            "markdown": "<img:abyss_herald_wicked_torrents> \u25c0Abyss Herald: Wicked Torrents\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Herald:_Wicked_Torrents\u25b7 x1",
+                            "img": {
+                                "abyss_herald_wicked_torrents": "Abyss_Herald_Wicked_Torrents_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Southeastern Crystal:",
+                    "markdown": "Southeastern Crystal:",
+                    "substeps": [
+                        {
+                            "plaintext": "Thundercraven Rifthound x1",
+                            "markdown": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 x1",
+                            "img": {
+                                "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Rockfond Rifthound Whelp x2",
+                            "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Strike the large purified crystal",
+            "markdown": "Strike the large purified crystal"
+        },
+        {
+            "plaintext": "Defeat the monster lurking in The Chasm's depths",
+            "markdown": "Defeat the monster lurking in \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7's depths",
+            "substeps": [
+                {
+                    "plaintext": "Haftvad the Worm - Giant Digging Device of the Lost Realm",
+                    "markdown": "<img:ruin_serpent> \u25c0Haftvad the Worm - Giant Digging Device of the Lost Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Serpent\u25b7",
+                    "img": {
+                        "ruin_serpent": "Ruin_Serpent_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to the camp and talk to Zhiqiong",
+            "markdown": "Return to the camp and talk to Zhiqiong"
+        },
+        {
+            "plaintext": "Report back to Muning",
+            "markdown": "Report back to \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Says He Who Seeks Stone needs to be begun before this step can be completed.",
+                    "markdown": "\u25c0Says He Who Seeks Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Says_He_Who_Seeks_Stone\u25b7 needs to be begun before this step can be completed."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

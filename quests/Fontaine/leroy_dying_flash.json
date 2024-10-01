@@ -1,0 +1,58 @@
+{
+    "type": "single",
+    "name": "Leroy: Dying Flash",
+    "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Dying_Flash",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Quartier Narbonnais , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Quartier Narbonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Narbonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Impromptu Poem of the Crimson Dawn Complete Questioning Melusine and Answering Machine",
+        "markdown": "Complete \u25c0Impromptu Poem of the Crimson Dawn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Impromptu_Poem_of_the_Crimson_Dawn\u25b7 Complete \u25c0Questioning Melusine and Answering Machine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Questioning_Melusine_and_Answering_Machine\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Fruity Trio",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fruity_Trio",
+            "Image": "Item_Fruity_Trio.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for Mr. Leroy",
+            "markdown": "Look for Mr. Leroy"
+        },
+        {
+            "plaintext": "Finish the work (0/3)",
+            "markdown": "Finish the work (0/3)"
+        },
+        {
+            "plaintext": "Report to Mr. Leroy",
+            "markdown": "Report to Mr. Leroy"
+        }
+    ],
+    "dialogue": true
+}

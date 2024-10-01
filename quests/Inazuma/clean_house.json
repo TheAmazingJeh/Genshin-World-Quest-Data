@@ -1,0 +1,190 @@
+{
+    "type": "single",
+    "name": "Clean House",
+    "url": "https://genshin-impact.fandom.com/wiki/Clean_House",
+    "starting_location": {
+        "plaintext": "Sangonomiya Shrine , Inazuma",
+        "markdown": "\u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Orobashi's Legacy series Complete Omnipresence Over Mortals",
+        "markdown": "Complete \u25c0Orobashi's Legacy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy\u25b7 series Complete \u25c0Omnipresence Over Mortals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Omnipresence_Over_Mortals\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to Jakotsu Mine to negotiate with the Shogunate Samurai",
+            "markdown": "Go to \u25c0Jakotsu Mine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine\u25b7 to negotiate with the Shogunate Samurai"
+        },
+        {
+            "plaintext": "Defeat the Brutish Samurai",
+            "markdown": "Defeat the Brutish Samurai",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Shogunate Infantry x4",
+                            "markdown": "<img:shogunate_infantry> \u25c0Shogunate Infantry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shogunate_Infantry\u25b7 x4",
+                            "img": {
+                                "shogunate_infantry": "Shogunate_Infantry_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Shogunate Infantry x2",
+                            "markdown": "<img:shogunate_infantry> \u25c0Shogunate Infantry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shogunate_Infantry\u25b7 x2",
+                            "img": {
+                                "shogunate_infantry": "Shogunate_Infantry_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Shogunate Infantry Captain x1",
+                            "markdown": "<img:shogunate_infantry_captain> \u25c0Shogunate Infantry Captain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shogunate_Infantry_Captain\u25b7 x1",
+                            "img": {
+                                "shogunate_infantry_captain": "Shogunate_Infantry_Captain_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Shogunate Infantry x2",
+                            "markdown": "<img:shogunate_infantry> \u25c0Shogunate Infantry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shogunate_Infantry\u25b7 x2",
+                            "img": {
+                                "shogunate_infantry": "Shogunate_Infantry_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Yoriki Samurai x1",
+                            "markdown": "<img:yoriki_samurai> \u25c0Yoriki Samurai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yoriki_Samurai\u25b7 x1",
+                            "img": {
+                                "yoriki_samurai": "Yoriki_Samurai_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Read the notes that the samurai left behind",
+            "markdown": "Read the notes that the samurai left behind"
+        },
+        {
+            "plaintext": "Go to the port to investigate the Fatui",
+            "markdown": "Go to the port to investigate the Fatui"
+        },
+        {
+            "plaintext": "Defeat Borenka and his minions",
+            "markdown": "Defeat Borenka and his minions",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:   Shogunate Infantry Captain x2",
+                    "markdown": "Wave 1:  <img:shogunate_infantry_captain> \u25c0Shogunate Infantry Captain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shogunate_Infantry_Captain\u25b7 x2",
+                    "img": {
+                        "shogunate_infantry_captain": "Shogunate_Infantry_Captain_Icon.png"
+                    },
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Pyro Agent x1",
+                            "markdown": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 x1",
+                            "img": {
+                                "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Fatui Cryo Cicin Mage x1",
+                            "markdown": "<img:fatui_cryo_cicin_mage> \u25c0Fatui Cryo Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryo_Cicin_Mage\u25b7 x1",
+                            "img": {
+                                "fatui_cryo_cicin_mage": "Fatui_Cryo_Cicin_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:   Mirror Maiden x1",
+                    "markdown": "Wave 3:  <img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 x1",
+                    "img": {
+                        "mirror_maiden": "Mirror_Maiden_Icon.png"
+                    },
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "(Optional) Read Borenka's \"Orders\"",
+            "markdown": "(Optional) Read Borenka's \"Orders\""
+        },
+        {
+            "plaintext": "Talk to Shizuru",
+            "markdown": "Talk to Shizuru"
+        }
+    ],
+    "dialogue": true
+}

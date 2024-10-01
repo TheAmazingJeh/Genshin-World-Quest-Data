@@ -1,0 +1,13 @@
+{
+    "type": "act",
+    "name": "Savior's Wake",
+    "url": "https://genshin-impact.fandom.com/wiki/Savior%27s_Wake",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Savior's Wake",
+            "markdown": "\u25c0Savior's Wake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Savior%27s_Wake_(Quest)\u25b7"
+        }
+    ]
+}

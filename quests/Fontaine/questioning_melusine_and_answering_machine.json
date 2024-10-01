@@ -1,0 +1,57 @@
+{
+    "type": "series",
+    "name": "Questioning Melusine and Answering Machine",
+    "url": "https://genshin-impact.fandom.com/wiki/Questioning_Melusine_and_Answering_Machine",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "950",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "120",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "90,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "9",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Act I - Vagrants and Scamps",
+            "markdown": "Act I - \u25c0Vagrants and Scamps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vagrants_and_Scamps\u25b7"
+        },
+        {
+            "plaintext": "Act II - The Red and the Black",
+            "markdown": "Act II - \u25c0The Red and the Black\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Red_and_the_Black\u25b7"
+        },
+        {
+            "plaintext": "Act III - Questions and Answers",
+            "markdown": "Act III - \u25c0Questions and Answers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Questions_and_Answers\u25b7"
+        }
+    ]
+}

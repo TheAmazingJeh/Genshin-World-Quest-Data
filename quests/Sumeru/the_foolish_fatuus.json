@@ -1,0 +1,172 @@
+{
+    "type": "single",
+    "name": "The Foolish Fatuus",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Foolish_Fatuus",
+    "starting_location": null,
+    "requirements": {
+        "plaintext": "Complete 8 Strange Energy Extraction Device puzzles in Eremite camps.",
+        "markdown": "Complete 8 Strange Energy Extraction Device puzzles in Eremite camps."
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Fight Oleg",
+            "markdown": "Fight Oleg",
+            "substeps": [
+                {
+                    "plaintext": "Oleg: Slippery Viper",
+                    "markdown": "<img:fatui_pyro_agent> \u25c0Oleg: Slippery Viper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
+                    "img": {
+                        "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "The Eremite enemies who normally spawn at the camp will aggro during the fight and will continue to attack and damage the active character while the cutscene plays. Defeating them while fighting Oleg is recommended.",
+                    "markdown": "The Eremite enemies who normally spawn at the camp will aggro during the fight and will continue to attack and damage the active character while the cutscene plays. Defeating them while fighting Oleg is recommended."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to Camp 2",
+            "markdown": "Go to Camp 2"
+        },
+        {
+            "plaintext": "Fight Oleg",
+            "markdown": "Fight Oleg"
+        },
+        {
+            "plaintext": "Go to Camp 3",
+            "markdown": "Go to Camp 3"
+        },
+        {
+            "plaintext": "Fight Oleg",
+            "markdown": "Fight Oleg"
+        },
+        {
+            "plaintext": "Follow the path and go to the last camp",
+            "markdown": "Follow the path and go to the last camp"
+        },
+        {
+            "plaintext": "Defeat Kasim the Bandit",
+            "markdown": "Defeat Kasim the Bandit",
+            "substeps": [
+                {
+                    "plaintext": "Great Bandit Kasim: The Legendary Bandit?",
+                    "markdown": "<img:eremite_sword-dancer> \u25c0Great Bandit Kasim: The Legendary Bandit?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7",
+                    "img": {
+                        "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Interrogate Kasim",
+            "markdown": "Interrogate Kasim",
+            "substeps": [
+                {
+                    "plaintext": "If Kasim's willpower is broken, skip the next step.",
+                    "markdown": "If Kasim's willpower is broken, skip the next step."
+                }
+            ]
+        },
+        {
+            "plaintext": "Search the camp for clues about the Fatui stronghold",
+            "markdown": "Search the camp for clues about the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7 stronghold"
+        },
+        {
+            "plaintext": "Go to the secret contact campsite",
+            "markdown": "Go to the secret contact campsite"
+        },
+        {
+            "plaintext": "Light the torches at night (20:00 \u2013 24:00)",
+            "markdown": "Light the torches at night (20:00 \u2013 24:00)"
+        },
+        {
+            "plaintext": "Go to the Fatui stronghold",
+            "markdown": "Go to the Fatui stronghold"
+        },
+        {
+            "plaintext": "Talk to Oleg, who will check your watchword",
+            "markdown": "Talk to Oleg, who will check your watchword"
+        },
+        {
+            "plaintext": "Follow Oleg",
+            "markdown": "Follow Oleg"
+        },
+        {
+            "plaintext": "Fight Oleg",
+            "markdown": "Fight Oleg",
+            "substeps": [
+                {
+                    "plaintext": "Oleg: Slippery Viper",
+                    "markdown": "<img:fatui_pyro_agent> \u25c0Oleg: Slippery Viper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
+                    "img": {
+                        "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
+                    "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Rukh Shah",
+            "markdown": "Talk to \u25c0Rukh Shah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rukh_Shah\u25b7"
+        }
+    ],
+    "dialogue": true
+}

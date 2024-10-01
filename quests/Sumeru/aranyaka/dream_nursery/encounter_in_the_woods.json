@@ -1,0 +1,21 @@
+{
+    "type": "single",
+    "name": "Encounter in the Woods",
+    "url": "https://genshin-impact.fandom.com/wiki/Encounter_in_the_Woods",
+    "starting_location": {
+        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
+        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The World of Aranara",
+        "markdown": "\u25c0The World of Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_World_of_Aranara\u25b7"
+    },
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Talk to Arakavi",
+            "markdown": "Talk to Arakavi"
+        }
+    ],
+    "dialogue": true
+}

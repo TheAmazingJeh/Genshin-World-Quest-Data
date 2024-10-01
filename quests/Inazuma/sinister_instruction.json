@@ -1,0 +1,49 @@
+{
+    "type": "single",
+    "name": "Sinister Instruction",
+    "url": "https://genshin-impact.fandom.com/wiki/Sinister_Instruction",
+    "starting_location": {
+        "plaintext": "Higi Village , Inazuma",
+        "markdown": "\u25c0Higi Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Higi_Village\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ritou Escape Plan Complete Washizu's Prayers",
+        "markdown": "Complete \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7 Complete \u25c0Washizu's Prayers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Washizu%27s_Prayers\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Defeat the maddened samurai",
+            "markdown": "Defeat the maddened samurai",
+            "substeps": [
+                {
+                    "plaintext": "Washizu will drop the Incomplete Notes and Tattered Paper quest items",
+                    "markdown": "\u25c0Washizu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Washizu\u25b7 will drop the \u25c0Incomplete Notes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Incomplete_Notes\u25b7 and \u25c0Tattered Paper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tattered_Paper_(Washizu)\u25b7 quest items"
+                }
+            ]
+        },
+        {
+            "plaintext": "Find Washizu's lost possessions in Higi Village",
+            "markdown": "Find Washizu's lost possessions in \u25c0Higi Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Higi_Village\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "The chest containing his possessions is buried between two unlit torches, in the backyard formed by the cliff and the two houses northwest of Higi Village's central tree.",
+                    "markdown": "The chest containing his possessions is buried between two unlit torches, in the backyard formed by the cliff and the two houses northwest of Higi Village's central tree."
+                },
+                {
+                    "plaintext": "The Incomplete Register can also be found in the same backyard opposite his possessions, on the wooden \"porch\" sticking into the backyard from the nearest house.",
+                    "markdown": "The Incomplete Register can also be found in the same backyard opposite his possessions, on the wooden \"porch\" sticking into the backyard from the nearest house."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,87 @@
+{
+    "type": "single",
+    "name": "Antigonus",
+    "url": "https://genshin-impact.fandom.com/wiki/Antigonus",
+    "starting_location": {
+        "plaintext": "Dainichi Mikoshi , Enkanomiya , Inazuma",
+        "markdown": "\u25c0Dainichi Mikoshi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainichi_Mikoshi\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Subterranean Trials of Drake and Serpent \u200d",
+        "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7 \u200d"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to the afterimage in prison",
+            "markdown": "Talk to the afterimage in prison"
+        },
+        {
+            "plaintext": "Look for Antei",
+            "markdown": "Look for \u25c0Antei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Antei\u25b7"
+        },
+        {
+            "plaintext": "Talk to Antei's afterimage",
+            "markdown": "Talk to Antei's afterimage"
+        },
+        {
+            "plaintext": "Obtain the Ruin machine's core",
+            "markdown": "Obtain the \u25c0Ruin machine's core\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Machine_Core\u25b7"
+        },
+        {
+            "plaintext": "Find the abandoned Ruin Guard",
+            "markdown": "Find the abandoned Ruin Guard"
+        },
+        {
+            "plaintext": "Activate the Ruin Guard",
+            "markdown": "Activate the Ruin Guard"
+        },
+        {
+            "plaintext": "Obtain \"Before Sun and Moon\"",
+            "markdown": "Obtain \"\u25c0Before Sun and Moon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Before_Sun_and_Moon\u25b7\"",
+            "substeps": [
+                {
+                    "plaintext": "Ruin Guard x1 (optional)",
+                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1 (optional)",
+                    "img": {
+                        "ruin_guard": "Ruin_Guard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Antei's afterimage",
+            "markdown": "Talk to Antei's afterimage"
+        }
+    ],
+    "dialogue": true
+}

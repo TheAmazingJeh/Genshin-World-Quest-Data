@@ -1,0 +1,221 @@
+{
+    "type": "single",
+    "name": "Until Vana is Healed",
+    "url": "https://genshin-impact.fandom.com/wiki/Until_Vana_is_Healed",
+    "starting_location": {
+        "plaintext": "Ardravi Valley , Sumeru",
+        "markdown": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Step 2 of Aranyaka : Part III - Nursery of Lost Dreams , Part 1: For Fruits, Seeds, and Trees",
+        "markdown": "Complete Step 2 of \u25c0Aranyaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka\u25b7 : Part III - \u25c0Nursery of Lost Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nursery_of_Lost_Dreams\u25b7 , Part 1: \u25c0For Fruits, Seeds, and Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_Fruits,_Seeds,_and_Trees\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Ararycan",
+            "markdown": "Talk to \u25c0Ararycan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ararycan\u25b7"
+        },
+        {
+            "plaintext": "Eradicate The Withering",
+            "markdown": "Eradicate \u25c0The Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7"
+        },
+        {
+            "plaintext": "Go deeper into the cave to search for clues",
+            "markdown": "Go deeper into the cave to search for clues",
+            "substeps": [
+                {
+                    "plaintext": "Pyro Abyss Mage x1",
+                    "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                    "img": {
+                        "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Cryo Abyss Mage x1",
+                    "markdown": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
+                    "img": {
+                        "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Find clues left by Aralohita",
+            "markdown": "Find clues left by Aralohita"
+        },
+        {
+            "plaintext": "Search for the answer(s) to the riddle (0/3)",
+            "markdown": "Search for the answer(s) to the riddle (0/3)"
+        },
+        {
+            "plaintext": "Talk to Ararycan",
+            "markdown": "Talk to Ararycan"
+        },
+        {
+            "plaintext": "Solve Aralohita's riddle",
+            "markdown": "Solve Aralohita's riddle",
+            "substeps": [
+                {
+                    "plaintext": "Activate the Dendro Rings based on order that the script is read. This unlocks a Luxurious Chest.",
+                    "markdown": "Activate the \u25c0Dendro Rings\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendro_Ring\u25b7 based on order that the \u25c0script\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara_Language\u25b7 is read. This unlocks a \u25c0Luxurious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luxurious_Chest\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Enter the \"labyrinth\" using the Rhythm of the Gloomy Path",
+            "markdown": "Enter the \"labyrinth\" using the \u25c0Rhythm of the Gloomy Path\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7"
+        },
+        {
+            "plaintext": "Find the \"solution\"",
+            "markdown": "Find the \"solution\""
+        },
+        {
+            "plaintext": "Talk to Ararycan",
+            "markdown": "Talk to Ararycan"
+        },
+        {
+            "plaintext": "Ask Jazari for information",
+            "markdown": "Ask \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7 for information"
+        },
+        {
+            "plaintext": "Go to the Dev's Cavern",
+            "markdown": "Go to the \u25c0Dev's Cavern\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dev%27s_Cavern\u25b7"
+        },
+        {
+            "plaintext": "Protect Jazari",
+            "markdown": "Protect Jazari",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Gundahar",
+                            "markdown": "<img:hydro_abyss_mage> \u25c0Gundahar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Gibica",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Gibica\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Gundomar",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Gundomar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Gislaharius",
+                            "markdown": "<img:hydro_abyss_mage> \u25c0Gislaharius\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Waldere",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Waldere\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hageno",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Hageno\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Kriemhild",
+                            "markdown": "<img:hydro_abyss_mage> \u25c0Kriemhild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Gernot",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Gernot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Irung",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Irung\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Jazari",
+            "markdown": "Talk to Jazari"
+        }
+    ],
+    "dialogue": true
+}

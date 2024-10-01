@@ -1,0 +1,34 @@
+{
+    "type": "single",
+    "name": "Golden Aqueduct Reconstruction: Part II",
+    "url": "https://genshin-impact.fandom.com/wiki/Golden_Aqueduct_Reconstruction%3A_Part_II",
+    "starting_location": {
+        "plaintext": "Sea of Bygone Eras , Fontaine",
+        "markdown": "\u25c0Sea of Bygone Eras\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Bygone_Eras\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Search for the scattered \"scores\"",
+            "markdown": "Search for the scattered \"scores\""
+        },
+        {
+            "plaintext": "Follow the golden bee",
+            "markdown": "Follow the golden bee"
+        },
+        {
+            "plaintext": "Return the flying bird phantasms to their rightful places",
+            "markdown": "Return the flying bird phantasms to their rightful places"
+        },
+        {
+            "plaintext": "Use the light-guiding device to illuminate the horn",
+            "markdown": "Use the light-guiding device to illuminate the horn"
+        },
+        {
+            "plaintext": "Follow the bird phantasms",
+            "markdown": "Follow the bird phantasms"
+        }
+    ],
+    "dialogue": true
+}

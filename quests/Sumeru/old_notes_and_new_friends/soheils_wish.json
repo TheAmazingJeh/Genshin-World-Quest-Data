@@ -1,0 +1,60 @@
+{
+    "type": "single",
+    "name": "Soheil's Wish",
+    "url": "https://genshin-impact.fandom.com/wiki/Soheil%27s_Wish",
+    "starting_location": {
+        "plaintext": "Aaru Village , Sumeru",
+        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Golden Slumber",
+        "markdown": "Complete \u25c0Golden Slumber\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Slumber\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go deeper into the desert and explore according to Soheil's archaeology notes (0/3)",
+            "markdown": "Go deeper into the desert and explore according to Soheil's archaeology notes (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Complete Invisible Barrier, Hidden Mercenaries, and Desert's Remembrance.",
+                    "markdown": "Complete \u25c0Invisible Barrier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Invisible_Barrier\u25b7, \u25c0Hidden Mercenaries\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hidden_Mercenaries\u25b7, and \u25c0Desert's Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert%27s_Remembrance\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Soheil",
+            "markdown": "Talk to Soheil"
+        }
+    ],
+    "dialogue": true
+}

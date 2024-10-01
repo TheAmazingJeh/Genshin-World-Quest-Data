@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "Foggy Forest Path (Quest)",
+    "url": "https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path_%28Quest%29",
+    "starting_location": {
+        "plaintext": "Marcotte Station , Fontaine",
+        "markdown": "\u25c0Marcotte Station\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marcotte_Station\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for the Foggy Forest Path",
+            "markdown": "Search for the \u25c0Foggy Forest Path\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "This step only appears if the Carved Stone Tablet at Marcotte Station was interacted with.\u200d[verification needed]",
+                    "markdown": "This step only appears if the Carved Stone Tablet at Marcotte Station was interacted with.\u200d[verification needed]"
+                }
+            ]
+        },
+        {
+            "plaintext": "Go deeper into Foggy Forest Path",
+            "markdown": "Go deeper into Foggy Forest Path"
+        },
+        {
+            "plaintext": "Reveal the altar's secrets",
+            "markdown": "Reveal the altar's secrets",
+            "substeps": [
+                {
+                    "plaintext": "Complete the three Harmonious Reed Pipe puzzles in the area.",
+                    "markdown": "Complete the three \u25c0Harmonious Reed Pipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Harmonious_Reed_Pipe\u25b7 puzzles in the area."
+                }
+            ]
+        },
+        {
+            "plaintext": "Examine the item on the altar",
+            "markdown": "Examine the item on the altar"
+        },
+        {
+            "plaintext": "Talk to the Melusine",
+            "markdown": "Talk to \u25c0the Melusine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pahsiv\u25b7"
+        }
+    ],
+    "dialogue": true
+}

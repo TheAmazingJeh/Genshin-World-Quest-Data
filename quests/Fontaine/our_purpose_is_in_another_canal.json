@@ -1,0 +1,125 @@
+{
+    "type": "single",
+    "name": "Our Purpose Is in Another Canal",
+    "url": "https://genshin-impact.fandom.com/wiki/Our_Purpose_Is_in_Another_Canal",
+    "starting_location": {
+        "plaintext": "Liffey Region , Fontaine",
+        "markdown": "\u25c0Liffey Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liffey_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Lumitoile",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Lumitoile",
+            "Image": "Item_Lumitoile.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "(If Aigouy was spoken to) Go look for Balent in the Hilichurl camp on the water",
+            "markdown": "(If Aigouy was spoken to) Go look for \u25c0Balent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Balent\u25b7 in the Hilichurl camp on the water"
+        },
+        {
+            "plaintext": "Free the trapped person",
+            "markdown": "Free the trapped person"
+        },
+        {
+            "plaintext": "Rescue Balent",
+            "markdown": "Rescue Balent",
+            "substeps": [
+                {
+                    "plaintext": "Blazing Axe Mitachurl x1",
+                    "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                    "img": {
+                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl Fighter x1",
+                    "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x1",
+                    "img": {
+                        "hilichurl_fighter": "Hilichurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wooden Shield Hilichurl Guard x1",
+                    "markdown": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 x1",
+                    "img": {
+                        "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the trapped person",
+            "markdown": "Talk to the trapped person"
+        },
+        {
+            "plaintext": "Talk to Balent",
+            "markdown": "Talk to Balent"
+        },
+        {
+            "plaintext": "Go to the pier",
+            "markdown": "Go to the pier"
+        },
+        {
+            "plaintext": "Return to the pier and report to Aigouy",
+            "markdown": "Return to the pier and report to Aigouy"
+        },
+        {
+            "plaintext": "Fix the underwater pipelines near the Fortress of Meropide (0/4)",
+            "markdown": "Fix the underwater pipelines near the \u25c0Fortress of Meropide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide\u25b7 (0/4)",
+            "substeps": [
+                {
+                    "plaintext": "Underwater Survey Mek x2",
+                    "markdown": "<img:underwater_survey_mek> \u25c0Underwater Survey Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Underwater_Survey_Mek\u25b7 x2",
+                    "img": {
+                        "underwater_survey_mek": "Underwater_Survey_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Report to Balent",
+            "markdown": "Report to Balent"
+        }
+    ],
+    "dialogue": true
+}

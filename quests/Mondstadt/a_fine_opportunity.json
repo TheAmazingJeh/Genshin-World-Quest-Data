@@ -1,0 +1,70 @@
+{
+    "type": "single",
+    "name": "A Fine Opportunity?",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Fine_Opportunity%3F",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Talk to Cyrus after completing Dragon Storm",
+        "markdown": "Talk to Cyrus after completing \u25c0Dragon Storm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragon_Storm\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "6,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Teyvat Fried Egg",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teyvat_Fried_Egg",
+            "Image": "Item_Teyvat_Fried_Egg.png",
+            "Rarity": "1"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Cyrus",
+            "markdown": "Talk to Cyrus"
+        },
+        {
+            "plaintext": "Track down Jack",
+            "markdown": "Track down \u25c0Jack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack\u25b7"
+        },
+        {
+            "plaintext": "Rescue Jack from the hilichurls",
+            "markdown": "Rescue Jack from the hilichurls"
+        },
+        {
+            "plaintext": "Talk to Jack",
+            "markdown": "Talk to Jack"
+        },
+        {
+            "plaintext": "Clear out the camp",
+            "markdown": "Clear out the camp"
+        },
+        {
+            "plaintext": "Talk to Cyrus",
+            "markdown": "Talk to Cyrus"
+        }
+    ],
+    "dialogue": true
+}

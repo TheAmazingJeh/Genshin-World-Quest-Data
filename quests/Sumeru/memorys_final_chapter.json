@@ -1,0 +1,54 @@
+{
+    "type": "single",
+    "name": "Memory's Final Chapter",
+    "url": "https://genshin-impact.fandom.com/wiki/Memory%27s_Final_Chapter",
+    "starting_location": {
+        "plaintext": "Mawtiyima Forest , Sumeru",
+        "markdown": "\u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Dream Nursery",
+        "markdown": "\u25c0Dream Nursery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dream_Nursery\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Reach the Mawtiyima Forest",
+            "markdown": "Reach the Mawtiyima Forest"
+        },
+        {
+            "plaintext": "Talk to Aranara",
+            "markdown": "Talk to Aranara"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,64 @@
+{
+    "type": "single",
+    "name": "Thief-Catcher",
+    "url": "https://genshin-impact.fandom.com/wiki/Thief-Catcher",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Reach Adventure Rank 24",
+        "markdown": "Reach \u25c0Adventure Rank\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventure_Rank\u25b7 24"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "16,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Guide to Resistance",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Guide_to_Resistance",
+            "Image": "Item_Guide_to_Resistance.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Defeat the Treasure Hoarders near to the Dawn Winery",
+            "markdown": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7 near to the \u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "You will receive Treasure Hoarder's Map for the duration of this quest.",
+                    "markdown": "You will receive \u25c0Treasure Hoarder's Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarder%27s_Map\u25b7 for the duration of this quest."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Treasure Hoarders guarding the camps",
+            "markdown": "Defeat the Treasure Hoarders guarding the camps"
+        },
+        {
+            "plaintext": "Talk to Cyrus",
+            "markdown": "Talk to Cyrus"
+        }
+    ],
+    "dialogue": true
+}

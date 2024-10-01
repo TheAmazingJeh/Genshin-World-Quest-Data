@@ -1,0 +1,66 @@
+{
+    "type": "single",
+    "name": "Serpent's Heart Inquiry",
+    "url": "https://genshin-impact.fandom.com/wiki/Serpent%27s_Heart_Inquiry",
+    "starting_location": {
+        "plaintext": "The Serpent's Heart , Enkanomiya , Inazuma",
+        "markdown": "\u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Subterranean Trials of Drake and Serpent",
+        "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Offerings of the Serpent's Heart",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Offerings_of_the_Serpent%27s_Heart",
+            "Image": "Item_Offerings_of_the_Serpent%27s_Heart.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Activate the spirit's trial",
+            "markdown": "Activate the spirit's trial",
+            "substeps": [
+                {
+                    "plaintext": "Defeat 3 opponents in 60 second(s)",
+                    "markdown": "Defeat 3 opponents in 60 second(s)",
+                    "substeps": [
+                        {
+                            "plaintext": "Electro Abyss Mage x1",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hydro Abyss Mage x1",
+                            "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Pyro Abyss Mage x1",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "A Precious Chest will spawn after defeating the opponents.",
+                    "markdown": "A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will spawn after defeating the opponents."
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the offerings from the spirit",
+            "markdown": "Obtain the \u25c0offerings from the spirit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Offerings_of_the_Serpent%27s_Heart\u25b7"
+        }
+    ],
+    "dialogue": true
+}

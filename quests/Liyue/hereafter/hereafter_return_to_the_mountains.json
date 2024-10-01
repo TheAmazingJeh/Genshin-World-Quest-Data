@@ -1,0 +1,59 @@
+{
+    "type": "single",
+    "name": "Hereafter: Return to the Mountains",
+    "url": "https://genshin-impact.fandom.com/wiki/Hereafter%3A_Return_to_the_Mountains",
+    "starting_location": {
+        "plaintext": "Lisha , Liyue",
+        "markdown": "\u25c0Lisha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lisha\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go back to the Pervases statue",
+            "markdown": "Go back to the \u25c0Pervases\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pervases\u25b7 statue"
+        },
+        {
+            "plaintext": "Talk to Wang Ping'an",
+            "markdown": "Talk to \u25c0Wang Ping'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wang_Ping%27an\u25b7"
+        },
+        {
+            "plaintext": "Offer incense to Pervases",
+            "markdown": "Offer incense to Pervases"
+        },
+        {
+            "plaintext": "Talk to Wang Ping'an",
+            "markdown": "Talk to Wang Ping'an"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,97 @@
+{
+    "type": "single",
+    "name": "Treasure Lost, Treasure Found (Part 2)",
+    "url": "https://genshin-impact.fandom.com/wiki/Treasure_Lost%2C_Treasure_Found_%28Part_2%29",
+    "starting_location": {
+        "plaintext": "Guili Plains , Liyue",
+        "markdown": "\u25c0Guili Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Plains\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Liyue Shrine of Depths Key",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Shrine_of_Depths_Key",
+            "Image": "Item_Liyue_Shrine_of_Depths_Key.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Soraya",
+            "markdown": "Talk to Soraya"
+        },
+        {
+            "plaintext": "Enter the ruin and search for a strange jade plate (0/4)",
+            "markdown": "Enter the ruin and search for a strange jade plate (0/4)",
+            "substeps": [
+                {
+                    "plaintext": "Obtain  Traveler's Notes x4",
+                    "markdown": "Obtain <img:travelers_notes> \u25c0Traveler's Notes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveler%27s_Notes\u25b7 x4",
+                    "img": {
+                        "travelers_notes": "Book_Ragged_Notebook.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Soraya [Optional]",
+            "markdown": "Talk to Soraya [Optional]"
+        },
+        {
+            "plaintext": "Find the final ruin",
+            "markdown": "Find the final ruin"
+        },
+        {
+            "plaintext": "Start clue mechanism",
+            "markdown": "Start clue mechanism"
+        },
+        {
+            "plaintext": "Defeat the Ruin Guards",
+            "markdown": "Defeat the Ruin Guards",
+            "substeps": [
+                {
+                    "plaintext": "Ruin Guard x3",
+                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x3",
+                    "img": {
+                        "ruin_guard": "Ruin_Guard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Activate the mechanism",
+            "markdown": "Activate the mechanism"
+        },
+        {
+            "plaintext": "Collect the treasure",
+            "markdown": "Collect the treasure"
+        },
+        {
+            "plaintext": "Talk to Soraya",
+            "markdown": "Talk to Soraya"
+        }
+    ],
+    "dialogue": true
+}

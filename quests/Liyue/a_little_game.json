@@ -1,0 +1,77 @@
+{
+    "type": "single",
+    "name": "A Little Game",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Little_Game",
+    "starting_location": {
+        "plaintext": "Mt. Tianheng , Liyue",
+        "markdown": "\u25c0Mt. Tianheng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Tianheng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Locate and talk to the childish Jiang before the allotted time of the game ends.",
+            "markdown": "Locate and talk to the childish Jiang before the allotted time of the game ends."
+        },
+        {
+            "plaintext": "Jiang's first hiding spot is just up north behind a boulder.",
+            "markdown": "Jiang's first hiding spot is just up north behind a boulder."
+        },
+        {
+            "plaintext": "Jiang's second hiding spot will be further north, he'll be standing behind a tree to the left.",
+            "markdown": "Jiang's second hiding spot will be further north, he'll be standing behind a tree to the left."
+        },
+        {
+            "plaintext": "Jiang will then move to his third hiding spot on the east side of the building.",
+            "markdown": "Jiang will then move to his third hiding spot on the east side of the building."
+        },
+        {
+            "plaintext": "Jiang's final hiding spot is another rock next to the cliff's edge to the south.",
+            "markdown": "Jiang's final hiding spot is another rock next to the cliff's edge to the south."
+        }
+    ],
+    "dialogue": true
+}

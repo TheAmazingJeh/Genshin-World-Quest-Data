@@ -1,0 +1,96 @@
+{
+    "type": "single",
+    "name": "An Introduction to Indoor Archaeology",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Introduction_to_Indoor_Archaeology",
+    "starting_location": {
+        "plaintext": "Sobek Oasis , Sumeru",
+        "markdown": "\u25c0Sobek Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sobek_Oasis\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the oasis",
+            "markdown": "Go to the oasis"
+        },
+        {
+            "plaintext": "Go high up to look for Jebrael",
+            "markdown": "Go high up to look for \u25c0Jebrael\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jebrael\u25b7"
+        },
+        {
+            "plaintext": "Return to the campsite",
+            "markdown": "Return to the campsite"
+        },
+        {
+            "plaintext": "Go to Khemenu Temple",
+            "markdown": "Go to \u25c0Khemenu Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Khemenu_Temple\u25b7"
+        },
+        {
+            "plaintext": "Proceed deeper within Khemenu Temple",
+            "markdown": "Proceed deeper within Khemenu Temple"
+        },
+        {
+            "plaintext": "Explore the lower level of Khemenu Temple",
+            "markdown": "Explore the lower level of Khemenu Temple",
+            "substeps": [
+                {
+                    "plaintext": "This unlocks a Teleport Waypoint",
+                    "markdown": "This unlocks a \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to the previous room and look for clues",
+            "markdown": "Return to the previous room and look for clues"
+        },
+        {
+            "plaintext": "Try to unlock the rooms located deep within (0/2)",
+            "markdown": "Try to unlock the rooms located deep within (0/2)"
+        },
+        {
+            "plaintext": "Ride the elevator",
+            "markdown": "Ride the elevator"
+        },
+        {
+            "plaintext": "Enter the room located deep within",
+            "markdown": "Enter the room located deep within"
+        }
+    ],
+    "dialogue": true
+}

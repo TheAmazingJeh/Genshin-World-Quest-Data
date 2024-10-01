@@ -1,0 +1,125 @@
+{
+    "type": "single",
+    "name": "Seirai Stormchasers: Part I",
+    "url": "https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers%3A_Part_I",
+    "starting_location": {
+        "plaintext": "Inazuma City , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Adventurers' Guild",
+            "markdown": "Go to the \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7"
+        },
+        {
+            "plaintext": "Look for the adventurers on Seirai Island",
+            "markdown": "Look for the adventurers on \u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Talk to Etsuko",
+                    "markdown": "Talk to \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to investigate the Warding Stone",
+            "markdown": "Go to investigate the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Warding_Stones_of_Seirai\u25b7"
+        },
+        {
+            "plaintext": "Follow the cat footprints",
+            "markdown": "Follow the cat footprints"
+        },
+        {
+            "plaintext": "Explore the shrine",
+            "markdown": "Explore the shrine"
+        },
+        {
+            "plaintext": "Check on the Offering Box",
+            "markdown": "Check on the Offering Box"
+        },
+        {
+            "plaintext": "Go to the village and look for materials with which to initiate repairs",
+            "markdown": "Go to the village and look for materials with which to initiate repairs"
+        },
+        {
+            "plaintext": "Defeat all the Treasure Hoarders",
+            "markdown": "Defeat all the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7"
+        },
+        {
+            "plaintext": "Go to the Treasure Hoarder Camp",
+            "markdown": "Go to the Treasure Hoarder Camp"
+        },
+        {
+            "plaintext": "Defeat all the Treasure Hoarders",
+            "markdown": "Defeat all the Treasure Hoarders"
+        },
+        {
+            "plaintext": "Search for repair materials in the camp (0/3)",
+            "markdown": "Search for repair materials in the camp (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Obtain Box of Nails, Planks and Rope",
+                    "markdown": "Obtain \u25c0Box of Nails\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Box_of_Nails\u25b7, \u25c0Planks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Planks\u25b7 and \u25c0Rope\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rope\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to the Asase Shrine and fix the Offering Box",
+            "markdown": "Return to the \u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 and fix the Offering Box"
+        },
+        {
+            "plaintext": "Report back to Neko",
+            "markdown": "Report back to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+        },
+        {
+            "plaintext": "Seal the Warding Stone",
+            "markdown": "Seal the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7"
+        },
+        {
+            "plaintext": "Touch the paper charm hangers (0/3)",
+            "markdown": "Touch the paper charm hangers (0/3)"
+        },
+        {
+            "plaintext": "Repair the Warding Stone",
+            "markdown": "Repair the Warding Stone",
+            "substeps": [
+                {
+                    "plaintext": "Rotate the stone to the correct position (rotate bottom stone twice)",
+                    "markdown": "Rotate the stone to the correct position (rotate bottom stone twice)"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

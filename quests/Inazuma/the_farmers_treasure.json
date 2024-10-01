@@ -1,0 +1,117 @@
+{
+    "type": "single",
+    "name": "The Farmer's Treasure",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Farmer%27s_Treasure",
+    "starting_location": {
+        "plaintext": "Jinren Island , Narukami Island , Inazuma",
+        "markdown": "\u25c0Jinren Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinren_Island\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ritou Escape Plan and Searching for Saimon Jirou",
+        "markdown": "Complete \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7 and \u25c0Searching for Saimon Jirou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Searching_for_Saimon_Jirou\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Saimon Heirloom Blade Diagram",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Saimon_Heirloom_Blade_Diagram",
+            "Image": "Item_Diagram.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Northlander Sword Billet",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Northlander_Sword_Billet",
+            "Image": "Item_Northlander_Sword_Billet.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Optional Steps",
+            "markdown": "Optional Steps",
+            "substeps": [
+                {
+                    "plaintext": "Check the Missing Person Bulletin Boards around Konda Village.",
+                    "markdown": "Check the \u25c0Missing Person Bulletin Boards\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Missing_Person_Bulletin_Board\u25b7 around \u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7."
+                },
+                {
+                    "plaintext": "Talk to Saimon Katsumi, just north of the southern Teleport Waypoint in Byakko Plain.",
+                    "markdown": "Talk to \u25c0Saimon Katsumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saimon_Katsumi\u25b7, just north of the southern \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 in \u25c0Byakko Plain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Byakko_Plain\u25b7."
+                },
+                {
+                    "plaintext": "Talk to Ishikawa in Kujou Encampment, just east of the Teleport Waypoint.",
+                    "markdown": "Talk to \u25c0Ishikawa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ishikawa\u25b7 in \u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7, just east of the Teleport Waypoint."
+                },
+                {
+                    "plaintext": "Talk to Ono near the northern gate of the Kujou Encampment.",
+                    "markdown": "Talk to \u25c0Ono\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ono\u25b7 near the northern gate of the Kujou Encampment."
+                },
+                {
+                    "plaintext": "Talk to Ogura Yuu at the watch tower to the south-east of the Teleport Waypoint in Kujou Encampment.",
+                    "markdown": "Talk to \u25c0Ogura Yuu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ogura_Yuu\u25b7 at the watch tower to the south-east of the Teleport Waypoint in Kujou Encampment."
+                },
+                {
+                    "plaintext": "Report back to Saimon Katsumi in Konda Village, just west of the southern Teleport Waypoint at his house.",
+                    "markdown": "Report back to Saimon Katsumi in Konda Village, just west of the southern Teleport Waypoint at his house."
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to Jinren Island and climb to the top of the largest island.",
+            "markdown": "Head to \u25c0Jinren Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinren_Island\u25b7 and climb to the top of the largest island."
+        },
+        {
+            "plaintext": "On the top of the largest island, free \"???\" from the cage.",
+            "markdown": "On the top of the largest island, free \"???\" from the cage.",
+            "substeps": [
+                {
+                    "plaintext": "The key is in the tallest tree on the opposite end of the plateau.",
+                    "markdown": "The key is in the tallest tree on the opposite end of the plateau."
+                }
+            ]
+        },
+        {
+            "plaintext": "After a small cutscene, the player will be near the Jinren Island waypoint and will start a conversation with \"???\"",
+            "markdown": "After a small cutscene, the player will be near the Jinren Island waypoint and will start a conversation with \"???\"",
+            "substeps": [
+                {
+                    "plaintext": "\"???\" reveals himself to be Saimon Jirou. He will tell the player to collect 4 Old Stone Slates.",
+                    "markdown": "\"???\" reveals himself to be \u25c0Saimon Jirou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saimon_Jirou\u25b7. He will tell the player to collect 4 \u25c0Old Stone Slates\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Stone_Slate\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Once the player has all 4 Old Stone Slates, The Farmer's Treasure will appear in the player's journal.",
+            "markdown": "Once the player has all 4 Old Stone Slates, The Farmer's Treasure will appear in the player's journal.",
+            "substeps": [
+                {
+                    "plaintext": "To get all 4 Old Stone Slates, the player must at least reach the World Quest Cleansing Defilement in Series Sacred Sakura Cleansing Ritual.",
+                    "markdown": "To get all 4 Old Stone Slates, the player must at least reach the \u25c0World Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/World_Quest\u25b7 \u25c0Cleansing Defilement\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cleansing_Defilement\u25b7 in Series \u25c0Sacred Sakura Cleansing Ritual\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Sakura_Cleansing_Ritual\u25b7."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,74 @@
+{
+    "type": "single",
+    "name": "Aranaga's Memory",
+    "url": "https://genshin-impact.fandom.com/wiki/Aranaga%27s_Memory",
+    "starting_location": {
+        "plaintext": "Mawtiyima Forest , Sumeru",
+        "markdown": "\u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Aranyaka : Part II - Dream Nursery",
+        "markdown": "\u25c0Aranyaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka\u25b7 : Part II - \u25c0Dream Nursery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dream_Nursery\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to Mawtiyima",
+            "markdown": "Go to Mawtiyima"
+        },
+        {
+            "plaintext": "Talk to Khayyam",
+            "markdown": "Talk to Khayyam"
+        },
+        {
+            "plaintext": "Investigate the plants in the specified locations (0/2)",
+            "markdown": "Investigate the plants in the specified locations (0/2)"
+        },
+        {
+            "plaintext": "Go to where Khayyam is",
+            "markdown": "Go to where Khayyam is"
+        },
+        {
+            "plaintext": "Investigate the newly grown plants",
+            "markdown": "Investigate the newly grown plants"
+        },
+        {
+            "plaintext": "Return to Khayyam's camp",
+            "markdown": "Return to Khayyam's camp"
+        },
+        {
+            "plaintext": "Talk to Aranaga",
+            "markdown": "Talk to Aranaga"
+        }
+    ],
+    "dialogue": true
+}

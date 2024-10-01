@@ -1,0 +1,124 @@
+{
+    "type": "single",
+    "name": "Fortune Plango Vulnera",
+    "url": "https://genshin-impact.fandom.com/wiki/Fortune_Plango_Vulnera",
+    "starting_location": {
+        "plaintext": "Sea of Bygone Eras , Fontaine",
+        "markdown": "\u25c0Sea of Bygone Eras\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Bygone_Eras\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Release the Ichor to connect the aqueducts",
+            "markdown": "Release the Ichor to connect the aqueducts"
+        },
+        {
+            "plaintext": "Talk to Scylla",
+            "markdown": "Talk to \u25c0Scylla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scylla\u25b7"
+        },
+        {
+            "plaintext": "Play the symphony with Scylla",
+            "markdown": "Play the symphony with Scylla"
+        },
+        {
+            "plaintext": "Continue onward",
+            "markdown": "Continue onward"
+        },
+        {
+            "plaintext": "Defeat Boethius",
+            "markdown": "Defeat \u25c0Boethius\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Boethius\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Boethius\u2014\"The Immortal Sebastos's Second Coming\"",
+                    "markdown": "<img:statue_of_marble_and_brass> \u25c0Boethius\u2014\"The Immortal Sebastos's Second Coming\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
+                    "img": {
+                        "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat Boethius",
+            "markdown": "Defeat Boethius",
+            "substeps": [
+                {
+                    "plaintext": "Boethius\u2014\"Bleeding Idol\"",
+                    "markdown": "<img:statue_of_marble_and_brass> \u25c0Boethius\u2014\"Bleeding Idol\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
+                    "img": {
+                        "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat Boethius or Cassiodor",
+            "markdown": "Defeat Boethius or \u25c0Cassiodor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cassiodor\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Phobos\u2014\"Discordant Symphony\"",
+                    "markdown": "<img:statue_of_marble_and_brass> \u25c0Phobos\u2014\"Discordant Symphony\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
+                    "img": {
+                        "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to the upper level of \"Domus Aurea\"",
+            "markdown": "Head to the upper level of \"\u25c0Domus Aurea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domus_Aurea\u25b7\""
+        },
+        {
+            "plaintext": "Head to the \"podium\"",
+            "markdown": "Head to the \"podium\""
+        },
+        {
+            "plaintext": "Start playing the harp",
+            "markdown": "Start playing the harp"
+        }
+    ],
+    "dialogue": true
+}

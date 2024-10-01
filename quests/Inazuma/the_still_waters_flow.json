@@ -1,0 +1,133 @@
+{
+    "type": "single",
+    "name": "The Still Water's Flow",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Still_Water%27s_Flow",
+    "starting_location": {
+        "plaintext": "Sangonomiya Shrine",
+        "markdown": "\u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "\"Heart of Watatsumi\"",
+        "markdown": "\u25c0\"Heart of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Heart_of_Watatsumi%22\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Tsuyuko",
+            "markdown": "Talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7"
+        },
+        {
+            "plaintext": "Talk to Tsuyuko at the altar",
+            "markdown": "Talk to Tsuyuko at the \u25c0altar\u25b6\u25c1#Gallery\u25b7"
+        },
+        {
+            "plaintext": "Look for the remaining Key Sigils (0/2)",
+            "markdown": "Look for the remaining \u25c0Key Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_Sigil\u25b7 (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "Fin of Watatsumi:",
+                    "markdown": "Fin of Watatsumi:",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Defender x2",
+                            "markdown": "<img:ruin_defender> \u25c0Ruin Defender\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Defender\u25b7 x2",
+                            "img": {
+                                "ruin_defender": "Ruin_Defender_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Ruin Scout x2",
+                            "markdown": "<img:ruin_scout> \u25c0Ruin Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Scout\u25b7 x2",
+                            "img": {
+                                "ruin_scout": "Ruin_Scout_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Heart of Watatsumi:",
+                    "markdown": "Heart of Watatsumi:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x2",
+                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x2",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Mirror Maiden x1",
+                            "markdown": "<img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 x1",
+                            "img": {
+                                "mirror_maiden": "Mirror_Maiden_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "The Key Sigil can be picked up without fighting the enemies.",
+                    "markdown": "The Key Sigil can be picked up without fighting the enemies."
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow Tsuyuko's instructions and activate all the altars (0/2)",
+            "markdown": "Follow Tsuyuko's instructions and activate all the altars (0/2)"
+        },
+        {
+            "plaintext": "Talk to Tsuyuko",
+            "markdown": "Talk to Tsuyuko"
+        },
+        {
+            "plaintext": "Descend into Enkanomiya",
+            "markdown": "Descend into \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+        },
+        {
+            "plaintext": "Investigate the cavern",
+            "markdown": "Investigate the cavern",
+            "substeps": [
+                {
+                    "plaintext": "Upon completion of this step, the southernmost Teleport Waypoint in Enkanomiya is unlocked.",
+                    "markdown": "Upon completion of this step, the southernmost \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 in Enkanomiya is unlocked."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

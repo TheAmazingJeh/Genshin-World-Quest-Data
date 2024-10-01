@@ -1,0 +1,62 @@
+{
+    "type": "single",
+    "name": "The Three Primary Colors of the Solar Corona",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Three_Primary_Colors_of_the_Solar_Corona",
+    "starting_location": null,
+    "requirements": {
+        "plaintext": "Complete Ancient Colors",
+        "markdown": "Complete \u25c0Ancient Colors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Colors\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "26,500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Strange Part",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Strange_Part",
+            "Image": "Item_Strange_Part.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Varunada Lazurite Fragment",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Fragment",
+            "Image": "Item_Varunada_Lazurite_Fragment.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Sluasi",
+            "markdown": "Talk to Sluasi"
+        },
+        {
+            "plaintext": "Talk to Sluasi",
+            "markdown": "Talk to Sluasi"
+        },
+        {
+            "plaintext": "Talk to Sluasi",
+            "markdown": "Talk to Sluasi"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,114 @@
+{
+    "type": "single",
+    "name": "Lightcall Resonance",
+    "url": "https://genshin-impact.fandom.com/wiki/Lightcall_Resonance",
+    "starting_location": {
+        "plaintext": "Temir Mountains , Sumeru",
+        "markdown": "\u25c0Temir Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temir_Mountains\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Khvarena of Good and Evil",
+        "markdown": "Complete \u25c0Khvarena of Good and Evil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Khvarena_of_Good_and_Evil\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Jarjar and start the trial",
+            "markdown": "Talk to \u25c0Jarjar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jarjar\u25b7 and start the trial"
+        },
+        {
+            "plaintext": "Complete the first trial",
+            "markdown": "Complete the first trial"
+        },
+        {
+            "plaintext": "Talk to Jarjar",
+            "markdown": "Talk to Jarjar"
+        },
+        {
+            "plaintext": "Wait until the following day",
+            "markdown": "Wait until the following day"
+        },
+        {
+            "plaintext": "Talk to Jarjar",
+            "markdown": "Talk to Jarjar"
+        },
+        {
+            "plaintext": "Talk to Jarjar and start the trial",
+            "markdown": "Talk to Jarjar and start the trial"
+        },
+        {
+            "plaintext": "Complete the second trial",
+            "markdown": "Complete the second trial"
+        },
+        {
+            "plaintext": "Wait until the following day",
+            "markdown": "Wait until the following day"
+        },
+        {
+            "plaintext": "Talk to Jarjar",
+            "markdown": "Talk to Jarjar"
+        },
+        {
+            "plaintext": "Talk to Jarjar and start the trial",
+            "markdown": "Talk to Jarjar and start the trial"
+        },
+        {
+            "plaintext": "Complete the third trial",
+            "markdown": "Complete the third trial"
+        },
+        {
+            "plaintext": "Talk to Jarjar",
+            "markdown": "Talk to Jarjar"
+        },
+        {
+            "plaintext": "Wait until the following day",
+            "markdown": "Wait until the following day"
+        },
+        {
+            "plaintext": "Talk to Jarjar",
+            "markdown": "Talk to Jarjar"
+        },
+        {
+            "plaintext": "Talk to Jarjar and start the trial",
+            "markdown": "Talk to Jarjar and start the trial"
+        },
+        {
+            "plaintext": "Complete the fourth trial",
+            "markdown": "Complete the fourth trial"
+        },
+        {
+            "plaintext": "Witness Jarjar's confession to Sorush",
+            "markdown": "Witness Jarjar's confession to \u25c0Sorush\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sorush\u25b7"
+        }
+    ],
+    "dialogue": true
+}

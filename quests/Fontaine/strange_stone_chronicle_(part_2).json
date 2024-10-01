@@ -1,0 +1,65 @@
+{
+    "type": "single",
+    "name": "Strange Stone Chronicle (Part 2)",
+    "url": "https://genshin-impact.fandom.com/wiki/Strange_Stone_Chronicle_%28Part_2%29",
+    "starting_location": {
+        "plaintext": "Merusea Village , Fontaine",
+        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ancient Colors",
+        "markdown": "Complete \u25c0Ancient Colors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Colors\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Strange Part",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Strange_Part",
+            "Image": "Item_Strange_Part.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Puca",
+            "markdown": "Talk to \u25c0Puca\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Puca\u25b7"
+        },
+        {
+            "plaintext": "Collect Strange Ore",
+            "markdown": "Collect \u25c0Strange Ore\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Ore\u25b7"
+        },
+        {
+            "plaintext": "Take the ore you've gathered to Chesil",
+            "markdown": "Take the ore you've gathered to \u25c0Chesil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chesil\u25b7"
+        }
+    ],
+    "dialogue": true
+}

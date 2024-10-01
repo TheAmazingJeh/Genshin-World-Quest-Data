@@ -1,0 +1,73 @@
+{
+    "type": "single",
+    "name": "Special Friends",
+    "url": "https://genshin-impact.fandom.com/wiki/Special_Friends",
+    "starting_location": {
+        "plaintext": "Coatepec Mountain , Natlan",
+        "markdown": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Calm the Yumkasaurus down",
+            "markdown": "Calm the Yumkasaurus down",
+            "substeps": [
+                {
+                    "plaintext": "Overly-Watchful Yumkasaurus",
+                    "markdown": "<img:yumkasaurus> \u25c0Overly-Watchful Yumkasaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yumkasaurus\u25b7",
+                    "img": {
+                        "yumkasaurus": "Yumkasaurus_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the now-calm Yumkasaurus",
+            "markdown": "Talk to the now-calm Yumkasaurus"
+        },
+        {
+            "plaintext": "Try talking to the Alpacas",
+            "markdown": "Try talking to the Alpacas"
+        },
+        {
+            "plaintext": "See what your Saurian buddy has found",
+            "markdown": "See what your Saurian buddy has found"
+        },
+        {
+            "plaintext": "Use the wooden planks to create a path",
+            "markdown": "Use the wooden planks to create a path"
+        },
+        {
+            "plaintext": "Save the scaredy-cat Alpaca",
+            "markdown": "Save the scaredy-cat Alpaca"
+        },
+        {
+            "plaintext": "Report back to Wactana",
+            "markdown": "Report back to Wactana"
+        }
+    ],
+    "dialogue": true
+}

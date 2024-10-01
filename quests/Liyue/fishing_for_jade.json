@@ -1,0 +1,68 @@
+{
+    "type": "single",
+    "name": "Fishing For Jade",
+    "url": "https://genshin-impact.fandom.com/wiki/Fishing_For_Jade",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Sea of Clouds, Sea of People",
+        "markdown": "Complete \u25c0Sea of Clouds, Sea of People\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds,_Sea_of_People\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Clear the flotsam from the north wharf 0/5 (Obtain:  A Bag of Mora)",
+            "markdown": "Clear the flotsam from the north wharf 0/5 (Obtain: <img:a_bag_of_mora_(fishing_for_jade)> \u25c0A Bag of Mora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Bag_of_Mora_(Fishing_For_Jade)\u25b7)",
+            "img": {
+                "a_bag_of_mora_(fishing_for_jade)": "Item_Bag_of_Mora.png"
+            }
+        },
+        {
+            "plaintext": "Clear the flotsam from the south wharf 0/5 (Obtain:  Water-Logged Box)",
+            "markdown": "Clear the flotsam from the south wharf 0/5 (Obtain: <img:water-logged_box> \u25c0Water-Logged Box\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Water-Logged_Box\u25b7)",
+            "img": {
+                "water-logged_box": "Item_Parcel.png"
+            }
+        },
+        {
+            "plaintext": "Report back to Kun",
+            "markdown": "Report back to \u25c0Kun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kun\u25b7"
+        },
+        {
+            "plaintext": "Pass the box to Baiwen",
+            "markdown": "Pass the box to \u25c0Baiwen\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Baiwen\u25b7"
+        }
+    ],
+    "dialogue": true
+}

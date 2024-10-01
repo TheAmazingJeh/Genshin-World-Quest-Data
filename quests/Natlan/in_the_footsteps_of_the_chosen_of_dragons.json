@@ -1,0 +1,85 @@
+{
+    "type": "series",
+    "name": "In the Footsteps of the Chosen of Dragons",
+    "url": "https://genshin-impact.fandom.com/wiki/In_the_Footsteps_of_the_Chosen_of_Dragons",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,700",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "240",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "290,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "\"Mighty Meaty Fireball\"",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Mighty_Meaty_Fireball%22",
+            "Image": "Item_Mighty_Meaty_Fireball.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Recipe: Sour Sauce Kipper",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sour_Sauce_Kipper",
+            "Image": "Item_Sour_Sauce_Kipper.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "A Saurian Lover's Ordinary Days",
+            "markdown": "\u25c0A Saurian Lover's Ordinary Days\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Saurian_Lover%27s_Ordinary_Days\u25b7"
+        },
+        {
+            "plaintext": "Feeling Like Fish Today!",
+            "markdown": "\u25c0Feeling Like Fish Today!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Feeling_Like_Fish_Today!\u25b7"
+        },
+        {
+            "plaintext": "Gifts and Gifts in Return",
+            "markdown": "\u25c0Gifts and Gifts in Return\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gifts_and_Gifts_in_Return\u25b7"
+        },
+        {
+            "plaintext": "Lies and Promises",
+            "markdown": "\u25c0Lies and Promises\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lies_and_Promises\u25b7"
+        },
+        {
+            "plaintext": "Lights, Kamera, Action!",
+            "markdown": "\u25c0Lights, Kamera, Action!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lights,_Kamera,_Action!\u25b7"
+        },
+        {
+            "plaintext": "Special Friends",
+            "markdown": "\u25c0Special Friends\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Friends\u25b7"
+        },
+        {
+            "plaintext": "Tepetlisaurus Hide-and-Seek",
+            "markdown": "\u25c0Tepetlisaurus Hide-and-Seek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus_Hide-and-Seek\u25b7"
+        },
+        {
+            "plaintext": "Treasures and Collectors",
+            "markdown": "\u25c0Treasures and Collectors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_and_Collectors\u25b7"
+        },
+        {
+            "plaintext": "Waiting For Seeds to Sprout",
+            "markdown": "\u25c0Waiting For Seeds to Sprout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Waiting_For_Seeds_to_Sprout\u25b7"
+        },
+        {
+            "plaintext": "Weighty Wings",
+            "markdown": "\u25c0Weighty Wings\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Weighty_Wings\u25b7"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "type": "series",
+    "name": "Agnihotra Sutra",
+    "url": "https://genshin-impact.fandom.com/wiki/Agnihotra_Sutra",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "130",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "100,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Aranaga's Flower",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Aranaga%27s_Flower",
+            "Image": "Item_Aranara_Flower.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Aranakin's Flower",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Aranakin%27s_Flower",
+            "Image": "Item_Aranara_Flower.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Aragaru's Flower",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Aragaru%27s_Flower",
+            "Image": "Item_Aranara_Flower.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Stories of You and the Aranara",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Stories_of_You_and_the_Aranara",
+            "Image": "Item_Stories_of_You_and_the_Aranara.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Withered Kusava",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Withered_Kusava",
+            "Image": "Item_Withered_Kusava.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Starry Night Chapter",
+            "markdown": "\u25c0Starry Night Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter\u25b7"
+        },
+        {
+            "plaintext": "Risen Moon Chapter",
+            "markdown": "\u25c0Risen Moon Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Risen_Moon_Chapter\u25b7"
+        },
+        {
+            "plaintext": "The Final Chapter",
+            "markdown": "\u25c0The Final Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Final_Chapter\u25b7"
+        }
+    ]
+}

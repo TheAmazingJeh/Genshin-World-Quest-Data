@@ -1,0 +1,118 @@
+{
+    "type": "single",
+    "name": "Ann's Story",
+    "url": "https://genshin-impact.fandom.com/wiki/Ann%27s_Story",
+    "starting_location": {
+        "plaintext": "Court of Fontaine Region , Fontaine",
+        "markdown": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Keep moving ahead",
+            "markdown": "Keep moving ahead",
+            "substeps": [
+                {
+                    "plaintext": "Loop 1:  Bubbler Seahorse x1",
+                    "markdown": "Loop 1: <img:bubbler_seahorse> \u25c0Bubbler Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbler_Seahorse\u25b7 x1",
+                    "img": {
+                        "bubbler_seahorse": "Bubbler_Seahorse_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Loop 2:  Bubbler Seahorse x2",
+                    "markdown": "Loop 2: <img:bubbler_seahorse> \u25c0Bubbler Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbler_Seahorse\u25b7 x2",
+                    "img": {
+                        "bubbler_seahorse": "Bubbler_Seahorse_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Loop 3:  Bubbler Seahorse x3",
+                    "markdown": "Loop 3: <img:bubbler_seahorse> \u25c0Bubbler Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbler_Seahorse\u25b7 x3",
+                    "img": {
+                        "bubbler_seahorse": "Bubbler_Seahorse_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the Holy Blade of Narzissenkreuz",
+            "markdown": "Obtain the Holy Blade of Narzissenkreuz"
+        },
+        {
+            "plaintext": "Go on with the help of the Holy Blade's power",
+            "markdown": "Go on with the help of the Holy Blade's power"
+        },
+        {
+            "plaintext": "Jump down and reach the end of the story",
+            "markdown": "Jump down and reach the end of the story"
+        },
+        {
+            "plaintext": "Continue onward",
+            "markdown": "Continue onward"
+        },
+        {
+            "plaintext": "Defeat the dragon",
+            "markdown": "Defeat the dragon",
+            "substeps": [
+                {
+                    "plaintext": "Dragon \u2014 They Name It \"Narcissus\"",
+                    "markdown": "<img:rhodeia_of_loch> \u25c0Dragon \u2014 They Name It \"Narcissus\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rhodeia_of_Loch\u25b7",
+                    "img": {
+                        "rhodeia_of_loch": "Oceanid_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Ann",
+            "markdown": "Talk to \u25c0Ann\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ann\u25b7"
+        },
+        {
+            "plaintext": "Continue onwards",
+            "markdown": "Continue onwards"
+        },
+        {
+            "plaintext": "Look for clues",
+            "markdown": "Look for clues"
+        }
+    ],
+    "dialogue": true
+}

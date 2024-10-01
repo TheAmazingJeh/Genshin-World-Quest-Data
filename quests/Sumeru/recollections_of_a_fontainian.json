@@ -1,0 +1,48 @@
+{
+    "type": "single",
+    "name": "Recollections of a Fontainian",
+    "url": "https://genshin-impact.fandom.com/wiki/Recollections_of_a_Fontainian",
+    "starting_location": {
+        "plaintext": "Sumeru City , Sumeru",
+        "markdown": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Augustus",
+            "markdown": "Talk to Augustus"
+        },
+        {
+            "plaintext": "Take a Photo",
+            "markdown": "Take a Photo"
+        },
+        {
+            "plaintext": "Report back to Augustus",
+            "markdown": "Report back to Augustus"
+        }
+    ],
+    "dialogue": true
+}

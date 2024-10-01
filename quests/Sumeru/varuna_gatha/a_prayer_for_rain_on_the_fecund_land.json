@@ -1,0 +1,115 @@
+{
+    "type": "single",
+    "name": "A Prayer for Rain on the Fecund Land",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Prayer_for_Rain_on_the_Fecund_Land",
+    "starting_location": {
+        "plaintext": "Apam Woods , Sumeru",
+        "markdown": "\u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Stories of You and the Aranara",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Stories_of_You_and_the_Aranara",
+            "Image": "Item_Stories_of_You_and_the_Aranara.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head to the rest stop",
+            "markdown": "Head to the rest stop"
+        },
+        {
+            "plaintext": "Talk to Arapandu",
+            "markdown": "Talk to \u25c0Arapandu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapandu\u25b7"
+        },
+        {
+            "plaintext": "Head near the Varunastra",
+            "markdown": "Head near the \u25c0Varunastra\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Varunastra\u25b7"
+        },
+        {
+            "plaintext": "Head to the underground space",
+            "markdown": "Head to the underground space"
+        },
+        {
+            "plaintext": "Head into the depths",
+            "markdown": "Head into the depths",
+            "substeps": [
+                {
+                    "plaintext": "There is an unmarked Teleport Waypoint along the way.",
+                    "markdown": "There is an unmarked \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 along the way."
+                }
+            ]
+        },
+        {
+            "plaintext": "Clear the spores",
+            "markdown": "Clear the spores"
+        },
+        {
+            "plaintext": "Defeat the Fungi",
+            "markdown": "Defeat the Fungi",
+            "substeps": [
+                {
+                    "plaintext": "Disturbed Fungus \u2014 Bad Bug Plaguing the Varuna Contraption",
+                    "markdown": "<img:winged_dendroshroom> \u25c0Disturbed Fungus \u2014 Bad Bug Plaguing the Varuna Contraption\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Dendroshroom\u25b7",
+                    "img": {
+                        "winged_dendroshroom": "Winged_Dendroshroom_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Fungi",
+            "markdown": "Defeat the Fungi"
+        },
+        {
+            "plaintext": "Talk to Arapandu",
+            "markdown": "Talk to Arapandu"
+        }
+    ],
+    "dialogue": true
+}

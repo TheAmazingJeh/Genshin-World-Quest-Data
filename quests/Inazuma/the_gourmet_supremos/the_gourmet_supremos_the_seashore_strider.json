@@ -1,0 +1,78 @@
+{
+    "type": "single",
+    "name": "The Gourmet Supremos: The Seashore Strider",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_The_Seashore_Strider",
+    "starting_location": {
+        "plaintext": "Kujou Encampment , Kannazuka , Inazuma",
+        "markdown": "\u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7 , \u25c0Kannazuka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kannazuka\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Recipe: Crab Roe Kourayaki",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Crab_Roe_Kourayaki",
+            "Image": "Item_Crab_Roe_Kourayaki.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Delicious Crab Roe Kourayaki",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Delicious_Crab_Roe_Kourayaki",
+            "Image": "Item_Delicious_Crab_Roe_Kourayaki.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to the Gourmet Supremos",
+            "markdown": "Talk to the Gourmet Supremos",
+            "substeps": [
+                {
+                    "plaintext": "Obtain Crab Bait",
+                    "markdown": "Obtain \u25c0Crab Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crab_Bait\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Place bait near the Thunder Sakura",
+            "markdown": "Place bait near the \u25c0Thunder Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura\u25b7"
+        },
+        {
+            "plaintext": "Catch crabs near the Thunder Sakura",
+            "markdown": "Catch \u25c0crabs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crab\u25b7 near the Thunder Sakura",
+            "substeps": [
+                {
+                    "plaintext": "Obtain Thunder Sakura Crab",
+                    "markdown": "Obtain \u25c0Thunder Sakura Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Crab\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the captured crab to Xudong",
+            "markdown": "Give the captured crab to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
+        }
+    ],
+    "dialogue": true
+}

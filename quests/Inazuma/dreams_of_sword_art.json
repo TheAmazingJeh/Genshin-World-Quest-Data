@@ -1,0 +1,216 @@
+{
+    "type": "single",
+    "name": "Dreams of Sword Art",
+    "url": "https://genshin-impact.fandom.com/wiki/Dreams_of_Sword_Art",
+    "starting_location": {
+        "plaintext": "Kannazuka , Inazuma",
+        "markdown": "\u25c0Kannazuka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kannazuka\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ritou Escape Plan",
+        "markdown": "Complete \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for the nameless samurai",
+            "markdown": "Search for the nameless samurai",
+            "substeps": [
+                {
+                    "plaintext": "Speak with Nameless again to begin the duel",
+                    "markdown": "Speak with Nameless again to begin the duel"
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the nameless samurai",
+            "markdown": "Defeat the nameless samurai",
+            "substeps": [
+                {
+                    "plaintext": "Defeat him in 60 seconds",
+                    "markdown": "Defeat him in 60 seconds"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the nameless samurai",
+            "markdown": "Talk to the nameless samurai"
+        },
+        {
+            "plaintext": "Search for the blade mentioned by the nameless samurai",
+            "markdown": "Search for the blade mentioned by the nameless samurai",
+            "substeps": [
+                {
+                    "plaintext": "The sword's location is just west of the Kujou Encampment",
+                    "markdown": "The sword's location is just west of the \u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7"
+                },
+                {
+                    "plaintext": "Obtain  A Discarded Blade",
+                    "markdown": "Obtain <img:a_discarded_blade> \u25c0A Discarded Blade\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Discarded_Blade\u25b7",
+                    "img": {
+                        "a_discarded_blade": "Item_Blade.png"
+                    }
+                },
+                {
+                    "plaintext": "Family Letter can be found next to the blade",
+                    "markdown": "\u25c0Family Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Family_Letter\u25b7 can be found next to the blade"
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the blade to the nameless samurai",
+            "markdown": "Give the blade to the nameless samurai"
+        },
+        {
+            "plaintext": "Defeat the nameless samurai",
+            "markdown": "Defeat the nameless samurai",
+            "substeps": [
+                {
+                    "plaintext": "Speak with Nameless again to begin the duel",
+                    "markdown": "Speak with Nameless again to begin the duel"
+                },
+                {
+                    "plaintext": "Defeat him in 60 seconds",
+                    "markdown": "Defeat him in 60 seconds"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the nameless samurai",
+            "markdown": "Talk to the nameless samurai"
+        },
+        {
+            "plaintext": "Help the nameless samurai find the wine",
+            "markdown": "Help the nameless samurai find the wine",
+            "substeps": [
+                {
+                    "plaintext": "Head to Kujou Encampment",
+                    "markdown": "Head to Kujou Encampment"
+                }
+            ]
+        },
+        {
+            "plaintext": "Ask the soldiers about the wine",
+            "markdown": "Ask the soldiers about the wine",
+            "substeps": [
+                {
+                    "plaintext": "Talk to Matsudaira",
+                    "markdown": "Talk to \u25c0Matsudaira\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Matsudaira\u25b7"
+                },
+                {
+                    "plaintext": "Obtain  A Jug of Wine",
+                    "markdown": "Obtain <img:a_jug_of_wine> \u25c0A Jug of Wine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Jug_of_Wine\u25b7",
+                    "img": {
+                        "a_jug_of_wine": "Item_A_Jug_of_Wine.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the wine to the nameless samurai",
+            "markdown": "Give the wine to the nameless samurai"
+        },
+        {
+            "plaintext": "Defeat \"Masanori\"",
+            "markdown": "Defeat \"Masanori\"",
+            "substeps": [
+                {
+                    "plaintext": "Speak with \"Masanori\" again to begin the duel",
+                    "markdown": "Speak with \"Masanori\" again to begin the duel"
+                },
+                {
+                    "plaintext": "Defeat him in 60 seconds",
+                    "markdown": "Defeat him in 60 seconds"
+                },
+                {
+                    "plaintext": "\"Masanori\" will be slightly stronger this time around",
+                    "markdown": "\"Masanori\" will be slightly stronger this time around"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to \"Masanori\"",
+            "markdown": "Talk to \"Masanori\""
+        },
+        {
+            "plaintext": "Search for the blade mentioned by \"Masanori\"",
+            "markdown": "Search for the blade mentioned by \"Masanori\"",
+            "substeps": [
+                {
+                    "plaintext": "The sword can be found at Nazuchi Beach",
+                    "markdown": "The sword can be found at \u25c0Nazuchi Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nazuchi_Beach\u25b7"
+                },
+                {
+                    "plaintext": "Obtain  A Masterless Blade",
+                    "markdown": "Obtain <img:a_masterless_blade> \u25c0A Masterless Blade\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Masterless_Blade\u25b7",
+                    "img": {
+                        "a_masterless_blade": "Item_Blade.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the blade to \"Masanori\"",
+            "markdown": "Give the blade to \"Masanori\""
+        },
+        {
+            "plaintext": "Defeat the berserk \"Masanori\"",
+            "markdown": "Defeat the berserk \"Masanori\"",
+            "substeps": [
+                {
+                    "plaintext": "Defeat him in 120 seconds",
+                    "markdown": "Defeat him in 120 seconds"
+                },
+                {
+                    "plaintext": "Masanori will be slightly stronger again and will passively heal 5% of his HP every 4 seconds",
+                    "markdown": "Masanori will be slightly stronger again and will passively heal 5% of his HP every 4 seconds"
+                },
+                {
+                    "plaintext": "Additionally when he has less than 10% of his HP, he will enter the Avenger state and will heal to full health.",
+                    "markdown": "Additionally when he has less than 10% of his HP, he will enter the \u25c0Avenger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 state and will heal to full health."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to \"Masanori\"",
+            "markdown": "Talk to \"Masanori\""
+        }
+    ],
+    "dialogue": true
+}

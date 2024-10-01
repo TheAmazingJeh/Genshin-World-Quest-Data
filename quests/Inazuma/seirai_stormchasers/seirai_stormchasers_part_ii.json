@@ -1,0 +1,92 @@
+{
+    "type": "single",
+    "name": "Seirai Stormchasers: Part II",
+    "url": "https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers%3A_Part_II",
+    "starting_location": {
+        "plaintext": "Seirai Island , Inazuma",
+        "markdown": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Warding Stone",
+            "markdown": "Go to the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7"
+        },
+        {
+            "plaintext": "Defeat all opponents",
+            "markdown": "Defeat all opponents",
+            "substeps": [
+                {
+                    "plaintext": "Nobushi: Hitsukeban x1",
+                    "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x1",
+                    "img": {
+                        "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Nobushi: Kikouban x1",
+                    "markdown": "<img:nobushi_kikouban> \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7 x1",
+                    "img": {
+                        "nobushi_kikouban": "Nobushi_Kikouban_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Kairagi: Dancing Thunder x1",
+                    "markdown": "<img:kairagi_dancing_thunder> \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 x1",
+                    "img": {
+                        "kairagi_dancing_thunder": "Kairagi_Dancing_Thunder_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Touch the paper charm hangars [sic] x/3",
+            "markdown": "Touch the paper charm hangars [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] x/3"
+        },
+        {
+            "plaintext": "Seal the Warding Stone",
+            "markdown": "Seal the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Rotate the stone to the correct position (rotate the top stone three times)",
+                    "markdown": "Rotate the stone to the correct position (rotate the top stone three times)"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Etsuko",
+            "markdown": "Talk to \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
+        }
+    ],
+    "dialogue": true
+}

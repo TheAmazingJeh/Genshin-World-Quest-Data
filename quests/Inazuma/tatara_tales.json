@@ -1,0 +1,84 @@
+{
+    "type": "series",
+    "name": "Tatara Tales",
+    "url": "https://genshin-impact.fandom.com/wiki/Tatara_Tales",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,700",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "220",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "225,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "7",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "10",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Blueprint: Square Yumemiru Stool",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Blueprint:_Square_Yumemiru_Stool",
+            "Image": "Item_Square_Yumemiru_Stool.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Tatara Tales (Day 1)",
+            "markdown": "\u25c0Tatara Tales\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales_(Quest)\u25b7 (Day 1)"
+        },
+        {
+            "plaintext": "Tatara Tales: Priority Investigation (Day 1)",
+            "markdown": "\u25c0Tatara Tales: Priority Investigation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Priority_Investigation\u25b7 (Day 1)"
+        },
+        {
+            "plaintext": "Tatara Tales: Purification Device (Day 2)",
+            "markdown": "\u25c0Tatara Tales: Purification Device\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Purification_Device\u25b7 (Day 2)"
+        },
+        {
+            "plaintext": "Tatara Tales: Data Collection (Day 3)",
+            "markdown": "\u25c0Tatara Tales: Data Collection\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Data_Collection\u25b7 (Day 3)"
+        },
+        {
+            "plaintext": "Tatara Tales: Process Is Everything (Day 4)",
+            "markdown": "\u25c0Tatara Tales: Process Is Everything\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Process_Is_Everything\u25b7 (Day 4)"
+        },
+        {
+            "plaintext": "Tatara Tales: Functional Test (Day 5)",
+            "markdown": "\u25c0Tatara Tales: Functional Test\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Functional_Test\u25b7 (Day 5)"
+        },
+        {
+            "plaintext": "Tatara Tales: Final Preparations (Day 6)",
+            "markdown": "\u25c0Tatara Tales: Final Preparations\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Final_Preparations\u25b7 (Day 6)"
+        },
+        {
+            "plaintext": "Tatara Tales: The Last Act (Day 7)",
+            "markdown": "\u25c0Tatara Tales: The Last Act\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_The_Last_Act\u25b7 (Day 7)"
+        }
+    ]
+}

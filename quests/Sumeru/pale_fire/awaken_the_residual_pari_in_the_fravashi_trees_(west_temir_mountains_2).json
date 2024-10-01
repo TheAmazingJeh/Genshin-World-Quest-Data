@@ -1,0 +1,38 @@
+{
+    "type": "single",
+    "name": "Awaken the Residual Pari in the Fravashi Trees (West Temir Mountains 2)",
+    "url": "https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_%28West_Temir_Mountains_2%29",
+    "starting_location": {
+        "plaintext": "West Temir Mountains, Girdle of the Sands , Sumeru",
+        "markdown": "West Temir Mountains, \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Plume of Purifying Light",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Plume_of_Purifying_Light",
+            "Image": "Item_Plume_of_Purifying_Light.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Let Sorush awaken the residual Pari in the Fravashi Tree",
+            "markdown": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
+        },
+        {
+            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
+            "markdown": "Talk to the residual Pari in the Fravashi Tree"
+        },
+        {
+            "plaintext": "Let Sorush fly alongside the residual Pari",
+            "markdown": "Let Sorush fly alongside the residual Pari"
+        },
+        {
+            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
+            "markdown": "Talk to the residual Pari in the Fravashi Tree"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,67 @@
+{
+    "type": "single",
+    "name": "Book in the Woods",
+    "url": "https://genshin-impact.fandom.com/wiki/Book_in_the_Woods",
+    "starting_location": {
+        "plaintext": "Wuwang Hill , Liyue",
+        "markdown": "\u25c0Wuwang Hill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wuwang_Hill\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Little Nine",
+            "markdown": "Talk to \u25c0Little Nine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Nine\u25b7"
+        },
+        {
+            "plaintext": "Find the lost book in the forest (0/2)",
+            "markdown": "Find the lost book in the forest (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "The player will not find the book and Paimon will suggest to return to Little Nine's location.",
+                    "markdown": "The player will not find the book and \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 will suggest to return to Little Nine's location."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go back and find Little Nine",
+            "markdown": "Go back and find Little Nine",
+            "substeps": [
+                {
+                    "plaintext": "Little Nine will not be there and the quest will finish.",
+                    "markdown": "Little Nine will not be there and the quest will finish."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

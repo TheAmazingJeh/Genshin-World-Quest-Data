@@ -1,0 +1,49 @@
+{
+    "type": "series",
+    "name": "Battlefield of Dice, Cats, and Cards",
+    "url": "https://genshin-impact.fandom.com/wiki/Battlefield_of_Dice%2C_Cats%2C_and_Cards",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Casket of Tomes",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Casket_of_Tomes",
+            "Image": "Item_Casket_of_Tomes.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Beginner Player Badge",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Beginner_Player_Badge",
+            "Image": "Item_Beginner_Player_Badge.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Come Try Genius Invokation TCG!",
+            "markdown": "\u25c0Come Try Genius Invokation TCG!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Come_Try_Genius_Invokation_TCG!\u25b7"
+        }
+    ]
+}

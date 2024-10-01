@@ -1,0 +1,83 @@
+{
+    "type": "single",
+    "name": "The Roaming Abode",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Roaming_Abode",
+    "starting_location": {
+        "plaintext": "Mt. Lingmeng , Liyue",
+        "markdown": "\u25c0Mt. Lingmeng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Lingmeng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for clues in the direction indicated by Xiangjun",
+            "markdown": "Look for clues in the direction indicated by Xiangjun"
+        },
+        {
+            "plaintext": "Search for a \"path\"",
+            "markdown": "Search for a \"path\""
+        },
+        {
+            "plaintext": "Enter the cavern",
+            "markdown": "Enter the cavern"
+        },
+        {
+            "plaintext": "Examine the cavern",
+            "markdown": "Examine the cavern"
+        },
+        {
+            "plaintext": "Go near Mt. Xuanlian",
+            "markdown": "Go near \u25c0Mt. Xuanlian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Xuanlian\u25b7"
+        },
+        {
+            "plaintext": "Obtain the \"blessed waters\"",
+            "markdown": "Obtain the \u25c0\"blessed waters\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xuanlian_Sacred_Water\u25b7"
+        },
+        {
+            "plaintext": "Return to Qiaoying Village",
+            "markdown": "Return to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7"
+        },
+        {
+            "plaintext": "Go to the herb gatherer's house",
+            "markdown": "Go to the herb gatherer's house"
+        },
+        {
+            "plaintext": "Water the divine herb",
+            "markdown": "Water the divine herb"
+        },
+        {
+            "plaintext": "Talk to Uncle Luo",
+            "markdown": "Talk to \u25c0Uncle Luo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_Luo\u25b7"
+        }
+    ],
+    "dialogue": true
+}

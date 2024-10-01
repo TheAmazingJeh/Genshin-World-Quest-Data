@@ -1,0 +1,29 @@
+{
+    "type": "single",
+    "name": "The Tales Behind the Fan",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Tales_Behind_the_Fan",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Interlude Chapter : Act II - Perilous Trail and Historia Antiqua Chapter : Act II - No Mere Stone",
+        "markdown": "\u25c0Interlude Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Interlude_Chapter\u25b7 : Act II - \u25c0Perilous Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Perilous_Trail\u25b7 and \u25c0Historia Antiqua Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Historia_Antiqua_Chapter\u25b7 : Act II - \u25c0No Mere Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/No_Mere_Stone\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "A Dragon's Wondrous Sight",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/A_Dragon%27s_Wondrous_Sight",
+            "Image": "Item_A_Dragon%27s_Wondrous_Sight.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Walk around Liyue Harbor",
+            "markdown": "Walk around \u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7"
+        }
+    ],
+    "dialogue": true
+}

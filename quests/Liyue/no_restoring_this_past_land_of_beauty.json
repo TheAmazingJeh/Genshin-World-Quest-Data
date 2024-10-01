@@ -1,0 +1,69 @@
+{
+    "type": "single",
+    "name": "No Restoring This Past Land of Beauty",
+    "url": "https://genshin-impact.fandom.com/wiki/No_Restoring_This_Past_Land_of_Beauty",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the cavern ruin in Tianqiu Valley",
+            "markdown": "Go to the cavern ruin in \u25c0Tianqiu Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tianqiu_Valley\u25b7"
+        },
+        {
+            "plaintext": "Defeat the Primo Geovishap",
+            "markdown": "Defeat the \u25c0Primo Geovishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primo_Geovishap\u25b7"
+        },
+        {
+            "plaintext": "Report the situation to Zhiping",
+            "markdown": "Report the situation to Zhiping"
+        }
+    ],
+    "dialogue": true
+}

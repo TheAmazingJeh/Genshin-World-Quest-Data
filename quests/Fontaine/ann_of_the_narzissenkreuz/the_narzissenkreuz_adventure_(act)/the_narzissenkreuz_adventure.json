@@ -1,0 +1,118 @@
+{
+    "type": "single",
+    "name": "The Narzissenkreuz Adventure",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure",
+    "starting_location": {
+        "plaintext": "Court of Fontaine Region , Fontaine",
+        "markdown": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Help Petit Chou",
+            "markdown": "Help \u25c0Petit Chou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Petit_Chou\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Tainted Water-Spouting Phantasm x1",
+                    "markdown": "<img:tainted_water-spouting_phantasm> \u25c0Tainted Water-Spouting Phantasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x1",
+                    "img": {
+                        "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Help Al",
+            "markdown": "Help \u25c0Al\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Al\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Tainted Water-Spouting Phantasm x1",
+                    "markdown": "<img:tainted_water-spouting_phantasm> \u25c0Tainted Water-Spouting Phantasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x1",
+                    "img": {
+                        "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Talk to Jak",
+            "markdown": "Talk to \u25c0Jak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jak\u25b7"
+        },
+        {
+            "plaintext": "Clear the Bubble Formation (0/3)",
+            "markdown": "Clear the Bubble Formation (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "\"Villain\" \u2014 Royal Blade of Narcissus x3",
+                    "markdown": "<img:tainted_water-spouting_phantasm> \u25c0\"Villain\" \u2014 Royal Blade of Narcissus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x3",
+                    "img": {
+                        "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Use force to clear up any misunderstandings!",
+            "markdown": "Use force to clear up any misunderstandings!",
+            "substeps": [
+                {
+                    "plaintext": "Hydro Mimic Boar x1",
+                    "markdown": "<img:hydro_mimic_boar> \u25c0Hydro Mimic Boar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Boar\u25b7 x1",
+                    "img": {
+                        "hydro_mimic_boar": "Hydro_Mimic_Icon.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

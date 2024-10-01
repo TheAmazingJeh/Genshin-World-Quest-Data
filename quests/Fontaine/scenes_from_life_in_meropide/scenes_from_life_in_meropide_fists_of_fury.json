@@ -1,0 +1,60 @@
+{
+    "type": "single",
+    "name": "Scenes from Life in Meropide: Fists of Fury",
+    "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Fists_of_Fury",
+    "starting_location": {
+        "plaintext": "Production Zone , Fontaine",
+        "markdown": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Credit Coupons",
+            "Value": "280",
+            "Link": "https://genshin-impact.fandom.com/wiki/Credit_Coupons",
+            "Image": "Item_Credit_Coupons.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Spar with Nizami",
+            "markdown": "Spar with Nizami",
+            "substeps": [
+                {
+                    "plaintext": "Nizami \u2014 A Bodyguard's True Skill",
+                    "markdown": "<img:eremite_daythunder> \u25c0Nizami \u2014 A Bodyguard's True Skill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Daythunder\u25b7",
+                    "img": {
+                        "eremite_daythunder": "Eremite_Daythunder_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Nizami",
+            "markdown": "Talk to Nizami"
+        }
+    ],
+    "dialogue": true
+}

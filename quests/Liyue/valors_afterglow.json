@@ -1,0 +1,50 @@
+{
+    "type": "series",
+    "name": "Valor's Afterglow",
+    "url": "https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "600",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "80",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "70,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Valor's Afterglow (Quest) (Day 1)",
+            "markdown": "\u25c0Valor's Afterglow (Quest)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow_(Quest)\u25b7 (Day 1)"
+        },
+        {
+            "plaintext": "Valor's Afterglow: Return by Sundown (Day 2)",
+            "markdown": "\u25c0Valor's Afterglow: Return by Sundown\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow:_Return_by_Sundown\u25b7 (Day 2)"
+        },
+        {
+            "plaintext": "Valor's Afterglow: The Faint Light Remembered (Day 3)",
+            "markdown": "\u25c0Valor's Afterglow: The Faint Light Remembered\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow:_The_Faint_Light_Remembered\u25b7 (Day 3)"
+        }
+    ]
+}

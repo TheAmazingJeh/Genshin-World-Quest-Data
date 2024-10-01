@@ -1,0 +1,192 @@
+{
+    "type": "single",
+    "name": "A Short Encounter with a Rare Bird",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Short_Encounter_with_a_Rare_Bird",
+    "starting_location": {
+        "plaintext": "Ashavan Realm , Sumeru",
+        "markdown": "\u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Kill a particular Shroomboar near the Caravan Ribat .",
+        "markdown": "Kill a particular Shroomboar near the \u25c0Caravan Ribat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Caravan_Ribat\u25b7 ."
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to the Forest Ranger",
+            "markdown": "Talk to the \u25c0Forest Ranger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forest_Ranger\u25b7"
+        },
+        {
+            "plaintext": "Hunt Dusk Birds in the south of Apam Woods",
+            "markdown": "Hunt Dusk Birds in the south of \u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7"
+        },
+        {
+            "plaintext": "Defeat the Eremites",
+            "markdown": "Defeat \u25c0the Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eremites\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Eremite Crossbow x1",
+                    "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
+                    "img": {
+                        "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Eremite Ravenbeak Halberdier x2",
+                    "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x2",
+                    "img": {
+                        "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Eremite Sword-Dancer x1",
+                    "markdown": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                    "img": {
+                        "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Shefket",
+            "markdown": "Talk to \u25c0Shefket\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shefket\u25b7"
+        },
+        {
+            "plaintext": "Hunt Dusk Birds in the north of Apam Woods",
+            "markdown": "Hunt \u25c0Dusk Birds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dusk_Bird\u25b7 in the north of Apam Woods"
+        },
+        {
+            "plaintext": "Talk to the Eremites",
+            "markdown": "Talk to the Eremites"
+        },
+        {
+            "plaintext": "Hunt Dusk Birds on the mountains east of Apam Woods",
+            "markdown": "Hunt Dusk Birds on the mountains east of Apam Woods"
+        },
+        {
+            "plaintext": "Talk to Shefket",
+            "markdown": "Talk to Shefket"
+        },
+        {
+            "plaintext": "Fight the Treasure Hoarders",
+            "markdown": "Fight the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Treasure Hoarders: Pyro Potioneer x1",
+                            "markdown": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Hydro Potioneer x1",
+                            "markdown": "<img:treasure_hoarders_hydro_potioneer> \u25c0Treasure Hoarders: Hydro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Hydro_Potioneer\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_hydro_potioneer": "Treasure_Hoarder_Hydro_Potioneer_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Crusher x1",
+                            "markdown": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Seaman x2",
+                            "markdown": "<img:treasure_hoarders_seaman> \u25c0Treasure Hoarders: Seaman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Seaman\u25b7 x2",
+                            "img": {
+                                "treasure_hoarders_seaman": "Treasure_Hoarder_Seaman_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Treasure Hoarders: Marksman x4",
+                            "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x4",
+                            "img": {
+                                "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Treasure Hoarders: Crusher x1",
+                            "markdown": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Seaman x1",
+                            "markdown": "<img:treasure_hoarders_seaman> \u25c0Treasure Hoarders: Seaman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Seaman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_seaman": "Treasure_Hoarder_Seaman_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Handyman x1",
+                            "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Orhan",
+            "markdown": "Talk to \u25c0Orhan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orhan\u25b7"
+        }
+    ],
+    "dialogue": true
+}

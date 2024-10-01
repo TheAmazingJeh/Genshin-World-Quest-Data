@@ -1,0 +1,170 @@
+{
+    "type": "single",
+    "name": "Starry Night Chapter",
+    "url": "https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter",
+    "starting_location": {
+        "plaintext": "Avidya Forest , Sumeru",
+        "markdown": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The World of Aranara",
+        "markdown": "\u25c0The World of Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_World_of_Aranara\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Find Aranakin (if Risen Moon Chapter was completed first)",
+            "markdown": "Find \u25c0Aranakin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranakin\u25b7 (if Risen Moon Chapter was completed first)"
+        },
+        {
+            "plaintext": "Go probe the Eremites",
+            "markdown": "Go probe the \u25c0Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite\u25b7"
+        },
+        {
+            "plaintext": "Talk to the Aranara",
+            "markdown": "Talk to the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7"
+        },
+        {
+            "plaintext": "Use the Kusava to open up the path",
+            "markdown": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7 to open up the path"
+        },
+        {
+            "plaintext": "Enter the cave",
+            "markdown": "Enter the cave"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Lower the water level in the cave",
+            "markdown": "Lower the water level in the cave"
+        },
+        {
+            "plaintext": "Explore the cave",
+            "markdown": "Explore the cave"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Go to the exit of the cave",
+            "markdown": "Go to the exit of the cave"
+        },
+        {
+            "plaintext": "Leave the cave",
+            "markdown": "Leave the cave"
+        },
+        {
+            "plaintext": "Use the Kusava to open up the path",
+            "markdown": "Use the Kusava to open up the path"
+        },
+        {
+            "plaintext": "Go to the cave where the Zohrah Mushroom is located",
+            "markdown": "Go to the cave where the \u25c0Zohrah Mushroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zohrah_Mushroom\u25b7 is located"
+        },
+        {
+            "plaintext": "Talk to the people who are blocking the cave",
+            "markdown": "Talk to the people who are blocking the cave"
+        },
+        {
+            "plaintext": "Go into the cave where the Zohrah Mushroom is located",
+            "markdown": "Go into the cave where the Zohrah Mushroom is located"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Lower the water level in the cave",
+            "markdown": "Lower the water level in the cave"
+        },
+        {
+            "plaintext": "Investigate the Zohrah Mushroom",
+            "markdown": "Investigate the Zohrah Mushroom"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Drain the water and obtain the Zohrah Mushroom",
+            "markdown": "Drain the water and obtain the Zohrah Mushroom"
+        },
+        {
+            "plaintext": "Use the Kusava to break the seal on the Zohrah Mushroom (0/3)",
+            "markdown": "Use the Kusava to break the seal on the Zohrah Mushroom (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "The three seals are in the north of the quest area. Use the nearby Dendrogranum to destroy the wall with a Charged Attack.",
+                    "markdown": "The three seals are in the north of the quest area. Use the nearby \u25c0Dendrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7 to destroy the wall with a \u25c0Charged Attack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charged_Attack\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Eremite assassins",
+            "markdown": "Defeat the Eremite assassins"
+        },
+        {
+            "plaintext": "Obtain the Zohrah Mushroom",
+            "markdown": "Obtain the Zohrah Mushroom"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        },
+        {
+            "plaintext": "Catch up with Lunja",
+            "markdown": "Catch up with \u25c0Lunja\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lunja\u25b7"
+        },
+        {
+            "plaintext": "Get the Zohrah Mushroom back from Lunja",
+            "markdown": "Get the Zohrah Mushroom back from Lunja",
+            "substeps": [
+                {
+                    "plaintext": "You can choose to negotiate or fight the Eremites. Skip the next step if you negotiate with them.",
+                    "markdown": "You can choose to negotiate or fight the Eremites. Skip the next step if you negotiate with them."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Eremites",
+            "markdown": "Defeat the Eremites"
+        },
+        {
+            "plaintext": "Talk to Aranakin",
+            "markdown": "Talk to Aranakin"
+        }
+    ],
+    "dialogue": true
+}

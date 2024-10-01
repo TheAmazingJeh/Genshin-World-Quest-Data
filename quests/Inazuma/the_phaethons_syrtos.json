@@ -1,0 +1,65 @@
+{
+    "type": "single",
+    "name": "The Phaethons' Syrtos",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Phaethons%27_Syrtos",
+    "starting_location": {
+        "plaintext": "Evernight Temple , Enkanomiya , Inazuma",
+        "markdown": "\u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Subterranean Trials of Drake and Serpent",
+        "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Lead the first seelie to the barrierSeelie #1Seelie #1 Context",
+            "markdown": "Lead the first seelie to the barrier\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_The_Phaethon%27s_Syrtos_Seelie_1_Start_Location.png\u25b7Seelie #1\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_The_Phaethon%27s_Syrtos_Seelie_1_Start_Location_Context.png\u25b7Seelie #1 Context"
+        },
+        {
+            "plaintext": "Lead the second seelie to the barrierSeelie #2Seelie #2 Context",
+            "markdown": "Lead the second seelie to the barrier\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_The_Phaethon%27s_Syrtos_Seelie_2_Start_Location.png\u25b7Seelie #2\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_The_Phaethon%27s_Syrtos_Seelie_2_Start_Location_Context.png\u25b7Seelie #2 Context"
+        },
+        {
+            "plaintext": "Talk to Clymene (initially \"???\")Clymene LocationAdditional Context",
+            "markdown": "Talk to Clymene (initially \"???\")\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_The_Phaethon%27s_Syrtos_Start_Location.png\u25b7Clymene Location\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_The_Phaethon%27s_Syrtos_Start_Location_Context.png\u25b7Additional Context"
+        }
+    ],
+    "dialogue": true
+}

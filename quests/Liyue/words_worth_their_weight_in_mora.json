@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "Words Worth Their Weight in Mora",
+    "url": "https://genshin-impact.fandom.com/wiki/Words_Worth_Their_Weight_in_Mora",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete A New Star Approaches",
+        "markdown": "Complete \u25c0A New Star Approaches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_New_Star_Approaches\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Teachings of Prosperity",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Prosperity",
+            "Image": "Item_Teachings_of_Prosperity.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Teachings of Diligence",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Diligence",
+            "Image": "Item_Teachings_of_Diligence.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Teachings of Gold",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold",
+            "Image": "Item_Teachings_of_Gold.png",
+            "Rarity": "2"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Jifang",
+            "markdown": "Talk to \u25c0Jifang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jifang\u25b7"
+        },
+        {
+            "plaintext": "Help Jifang deliver the book (0/2)",
+            "markdown": "Help Jifang deliver the book (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "Deliver Verses of Equilibrium to Uncle Tian",
+                    "markdown": "Deliver \u25c0Verses of Equilibrium\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Verses_of_Equilibrium\u25b7 to \u25c0Uncle Tian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_Tian\u25b7"
+                },
+                {
+                    "plaintext": "Deliver Rex Incognito (IV) to Gentry De'an",
+                    "markdown": "Deliver \u25c0Rex Incognito (IV)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rex_Incognito_(IV)\u25b7 to \u25c0Gentry De'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gentry_De%27an\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Jifang",
+            "markdown": "Report back to Jifang"
+        }
+    ],
+    "dialogue": true
+}

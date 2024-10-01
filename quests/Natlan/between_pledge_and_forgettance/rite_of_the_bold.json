@@ -1,0 +1,73 @@
+{
+    "type": "single",
+    "name": "Rite of the Bold",
+    "url": "https://genshin-impact.fandom.com/wiki/Rite_of_the_Bold",
+    "starting_location": {
+        "plaintext": "\"Children of Echoes\" , Natlan",
+        "markdown": "\u25c0\"Children of Echoes\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Children_of_Echoes%22\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Talisman of Waxaklahun Ubah Kan",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Talisman_of_Waxaklahun_Ubah_Kan",
+            "Image": "Item_Talisman_of_Waxaklahun_Ubah_Kan.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Children of Echoes",
+            "markdown": "Go to the Children of Echoes"
+        },
+        {
+            "plaintext": "Talk to Manqu",
+            "markdown": "Talk to Manqu"
+        },
+        {
+            "plaintext": "Defeat Pacal",
+            "markdown": "Defeat Pacal"
+        },
+        {
+            "plaintext": "Talk to Manqu",
+            "markdown": "Talk to Manqu"
+        }
+    ],
+    "dialogue": true
+}

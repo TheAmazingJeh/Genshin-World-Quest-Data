@@ -1,0 +1,83 @@
+{
+    "type": "series",
+    "name": "The Moon-Bathed Deep",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "160",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "125,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Spirit Pearl",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Spirit_Pearl",
+            "Image": "Item_Spirit_Pearl.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Key of the Moon-Bathed Deep",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Key_of_the_Moon-Bathed_Deep",
+            "Image": "Item_Key_of_the_Moon-Bathed_Deep.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "14",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "The Moon-Bathed Deep",
+            "markdown": "\u25c0The Moon-Bathed Deep\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep_(Quest)\u25b7"
+        },
+        {
+            "plaintext": "\"Eye of Watatsumi\"",
+            "markdown": "\u25c0\"Eye of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Eye_of_Watatsumi%22\u25b7"
+        },
+        {
+            "plaintext": "\"Fang of Watatsumi\"",
+            "markdown": "\u25c0\"Fang of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Fang_of_Watatsumi%22\u25b7"
+        },
+        {
+            "plaintext": "\"Fin of Watatsumi\"",
+            "markdown": "\u25c0\"Fin of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Fin_of_Watatsumi%22\u25b7"
+        },
+        {
+            "plaintext": "\"Tail of Watatsumi\"",
+            "markdown": "\u25c0\"Tail of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Tail_of_Watatsumi%22\u25b7"
+        },
+        {
+            "plaintext": "\"Heart of Watatsumi\"",
+            "markdown": "\u25c0\"Heart of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Heart_of_Watatsumi%22\u25b7"
+        }
+    ]
+}

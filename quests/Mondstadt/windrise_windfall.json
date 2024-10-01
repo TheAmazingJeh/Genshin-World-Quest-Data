@@ -1,0 +1,58 @@
+{
+    "type": "single",
+    "name": "Windrise, Windfall",
+    "url": "https://genshin-impact.fandom.com/wiki/Windrise%2C_Windfall",
+    "starting_location": {
+        "plaintext": "Dawn Winery , Mondstadt",
+        "markdown": "\u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete For a Tomorrow Without Tears \u200d",
+        "markdown": "Complete \u25c0For a Tomorrow Without Tears\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_a_Tomorrow_Without_Tears\u25b7 \u200d"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "8",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Elzer",
+            "markdown": "Talk to Elzer"
+        },
+        {
+            "plaintext": "Clear the main road of any monsters and obstacles (0/3)",
+            "markdown": "Clear the main road of any monsters and obstacles (0/3)"
+        },
+        {
+            "plaintext": "Talk to Elzer",
+            "markdown": "Talk to Elzer"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,60 @@
+{
+    "type": "single",
+    "name": "Garden Fairies",
+    "url": "https://genshin-impact.fandom.com/wiki/Garden_Fairies",
+    "starting_location": {
+        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
+        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete step 1 of Festival Utsava",
+        "markdown": "Complete step 1 of \u25c0Festival Utsava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Festival_Utsava\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Aralila and Aranishat's Flowers",
+            "Value": "\u2014",
+            "Link": "https://genshin-impact.fandom.com/wiki/Aralila_and_Aranishat%27s_Flowers",
+            "Image": "Item_The_Siblings%27_Flowers.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Find Aralila!",
+            "markdown": "Find Aralila!"
+        },
+        {
+            "plaintext": "Find Aranishat!",
+            "markdown": "Find Aranishat!",
+            "substeps": [
+                {
+                    "plaintext": "Destroy the wooden boxes",
+                    "markdown": "Destroy the wooden boxes"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

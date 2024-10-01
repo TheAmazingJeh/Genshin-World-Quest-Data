@@ -1,0 +1,103 @@
+{
+    "type": "single",
+    "name": "On the Stage, Behind the Stage",
+    "url": "https://genshin-impact.fandom.com/wiki/On_the_Stage%2C_Behind_the_Stage",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Interlude Chapter : Act I - The Crane Returns on the Wind",
+        "markdown": "\u25c0Interlude Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Interlude_Chapter\u25b7 : Act I - \u25c0The Crane Returns on the Wind\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Crane_Returns_on_the_Wind\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Pear Orchard Stage: Yun-Han Style",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Pear_Orchard_Stage:_Yun-Han_Style",
+            "Image": "Item_Pear_Orchard_Stage_Yun-Han_Style.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Liu Su",
+            "markdown": "Talk to \u25c0Liu Su\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tea_Master_Liu_Su\u25b7"
+        },
+        {
+            "plaintext": "Head to Qingce Village and look for Master Lu",
+            "markdown": "Head to \u25c0Qingce Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingce_Village\u25b7 and look for \u25c0Master Lu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Master_Lu\u25b7"
+        },
+        {
+            "plaintext": "Talk to Master Lu",
+            "markdown": "Talk to Master Lu"
+        },
+        {
+            "plaintext": "Collect furniture materials",
+            "markdown": "Collect furniture materials",
+            "substeps": [
+                {
+                    "plaintext": "Pine Wood x3,  Red Dye",
+                    "markdown": "<img:pine_wood> \u25c0Pine Wood\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pine_Wood\u25b7 x3, <img:red_dye> \u25c0Red Dye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Red_Dye\u25b7",
+                    "img": {
+                        "pine_wood": "Item_Pine_Wood.png",
+                        "red_dye": "Item_Red_Dye.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Wait until the following day (18:00 \u2013 21:00)",
+            "markdown": "Wait until the following day (18:00 \u2013 21:00)"
+        },
+        {
+            "plaintext": "Head to Heyu Tea House",
+            "markdown": "Head to \u25c0Heyu Tea House\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Heyu_Tea_House\u25b7"
+        },
+        {
+            "plaintext": "Brew tea with Yun Jin",
+            "markdown": "Brew tea with \u25c0Yun Jin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yun_Jin\u25b7"
+        },
+        {
+            "plaintext": "Talk to Fan Er'ye",
+            "markdown": "Talk to \u25c0Fan Er'ye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fan_Er%27ye\u25b7"
+        },
+        {
+            "plaintext": "Go to the warehouse at the dock and obtain the wooden planks",
+            "markdown": "Go to the warehouse at the dock and obtain the wooden planks"
+        },
+        {
+            "plaintext": "Give the planks to Dayu",
+            "markdown": "Give the planks to \u25c0Dayu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dayu\u25b7"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,47 @@
+{
+    "type": "single",
+    "name": "The Gourmet Supremos: Cleanup",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_Cleanup",
+    "starting_location": {
+        "plaintext": "Caravan Ribat , Sumeru",
+        "markdown": "\u25c0Caravan Ribat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Caravan_Ribat\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Recipe: Tandoori Roast Chicken",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Tandoori_Roast_Chicken",
+            "Image": "Item_Tandoori_Roast_Chicken.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Recipe: Potato Boat",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Potato_Boat",
+            "Image": "Item_Potato_Boat.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Fish With Cream Sauce",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Fish_With_Cream_Sauce",
+            "Image": "Item_Fish_With_Cream_Sauce.png",
+            "Rarity": "2"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Maryam",
+            "markdown": "Talk to \u25c0Maryam\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maryam\u25b7"
+        }
+    ],
+    "dialogue": true
+}

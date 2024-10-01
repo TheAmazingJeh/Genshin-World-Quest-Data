@@ -1,0 +1,18 @@
+{
+    "type": "single",
+    "name": "Still Mouthwatering!",
+    "url": "https://genshin-impact.fandom.com/wiki/Still_Mouthwatering%21",
+    "starting_location": {
+        "plaintext": "West Slopes of Mont Automnequi , Fontaine",
+        "markdown": "\u25c0West Slopes of Mont Automnequi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/West_Slopes_of_Mont_Automnequi\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Talk to Henri",
+            "markdown": "Talk to Henri"
+        }
+    ],
+    "dialogue": true
+}

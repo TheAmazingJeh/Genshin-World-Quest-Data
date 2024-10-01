@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "Qiaoying of the Sacred Mountain",
+    "url": "https://genshin-impact.fandom.com/wiki/Qiaoying_of_the_Sacred_Mountain",
+    "starting_location": {
+        "plaintext": "Carp's Rest , Liyue",
+        "markdown": "\u25c0Carp's Rest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Carp%27s_Rest\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Enter Chenyu Vale , Liyue",
+        "markdown": "Enter \u25c0Chenyu Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Fine Tea, Full Moon",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Fine_Tea,_Full_Moon",
+            "Image": "Item_Fine_Tea%2C_Full_Moon.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Use your adeptal energy to leave the domain",
+            "markdown": "Use your adeptal energy to leave the domain"
+        },
+        {
+            "plaintext": "Go to Qiaoying Village",
+            "markdown": "Go to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7"
+        },
+        {
+            "plaintext": "Go to the teamaking workshop",
+            "markdown": "Go to the teamaking workshop"
+        },
+        {
+            "plaintext": "Join the conversation between Jin and Uncle Luo",
+            "markdown": "Join the conversation between \u25c0Jin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jin\u25b7 and \u25c0Uncle Luo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_Luo\u25b7"
+        },
+        {
+            "plaintext": "Leave Qiaoying Village",
+            "markdown": "Leave Qiaoying Village"
+        },
+        {
+            "plaintext": "Follow the golden carp",
+            "markdown": "Follow the golden carp"
+        },
+        {
+            "plaintext": "Solve the puzzle",
+            "markdown": "Solve the puzzle"
+        },
+        {
+            "plaintext": "Go to Yilong Wharf",
+            "markdown": "Go to \u25c0Yilong Wharf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yilong_Wharf\u25b7"
+        },
+        {
+            "plaintext": "Search for the Fontainian technician",
+            "markdown": "Search for the Fontainian technician"
+        }
+    ],
+    "dialogue": true
+}

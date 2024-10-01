@@ -1,0 +1,18 @@
+{
+    "type": "single",
+    "name": "The Road Ahead",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Road_Ahead",
+    "starting_location": {
+        "plaintext": "Tequemecan Valley , Natlan",
+        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Talk to Manqu",
+            "markdown": "Talk to Manqu"
+        }
+    ],
+    "dialogue": true
+}

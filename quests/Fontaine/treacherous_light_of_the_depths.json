@@ -1,0 +1,164 @@
+{
+    "type": "single",
+    "name": "Treacherous Light of the Depths",
+    "url": "https://genshin-impact.fandom.com/wiki/Treacherous_Light_of_the_Depths",
+    "starting_location": {
+        "plaintext": "Fontaine Research Institute of Kinetic Energy Engineering Region , Fontaine",
+        "markdown": "\u25c0Fontaine Research Institute of Kinetic Energy Engineering Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute_of_Kinetic_Energy_Engineering_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Explore inside the ruins",
+            "markdown": "Explore inside the ruins"
+        },
+        {
+            "plaintext": "Start the optical device",
+            "markdown": "Start the optical device",
+            "substeps": [
+                {
+                    "plaintext": "Calibrate the device when the image is at its clearest.",
+                    "markdown": "Calibrate the device when the image is at its clearest."
+                }
+            ]
+        },
+        {
+            "plaintext": "Investigate the other optical devices in the ruins",
+            "markdown": "Investigate the other optical devices in the ruins"
+        },
+        {
+            "plaintext": "Start the optical device at the center of the ruins",
+            "markdown": "Start the optical device at the center of the ruins"
+        },
+        {
+            "plaintext": "Defeat the clockwork meka",
+            "markdown": "Defeat the \u25c0clockwork meka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clockwork_meka\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Suppression Specialist Mek - Ousia x1",
+                    "markdown": "<img:suppression_specialist_mek_-_ousia> \u25c0Suppression Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Ousia\u25b7 x1",
+                    "img": {
+                        "suppression_specialist_mek_-_ousia": "Suppression_Specialist_Mek_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Recon Log Mek - Ousia x1",
+                    "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x1",
+                    "img": {
+                        "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring",
+            "substeps": [
+                {
+                    "plaintext": "Suppression Specialist Mek - Ousia x1",
+                    "markdown": "<img:suppression_specialist_mek_-_ousia> \u25c0Suppression Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Ousia\u25b7 x1",
+                    "img": {
+                        "suppression_specialist_mek_-_ousia": "Suppression_Specialist_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Investigate the mysterious room",
+            "markdown": "Investigate the mysterious room"
+        },
+        {
+            "plaintext": "Defeat the clockwork meka",
+            "markdown": "Defeat the clockwork meka",
+            "substeps": [
+                {
+                    "plaintext": "Prototype Artificed Dancer \"Lothair\" x1",
+                    "markdown": "<img:assault_specialist_mek_-_pneuma> \u25c0Prototype Artificed Dancer \"Lothair\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Pneuma\u25b7 x1",
+                    "img": {
+                        "assault_specialist_mek_-_pneuma": "Assault_Specialist_Mek_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Prototype Artificed Dancer \"Claire\" x1",
+                    "markdown": "<img:annihilation_specialist_mek_-_pneuma> \u25c0Prototype Artificed Dancer \"Claire\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek_-_Pneuma\u25b7 x1",
+                    "img": {
+                        "annihilation_specialist_mek_-_pneuma": "Annihilation_Specialist_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the researcher",
+            "markdown": "Talk to the \u25c0researcher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sevigne\u25b7"
+        },
+        {
+            "plaintext": "Recover the Punched Tapes",
+            "markdown": "Recover the Punched Tapes"
+        },
+        {
+            "plaintext": "Talk to Sevigne",
+            "markdown": "Talk to Sevigne"
+        },
+        {
+            "plaintext": "Dive into water to exit the room",
+            "markdown": "Dive into water to exit the room"
+        },
+        {
+            "plaintext": "Exit via the current",
+            "markdown": "Exit via the current"
+        },
+        {
+            "plaintext": "Go to the new Fontaine Research Institute",
+            "markdown": "Go to the new Fontaine Research Institute"
+        },
+        {
+            "plaintext": "Find Chisseray and pass on the news",
+            "markdown": "Find \u25c0Chisseray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chisseray\u25b7 and pass on the news"
+        }
+    ],
+    "dialogue": true
+}

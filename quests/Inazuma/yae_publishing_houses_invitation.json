@@ -1,0 +1,62 @@
+{
+    "type": "single",
+    "name": "Yae Publishing House's Invitation",
+    "url": "https://genshin-impact.fandom.com/wiki/Yae_Publishing_House%27s_Invitation",
+    "starting_location": {
+        "plaintext": "Inazuma City , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Bookworm Swordsman and Ritou Escape Plan",
+        "markdown": "Complete \u25c0Bookworm Swordsman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bookworm_Swordsman\u25b7 and \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Chang the Ninth",
+            "markdown": "Talk to \u25c0Chang the Ninth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chang_the_Ninth\u25b7"
+        },
+        {
+            "plaintext": "Search for Zhenyu at the Wanwen Bookhouse",
+            "markdown": "Search for Zhenyu at the \u25c0Wanwen Bookhouse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wanwen_Bookhouse\u25b7"
+        },
+        {
+            "plaintext": "Talk to Xingqiu",
+            "markdown": "Talk to \u25c0Xingqiu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xingqiu\u25b7"
+        },
+        {
+            "plaintext": "Report back to Aratani",
+            "markdown": "Report back to Aratani"
+        }
+    ],
+    "dialogue": true
+}

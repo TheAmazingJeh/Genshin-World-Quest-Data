@@ -1,0 +1,53 @@
+{
+    "type": "single",
+    "name": "The Yaksha's Wish",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Yaksha%27s_Wish",
+    "starting_location": {
+        "plaintext": "Minlin , Liyue",
+        "markdown": "\u25c0Minlin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Minlin\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Look for clues to opening the stone tablet (0/3)",
+            "markdown": "Look for clues to opening the stone tablet (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Need to carry the Light Actuators (floating light shapes) to the Ruin Tablet, opening the chests is not enough.",
+                    "markdown": "Need to carry the Light Actuators (floating light shapes) to the Ruin Tablet, opening the chests is not enough."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

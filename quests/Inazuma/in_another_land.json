@@ -1,0 +1,84 @@
+{
+    "type": "single",
+    "name": "In Another Land",
+    "url": "https://genshin-impact.fandom.com/wiki/In_Another_Land",
+    "starting_location": {
+        "plaintext": "Ritou , Inazuma",
+        "markdown": "\u25c0Ritou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Begin Stillness, the Sublimation of Shadow",
+        "markdown": "Begin \u25c0Stillness, the Sublimation of Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stillness,_the_Sublimation_of_Shadow\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Vahid's Kneaded Onigiri",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Vahid%27s_Kneaded_Onigiri",
+            "Image": "Item_Onigiri.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Take a photo of Eipekkusu and its owner",
+            "markdown": "Take a photo of \u25c0Eipekkusu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eipekkusu\u25b7 and its \u25c0owner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaede\u25b7"
+        },
+        {
+            "plaintext": "Take a photo of Syavushi Bakshesh Shoppe and its owner",
+            "markdown": "Take a photo of \u25c0Syavushi Bakshesh Shoppe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Syavushi_Bakshesh_Shoppe\u25b7 and its \u25c0owner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vahid\u25b7"
+        },
+        {
+            "plaintext": "Go to the wharf and take a photo of the fisherman",
+            "markdown": "Go to the wharf and take a photo of the \u25c0fisherman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Obata\u25b7"
+        },
+        {
+            "plaintext": "Talk to Vahid",
+            "markdown": "Talk to Vahid"
+        },
+        {
+            "plaintext": "Help Alrani gather cooking ingredients",
+            "markdown": "Help Alrani gather cooking ingredients",
+            "substeps": [
+                {
+                    "plaintext": "The Traveler needs  Fish,  Rice and  Seagrass",
+                    "markdown": "The Traveler needs <img:fish> \u25c0Fish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fish\u25b7, <img:rice> \u25c0Rice\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rice\u25b7 and <img:seagrass> \u25c0Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seagrass\u25b7",
+                    "img": {
+                        "fish": "Item_Fish.png",
+                        "rice": "Item_Rice.png",
+                        "seagrass": "Item_Seagrass.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

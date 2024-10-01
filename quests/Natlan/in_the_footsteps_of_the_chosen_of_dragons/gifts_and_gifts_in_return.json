@@ -1,0 +1,72 @@
+{
+    "type": "single",
+    "name": "Gifts and Gifts in Return",
+    "url": "https://genshin-impact.fandom.com/wiki/Gifts_and_Gifts_in_Return",
+    "starting_location": {
+        "plaintext": "Tequemecan Valley , Natlan",
+        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to your Saurian companion",
+            "markdown": "Talk to your Saurian companion"
+        },
+        {
+            "plaintext": "Look for a jeweler's shop in the Children of Echoes",
+            "markdown": "Look for a jeweler's shop in the Children of Echoes"
+        },
+        {
+            "plaintext": "Speak to the apprentice at the shop",
+            "markdown": "Speak to the apprentice at the shop"
+        },
+        {
+            "plaintext": "Look for the jeweler at the place he's gathering inspiration",
+            "markdown": "Look for the jeweler at the place he's gathering inspiration"
+        },
+        {
+            "plaintext": "Speak with the Gem Master",
+            "markdown": "Speak with the Gem Master"
+        },
+        {
+            "plaintext": "Retrieve the lost gem and the tools",
+            "markdown": "Retrieve the lost gem and the tools"
+        },
+        {
+            "plaintext": "Report back to the Gem Master",
+            "markdown": "Report back to the Gem Master"
+        },
+        {
+            "plaintext": "Wait until two days later",
+            "markdown": "Wait until two days later"
+        },
+        {
+            "plaintext": "Go to the gemporium to retrieve the gem",
+            "markdown": "Go to the gemporium to retrieve the gem"
+        }
+    ],
+    "dialogue": true
+}

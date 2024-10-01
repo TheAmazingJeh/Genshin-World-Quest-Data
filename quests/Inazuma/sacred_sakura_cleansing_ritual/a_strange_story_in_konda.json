@@ -1,0 +1,176 @@
+{
+    "type": "single",
+    "name": "A Strange Story in Konda",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Strange_Story_in_Konda",
+    "starting_location": {
+        "plaintext": "Konda Village , Narukami Island , Inazuma",
+        "markdown": "\u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Ritou Escape Plan",
+        "markdown": "Complete \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7"
+    },
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Use the power of Electro on the Sky Kitsune Statue",
+            "markdown": "Use the power of \u25c0Electro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro\u25b7 on the \u25c0Sky Kitsune Statue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sky_Kitsune_Statue\u25b7"
+        },
+        {
+            "plaintext": "Obtain the  ward",
+            "markdown": "Obtain the <img:ward_(a_strange_story_in_konda)> \u25c0ward\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ward_(A_Strange_Story_in_Konda)\u25b7",
+            "img": {
+                "ward_(a_strange_story_in_konda)": "Item_Ward.png"
+            }
+        },
+        {
+            "plaintext": "Go to Konda Village",
+            "markdown": "Go to \u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7"
+        },
+        {
+            "plaintext": "Ask the locals for information",
+            "markdown": "Ask the locals for information",
+            "substeps": [
+                {
+                    "plaintext": "This step is completed after talking to Futaba, Takeru, and Saimon Eri.",
+                    "markdown": "This step is completed after talking to Futaba, Takeru, and Saimon Eri.",
+                    "substeps": [
+                        {
+                            "plaintext": "Futaba is by the gully near the village chief",
+                            "markdown": "\u25c0Futaba\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Futaba\u25b7 is by the gully near the village chief"
+                        },
+                        {
+                            "plaintext": "Takeru is on the rooftop of a house by the stream on the south-eastern edge of the village",
+                            "markdown": "\u25c0Takeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Takeru\u25b7 is on the rooftop of a house by the stream on the south-eastern edge of the village"
+                        },
+                        {
+                            "plaintext": "Saimon Eri is standing near some fruit vines next to a shrine on the road leading north out of the village",
+                            "markdown": "\u25c0Saimon Eri\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saimon_Eri\u25b7 is standing near some fruit vines next to a shrine on the road leading north out of the village"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Ask the Konda Village Chief for information",
+            "markdown": "Ask the Konda Village \u25c0Chief\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Densuke\u25b7 for information",
+            "substeps": [
+                {
+                    "plaintext": "This step does not appear if Konda Densuke was spoken to during the previous step.",
+                    "markdown": "This step does not appear if Konda Densuke was spoken to during the previous step."
+                }
+            ]
+        },
+        {
+            "plaintext": "Look for clues 0/3",
+            "markdown": "Look for clues 0/3",
+            "substeps": [
+                {
+                    "plaintext": "Obtain  Cargo Bag Fished Out From Water from the bags washed down the gully southeast (obtainable after speaking to Futaba)",
+                    "markdown": "Obtain <img:cargo_bag_fished_out_from_water> \u25c0Cargo Bag Fished Out From Water\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cargo_Bag_Fished_Out_From_Water\u25b7 from the bags washed down the gully southeast (obtainable after speaking to Futaba)",
+                    "img": {
+                        "cargo_bag_fished_out_from_water": "Item_Sack.png"
+                    }
+                },
+                {
+                    "plaintext": "Defeat enemies and obtain  Ragged List of Goods from the cart outside of Konda Village's northeast entrance by the river",
+                    "markdown": "Defeat enemies and obtain <img:ragged_list_of_goods> \u25c0Ragged List of Goods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ragged_List_of_Goods\u25b7 from the cart outside of Konda Village's northeast entrance by the river",
+                    "img": {
+                        "ragged_list_of_goods": "Book_Thank-You_Letter.png"
+                    }
+                },
+                {
+                    "plaintext": "Obtain  Purse by the Dried-Up Well from the bucket behind the Konda well",
+                    "markdown": "Obtain <img:purse_by_the_dried-up_well> \u25c0Purse by the Dried-Up Well\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Purse_by_the_Dried-Up_Well\u25b7 from the bucket behind the Konda well",
+                    "img": {
+                        "purse_by_the_dried-up_well": "Item_Bag_of_Mora.png"
+                    },
+                    "substeps": [
+                        {
+                            "plaintext": "Hilichurl x2",
+                            "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x2",
+                            "img": {
+                                "hilichurl": "Hilichurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Wooden Shield Hilichurl Guard x1",
+                            "markdown": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 x1",
+                            "img": {
+                                "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Cut a deal with the Village Chief",
+            "markdown": "Cut a deal with the Village Chief"
+        },
+        {
+            "plaintext": "Look for the Chief's diary on the rooftop",
+            "markdown": "Look for the Chief's diary on the rooftop"
+        },
+        {
+            "plaintext": "Head over to the designated area recorded in the notebook",
+            "markdown": "Head over to the designated area recorded in the notebook",
+            "substeps": [
+                {
+                    "plaintext": "Defeat the enemies and obtain the Old Key",
+                    "markdown": "Defeat the enemies and obtain the \u25c0Old Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Key\u25b7",
+                    "substeps": [
+                        {
+                            "plaintext": "Nobushi: Jintouban x1",
+                            "markdown": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 x1",
+                            "img": {
+                                "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Nobushi: Hitsukeban x1",
+                            "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x1",
+                            "img": {
+                                "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Hydro Potioneer x1",
+                            "markdown": "<img:treasure_hoarders_hydro_potioneer> \u25c0Treasure Hoarders: Hydro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Hydro_Potioneer\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_hydro_potioneer": "Treasure_Hoarder_Hydro_Potioneer_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Pyro Potioneer x1",
+                            "markdown": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Treasure Hoarders: Scout x1",
+                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Descend into the well in Konda Village",
+            "markdown": "Descend into the well in Konda Village"
+        },
+        {
+            "plaintext": "Explore the bottom of the well",
+            "markdown": "Explore the bottom of the well"
+        },
+        {
+            "plaintext": "Talk to Hanachirusato",
+            "markdown": "Talk to \u25c0Hanachirusato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hanachirusato\u25b7"
+        }
+    ],
+    "dialogue": true
+}

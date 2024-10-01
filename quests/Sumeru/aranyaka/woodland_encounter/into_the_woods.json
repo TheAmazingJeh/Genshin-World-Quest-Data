@@ -1,0 +1,104 @@
+{
+    "type": "single",
+    "name": "Into the Woods",
+    "url": "https://genshin-impact.fandom.com/wiki/Into_the_Woods",
+    "starting_location": {
+        "plaintext": "Ardravi Valley , Sumeru",
+        "markdown": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Withering Zone that needs to be cleaned up",
+            "markdown": "Go to the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7 that needs to be cleaned up"
+        },
+        {
+            "plaintext": "Clean up the Withering Zone",
+            "markdown": "Clean up the Withering Zone"
+        },
+        {
+            "plaintext": "Go to the Withering Zone that needs to be cleaned up",
+            "markdown": "Go to the Withering Zone that needs to be cleaned up"
+        },
+        {
+            "plaintext": "Clean up the Withering Zone",
+            "markdown": "Clean up the Withering Zone"
+        },
+        {
+            "plaintext": "Go to the area where the Spinocrocodiles are active",
+            "markdown": "Go to the area where the \u25c0Spinocrocodiles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spinocrocodile\u25b7 are active"
+        },
+        {
+            "plaintext": "Defeat a certain number of Spinocrocodiles",
+            "markdown": "Defeat a certain number of Spinocrocodiles"
+        },
+        {
+            "plaintext": "Go to the camp",
+            "markdown": "Go to the camp"
+        },
+        {
+            "plaintext": "Collect firewood (0/3)",
+            "markdown": "Collect firewood (0/3)"
+        },
+        {
+            "plaintext": "Return to the camp and talk to Rana",
+            "markdown": "Return to the camp and talk to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Co-Op Mode is disabled from this step onwards.",
+                    "markdown": "\u25c0Co-Op Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Co-Op_Mode\u25b7 is disabled from this step onwards."
+                }
+            ]
+        },
+        {
+            "plaintext": "Light the campfire",
+            "markdown": "Light the campfire"
+        },
+        {
+            "plaintext": "Talk to Rana",
+            "markdown": "Talk to Rana"
+        },
+        {
+            "plaintext": "Take a rest or wait until the following day (06:00 \u2013 08:00)",
+            "markdown": "Take a rest or wait until the following day (06:00 \u2013 08:00)"
+        }
+    ],
+    "dialogue": true
+}

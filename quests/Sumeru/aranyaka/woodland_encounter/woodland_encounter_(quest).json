@@ -1,0 +1,30 @@
+{
+    "type": "single",
+    "name": "Woodland Encounter (Quest)",
+    "url": "https://genshin-impact.fandom.com/wiki/Woodland_Encounter_%28Quest%29",
+    "starting_location": {
+        "plaintext": "Avidya Forest , Sumeru",
+        "markdown": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Unlock the Statue of The Seven in Avidya Forest , Lokapala Jungle , Ardravi Valley , Vissudha Field , or Ashavan Realm",
+        "markdown": "Unlock the \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7 in \u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Vissudha Field\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vissudha_Field\u25b7 , or \u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7"
+    },
+    "rewards": null,
+    "steps": [
+        {
+            "plaintext": "Help the person who is being attacked",
+            "markdown": "Help the person who is being attacked",
+            "substeps": [
+                {
+                    "plaintext": "Stretchy Geo Fungus x3",
+                    "markdown": "<img:stretchy_geo_fungus> \u25c0Stretchy Geo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Geo_Fungus\u25b7 x3",
+                    "img": {
+                        "stretchy_geo_fungus": "Stretchy_Geo_Fungus_Icon.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

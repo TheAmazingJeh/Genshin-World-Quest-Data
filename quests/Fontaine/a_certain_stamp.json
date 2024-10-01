@@ -1,0 +1,59 @@
+{
+    "type": "single",
+    "name": "A Certain Stamp",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Certain_Stamp",
+    "starting_location": {
+        "plaintext": "Palais Mermonia , Fontaine",
+        "markdown": "\u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Wait until the following morning (08:00 \u2013 12:00)",
+            "markdown": "Wait until the following morning (08:00 \u2013 12:00)"
+        },
+        {
+            "plaintext": "Talk to Iaune",
+            "markdown": "Talk to \u25c0Iaune\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iaune\u25b7"
+        },
+        {
+            "plaintext": "Go get the stamp",
+            "markdown": "Go get the stamp"
+        },
+        {
+            "plaintext": "Process the document",
+            "markdown": "Process the document"
+        }
+    ],
+    "dialogue": true
+}

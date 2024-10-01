@@ -1,0 +1,49 @@
+{
+    "type": "single",
+    "name": "Sharpening the Axe Won't Hinder the Work",
+    "url": "https://genshin-impact.fandom.com/wiki/Sharpening_the_Axe_Won%27t_Hinder_the_Work",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Knights of Favonius",
+        "markdown": "Complete \u25c0Knights of Favonius\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Knights_of_Favonius_(Quest)\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Iron Chunk",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Iron_Chunk",
+            "Image": "Item_Iron_Chunk.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Wagner the blacksmith",
+            "markdown": "Talk to \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7 the blacksmith"
+        },
+        {
+            "plaintext": "Collect three Iron Chunks and give them to Wagner",
+            "markdown": "Collect three \u25c0Iron Chunks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iron_Chunk\u25b7 and give them to Wagner",
+            "substeps": [
+                {
+                    "plaintext": "He will mark the nearest iron deposit for you on your map.",
+                    "markdown": "He will mark the nearest iron deposit for you on your map."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Wagner the blacksmith",
+            "markdown": "Talk to Wagner the blacksmith",
+            "substeps": [
+                {
+                    "plaintext": "(You get to keep the Iron Chunks he had you fetch, unless you craft something.)",
+                    "markdown": "(You get to keep the Iron Chunks he had you fetch, unless you craft something.)"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,71 @@
+{
+    "type": "series",
+    "name": "Hyperion's Dirge",
+    "url": "https://genshin-impact.fandom.com/wiki/Hyperion%27s_Dirge",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Offerings of The Narrows",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Offerings_of_The_Narrows",
+            "Image": "Item_Offerings_of_The_Narrows.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Offerings of the Serpent's Heart",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Offerings_of_the_Serpent%27s_Heart",
+            "Image": "Item_Offerings_of_the_Serpent%27s_Heart.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Divine Bridle",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Divine_Bridle",
+            "Image": "Item_Divine_Bridle.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Narrow Inquiry",
+            "markdown": "\u25c0Narrow Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narrow_Inquiry\u25b7"
+        },
+        {
+            "plaintext": "Temple Inquiry",
+            "markdown": "\u25c0Temple Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_Inquiry\u25b7"
+        },
+        {
+            "plaintext": "Serpent's Heart Inquiry",
+            "markdown": "\u25c0Serpent's Heart Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serpent%27s_Heart_Inquiry\u25b7"
+        }
+    ]
+}

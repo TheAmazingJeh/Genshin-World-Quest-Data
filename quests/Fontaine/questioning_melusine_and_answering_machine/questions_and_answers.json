@@ -1,0 +1,359 @@
+{
+    "type": "single",
+    "name": "Questions and Answers",
+    "url": "https://genshin-impact.fandom.com/wiki/Questions_and_Answers",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Quartier Narbonnais , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Quartier Narbonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Narbonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Wait until the following morning (08:00)",
+            "markdown": "Wait until the following morning (08:00)"
+        },
+        {
+            "plaintext": "Go to The Steambird",
+            "markdown": "Go to \u25c0The Steambird\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Steambird\u25b7"
+        },
+        {
+            "plaintext": "Talk to Editor-in-Chief Euphrasie",
+            "markdown": "Talk to Editor-in-Chief \u25c0Euphrasie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Euphrasie\u25b7"
+        },
+        {
+            "plaintext": "Look for the newspaper's \"item\"",
+            "markdown": "Look for the newspaper's \"item\""
+        },
+        {
+            "plaintext": "Talk to Kevin",
+            "markdown": "Talk to \u25c0Kevin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kevin\u25b7"
+        },
+        {
+            "plaintext": "Give useful items to the puppy to have a sniff",
+            "markdown": "Give useful items to the puppy to have a sniff",
+            "substeps": [
+                {
+                    "plaintext": "Submit \"Threatening Letter\" or \"Another Threatening Letter.\"",
+                    "markdown": "Submit \"Threatening Letter\" or \"Another Threatening Letter.\""
+                }
+            ]
+        },
+        {
+            "plaintext": "Open the chest",
+            "markdown": "Open the chest"
+        },
+        {
+            "plaintext": "Go to the next location",
+            "markdown": "Go to the next location"
+        },
+        {
+            "plaintext": "Make the three stop attacking each other",
+            "markdown": "Make the three stop attacking each other",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Pugilist x1",
+                    "markdown": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to everyone",
+            "markdown": "Talk to everyone"
+        },
+        {
+            "plaintext": "Open the chest",
+            "markdown": "Open the chest"
+        },
+        {
+            "plaintext": "Talk to Rocher",
+            "markdown": "Talk to \u25c0Rocher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rocher\u25b7"
+        },
+        {
+            "plaintext": "Go to the next location",
+            "markdown": "Go to the next location"
+        },
+        {
+            "plaintext": "Defeat the Fatui",
+            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Talochard",
+            "markdown": "Talk to \u25c0Talochard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Talochard\u25b7"
+        },
+        {
+            "plaintext": "Chase down the Fatuus Baulande",
+            "markdown": "Chase down the Fatuus \u25c0Baulande\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Baulard\u25b7"
+        },
+        {
+            "plaintext": "Return to The Steambird",
+            "markdown": "Return to The Steambird"
+        },
+        {
+            "plaintext": "Talk to Editor-in-Chief Euphrasie",
+            "markdown": "Talk to Editor-in-Chief Euphrasie",
+            "substeps": [
+                {
+                    "plaintext": "Submit \"Old Clockwork Locket\"",
+                    "markdown": "Submit \"Old Clockwork Locket\""
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to Doctor Mosso's base",
+            "markdown": "Go to \u25c0Doctor Mosso\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mosso_Lombroso\u25b7's base"
+        },
+        {
+            "plaintext": "Go to Doctor Mosso's base from underwater",
+            "markdown": "Go to Doctor Mosso's base from underwater"
+        },
+        {
+            "plaintext": "Enter Doctor Mosso's base",
+            "markdown": "Enter Doctor Mosso's base"
+        },
+        {
+            "plaintext": "Look for research materials in the base",
+            "markdown": "Look for research materials in the base"
+        },
+        {
+            "plaintext": "Repel the Fatui that suddenly appeared",
+            "markdown": "Repel the Fatui that suddenly appeared",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
+                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Repel the Fatui that suddenly appeared",
+            "markdown": "Repel the Fatui that suddenly appeared",
+            "substeps": [
+                {
+                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x2",
+                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x2",
+                    "img": {
+                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Pyro Agent x2",
+                    "markdown": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 x2",
+                    "img": {
+                        "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Use the cannon to repel the Fatui",
+            "markdown": "Use the cannon to repel the Fatui",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x2",
+                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x2",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x2",
+                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x2",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 4:",
+                    "markdown": "Wave 4:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 5:",
+                    "markdown": "Wave 5:",
+                    "substeps": [
+                        {
+                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Speak with the mysterious person who appeared",
+            "markdown": "Speak with the mysterious person who appeared"
+        },
+        {
+            "plaintext": "Get Curve's core",
+            "markdown": "Get \u25c0Curve\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Curve%22\u25b7's core"
+        },
+        {
+            "plaintext": "Place Curve's core into the control panel",
+            "markdown": "Place Curve's core into the control panel"
+        },
+        {
+            "plaintext": "Head to the safe room to shut off the self-destruct system",
+            "markdown": "Head to the safe room to shut off the self-destruct system"
+        },
+        {
+            "plaintext": "Shut off the self-destruct system",
+            "markdown": "Shut off the self-destruct system"
+        },
+        {
+            "plaintext": "Go with the flow...",
+            "markdown": "Go with the flow..."
+        },
+        {
+            "plaintext": "Talk to Talochard",
+            "markdown": "Talk to Talochard",
+            "substeps": [
+                {
+                    "plaintext": "The player is immediately teleported to Hotel Debord.",
+                    "markdown": "The player is immediately teleported to \u25c0Hotel Debord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hotel_Debord\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Meet Editor-in-Chief Euphrasie in the city",
+            "markdown": "Meet Editor-in-Chief Euphrasie in the city"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,118 @@
+{
+    "type": "single",
+    "name": "Chasm Spelunkers",
+    "url": "https://genshin-impact.fandom.com/wiki/Chasm_Spelunkers",
+    "starting_location": {
+        "plaintext": "The Chasm's Maw , Liyue",
+        "markdown": "\u25c0The Chasm's Maw\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm%27s_Maw\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Lumenstone Ore",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Lumenstone_Ore",
+            "Image": "Item_Lumenstone_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter the mines of The Chasm",
+            "markdown": "Enter the mines of \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "The quest marker is located at the elevator, though players can jump into The Chasm's Maw directly.",
+                    "markdown": "The quest marker is located at the elevator, though players can jump into \u25c0The Chasm's Maw\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm%27s_Maw\u25b7 directly."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the designated location to investigate",
+            "markdown": "Go to the designated location to investigate"
+        },
+        {
+            "plaintext": "Investigate the Lumenspar near the camp",
+            "markdown": "Investigate the \u25c0Lumenspar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lumenspar\u25b7 near the camp"
+        },
+        {
+            "plaintext": "Look for clues as to Uncle He's whereabouts (0/3)",
+            "markdown": "Look for clues as to Uncle He's whereabouts (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Have to fight some Treasure Hoarders and a Geovishap.",
+                    "markdown": "Have to fight some \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarder\u25b7 and a \u25c0Geovishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Tell Jinwu about what you've discovered of Uncle He's whereabouts",
+            "markdown": "Tell \u25c0Jinwu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinwu\u25b7 about what you've discovered of Uncle He's whereabouts"
+        },
+        {
+            "plaintext": "Go to the exploration team's camp",
+            "markdown": "Go to the exploration team's camp",
+            "substeps": [
+                {
+                    "plaintext": "Completion of this step reveals the map areas for Ad-Hoc Main Tunnel and The Chasm: Main Mining Area.",
+                    "markdown": "Completion of this step reveals the map areas for \u25c0Ad-Hoc Main Tunnel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ad-Hoc_Main_Tunnel\u25b7 and \u25c0The Chasm: Main Mining Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Main_Mining_Area\u25b7."
+                },
+                {
+                    "plaintext": "Completion of this step also unlocks Enhance the Lumenstone Adjuvant.",
+                    "markdown": "Completion of this step also unlocks \u25c0Enhance the Lumenstone Adjuvant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enhance_the_Lumenstone_Adjuvant\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Look for Zhiqiong, who went off on her own",
+            "markdown": "Look for \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7, who went off on her own"
+        },
+        {
+            "plaintext": "Talk to Zhiqiong",
+            "markdown": "Talk to Zhiqiong"
+        },
+        {
+            "plaintext": "Complete Zhiqiong's commission (0/2)",
+            "markdown": "Complete Zhiqiong's commission (0/2)",
+            "substeps": [
+                {
+                    "plaintext": "Complete both First Miasmic Contact and Meeting New People... and Foiling Some Bandits quests in any order.",
+                    "markdown": "Complete both \u25c0First Miasmic Contact\u25b6\u25c1https://genshin-impact.fandom.com/wiki/First_Miasmic_Contact\u25b7 and \u25c0Meeting New People... and Foiling Some Bandits\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Meeting_New_People..._and_Foiling_Some_Bandits\u25b7 quests in any order."
+                }
+            ]
+        },
+        {
+            "plaintext": "Return to the exploration team's camp",
+            "markdown": "Return to the exploration team's camp"
+        }
+    ],
+    "dialogue": true
+}

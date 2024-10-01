@@ -1,0 +1,57 @@
+{
+    "type": "single",
+    "name": "Time Waits For No Man",
+    "url": "https://genshin-impact.fandom.com/wiki/Time_Waits_For_No_Man",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Song of the Dragon and Freedom",
+        "markdown": "Complete \u25c0Song of the Dragon and Freedom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Song_of_the_Dragon_and_Freedom\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "2,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Guide to Freedom",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Guide_to_Freedom",
+            "Image": "Item_Guide_to_Freedom.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Start the quest by talking to Cyrus near the Adventurers' Guild Headquarters or Angel's Share in Mondstadt.",
+            "markdown": "Start the quest by talking to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7 near the \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7 Headquarters or \u25c0Angel's Share\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Angel%27s_Share\u25b7 in Mondstadt."
+        },
+        {
+            "plaintext": "Check the suspicious location and eliminate any threats (0/3)",
+            "markdown": "Check the suspicious location and eliminate any threats (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Use the navigate button in the quest menu to find the areas",
+                    "markdown": "Use the navigate button in the quest menu to find the areas"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Cyrus",
+            "markdown": "Talk to Cyrus"
+        }
+    ],
+    "dialogue": true
+}

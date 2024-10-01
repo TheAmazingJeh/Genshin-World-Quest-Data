@@ -1,0 +1,44 @@
+{
+    "type": "single",
+    "name": "A Teapot to Call Home: Part II",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Teapot_to_Call_Home%3A_Part_II",
+    "starting_location": {
+        "plaintext": "Serenitea Pot",
+        "markdown": "\u25c0Serenitea Pot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serenitea_Pot\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete A Teapot to Call Home: Part I",
+        "markdown": "Complete \u25c0A Teapot to Call Home: Part I\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Teapot_to_Call_Home:_Part_I\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter the Serenitea Pot",
+            "markdown": "Enter the Serenitea Pot"
+        },
+        {
+            "plaintext": "Explore the area",
+            "markdown": "Explore the area"
+        },
+        {
+            "plaintext": "Talk to Tubby",
+            "markdown": "Talk to \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7"
+        }
+    ],
+    "dialogue": true
+}

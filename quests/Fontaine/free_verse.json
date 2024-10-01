@@ -1,0 +1,121 @@
+{
+    "type": "single",
+    "name": "Free Verse",
+    "url": "https://genshin-impact.fandom.com/wiki/Free_Verse",
+    "starting_location": {
+        "plaintext": "Erinnyes Forest , Fontaine",
+        "markdown": "\u25c0Erinnyes Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Erinnyes_Forest\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Try to understand what Don Quijano and Nana are saying",
+            "markdown": "Try to understand what \u25c0Don Quijano\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Don_Quijano\u25b7 and \u25c0Nana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nana\u25b7 are saying"
+        },
+        {
+            "plaintext": "Talk to Penny",
+            "markdown": "Talk to Penny"
+        },
+        {
+            "plaintext": "Go underwater and see the \"children\"",
+            "markdown": "Go underwater and see the \"children\""
+        },
+        {
+            "plaintext": "Tell Penny about the situation",
+            "markdown": "Tell Penny about the situation"
+        },
+        {
+            "plaintext": "Discuss the situation with Don Quijano",
+            "markdown": "Discuss the situation with Don Quijano"
+        },
+        {
+            "plaintext": "Follow the \"children\"",
+            "markdown": "Follow the \"children\""
+        },
+        {
+            "plaintext": "Save the troublemaker",
+            "markdown": "Save the troublemaker"
+        },
+        {
+            "plaintext": "Follow the \"children\"",
+            "markdown": "Follow the \"children\""
+        },
+        {
+            "plaintext": "Save \"Bighead\"",
+            "markdown": "Save \"Bighead\""
+        },
+        {
+            "plaintext": "Follow the \"children\"",
+            "markdown": "Follow the \"children\""
+        },
+        {
+            "plaintext": "Capture \"Lil' Rascal\"",
+            "markdown": "Capture \"Lil' Rascal\""
+        },
+        {
+            "plaintext": "Follow the \"children\"",
+            "markdown": "Follow the \"children\""
+        },
+        {
+            "plaintext": "Save \"Scaredy-Cat\"",
+            "markdown": "Save \"Scaredy-Cat\""
+        },
+        {
+            "plaintext": "Return to Penny's side",
+            "markdown": "Return to Penny's side"
+        },
+        {
+            "plaintext": "Enter the wave",
+            "markdown": "Enter the wave"
+        },
+        {
+            "plaintext": "Talk to Penny",
+            "markdown": "Talk to Penny"
+        }
+    ],
+    "dialogue": true
+}

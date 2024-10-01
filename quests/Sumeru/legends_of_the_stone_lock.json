@@ -1,0 +1,71 @@
+{
+    "type": "single",
+    "name": "Legends of the Stone Lock",
+    "url": "https://genshin-impact.fandom.com/wiki/Legends_of_the_Stone_Lock",
+    "starting_location": {
+        "plaintext": "Ashavan Realm , Sumeru",
+        "markdown": "\u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Clear all 16 Stone Pillar Seals",
+        "markdown": "Clear all 16 \u25c0Stone Pillar Seals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_Pillar_Seal\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the cavern Aradashan mentioned",
+            "markdown": "Go to the cavern Aradashan mentioned"
+        },
+        {
+            "plaintext": "Go to the seal's location at the bottom of the lake",
+            "markdown": "Go to the seal's location at the bottom of the lake"
+        },
+        {
+            "plaintext": "Challenge the Bulky Iron Chunk",
+            "markdown": "Challenge the Bulky Iron Chunk",
+            "substeps": [
+                {
+                    "plaintext": "Perpetual Mechanical Array",
+                    "markdown": "<img:perpetual_mechanical_array> \u25c0Perpetual Mechanical Array\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Perpetual_Mechanical_Array\u25b7",
+                    "img": {
+                        "perpetual_mechanical_array": "Perpetual_Mechanical_Array_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Aradashan",
+            "markdown": "Talk to \u25c0Aradashan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aradashan\u25b7"
+        }
+    ],
+    "dialogue": true
+}

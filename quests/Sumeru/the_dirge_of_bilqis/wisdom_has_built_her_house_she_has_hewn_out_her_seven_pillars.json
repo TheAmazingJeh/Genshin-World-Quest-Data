@@ -1,0 +1,106 @@
+{
+    "type": "single",
+    "name": "Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars",
+    "url": "https://genshin-impact.fandom.com/wiki/Wisdom_Has_Built_Her_House%2C_She_Has_Hewn_Out_Her_Seven_Pillars",
+    "starting_location": {
+        "plaintext": "Treasures Street , Sumeru",
+        "markdown": "\u25c0Treasures Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_Street\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Katheryne seems to be looking for you...",
+            "markdown": "\u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7 seems to be looking for you..."
+        },
+        {
+            "plaintext": "Go to the Tanit tribe and find Jeht",
+            "markdown": "Go to the \u25c0Tanit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit\u25b7 tribe and find \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7"
+        },
+        {
+            "plaintext": "Talk to the Tribe Scout",
+            "markdown": "Talk to the Tribe Scout"
+        },
+        {
+            "plaintext": "Talk to Aderfi",
+            "markdown": "Talk to \u25c0Aderfi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aderfi\u25b7"
+        },
+        {
+            "plaintext": "Talk to Masseira",
+            "markdown": "Talk to \u25c0Masseira\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Masseira\u25b7"
+        },
+        {
+            "plaintext": "Talk to Yuften",
+            "markdown": "Talk to \u25c0Yuften\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yuften\u25b7"
+        },
+        {
+            "plaintext": "Meet with the tribe's matriarch",
+            "markdown": "Meet with the tribe's matriarch"
+        },
+        {
+            "plaintext": "Talk to Babel",
+            "markdown": "Talk to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
+        },
+        {
+            "plaintext": "Help Yuften together with Jeht",
+            "markdown": "Help Yuften together with Jeht"
+        },
+        {
+            "plaintext": "Feed the crocodiles together with Jeht",
+            "markdown": "Feed the crocodiles together with Jeht"
+        },
+        {
+            "plaintext": "Report back to Yuften",
+            "markdown": "Report back to Yuften"
+        },
+        {
+            "plaintext": "Give the goods to Aderfi",
+            "markdown": "Give the goods to Aderfi"
+        },
+        {
+            "plaintext": "Go to Jeht's dwelling",
+            "markdown": "Go to Jeht's dwelling"
+        },
+        {
+            "plaintext": "Talk to Jeht",
+            "markdown": "Talk to Jeht"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,78 @@
+{
+    "type": "series",
+    "name": "Vimana Agama",
+    "url": "https://genshin-impact.fandom.com/wiki/Vimana_Agama",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,650",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "210",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "170,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Stories of You and the Aranara",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Stories_of_You_and_the_Aranara",
+            "Image": "Item_Stories_of_You_and_the_Aranara.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "17",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Vimana Agama: First Chapter",
+            "markdown": "\u25c0Vimana Agama: First Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimana_Agama:_First_Chapter\u25b7"
+        },
+        {
+            "plaintext": "Vimana Agama: Royinjan's Chapter",
+            "markdown": "\u25c0Vimana Agama: Royinjan's Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimana_Agama:_Royinjan%27s_Chapter\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Royinjan's Chapter: Linga",
+                    "markdown": "\u25c0Royinjan's Chapter: Linga\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter:_Linga\u25b7"
+                },
+                {
+                    "plaintext": "Royinjan's Chapter: Yoni",
+                    "markdown": "\u25c0Royinjan's Chapter: Yoni\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter:_Yoni\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Vimana Agama: Jazari's Chapter",
+            "markdown": "\u25c0Vimana Agama: Jazari's Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimana_Agama:_Jazari%27s_Chapter\u25b7"
+        },
+        {
+            "plaintext": "Vimana Agama: Dev Delver Chapter",
+            "markdown": "\u25c0Vimana Agama: Dev Delver Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimana_Agama:_Dev_Delver_Chapter\u25b7"
+        }
+    ]
+}

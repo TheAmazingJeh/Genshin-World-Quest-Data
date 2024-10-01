@@ -1,0 +1,81 @@
+{
+    "type": "series",
+    "name": "Neko Is a Cat",
+    "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "190",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "145,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Recipe: Invigorating Kitty Meal",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Invigorating_Kitty_Meal",
+            "Image": "Item_Invigorating_Kitty_Meal.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Neko Is a Cat: Shrine Cleanup",
+            "markdown": "\u25c0Neko Is a Cat: Shrine Cleanup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Cleanup\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: Wooden Shelf",
+            "markdown": "\u25c0Neko Is a Cat: Wooden Shelf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Wooden_Shelf\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: The Children",
+            "markdown": "\u25c0Neko Is a Cat: The Children\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_The_Children\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: Shrine Recipe",
+            "markdown": "\u25c0Neko Is a Cat: Shrine Recipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Recipe\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: Cat and Stone",
+            "markdown": "\u25c0Neko Is a Cat: Cat and Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Cat_and_Stone\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: Stone Human's Troubles",
+            "markdown": "\u25c0Neko Is a Cat: Stone Human's Troubles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Stone_Human%27s_Troubles\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: Shrine Canteen",
+            "markdown": "\u25c0Neko Is a Cat: Shrine Canteen\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Canteen\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: Ding-a-Ling Metal Ball",
+            "markdown": "\u25c0Neko Is a Cat: Ding-a-Ling Metal Ball\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Ding-a-Ling_Metal_Ball\u25b7"
+        },
+        {
+            "plaintext": "Neko Is a Cat: A \"Good Turn\" Comes Late",
+            "markdown": "\u25c0Neko Is a Cat: A \"Good Turn\" Comes Late\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_A_%22Good_Turn%22_Comes_Late\u25b7"
+        }
+    ]
+}

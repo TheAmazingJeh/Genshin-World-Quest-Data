@@ -1,0 +1,85 @@
+{
+    "type": "single",
+    "name": "The Saga of Mr. Forgetful",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Saga_of_Mr._Forgetful",
+    "starting_location": {
+        "plaintext": "Tsurumi Island , Inazuma",
+        "markdown": "\u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Octave of the Maushiro",
+        "markdown": "Complete \u25c0Octave of the Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Octave_of_the_Maushiro\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Blueprint: Replica Mural: Lone Peak in a Sea of Fog",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Blueprint:_Replica_Mural:_Lone_Peak_in_a_Sea_of_Fog",
+            "Image": "Item_Replica_Mural_Lone_Peak_in_a_Sea_of_Fog.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Blueprint: Replica Mural: Ancient Ritual in a Sea of Fog",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Blueprint:_Replica_Mural:_Ancient_Ritual_in_a_Sea_of_Fog",
+            "Image": "Item_Replica_Mural_Ancient_Ritual_in_a_Sea_of_Fog.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Give Roald the  Fluorescent Fungus x10",
+            "markdown": "Give Roald the <img:fluorescent_fungus> \u25c0Fluorescent Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus\u25b7 x10",
+            "img": {
+                "fluorescent_fungus": "Item_Fluorescent_Fungus.png"
+            }
+        },
+        {
+            "plaintext": "Take a photo of the ruin murals (0/6)",
+            "markdown": "Take a photo of the ruin murals (0/6)",
+            "substeps": [
+                {
+                    "plaintext": "The murals are located in the underground ruins of Shirikoro Peak. See Gallery below for details.",
+                    "markdown": "The murals are located in the underground ruins of \u25c0Shirikoro Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shirikoro_Peak\u25b7. See Gallery below for details."
+                },
+                {
+                    "plaintext": "The pictures can be taken with either Photo Mode, or with the Kamera or Special Kamera. The photo does not need to be saved to count for the quest.",
+                    "markdown": "The pictures can be taken with either \u25c0Photo Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Photo_Mode\u25b7, or with the \u25c0Kamera\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamera\u25b7 or \u25c0Special Kamera\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Kamera\u25b7. The photo does not need to be saved to count for the quest."
+                }
+            ]
+        },
+        {
+            "plaintext": "Return and look for Roald",
+            "markdown": "Return and look for Roald"
+        }
+    ],
+    "dialogue": true
+}

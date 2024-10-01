@@ -1,0 +1,247 @@
+{
+    "type": "single",
+    "name": "Road to the Singularity",
+    "url": "https://genshin-impact.fandom.com/wiki/Road_to_the_Singularity",
+    "starting_location": {
+        "plaintext": "Kuisel's Clockwork Workshop , Fontaine Research Institute of Kinetic Energy Engineering Region , Fontaine",
+        "markdown": "\u25c0Kuisel's Clockwork Workshop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kuisel%27s_Clockwork_Workshop\u25b7 , \u25c0Fontaine Research Institute of Kinetic Energy Engineering Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute_of_Kinetic_Energy_Engineering_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Explore the mysterious building",
+            "markdown": "Explore the mysterious building"
+        },
+        {
+            "plaintext": "Talk to the trapped person",
+            "markdown": "Talk to the trapped person"
+        },
+        {
+            "plaintext": "Operate the Energy Transfer Terminal to open the cell",
+            "markdown": "Operate the \u25c0Energy Transfer Terminal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Energy_Transfer_Terminal\u25b7 to open the cell"
+        },
+        {
+            "plaintext": "Talk to Kuisel",
+            "markdown": "Talk to \u25c0Kuisel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kuisel\u25b7"
+        },
+        {
+            "plaintext": "Work with Paimon to open the cell",
+            "markdown": "Work with \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 to open the cell"
+        },
+        {
+            "plaintext": "Open the door that Kuisel exited from",
+            "markdown": "Open the door that Kuisel exited from"
+        },
+        {
+            "plaintext": "Explore up ahead",
+            "markdown": "Explore up ahead"
+        },
+        {
+            "plaintext": "Find a way to open the sealed door",
+            "markdown": "Find a way to open the sealed door"
+        },
+        {
+            "plaintext": "Shut off all valves",
+            "markdown": "Shut off all valves"
+        },
+        {
+            "plaintext": "Open the passage",
+            "markdown": "Open the passage"
+        },
+        {
+            "plaintext": "Defeat the clockwork meka",
+            "markdown": "Defeat the clockwork meka",
+            "substeps": [
+                {
+                    "plaintext": "Assault Specialist Mek - Ousia x1",
+                    "markdown": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 x1",
+                    "img": {
+                        "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Area Alert Mek - Ousia x1 (optional)",
+                    "markdown": "<img:area_alert_mek_-_ousia> \u25c0Area Alert Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Area_Alert_Mek_-_Ousia\u25b7 x1 (optional)",
+                    "img": {
+                        "area_alert_mek_-_ousia": "Area_Alert_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Take the lift and continue deeper",
+            "markdown": "Take the lift and continue deeper"
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring"
+        },
+        {
+            "plaintext": "Find a way to open the sealed door",
+            "markdown": "Find a way to open the sealed door"
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring"
+        },
+        {
+            "plaintext": "Defeat the clockwork meka",
+            "markdown": "Defeat the clockwork meka",
+            "substeps": [
+                {
+                    "plaintext": "New-Type Purification Mek O-90 x1 (Pneuma)",
+                    "markdown": "<img:annihilation_specialist_mek> \u25c0New-Type Purification Mek O-90\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek\u25b7 x1 (\u25c0Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pneuma\u25b7)",
+                    "img": {
+                        "annihilation_specialist_mek": "Annihilation_Specialist_Mek_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "New-Type Purification Mek I-330 x1 (Pneuma)",
+                    "markdown": "<img:annihilation_specialist_mek> \u25c0New-Type Purification Mek I-330\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek\u25b7 x1 (\u25c0Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pneuma\u25b7)",
+                    "img": {
+                        "annihilation_specialist_mek": "Annihilation_Specialist_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Find a way to open the sealed door",
+            "markdown": "Find a way to open the sealed door"
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring"
+        },
+        {
+            "plaintext": "Open the passage",
+            "markdown": "Open the passage"
+        },
+        {
+            "plaintext": "Defeat the clockwork meka",
+            "markdown": "Defeat the clockwork meka",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Assault Specialist Mek - Ousia x1",
+                            "markdown": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Suppression Specialist Mek - Ousia x1",
+                            "markdown": "<img:suppression_specialist_mek_-_ousia> \u25c0Suppression Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Ousia\u25b7 x1",
+                            "img": {
+                                "suppression_specialist_mek_-_ousia": "Suppression_Specialist_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Assault Specialist Mek - Pneuma x1",
+                            "markdown": "<img:assault_specialist_mek_-_pneuma> \u25c0Assault Specialist Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Pneuma\u25b7 x1",
+                            "img": {
+                                "assault_specialist_mek_-_pneuma": "Assault_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Suppression Specialist Mek - Pneuma x1",
+                            "markdown": "<img:suppression_specialist_mek_-_pneuma> \u25c0Suppression Specialist Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Pneuma\u25b7 x1",
+                            "img": {
+                                "suppression_specialist_mek_-_pneuma": "Suppression_Specialist_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Take the lift and continue deeper",
+            "markdown": "Take the lift and continue deeper"
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring"
+        },
+        {
+            "plaintext": "Talk to Kuisel",
+            "markdown": "Talk to Kuisel"
+        },
+        {
+            "plaintext": "Defeat Coutrot",
+            "markdown": "Defeat \u25c0Coutrot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coutrot\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Coutrot \u2014 \"Kuisel\"'s Other Side x1",
+                    "markdown": "<img:treasure_hoarders_marksman> \u25c0Coutrot \u2014 \"Kuisel\"'s Other Side\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Assault Specialist Mek - Ousia x2 (optional)",
+                    "markdown": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 x2 (optional)",
+                    "img": {
+                        "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Bricole",
+            "markdown": "Talk to \u25c0Bricole\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bricole\u25b7"
+        }
+    ],
+    "dialogue": true
+}

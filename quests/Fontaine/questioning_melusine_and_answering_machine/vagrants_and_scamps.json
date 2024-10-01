@@ -1,0 +1,190 @@
+{
+    "type": "single",
+    "name": "Vagrants and Scamps",
+    "url": "https://genshin-impact.fandom.com/wiki/Vagrants_and_Scamps",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Quartier Narbonnais , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Quartier Narbonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Narbonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete A Fontainian Message",
+        "markdown": "Complete \u25c0A Fontainian Message\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Fontainian_Message\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to The Steambird",
+            "markdown": "Go to \u25c0The Steambird\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Steambird\u25b7"
+        },
+        {
+            "plaintext": "Make some inquiries about what happened",
+            "markdown": "Make some inquiries about what happened"
+        },
+        {
+            "plaintext": "Look for clues at the scene",
+            "markdown": "Look for clues at the scene",
+            "substeps": [
+                {
+                    "plaintext": "Investigate 5 spots for clues.",
+                    "markdown": "Investigate 5 spots for clues."
+                },
+                {
+                    "plaintext": "Select the correct clue for the following questions:",
+                    "markdown": "Select the correct clue for the following questions:",
+                    "substeps": [
+                        {
+                            "plaintext": "How many people are associated with the disappearance of Sir Arthur? \u2014 Messy Footprints",
+                            "markdown": "How many people are associated with the disappearance of \u25c0Sir Arthur\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sir_Arthur\u25b7? \u2014 Messy Footprints"
+                        },
+                        {
+                            "plaintext": "Where can the suspect be found? \u2014 Resident's Testimony (II)",
+                            "markdown": "Where can the suspect be found? \u2014 Resident's Testimony (II)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the pier",
+            "markdown": "Go to the pier"
+        },
+        {
+            "plaintext": "Beat back the unknown red-haired person",
+            "markdown": "Beat back the \u25c0unknown red-haired person\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Intrepid_Valberry%22\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Pugilist x1",
+                    "markdown": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Marksman x1",
+                    "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Scout x1",
+                    "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Search for traces of the vagrant Rocher",
+            "markdown": "Search for traces of the vagrant \u25c0Rocher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rocher\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Break the box with an investigation point near the conch shell to proceed.",
+                    "markdown": "Break the box with an investigation point near the conch shell to proceed."
+                }
+            ]
+        },
+        {
+            "plaintext": "Find a way to break Rocher's argument",
+            "markdown": "Find a way to break Rocher's argument",
+            "substeps": [
+                {
+                    "plaintext": "Select \"Dirty, Empty Wine Bottle\"",
+                    "markdown": "Select \"Dirty, Empty Wine Bottle\""
+                }
+            ]
+        },
+        {
+            "plaintext": "Let the puppy sniff the clues",
+            "markdown": "Let the \u25c0puppy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lombroso\u25b7 sniff the clues",
+            "substeps": [
+                {
+                    "plaintext": "Select \"Simple Button\"",
+                    "markdown": "Select \"Simple Button\""
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow the puppy...",
+            "markdown": "Follow the puppy..."
+        },
+        {
+            "plaintext": "Go to the house ahead",
+            "markdown": "Go to the house ahead"
+        },
+        {
+            "plaintext": "Go to Kevin to inquire about the blade",
+            "markdown": "Go to \u25c0Kevin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kevin\u25b7 to inquire about the blade"
+        },
+        {
+            "plaintext": "Defeat the monsters near Kevin",
+            "markdown": "Defeat the monsters near Kevin",
+            "substeps": [
+                {
+                    "plaintext": "Large Hydro Slime x1",
+                    "markdown": "<img:large_hydro_slime> \u25c0Large Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Hydro_Slime\u25b7 x1",
+                    "img": {
+                        "large_hydro_slime": "Large_Hydro_Slime_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hydro Slime x2",
+                    "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x2",
+                    "img": {
+                        "hydro_slime": "Hydro_Slime_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to where Kevin threw away the blade",
+            "markdown": "Go to where Kevin threw away the blade"
+        },
+        {
+            "plaintext": "Go underwater to search for the blade",
+            "markdown": "Go underwater to search for the blade"
+        },
+        {
+            "plaintext": "Return to shore",
+            "markdown": "Return to shore"
+        }
+    ],
+    "dialogue": true
+}

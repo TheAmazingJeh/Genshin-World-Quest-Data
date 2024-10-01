@@ -1,0 +1,170 @@
+{
+    "type": "single",
+    "name": "The Red and the Black",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Red_and_the_Black",
+    "starting_location": {
+        "plaintext": "Palais Mermonia , Fontaine",
+        "markdown": "\u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Wait until the following morning (08:00)",
+            "markdown": "Wait until the following morning (08:00)"
+        },
+        {
+            "plaintext": "Go to the Palais Mermonia to meet with Talochard",
+            "markdown": "Go to the \u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7 to meet with \u25c0Talochard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Talochard\u25b7"
+        },
+        {
+            "plaintext": "Talk to Talochard",
+            "markdown": "Talk to Talochard"
+        },
+        {
+            "plaintext": "Go to the base of the \"Elegant Tableware Confrerie\"",
+            "markdown": "Go to the base of the \"Elegant Tableware Confrerie\""
+        },
+        {
+            "plaintext": "Talk to Talochard",
+            "markdown": "Talk to Talochard"
+        },
+        {
+            "plaintext": "Covertly find a way to distract the crowd",
+            "markdown": "Covertly find a way to distract the crowd",
+            "substeps": [
+                {
+                    "plaintext": "Climb the side of the ship and investigate the cooking pot.",
+                    "markdown": "Climb the side of the ship and investigate the cooking pot."
+                }
+            ]
+        },
+        {
+            "plaintext": "Add \"seasoning\" to the pot",
+            "markdown": "Add \"seasoning\" to the pot"
+        },
+        {
+            "plaintext": "Talk to Talochard",
+            "markdown": "Talk to Talochard"
+        },
+        {
+            "plaintext": "Search for evidence of the crime",
+            "markdown": "Search for evidence of the crime",
+            "substeps": [
+                {
+                    "plaintext": "Investigate all three spots to proceed.",
+                    "markdown": "Investigate all three spots to proceed."
+                }
+            ]
+        },
+        {
+            "plaintext": "Confront the members of the \"Graceful Water Goblin Group\"",
+            "markdown": "Confront the members of the \"Graceful Water Goblin Group\""
+        },
+        {
+            "plaintext": "Calm them down",
+            "markdown": "Calm them down",
+            "substeps": [
+                {
+                    "plaintext": "Treasure Hoarders: Pugilist x2",
+                    "markdown": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x2",
+                    "img": {
+                        "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Marksman x1",
+                    "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Treasure Hoarders: Hydro Potioneer x1",
+                    "markdown": "<img:treasure_hoarders_hydro_potioneer> \u25c0Treasure Hoarders: Hydro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Hydro_Potioneer\u25b7 x1",
+                    "img": {
+                        "treasure_hoarders_hydro_potioneer": "Treasure_Hoarder_Hydro_Potioneer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the now-calm crowd",
+            "markdown": "Talk to the now-calm crowd"
+        },
+        {
+            "plaintext": "Go to the Fleuve Cendre",
+            "markdown": "Go to the \u25c0Fleuve Cendre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fleuve_Cendre\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Players are automatically teleported to Fleuve Cendre.",
+                    "markdown": "Players are automatically teleported to Fleuve Cendre."
+                }
+            ]
+        },
+        {
+            "plaintext": "Find the fellow wearing a Fatui uniform",
+            "markdown": "Find the fellow wearing a \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7 uniform"
+        },
+        {
+            "plaintext": "Pursue the Fatui",
+            "markdown": "Pursue the Fatui"
+        },
+        {
+            "plaintext": "Talk to the Fatui",
+            "markdown": "Talk to the Fatui"
+        },
+        {
+            "plaintext": "Wait until night (19:00)",
+            "markdown": "Wait until night (19:00)"
+        },
+        {
+            "plaintext": "Go to Hotel Debord at night",
+            "markdown": "Go to \u25c0Hotel Debord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hotel_Debord\u25b7 at night"
+        },
+        {
+            "plaintext": "Go to The Steambird",
+            "markdown": "Go to \u25c0The Steambird\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Steambird\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Select in the order of Rocher, Baulard, \"Intrepid Valberry,\" and Kevin",
+                    "markdown": "Select in the order of \u25c0Rocher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rocher\u25b7, \u25c0Baulard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Baulard\u25b7, \u25c0\"Intrepid Valberry,\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Intrepid_Valberry%22\u25b7 and \u25c0Kevin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kevin\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Try to recreate the same situation as the night of the crime",
+            "markdown": "Try to recreate the same situation as the night of the crime"
+        }
+    ],
+    "dialogue": true
+}

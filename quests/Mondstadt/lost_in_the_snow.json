@@ -1,0 +1,91 @@
+{
+    "type": "single",
+    "name": "Lost in the Snow",
+    "url": "https://genshin-impact.fandom.com/wiki/Lost_in_the_Snow",
+    "starting_location": {
+        "plaintext": "Dragonspine Adventurer Camp , Dragonspine",
+        "markdown": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Follow the Snow-Covered Path to search for Joel's father",
+            "markdown": "Follow the Snow-Covered Path to search for Joel's father",
+            "substeps": [
+                {
+                    "plaintext": "Read the \"Neatly-Written Note\" on the ground",
+                    "markdown": "Read the \"Neatly-Written Note\" on the ground"
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the western slope of the mountain to search for Joel's father",
+            "markdown": "Go to the western slope of the mountain to search for Joel's father",
+            "substeps": [
+                {
+                    "plaintext": "Use Pyro to melt the snow covering the \"Neatly-Written Note\" on the ground and then read it",
+                    "markdown": "Use \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 to melt the snow covering the \"Neatly-Written Note\" on the ground and then read it"
+                }
+            ]
+        },
+        {
+            "plaintext": "Head for the summit to search for Joel's father",
+            "markdown": "Head for the summit to search for Joel's father",
+            "substeps": [
+                {
+                    "plaintext": "Break the rock wall to access the cave. Read the \"Scribbled Note\" is next to the pot",
+                    "markdown": "Break the rock wall to access the cave. Read the \"Scribbled Note\" is next to the pot"
+                }
+            ]
+        },
+        {
+            "plaintext": "Report back to Joel",
+            "markdown": "Report back to Joel"
+        }
+    ],
+    "dialogue": true
+}

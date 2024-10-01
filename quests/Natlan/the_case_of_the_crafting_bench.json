@@ -1,0 +1,170 @@
+{
+    "type": "single",
+    "name": "The Case of the Crafting Bench",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Case_of_the_Crafting_Bench",
+    "starting_location": {
+        "plaintext": "Stadium of the Sacred Flame , Natlan",
+        "markdown": "\u25c0Stadium of the Sacred Flame\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stadium_of_the_Sacred_Flame\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the clearing near the Stadium of the Sacred Flame",
+            "markdown": "Go to the clearing near the Stadium of the Sacred Flame"
+        },
+        {
+            "plaintext": "Talk to Sumac",
+            "markdown": "Talk to Sumac"
+        },
+        {
+            "plaintext": "Duel against Sumac",
+            "markdown": "Duel against Sumac"
+        },
+        {
+            "plaintext": "Talk to Sumac",
+            "markdown": "Talk to Sumac"
+        },
+        {
+            "plaintext": "Go to the outdoor training area to collect testimony",
+            "markdown": "Go to the outdoor training area to collect testimony"
+        },
+        {
+            "plaintext": "Ask Ogun some questions",
+            "markdown": "Ask Ogun some questions"
+        },
+        {
+            "plaintext": "Talk to Ogun",
+            "markdown": "Talk to Ogun"
+        },
+        {
+            "plaintext": "Complete Ogun's challenge",
+            "markdown": "Complete Ogun's challenge"
+        },
+        {
+            "plaintext": "Talk to Pampa",
+            "markdown": "Talk to Pampa"
+        },
+        {
+            "plaintext": "Complete Pampa's challenge",
+            "markdown": "Complete Pampa's challenge"
+        },
+        {
+            "plaintext": "Talk to Pampa",
+            "markdown": "Talk to Pampa"
+        },
+        {
+            "plaintext": "Go to the People of the Springs to meet Anela",
+            "markdown": "Go to the People of the Springs to meet Anela"
+        },
+        {
+            "plaintext": "Ask Anela some questions",
+            "markdown": "Ask Anela some questions"
+        },
+        {
+            "plaintext": "Complete Anela's challenge",
+            "markdown": "Complete Anela's challenge"
+        },
+        {
+            "plaintext": "Talk to Anela",
+            "markdown": "Talk to Anela"
+        },
+        {
+            "plaintext": "Return to the Stadium of the Sacred Flame",
+            "markdown": "Return to the Stadium of the Sacred Flame"
+        },
+        {
+            "plaintext": "Talk to Sumac",
+            "markdown": "Talk to Sumac"
+        },
+        {
+            "plaintext": "Go to the outdoor training area after two days",
+            "markdown": "Go to the outdoor training area after two days"
+        },
+        {
+            "plaintext": "Go to the outdoor training area",
+            "markdown": "Go to the outdoor training area"
+        },
+        {
+            "plaintext": "Talk to Sumac",
+            "markdown": "Talk to Sumac"
+        },
+        {
+            "plaintext": "Submit the victims' testimonies to the judge",
+            "markdown": "Submit the victims' testimonies to the judge"
+        },
+        {
+            "plaintext": "Keep listening",
+            "markdown": "Keep listening"
+        },
+        {
+            "plaintext": "Submit the purchase invoice to the judge",
+            "markdown": "Submit the purchase invoice to the judge"
+        },
+        {
+            "plaintext": "Keep listening",
+            "markdown": "Keep listening"
+        },
+        {
+            "plaintext": "Chase Tozan to the destination",
+            "markdown": "Chase Tozan to the destination"
+        },
+        {
+            "plaintext": "Follow Tozan via his footprints",
+            "markdown": "Follow Tozan via his footprints"
+        },
+        {
+            "plaintext": "Talk to Tozan",
+            "markdown": "Talk to Tozan"
+        },
+        {
+            "plaintext": "Defeat the opponents",
+            "markdown": "Defeat the opponents"
+        },
+        {
+            "plaintext": "Talk to Tozan",
+            "markdown": "Talk to Tozan"
+        },
+        {
+            "plaintext": "Go to the Stadium of the Sacred Flame and report to the judge",
+            "markdown": "Go to the Stadium of the Sacred Flame and report to the judge"
+        }
+    ],
+    "dialogue": true
+}

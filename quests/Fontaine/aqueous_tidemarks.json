@@ -1,0 +1,161 @@
+{
+    "type": "single",
+    "name": "Aqueous Tidemarks",
+    "url": "https://genshin-impact.fandom.com/wiki/Aqueous_Tidemarks",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Palais Mermonia , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Palais_Mermonia\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Fontaine Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fontaine_Reputation_EXP",
+            "Image": "Item_Fontaine_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for and collect clues",
+            "markdown": "Search for and collect clues"
+        },
+        {
+            "plaintext": "Explore the former site of the Liliacruces Forum",
+            "markdown": "Explore the former site of the Liliacruces Forum"
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Search for and collect clues",
+            "markdown": "Search for and collect clues"
+        },
+        {
+            "plaintext": "Search for the  Ancient Key (hidden in a random treasure chest)",
+            "markdown": "Search for the <img:ancient_key_(aqueous_tidemarks)> \u25c0Ancient Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Key_(Aqueous_Tidemarks)\u25b7 (hidden in a random treasure chest)",
+            "img": {
+                "ancient_key_(aqueous_tidemarks)": "Item_Fatui_Stronghold_Key.png"
+            }
+        },
+        {
+            "plaintext": "Leave the water and talk to Virgil",
+            "markdown": "Leave the water and talk to Virgil"
+        },
+        {
+            "plaintext": "Find a way to open the path forward",
+            "markdown": "Find a way to open the path forward"
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Defeat the clockwork meka",
+            "markdown": "Defeat the clockwork meka",
+            "substeps": [
+                {
+                    "plaintext": "Area Alert Mek - Pneuma x2",
+                    "markdown": "<img:area_alert_mek_-_pneuma> \u25c0Area Alert Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Area_Alert_Mek_-_Pneuma\u25b7 x2",
+                    "img": {
+                        "area_alert_mek_-_pneuma": "Area_Alert_Mek_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Defeat the Ruin Guard and find a way to open the door",
+            "markdown": "Defeat the Ruin Guard and find a way to open the door",
+            "substeps": [
+                {
+                    "plaintext": "Ruin Guard x1",
+                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1",
+                    "img": {
+                        "ruin_guard": "Ruin_Guard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Proceed deeper",
+            "markdown": "Proceed deeper"
+        },
+        {
+            "plaintext": "Find the secret treasure!",
+            "markdown": "Find the secret treasure!"
+        },
+        {
+            "plaintext": "Fight and Survive",
+            "markdown": "Fight and Survive",
+            "substeps": [
+                {
+                    "plaintext": "\"Special\" Ruin Grader \u2014 Somewhat Uncooperative Research Subject",
+                    "markdown": "<img:ruin_grader> \u25c0\"Special\" Ruin Grader \u2014 Somewhat Uncooperative Research Subject\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7",
+                    "img": {
+                        "ruin_grader": "Ruin_Grader_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fighting the Ruin Grader is not necessary. The glass barrier can be broken immediately.",
+                    "markdown": "Fighting the Ruin Grader is not necessary. The glass barrier can be broken immediately."
+                }
+            ]
+        },
+        {
+            "plaintext": "Try to break the glass barrier",
+            "markdown": "Try to break the glass barrier",
+            "substeps": [
+                {
+                    "plaintext": "This step is skipped if the glass barrier is broken before the Ruin Grader regenerates twice.",
+                    "markdown": "This step is skipped if the glass barrier is broken before the Ruin Grader regenerates twice."
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow the current...",
+            "markdown": "Follow the \u25c0current\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Current\u25b7..."
+        }
+    ],
+    "dialogue": true
+}

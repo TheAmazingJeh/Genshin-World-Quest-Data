@@ -1,0 +1,97 @@
+{
+    "type": "single",
+    "name": "Peace to the Slumbering",
+    "url": "https://genshin-impact.fandom.com/wiki/Peace_to_the_Slumbering",
+    "starting_location": {
+        "plaintext": "Land of Myriad Megaliths , Natlan",
+        "markdown": "\u25c0Land of Myriad Megaliths\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Myriad_Megaliths\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "\"Children of Echoes\" Reputation EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Children_of_Echoes%22_Reputation_EXP",
+            "Image": "Item_%22Children_of_Echoes%22_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Check the hole below",
+            "markdown": "Check the hole below"
+        },
+        {
+            "plaintext": "Touch the inscription",
+            "markdown": "Touch the inscription"
+        },
+        {
+            "plaintext": "Follow the inscription",
+            "markdown": "Follow the inscription"
+        },
+        {
+            "plaintext": "Find the inscription fragment(s)",
+            "markdown": "Find the inscription fragment(s)"
+        },
+        {
+            "plaintext": "Go to the sealed pillar",
+            "markdown": "Go to the sealed pillar"
+        },
+        {
+            "plaintext": "Unseal the inscription",
+            "markdown": "Unseal the inscription"
+        },
+        {
+            "plaintext": "Grant the warriors peace",
+            "markdown": "Grant the warriors peace"
+        },
+        {
+            "plaintext": "Go to the sealed pillar",
+            "markdown": "Go to the sealed pillar"
+        },
+        {
+            "plaintext": "Listen to the whispers of Night",
+            "markdown": "Listen to the whispers of Night"
+        },
+        {
+            "plaintext": "Talk to Titu",
+            "markdown": "Talk to Titu"
+        }
+    ],
+    "dialogue": true
+}

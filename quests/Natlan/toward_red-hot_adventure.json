@@ -1,0 +1,43 @@
+{
+    "type": "single",
+    "name": "Toward Red-Hot Adventure!",
+    "url": "https://genshin-impact.fandom.com/wiki/Toward_Red-Hot_Adventure%21",
+    "starting_location": {
+        "plaintext": "Stadium of the Sacred Flame: Chuwen Fair , Natlan",
+        "markdown": "\u25c0Stadium of the Sacred Flame: Chuwen Fair\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stadium_of_the_Sacred_Flame:_Chuwen_Fair\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Pilgrimage of the Return of the Sacred Flame",
+        "markdown": "Complete \u25c0Pilgrimage of the Return of the Sacred Flame\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pilgrimage_of_the_Return_of_the_Sacred_Flame_(Quest)\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Katheryne",
+            "markdown": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7"
+        }
+    ],
+    "dialogue": true
+}

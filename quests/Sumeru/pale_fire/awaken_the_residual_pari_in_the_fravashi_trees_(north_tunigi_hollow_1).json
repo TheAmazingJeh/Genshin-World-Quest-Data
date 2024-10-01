@@ -1,0 +1,80 @@
+{
+    "type": "single",
+    "name": "Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 1)",
+    "url": "https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_%28North_Tunigi_Hollow_1%29",
+    "starting_location": {
+        "plaintext": "North Tunigi Hollow, Girdle of the Sands , Sumeru",
+        "markdown": "North Tunigi Hollow, \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Plume of Purifying Light",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Plume_of_Purifying_Light",
+            "Image": "Item_Plume_of_Purifying_Light.png",
+            "Rarity": "0"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Let Sorush awaken the residual Pari in the Fravashi Tree",
+            "markdown": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
+        },
+        {
+            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
+            "markdown": "Talk to the residual Pari in the Fravashi Tree"
+        },
+        {
+            "plaintext": "Defeat the monsters",
+            "markdown": "Defeat the monsters",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Blazing Axe Mitachurl x1",
+                            "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                            "img": {
+                                "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Berserker x2",
+                            "markdown": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 x2",
+                            "img": {
+                                "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Pyro Abyss Mage x1",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Berserker x2",
+                            "markdown": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 x2",
+                            "img": {
+                                "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
+            "markdown": "Talk to the residual Pari in the Fravashi Tree"
+        }
+    ],
+    "dialogue": true
+}

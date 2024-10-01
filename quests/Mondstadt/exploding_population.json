@@ -1,0 +1,72 @@
+{
+    "type": "single",
+    "name": "Exploding Population",
+    "url": "https://genshin-impact.fandom.com/wiki/Exploding_Population",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Unlocked the Serenitea Pot System",
+        "markdown": "Unlocked the \u25c0Serenitea Pot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serenitea_Pot\u25b7 System"
+    },
+    "rewards": [
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Katheryne in Mondstadt",
+            "markdown": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7 in Mondstadt"
+        },
+        {
+            "plaintext": "Talk to Nantuck",
+            "markdown": "Talk to \u25c0Nantuck\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nantuck\u25b7"
+        },
+        {
+            "plaintext": "Meet Nantuck at Cider Lake",
+            "markdown": "Meet Nantuck at Cider Lake",
+            "substeps": [
+                {
+                    "plaintext": "After the Fishing tutorial, you will receive Wilderness Rod x1, Fruit Paste Bait x10, Redrot Bait x10, False Worm Bait x10, Fake Fly Bait x10, and Formula: Fruit Paste Bait x1",
+                    "markdown": "After the Fishing tutorial, you will receive \u25c0Wilderness Rod\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wilderness_Rod\u25b7 x1, \u25c0Fruit Paste Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fruit_Paste_Bait\u25b7 x10, \u25c0Redrot Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Redrot_Bait\u25b7 x10, \u25c0False Worm Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/False_Worm_Bait\u25b7 x10, \u25c0Fake Fly Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fake_Fly_Bait\u25b7 x10, and \u25c0Formula: Fruit Paste Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Formula:_Fruit_Paste_Bait\u25b7 x1"
+                }
+            ]
+        },
+        {
+            "plaintext": "Fish in Cider Lake",
+            "markdown": "Fish in \u25c0Cider Lake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cider_Lake\u25b7"
+        },
+        {
+            "plaintext": "Talk to Nantuck",
+            "markdown": "Talk to Nantuck"
+        },
+        {
+            "plaintext": "Catch an Ornamental Fish in the Stormbearer Mountains",
+            "markdown": "Catch an \u25c0Ornamental Fish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fishing#Ornamental_Fish\u25b7 in the \u25c0Stormbearer Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stormbearer_Mountains\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Co-Op Mode is locked during this step",
+                    "markdown": "\u25c0Co-Op Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Co-Op_Mode\u25b7 is locked during this step"
+                }
+            ]
+        },
+        {
+            "plaintext": "Show Nantuck the Ornamental Fish",
+            "markdown": "Show Nantuck the Ornamental Fish"
+        }
+    ],
+    "dialogue": true
+}

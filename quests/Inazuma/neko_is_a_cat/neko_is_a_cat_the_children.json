@@ -1,0 +1,65 @@
+{
+    "type": "single",
+    "name": "Neko Is a Cat: The Children",
+    "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat%3A_The_Children",
+    "starting_location": {
+        "plaintext": "Asase Shrine , Inazuma",
+        "markdown": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Start the quest by talking to Neko",
+            "markdown": "Start the quest by talking to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+        },
+        {
+            "plaintext": "Go to the seashore and bring the little cat back to the shrine",
+            "markdown": "Go to the seashore and bring the little cat back to the shrine",
+            "substeps": [
+                {
+                    "plaintext": "There is a time limit of 3 minutes for each little cat, as well as a distance marker on screen.",
+                    "markdown": "There is a time limit of 3 minutes for each little cat, as well as a distance marker on screen."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to a high place and bring the little cat back to the shrine",
+            "markdown": "Go to a high place and bring the little cat back to the shrine"
+        },
+        {
+            "plaintext": "Talk to Neko",
+            "markdown": "Talk to Neko"
+        }
+    ],
+    "dialogue": true
+}

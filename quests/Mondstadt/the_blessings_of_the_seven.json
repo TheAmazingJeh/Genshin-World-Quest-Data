@@ -1,0 +1,33 @@
+{
+    "type": "single",
+    "name": "The Blessings of The Seven",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Blessings_of_The_Seven",
+    "starting_location": {
+        "plaintext": "Windrise , Mondstadt",
+        "markdown": "\u25c0Windrise\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Windrise\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Collect your first Anemoculus",
+        "markdown": "Collect your first \u25c0Anemoculus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemoculus\u25b7"
+    },
+    "rewards": [],
+    "steps": [
+        {
+            "plaintext": "Go to the Statue of The Seven in Windrise",
+            "markdown": "Go to the Statue of The Seven in \u25c0Windrise\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Windrise\u25b7"
+        },
+        {
+            "plaintext": "Obtained the first Statue's Eye of Wind",
+            "markdown": "Obtained the first Statue's Eye of Wind"
+        },
+        {
+            "plaintext": "Offer the Anemoculus to the Statue",
+            "markdown": "Offer the Anemoculus to the Statue"
+        },
+        {
+            "plaintext": "Talk to Paimon",
+            "markdown": "Talk to Paimon"
+        }
+    ],
+    "dialogue": true
+}

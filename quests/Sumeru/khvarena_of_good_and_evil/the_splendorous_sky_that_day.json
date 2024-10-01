@@ -1,0 +1,179 @@
+{
+    "type": "single",
+    "name": "The Splendorous Sky That Day",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Splendorous_Sky_That_Day",
+    "starting_location": {
+        "plaintext": "Gavireh Lajavard , Sumeru",
+        "markdown": "\u25c0Gavireh Lajavard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gavireh_Lajavard\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Search for the strange object",
+            "markdown": "Search for the strange object"
+        },
+        {
+            "plaintext": "Talk to Katheryne",
+            "markdown": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7"
+        },
+        {
+            "plaintext": "Go near the Temir Mountains",
+            "markdown": "Go near the \u25c0Temir Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temir_Mountains\u25b7"
+        },
+        {
+            "plaintext": "Continue onward",
+            "markdown": "Continue onward"
+        },
+        {
+            "plaintext": "Talk to the person near the camp",
+            "markdown": "Talk to the person near the camp"
+        },
+        {
+            "plaintext": "Fight Pyrrho",
+            "markdown": "Fight \u25c0Pyrrho\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyrrho\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Pyrrho \u2014 \"Ranger\" x1",
+                    "markdown": "<img:eremite_sword-dancer> \u25c0Pyrrho \u2014 \"Ranger\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                    "img": {
+                        "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "The quest proceeds when Pyrrho reaches approximately 40% HP",
+                    "markdown": "The quest proceeds when Pyrrho reaches approximately 40% HP"
+                }
+            ]
+        },
+        {
+            "plaintext": "Follow Sorush onward",
+            "markdown": "Follow \u25c0Sorush\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sorush\u25b7 onward"
+        },
+        {
+            "plaintext": "Fend off the monsters",
+            "markdown": "Fend off the monsters",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Blazing Axe Mitachurl x1",
+                            "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                            "img": {
+                                "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Wooden Shield Hilichurl Guard x2",
+                            "markdown": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 x2",
+                            "img": {
+                                "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Electro Abyss Mage x1",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Pyro Hilichurl Shooter x1",
+                            "markdown": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 x1",
+                            "img": {
+                                "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Berserker x2",
+                            "markdown": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 x2",
+                            "img": {
+                                "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Continue following Sorush",
+            "markdown": "Continue following Sorush"
+        },
+        {
+            "plaintext": "Use the power of Khvarena to destroy the Gray Crystals",
+            "markdown": "Use the power of Khvarena to destroy the \u25c0Gray Crystals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gray_Crystal\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "This step is skipped if the Khvarena was already discovered, although the corresponding dialogue is left unchanged.",
+                    "markdown": "This step is skipped if the Khvarena was already discovered, although the corresponding dialogue is left unchanged."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the training grounds of the Order of Skeptics",
+            "markdown": "Go to the training grounds of the Order of Skeptics"
+        },
+        {
+            "plaintext": "Talk to the leader of the Skeptics",
+            "markdown": "Talk to the leader of the Skeptics"
+        },
+        {
+            "plaintext": "Go to the Tunigi Hollow",
+            "markdown": "Go to the \u25c0Tunigi Hollow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tunigi_Hollow\u25b7"
+        },
+        {
+            "plaintext": "Go to the Vourukasha Oasis",
+            "markdown": "Go to the \u25c0Vourukasha Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vourukasha_Oasis\u25b7"
+        },
+        {
+            "plaintext": "Continue onward",
+            "markdown": "Continue onward"
+        },
+        {
+            "plaintext": "Look for Zurvan",
+            "markdown": "Look for \u25c0Zurvan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zurvan\u25b7"
+        },
+        {
+            "plaintext": "Talk to Zurvan",
+            "markdown": "Talk to Zurvan"
+        }
+    ],
+    "dialogue": true
+}

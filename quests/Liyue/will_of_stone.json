@@ -1,0 +1,139 @@
+{
+    "type": "single",
+    "name": "Will of Stone",
+    "url": "https://genshin-impact.fandom.com/wiki/Will_of_Stone",
+    "starting_location": {
+        "plaintext": "Liyue Harbor , Liyue",
+        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete The Chi of Yore , Of the Land Amidst Monoliths and Necessary Procedures",
+        "markdown": "Complete \u25c0The Chi of Yore\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chi_of_Yore\u25b7 , \u25c0Of the Land Amidst Monoliths\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Of_the_Land_Amidst_Monoliths\u25b7 and \u25c0Necessary Procedures\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Necessary_Procedures\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "7",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Qingce Stir Fry",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Qingce_Stir_Fry",
+            "Image": "Item_Qingce_Stir_Fry.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Granny Ruoxin in Qingce Village",
+            "markdown": "Talk to \u25c0Granny Ruoxin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Granny_Ruoxin\u25b7 in \u25c0Qingce Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingce_Village\u25b7"
+        },
+        {
+            "plaintext": "Find Little Liu",
+            "markdown": "Find \u25c0Little Liu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Liu\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "She can be found at the archway northwest of the Teleport Waypoint below Wuwang Hill, roughly north of the middle of the main road.",
+                    "markdown": "She can be found at the archway northwest of the Teleport Waypoint below Wuwang Hill, roughly north of the middle of the main road."
+                },
+                {
+                    "plaintext": "There are two optional investigation points which will trigger dialogue, but do not have to be interacted with.",
+                    "markdown": "There are two optional investigation points which will trigger dialogue, but do not have to be interacted with."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat all enemies",
+            "markdown": "Defeat all enemies",
+            "substeps": [
+                {
+                    "plaintext": "Geo Samachurl x1",
+                    "markdown": "<img:geo_samachurl> \u25c0Geo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Samachurl\u25b7 x1",
+                    "img": {
+                        "geo_samachurl": "Geo_Samachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Rock Shieldwall Mitachurl x1",
+                    "markdown": "<img:rock_shieldwall_mitachurl> \u25c0Rock Shieldwall Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rock_Shieldwall_Mitachurl\u25b7 x1",
+                    "img": {
+                        "rock_shieldwall_mitachurl": "Mitachurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Catch up to Little Liu",
+            "markdown": "Catch up to Little Liu",
+            "substeps": [
+                {
+                    "plaintext": "If she gets more than 30m away, the quest will fail.",
+                    "markdown": "If she gets more than 30m away, the quest will fail."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat all enemies",
+            "markdown": "Defeat all enemies",
+            "substeps": [
+                {
+                    "plaintext": "",
+                    "markdown": "",
+                    "substeps": [
+                        {
+                            "plaintext": "Stonehide Lawachurl x1",
+                            "markdown": "<img:stonehide_lawachurl> \u25c0Stonehide Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stonehide_Lawachurl\u25b7 x1",
+                            "img": {
+                                "stonehide_lawachurl": "Stonehide_Lawachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Berserker x3",
+                            "markdown": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 x3",
+                            "img": {
+                                "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Little Liu",
+            "markdown": "Talk to Little Liu"
+        },
+        {
+            "plaintext": "(Optional) Return to Qingce Village and speak to Little Liu again. She'll give you a box with gifts to give to her father.",
+            "markdown": "(Optional) Return to Qingce Village and speak to Little Liu again. She'll give you a box with gifts to give to her father."
+        },
+        {
+            "plaintext": "Report back to Jiayi",
+            "markdown": "Report back to Jiayi"
+        }
+    ],
+    "dialogue": true
+}

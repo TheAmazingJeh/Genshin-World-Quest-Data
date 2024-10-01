@@ -1,0 +1,55 @@
+{
+    "type": "single",
+    "name": "Pizza From Another Land",
+    "url": "https://genshin-impact.fandom.com/wiki/Pizza_From_Another_Land",
+    "starting_location": {
+        "plaintext": "Inazuma City , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete The Whispers of the Crane and the White Rabbit",
+        "markdown": "Complete \u25c0The Whispers of the Crane and the White Rabbit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Whispers_of_the_Crane_and_the_White_Rabbit\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Kiminami Anna",
+            "markdown": "Talk to Kiminami Anna"
+        },
+        {
+            "plaintext": "Talk to Rie",
+            "markdown": "Talk to \u25c0Rie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rie\u25b7"
+        },
+        {
+            "plaintext": "Talk to Kiminami Anna",
+            "markdown": "Talk to Kiminami Anna"
+        },
+        {
+            "plaintext": "Bring the Lavender Melon back to Kiminami Anna",
+            "markdown": "Bring the Lavender Melon back to Kiminami Anna"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,196 @@
+{
+    "type": "single",
+    "name": "Threefold Expectations",
+    "url": "https://genshin-impact.fandom.com/wiki/Threefold_Expectations",
+    "starting_location": {
+        "plaintext": "Qiaoying Village , Liyue",
+        "markdown": "\u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Qiaoying of the Sacred Mountain",
+        "markdown": "Complete \u25c0Qiaoying of the Sacred Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_of_the_Sacred_Mountain\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Help Mountain adjust the three Monoliths (0/3)",
+            "markdown": "Help \u25c0Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hautemontagne\u25b7 adjust the three Monoliths (0/3)"
+        },
+        {
+            "plaintext": "Return to Qiaoying Village and look for Uncle Luo",
+            "markdown": "Return to Qiaoying Village and look for Uncle Luo",
+            "substeps": [
+                {
+                    "plaintext": "Enter the Quest Domain: Youwang Cauldron",
+                    "markdown": "Enter the Quest Domain: \u25c0Youwang Cauldron\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Youwang_Cauldron\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Clear out all of the elemental creatures that have accumulated within the teapot",
+            "markdown": "Clear out all of the elemental creatures that have accumulated within the teapot",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Pyro Slime x4",
+                            "markdown": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 x4",
+                            "img": {
+                                "pyro_slime": "Pyro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Anemo Slime x3",
+                            "markdown": "<img:anemo_slime> \u25c0Anemo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Slime\u25b7 x3",
+                            "img": {
+                                "anemo_slime": "Anemo_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hydro Slime x3",
+                            "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x3",
+                            "img": {
+                                "hydro_slime": "Hydro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Anemo Slime x3",
+                            "markdown": "<img:anemo_slime> \u25c0Anemo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Slime\u25b7 x3",
+                            "img": {
+                                "anemo_slime": "Anemo_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hydro Slime x3",
+                            "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x3",
+                            "img": {
+                                "hydro_slime": "Hydro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 4:  Eye of the Storm \u2014 Teapot's Mountain Mist",
+                    "markdown": "Wave 4: <img:eye_of_the_storm> \u25c0Eye of the Storm \u2014 Teapot's Mountain Mist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eye_of_the_Storm\u25b7",
+                    "img": {
+                        "eye_of_the_storm": "Eye_of_the_Storm_Icon.png"
+                    },
+                    "substeps": [
+                        {
+                            "plaintext": "The following enemies spawn after the Eye of the Storm reaches approx. 80% health:",
+                            "markdown": "The following enemies spawn after the Eye of the Storm reaches approx. 80% health:",
+                            "substeps": [
+                                {
+                                    "plaintext": "Large Anemo Slime x2",
+                                    "markdown": "<img:large_anemo_slime> \u25c0Large Anemo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Anemo_Slime\u25b7 x2",
+                                    "img": {
+                                        "large_anemo_slime": "Large_Anemo_Slime_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Large Hydro Slime x2",
+                                    "markdown": "<img:large_hydro_slime> \u25c0Large Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Hydro_Slime\u25b7 x2",
+                                    "img": {
+                                        "large_hydro_slime": "Large_Hydro_Slime_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Large Pyro Slime x2",
+                                    "markdown": "<img:large_pyro_slime> \u25c0Large Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Pyro_Slime\u25b7 x2",
+                                    "img": {
+                                        "large_pyro_slime": "Large_Pyro_Slime_Icon.png"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "plaintext": "The following enemies spawn after the Eye of the Storm reaches approx. 30% health:",
+                            "markdown": "The following enemies spawn after the Eye of the Storm reaches approx. 30% health:",
+                            "substeps": [
+                                {
+                                    "plaintext": "Anemo Slime x2",
+                                    "markdown": "<img:anemo_slime> \u25c0Anemo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Slime\u25b7 x2",
+                                    "img": {
+                                        "anemo_slime": "Anemo_Slime_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Hydro Slime x2",
+                                    "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x2",
+                                    "img": {
+                                        "hydro_slime": "Hydro_Slime_Icon.png"
+                                    }
+                                },
+                                {
+                                    "plaintext": "Pyro Slime x2",
+                                    "markdown": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 x2",
+                                    "img": {
+                                        "pyro_slime": "Pyro_Slime_Icon.png"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

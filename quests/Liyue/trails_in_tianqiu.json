@@ -1,0 +1,46 @@
+{
+    "type": "single",
+    "name": "Trails in Tianqiu",
+    "url": "https://genshin-impact.fandom.com/wiki/Trails_in_Tianqiu",
+    "starting_location": {
+        "plaintext": "Tianqiu Valley , Liyue",
+        "markdown": "\u25c0Tianqiu Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tianqiu_Valley\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Unlock the secret of Tianqiu Valley",
+            "markdown": "Unlock the secret of Tianqiu Valley",
+            "substeps": [
+                {
+                    "plaintext": "Collect the Light Actuators from the 3 nearby towers.",
+                    "markdown": "Collect the Light Actuators from the 3 nearby towers."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the Treasure Hoarders",
+            "markdown": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7"
+        },
+        {
+            "plaintext": "Collect the Treasure",
+            "markdown": "Collect the Treasure",
+            "substeps": [
+                {
+                    "plaintext": "3 Luxurious Chests will spawn, of which one will give 50 Primogems instead of the usual 10.",
+                    "markdown": "3 \u25c0Luxurious Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chests\u25b7 will spawn, of which one will give 50 Primogems instead of the usual 10."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

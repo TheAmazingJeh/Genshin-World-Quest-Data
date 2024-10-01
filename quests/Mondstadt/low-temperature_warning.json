@@ -1,0 +1,40 @@
+{
+    "type": "single",
+    "name": "Low-Temperature Warning",
+    "url": "https://genshin-impact.fandom.com/wiki/Low-Temperature_Warning",
+    "starting_location": {
+        "plaintext": "Dragonspine , Mondstadt",
+        "markdown": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Iris",
+            "markdown": "Talk to \u25c0Iris\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iris_(Dragonspine_Adventurer_Camp)\u25b7"
+        }
+    ],
+    "dialogue": true
+}

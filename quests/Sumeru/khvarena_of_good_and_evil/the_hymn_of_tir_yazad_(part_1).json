@@ -1,0 +1,264 @@
+{
+    "type": "single",
+    "name": "The Hymn of Tir Yazad (Part 1)",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Hymn_of_Tir_Yazad_%28Part_1%29",
+    "starting_location": {
+        "plaintext": "Vourukasha Oasis , Sumeru",
+        "markdown": "\u25c0Vourukasha Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vourukasha_Oasis\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to the Vourukasha Oasis",
+            "markdown": "Go to the Vourukasha Oasis"
+        },
+        {
+            "plaintext": "Talk to Zurvan",
+            "markdown": "Talk to \u25c0Zurvan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zurvan\u25b7"
+        },
+        {
+            "plaintext": "Go to the Tunigi Hollow",
+            "markdown": "Go to the Tunigi Hollow"
+        },
+        {
+            "plaintext": "Talk to Mihir and Rashnu",
+            "markdown": "Talk to \u25c0Mihir\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mihir\u25b7 and \u25c0Rashnu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rashnu\u25b7"
+        },
+        {
+            "plaintext": "Place the Great Song of Khvarena",
+            "markdown": "Place the Great Song of Khvarena"
+        },
+        {
+            "plaintext": "Place the rest of the Great Songs of Khvarena (0/4)",
+            "markdown": "Place the rest of the Great Songs of Khvarena (0/4)",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Hilichurl Grenadier x1",
+                            "markdown": "<img:hilichurl_grenadier> \u25c0Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Grenadier\u25b7 x1",
+                            "img": {
+                                "hilichurl_grenadier": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Hilichurl Fighter x2",
+                            "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x2",
+                            "img": {
+                                "hilichurl_fighter": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Thundercraven Rifthound Whelp x2",
+                            "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Mihir",
+            "markdown": "Talk to Mihir"
+        },
+        {
+            "plaintext": "Go to the first huge tree",
+            "markdown": "Go to the first huge tree"
+        },
+        {
+            "plaintext": "Cleanse the huge tree",
+            "markdown": "Cleanse the huge tree"
+        },
+        {
+            "plaintext": "Go to the second huge tree",
+            "markdown": "Go to the second huge tree"
+        },
+        {
+            "plaintext": "Defeat the monsters that have been released",
+            "markdown": "Defeat the monsters that have been released",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Pyro Abyss Mage x1",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Rockfond Rifthound Whelp x2",
+                            "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Rockfond Rifthound Whelp x2",
+                            "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Rockfond Rifthound Whelp x2",
+                            "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 4:",
+                    "markdown": "Wave 4:",
+                    "substeps": [
+                        {
+                            "plaintext": "Pyro Abyss Mage x1",
+                            "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Rockfond Rifthound Whelp x1",
+                            "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x1",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the third huge tree",
+            "markdown": "Go to the third huge tree"
+        },
+        {
+            "plaintext": "Defeat the monsters that have been released",
+            "markdown": "Defeat the monsters that have been released",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Thundercraven Rifthound x1",
+                            "markdown": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 x1",
+                            "img": {
+                                "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Thundercraven Rifthound Whelp x2",
+                            "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Electro Abyss Mage x1",
+                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Thundercraven Rifthound Whelp x2",
+                            "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Thundercraven Rifthound Whelp x2",
+                            "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Mihir and Rashnu",
+            "markdown": "Talk to Mihir and Rashnu"
+        }
+    ],
+    "dialogue": true
+}

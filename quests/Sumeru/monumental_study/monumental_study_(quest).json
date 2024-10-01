@@ -1,0 +1,101 @@
+{
+    "type": "single",
+    "name": "Monumental Study (Quest)",
+    "url": "https://genshin-impact.fandom.com/wiki/Monumental_Study_%28Quest%29",
+    "starting_location": {
+        "plaintext": "Temir Mountains , Sumeru",
+        "markdown": "\u25c0Temir Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temir_Mountains\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "As the Khvarena's Light Shows (step 1)",
+        "markdown": "\u25c0As the Khvarena's Light Shows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows\u25b7 (step 1)"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "15,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Sosi",
+            "markdown": "Talk to \u25c0Sosi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sosi\u25b7"
+        },
+        {
+            "plaintext": "Complete Sosi's commission",
+            "markdown": "Complete Sosi's commission"
+        },
+        {
+            "plaintext": "Talk to Sosi",
+            "markdown": "Talk to Sosi"
+        },
+        {
+            "plaintext": "Place the monument fragments (0/4)",
+            "markdown": "Place the monument fragments (0/4)"
+        },
+        {
+            "plaintext": "Talk to Sosi",
+            "markdown": "Talk to Sosi"
+        },
+        {
+            "plaintext": "Defeat all opponents",
+            "markdown": "Defeat all opponents",
+            "substeps": [
+                {
+                    "plaintext": "Markozov - Leader of Those Pursuing Knowledge x1",
+                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Markozov - Leader of Those Pursuing Knowledge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
+                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
+                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                    "img": {
+                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Investigate the Khvarena Monument",
+            "markdown": "Investigate the \u25c0Khvarena\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Khvarena\u25b7 Monument"
+        },
+        {
+            "plaintext": "Talk to Sosi",
+            "markdown": "Talk to Sosi"
+        }
+    ],
+    "dialogue": true
+}

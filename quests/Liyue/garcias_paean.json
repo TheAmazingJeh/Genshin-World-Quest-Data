@@ -1,0 +1,56 @@
+{
+    "type": "single",
+    "name": "Garcia's Paean",
+    "url": "https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean",
+    "starting_location": {
+        "plaintext": "Wangshu Inn , Liyue",
+        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Garcia and Lutong",
+            "markdown": "Talk to Garcia and Lutong"
+        },
+        {
+            "plaintext": "Go to the kitchen",
+            "markdown": "Go to the kitchen"
+        },
+        {
+            "plaintext": "Make Delicious Radish Veggie Soup",
+            "markdown": "Make \u25c0Delicious Radish Veggie Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Delicious_Radish_Veggie_Soup\u25b7"
+        },
+        {
+            "plaintext": "Hand Over Delicious Radish Veggie Soup",
+            "markdown": "Hand Over Delicious Radish Veggie Soup"
+        },
+        {
+            "plaintext": "Talk to Garcia",
+            "markdown": "Talk to Garcia"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,47 @@
+{
+    "type": "single",
+    "name": "Neko Is a Cat: Shrine Cleanup",
+    "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat%3A_Shrine_Cleanup",
+    "starting_location": {
+        "plaintext": "Asase Shrine , Inazuma",
+        "markdown": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Seirai Stormchasers: Part IV",
+        "markdown": "Complete \u25c0Seirai Stormchasers: Part IV\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers:_Part_IV\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Clean the dirt around Asase Shrine (0/4)",
+            "markdown": "Clean the dirt around Asase Shrine (0/4)"
+        },
+        {
+            "plaintext": "Report back to Neko",
+            "markdown": "Report back to Neko"
+        }
+    ],
+    "dialogue": true
+}

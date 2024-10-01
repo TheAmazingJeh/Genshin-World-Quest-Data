@@ -1,0 +1,136 @@
+{
+    "type": "single",
+    "name": "The Gourmet Supremos: The Importance of Eating Well",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_The_Importance_of_Eating_Well",
+    "starting_location": {
+        "plaintext": "Inazuma City , Narukami Island , Inazuma",
+        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Xiangling's ending of The Gourmet Supremos: Breakthrough Thinking",
+        "markdown": "Complete Xiangling's ending of \u25c0The Gourmet Supremos: Breakthrough Thinking\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Breakthrough_Thinking\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Inazuma Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Inazuma_Reputation_EXP",
+            "Image": "Item_Inazuma_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Recipe: Sashimi Platter",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sashimi_Platter",
+            "Image": "Item_Sashimi_Platter.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Parvaneh",
+            "markdown": "Talk to \u25c0Parvaneh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Parvaneh\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "She can be found near Inazuma's Adventurers' Guild.",
+                    "markdown": "She can be found near Inazuma's \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Meet up with Xudong",
+            "markdown": "Meet up with \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
+        },
+        {
+            "plaintext": "Talk to Xudong",
+            "markdown": "Talk to Xudong"
+        },
+        {
+            "plaintext": "Search ahead",
+            "markdown": "Search ahead"
+        },
+        {
+            "plaintext": "Defeat all opponents",
+            "markdown": "Defeat all opponents",
+            "substeps": [
+                {
+                    "plaintext": "Rock Shield Hilichurl Guard x2",
+                    "markdown": "<img:rock_shield_hilichurl_guard> \u25c0Rock Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rock_Shield_Hilichurl_Guard\u25b7 x2",
+                    "img": {
+                        "rock_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hydro Samachurl x1",
+                    "markdown": "<img:hydro_samachurl> \u25c0Hydro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7 x1",
+                    "img": {
+                        "hydro_samachurl": "Hydro_Samachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Blazing Axe Mitachurl x1",
+                    "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                    "img": {
+                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Julie",
+            "markdown": "Talk to \u25c0Julie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Julie\u25b7"
+        },
+        {
+            "plaintext": "Look for traces of Kamei Munehisa up ahead",
+            "markdown": "Look for traces of \u25c0Kamei Munehisa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamei_Munehisa\u25b7 up ahead",
+            "substeps": [
+                {
+                    "plaintext": "He can be seen attacked by the following enemies. Fend them off to proceed the quest.",
+                    "markdown": "He can be seen attacked by the following enemies. Fend them off to proceed the quest.",
+                    "substeps": [
+                        {
+                            "plaintext": "Nobushi: Hitsukeban x3",
+                            "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x3",
+                            "img": {
+                                "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Kairagi: Fiery Might x1",
+                            "markdown": "<img:kairagi_fiery_might> \u25c0Kairagi: Fiery Might\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 x1",
+                            "img": {
+                                "kairagi_fiery_might": "Kairagi_Fiery_Might_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Kamei Munehisa",
+            "markdown": "Talk to Kamei Munehisa"
+        }
+    ],
+    "dialogue": true
+}

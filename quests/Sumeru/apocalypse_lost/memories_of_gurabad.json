@@ -1,0 +1,110 @@
+{
+    "type": "single",
+    "name": "Memories of Gurabad",
+    "url": "https://genshin-impact.fandom.com/wiki/Memories_of_Gurabad",
+    "starting_location": {
+        "plaintext": "Safhe Shatranj , Sumeru",
+        "markdown": "\u25c0Safhe Shatranj\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Safhe_Shatranj\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Liloupar",
+            "markdown": "Talk to \u25c0Liloupar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liloupar\u25b7"
+        },
+        {
+            "plaintext": "Defeat the Primal Construct",
+            "markdown": "Defeat the Primal Construct",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:  Primal Construct: Reshaper x2",
+                    "markdown": "Wave 1: <img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x2",
+                    "img": {
+                        "primal_construct_reshaper": "Primal_Construct_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 2:  Primal Construct: Repulsor x2",
+                    "markdown": "Wave 2: <img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 x2",
+                    "img": {
+                        "primal_construct_repulsor": "Primal_Construct_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 3:  Primal Construct: Prospector x2",
+                    "markdown": "Wave 3: <img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 x2",
+                    "img": {
+                        "primal_construct_prospector": "Primal_Construct_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Investigate Chess Piece",
+            "markdown": "Investigate Chess Piece"
+        },
+        {
+            "plaintext": "Trigger Chess Piece",
+            "markdown": "Trigger Chess Piece"
+        },
+        {
+            "plaintext": "Open the gate to Gurabad",
+            "markdown": "Open the gate to \u25c0Gurabad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gurabad\u25b7"
+        },
+        {
+            "plaintext": "Defeat the Primal Construct",
+            "markdown": "Defeat the Primal Construct",
+            "substeps": [
+                {
+                    "plaintext": "Primal Construct: Reshaper x2",
+                    "markdown": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x2",
+                    "img": {
+                        "primal_construct_reshaper": "Primal_Construct_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain Liloupar's fragment",
+            "markdown": "Obtain Liloupar's fragment"
+        }
+    ],
+    "dialogue": true
+}

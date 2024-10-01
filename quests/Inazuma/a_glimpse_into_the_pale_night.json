@@ -1,0 +1,42 @@
+{
+    "type": "single",
+    "name": "A Glimpse Into the Pale Night",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Glimpse_Into_the_Pale_Night",
+    "starting_location": {
+        "plaintext": "The Narrows , Enkanomiya , Inazuma",
+        "markdown": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Talk to Enjou during The Subterranean Trials of Drake and Serpent",
+        "markdown": "Talk to \u25c0Enjou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enjou\u25b7 during \u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventurer's Experience",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventurer%27s_Experience",
+            "Image": "Item_Adventurer%27s_Experience.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Examine the Inscribed Map",
+            "markdown": "Examine the \u25c0Inscribed Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inscribed_Map\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Map of Enkanomiya becomes visible.",
+                    "markdown": "\u25c0Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Map\u25b7 of Enkanomiya becomes visible."
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

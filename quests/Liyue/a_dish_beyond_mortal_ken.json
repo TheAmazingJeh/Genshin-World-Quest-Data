@@ -1,0 +1,97 @@
+{
+    "type": "single",
+    "name": "A Dish Beyond Mortal Ken",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Dish_Beyond_Mortal_Ken",
+    "starting_location": {
+        "plaintext": "Wangshu Inn , Liyue",
+        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Archon Quest Chapter I, Act III: A New Star Approaches",
+        "markdown": "Complete Archon Quest Chapter I, Act III: \u25c0A New Star Approaches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_New_Star_Approaches\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Recipe: Chicken Tofu Pudding",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Chicken_Tofu_Pudding",
+            "Image": "Item_Chicken_Tofu_Pudding.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Sit by the table",
+            "markdown": "Sit by the table",
+            "substeps": [
+                {
+                    "plaintext": "You need to sit in the seats next to Jiangxue; sitting across from him will not trigger the next step.",
+                    "markdown": "You need to sit in the seats next to Jiangxue; sitting across from him will not trigger the next step."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give Smiley Yanxiao the ingredients",
+            "markdown": "Give Smiley Yanxiao the ingredients",
+            "substeps": [
+                {
+                    "plaintext": "Bird Egg x1,  Snapdragon x1",
+                    "markdown": "<img:bird_egg> \u25c0Bird Egg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bird_Egg\u25b7 x1, <img:snapdragon> \u25c0Snapdragon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Snapdragon\u25b7 x1",
+                    "img": {
+                        "bird_egg": "Item_Bird_Egg.png",
+                        "snapdragon": "Item_Snapdragon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Cut the meat",
+            "markdown": "Cut the meat",
+            "substeps": [
+                {
+                    "plaintext": "Attack the table with a character that wields a melee weapon",
+                    "markdown": "Attack the table with a character that wields a melee weapon"
+                }
+            ]
+        },
+        {
+            "plaintext": "Pour pure water into the cooking pot",
+            "markdown": "Pour pure water into the cooking pot",
+            "substeps": [
+                {
+                    "plaintext": "Attack the stove with a Hydro skill",
+                    "markdown": "Attack the stove with a \u25c0Hydro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro\u25b7 skill"
+                }
+            ]
+        },
+        {
+            "plaintext": "Bring the stove up to temperature",
+            "markdown": "Bring the stove up to temperature",
+            "substeps": [
+                {
+                    "plaintext": "Attack the stove with a Pyro skill",
+                    "markdown": "Attack the stove with a \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 skill"
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Smiley Yanxiao",
+            "markdown": "Talk to Smiley Yanxiao"
+        }
+    ],
+    "dialogue": true
+}

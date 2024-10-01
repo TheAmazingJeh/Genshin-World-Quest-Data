@@ -1,0 +1,147 @@
+{
+    "type": "single",
+    "name": "There Will Come Soft Rains",
+    "url": "https://genshin-impact.fandom.com/wiki/There_Will_Come_Soft_Rains",
+    "starting_location": {
+        "plaintext": "Merusea Village , Fontaine",
+        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Ask about the parts in Merusea Village",
+            "markdown": "Ask about the parts in \u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7"
+        },
+        {
+            "plaintext": "Collect strange parts (0/4)",
+            "markdown": "Collect \u25c0strange parts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Part\u25b7 (0/4)"
+        },
+        {
+            "plaintext": "Return to Mamere",
+            "markdown": "Return to \u25c0Mamere\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mamere\u25b7"
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Defeat the Rifthounds",
+            "markdown": "Defeat the Rifthounds",
+            "substeps": [
+                {
+                    "plaintext": "Rockfond Rifthound x1",
+                    "markdown": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 x1",
+                    "img": {
+                        "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Rockfond Rifthound Whelp x2",
+                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                    "img": {
+                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Find the hiding Melusine nearby",
+            "markdown": "Find the hiding Melusine nearby"
+        },
+        {
+            "plaintext": "Find the trapped Melusine",
+            "markdown": "Find the trapped Melusine"
+        },
+        {
+            "plaintext": "Cut the Seagrass",
+            "markdown": "Cut the \u25c0Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seagrass\u25b7"
+        },
+        {
+            "plaintext": "Head to the designated location",
+            "markdown": "Head to the designated location"
+        },
+        {
+            "plaintext": "Return to Merusea Village",
+            "markdown": "Return to Merusea Village"
+        },
+        {
+            "plaintext": "Head to the designated location through the shortcut",
+            "markdown": "Head to the designated location through the shortcut"
+        },
+        {
+            "plaintext": "Defeat the Rifthounds",
+            "markdown": "Defeat the Rifthounds",
+            "substeps": [
+                {
+                    "plaintext": "Rockfond Rifthound Whelp x2",
+                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                    "img": {
+                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Use the Prismatic Resonance to investigate the ore",
+            "markdown": "Use the Prismatic Resonance to investigate the ore"
+        },
+        {
+            "plaintext": "Defeat the Rifthounds",
+            "markdown": "Defeat the Rifthounds",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:  Thundercraven Rifthound Whelp x2",
+                    "markdown": "Wave 1: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                    "img": {
+                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 2:  Thundercraven Rifthound x1",
+                    "markdown": "Wave 2: <img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 x1",
+                    "img": {
+                        "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

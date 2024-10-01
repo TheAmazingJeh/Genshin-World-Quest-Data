@@ -1,0 +1,237 @@
+{
+    "type": "single",
+    "name": "Afratu's Dilemma",
+    "url": "https://genshin-impact.fandom.com/wiki/Afratu%27s_Dilemma",
+    "starting_location": {
+        "plaintext": "Valley of Dahri , Sumeru",
+        "markdown": "\u25c0Valley of Dahri\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valley_of_Dahri\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to the researcher",
+            "markdown": "Talk to the researcher"
+        },
+        {
+            "plaintext": "Find a way to enter the robot",
+            "markdown": "Find a way to enter the robot",
+            "substeps": [
+                {
+                    "plaintext": "Follow the Seelie nearby",
+                    "markdown": "Follow the \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 nearby"
+                },
+                {
+                    "plaintext": "Hide behind rocks to make them explode when Ruin Golem shoots at the player",
+                    "markdown": "Hide behind rocks to make them explode when \u25c0Ruin Golem\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Golem\u25b7 shoots at the player"
+                }
+            ]
+        },
+        {
+            "plaintext": "Explore up ahead",
+            "markdown": "Explore up ahead"
+        },
+        {
+            "plaintext": "Try to break the seal",
+            "markdown": "Try to break the seal"
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring",
+            "substeps": [
+                {
+                    "plaintext": "Wooden Shield Mitachurl x1",
+                    "markdown": "<img:wooden_shield_mitachurl> \u25c0Wooden Shield Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Mitachurl\u25b7 x1",
+                    "img": {
+                        "wooden_shield_mitachurl": "Mitachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Dendro Samachurl x1",
+                    "markdown": "<img:dendro_samachurl> \u25c0Dendro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendro_Samachurl\u25b7 x1",
+                    "img": {
+                        "dendro_samachurl": "Dendro_Samachurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl Fighter x1",
+                    "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x1",
+                    "img": {
+                        "hilichurl_fighter": "Hilichurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl Shooter x1",
+                    "markdown": "<img:hilichurl_shooter> \u25c0Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Shooter\u25b7 x1",
+                    "img": {
+                        "hilichurl_shooter": "Hilichurl_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl x1",
+                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x1",
+                    "img": {
+                        "hilichurl": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Continue exploring",
+            "markdown": "Continue exploring",
+            "substeps": [
+                {
+                    "plaintext": "Stretchy Geo Fungus x3",
+                    "markdown": "<img:stretchy_geo_fungus> \u25c0Stretchy Geo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Geo_Fungus\u25b7 x3",
+                    "img": {
+                        "stretchy_geo_fungus": "Stretchy_Geo_Fungus_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Go through the robot's arm",
+            "markdown": "Go through the robot's arm",
+            "substeps": [
+                {
+                    "plaintext": "Ruin Guard x1 (at the start of the arm)",
+                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1 (at the start of the arm)",
+                    "img": {
+                        "ruin_guard": "Ruin_Guard_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Ruin Guard x1 (at the golem entrance)",
+                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1 (at the golem entrance)",
+                    "img": {
+                        "ruin_guard": "Ruin_Guard_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Enter the robot",
+            "markdown": "Enter the robot"
+        },
+        {
+            "plaintext": "Investigate the cockpit",
+            "markdown": "Investigate the cockpit"
+        },
+        {
+            "plaintext": "Break Suda's Flow at three locations",
+            "markdown": "Break Suda's Flow at three locations",
+            "substeps": [
+                {
+                    "plaintext": "Upstairs in the side rooms:",
+                    "markdown": "Upstairs in the side rooms:",
+                    "substeps": [
+                        {
+                            "plaintext": "Stretchy Geo Fungus x2 (multiple groups)",
+                            "markdown": "<img:stretchy_geo_fungus> \u25c0Stretchy Geo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Geo_Fungus\u25b7 x2 (multiple groups)",
+                            "img": {
+                                "stretchy_geo_fungus": "Stretchy_Geo_Fungus_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Whirling Pyro Fungus x2 (only one group)",
+                            "markdown": "<img:whirling_pyro_fungus> \u25c0Whirling Pyro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whirling_Pyro_Fungus\u25b7 x2 (only one group)",
+                            "img": {
+                                "whirling_pyro_fungus": "Whirling_Pyro_Fungus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Downstairs: For each Suda's Flow that is destroyed (except for the last), one of the following enemy spawns:",
+                    "markdown": "Downstairs: For each Suda's Flow that is destroyed (except for the last), one of the following enemy spawns:",
+                    "substeps": [
+                        {
+                            "plaintext": "Large Electro Slime x1",
+                            "markdown": "<img:large_electro_slime> \u25c0Large Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Electro_Slime\u25b7 x1",
+                            "img": {
+                                "large_electro_slime": "Large_Electro_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Anemo Specter x1",
+                            "markdown": "<img:anemo_specter> \u25c0Anemo Specter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Specter\u25b7 x1",
+                            "img": {
+                                "anemo_specter": "Anemo_Specter_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Floating Hydro Fungus x1",
+                            "markdown": "<img:floating_hydro_fungus> \u25c0Floating Hydro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Hydro_Fungus\u25b7 x1",
+                            "img": {
+                                "floating_hydro_fungus": "Floating_Hydro_Fungus_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Stretchy Electro Fungus x1",
+                            "markdown": "<img:stretchy_electro_fungus> \u25c0Stretchy Electro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Electro_Fungus\u25b7 x1",
+                            "img": {
+                                "stretchy_electro_fungus": "Stretchy_Electro_Fungus_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Enter the cockpit",
+            "markdown": "Enter the cockpit"
+        },
+        {
+            "plaintext": "Switch off autonomous attacking",
+            "markdown": "Switch off autonomous attacking"
+        },
+        {
+            "plaintext": "Report back to Afratu",
+            "markdown": "Report back to \u25c0Afratu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Afratu\u25b7"
+        }
+    ],
+    "dialogue": true
+}

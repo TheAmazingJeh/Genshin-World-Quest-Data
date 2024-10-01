@@ -1,0 +1,99 @@
+{
+    "type": "single",
+    "name": "An Adeptal Summons",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Adeptal_Summons",
+    "starting_location": {
+        "plaintext": "Mt. Aocang , Liyue",
+        "markdown": "\u25c0Mt. Aocang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Aocang\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Farewell, Archaic Lord",
+        "markdown": "Complete \u25c0Farewell, Archaic Lord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Farewell,_Archaic_Lord\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Guide to Diligence",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Guide_to_Diligence",
+            "Image": "Item_Guide_to_Diligence.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Offer the Delicious Jewelry Soup",
+            "markdown": "Offer the Delicious \u25c0Jewelry Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jewelry_Soup\u25b7"
+        },
+        {
+            "plaintext": "Visit Cloud Retainer",
+            "markdown": "Visit \u25c0Cloud Retainer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cloud_Retainer\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Interact with the door to her domain to talk to her.",
+                    "markdown": "Interact with the door to her domain to talk to her."
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the Adeptus' abode and search for the \"Dwelling in the Clouds\" Blueprints",
+            "markdown": "Go to the Adeptus' abode and search for the \u25c0\"Dwelling in the Clouds\" Blueprints\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Dwelling_in_the_Clouds%22_Blueprints\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "The blueprints are located on the floating island on Qingyun Peak, unlocked by completing the Three Cranes Puzzle.",
+                    "markdown": "The blueprints are located on the floating island on \u25c0Qingyun Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingyun_Peak\u25b7, unlocked by completing the \u25c0Three Cranes Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Three_Cranes_Puzzle\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the blueprints to Cloud Retainer",
+            "markdown": "Give the blueprints to Cloud Retainer",
+            "substeps": [
+                {
+                    "plaintext": "Complete a time trial challenge. Reach the target location within 150 seconds (02:30 min). Slimes will spawn and grant +15 extra seconds per kill.",
+                    "markdown": "Complete a time trial challenge. Reach the target location within 150 seconds (02:30 min). Slimes will spawn and grant +15 extra seconds per kill."
+                },
+                {
+                    "plaintext": "Rotate CW/CCW \u2192 3 Hydro \u2192 3 Pyro \u2192 Rotate CW \u2192 Activate wind current \u2192 Return, 3 Electro \u2192 Return to middle platform, rotate CCW \u2192 3 Anemo \u2192 Rotate CCW \u2192 1 Electro, 1 Hydro, 1 Pyro \u2192 Rotate CW/CCW",
+                    "markdown": "Rotate CW/CCW \u2192 3 Hydro \u2192 3 Pyro \u2192 Rotate CW \u2192 Activate wind current \u2192 Return, 3 Electro \u2192 Return to middle platform, rotate CCW \u2192 3 Anemo \u2192 Rotate CCW \u2192 1 Electro, 1 Hydro, 1 Pyro \u2192 Rotate CW/CCW"
+                },
+                {
+                    "plaintext": "The puzzle can be skipped by using character abilities that allows the player to glide to the middle of the platform.",
+                    "markdown": "The puzzle can be skipped by using character abilities that allows the player to \u25c0glide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gliding\u25b7 to the middle of the platform."
+                }
+            ]
+        },
+        {
+            "plaintext": "Place the blueprints before Cloud Retainer",
+            "markdown": "Place the blueprints before Cloud Retainer"
+        }
+    ],
+    "dialogue": true
+}

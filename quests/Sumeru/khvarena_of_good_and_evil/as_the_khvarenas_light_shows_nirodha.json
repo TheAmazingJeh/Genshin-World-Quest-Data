@@ -1,0 +1,185 @@
+{
+    "type": "single",
+    "name": "As the Khvarena's Light Shows: Nirodha",
+    "url": "https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows%3A_Nirodha",
+    "starting_location": {
+        "plaintext": "Asipattravana Swamp , Sumeru",
+        "markdown": "\u25c0Asipattravana Swamp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asipattravana_Swamp\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Obtain the Great Song of Khvarena from the ruins",
+            "markdown": "Obtain the Great Song of Khvarena from the ruins"
+        },
+        {
+            "plaintext": "Go to the entrance to the underground ruins",
+            "markdown": "Go to the entrance to the underground ruins"
+        },
+        {
+            "plaintext": "Open the ruins' gate",
+            "markdown": "Open the ruins' gate"
+        },
+        {
+            "plaintext": "Enter the ruins",
+            "markdown": "Enter the ruins"
+        },
+        {
+            "plaintext": "Find Energy Block",
+            "markdown": "Find Energy Block"
+        },
+        {
+            "plaintext": "Return to the control center",
+            "markdown": "Return to the control center"
+        },
+        {
+            "plaintext": "Install Energy Block",
+            "markdown": "Install Energy Block"
+        },
+        {
+            "plaintext": "Go to the control center where the relays may be found",
+            "markdown": "Go to the control center where the relays may be found"
+        },
+        {
+            "plaintext": "Connect the circuit",
+            "markdown": "Connect the circuit"
+        },
+        {
+            "plaintext": "Investigate the door on the left side",
+            "markdown": "Investigate the door on the left side"
+        },
+        {
+            "plaintext": "Connect the circuit",
+            "markdown": "Connect the circuit"
+        },
+        {
+            "plaintext": "Go investigate the proving ground",
+            "markdown": "Go investigate the proving ground"
+        },
+        {
+            "plaintext": "Enter the proving ground",
+            "markdown": "Enter the proving ground"
+        },
+        {
+            "plaintext": "Examine the strange device",
+            "markdown": "Examine the strange device"
+        },
+        {
+            "plaintext": "Activate the Ruin Cannon",
+            "markdown": "Activate the Ruin Cannon"
+        },
+        {
+            "plaintext": "Defeat all opponents",
+            "markdown": "Defeat all opponents",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:",
+                    "markdown": "Wave 1:",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Guard x2",
+                            "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x2",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 2:",
+                    "markdown": "Wave 2:",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Cruiser x1",
+                            "markdown": "<img:ruin_cruiser> \u25c0Ruin Cruiser\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Cruiser\u25b7 x1",
+                            "img": {
+                                "ruin_cruiser": "Ruin_Cruiser_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Ruin Destroyer x1",
+                            "markdown": "<img:ruin_destroyer> \u25c0Ruin Destroyer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Destroyer\u25b7 x1",
+                            "img": {
+                                "ruin_destroyer": "Ruin_Destroyer_Icon.png"
+                            }
+                        },
+                        {
+                            "plaintext": "Ruin Defender x1",
+                            "markdown": "<img:ruin_defender> \u25c0Ruin Defender\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Defender\u25b7 x1",
+                            "img": {
+                                "ruin_defender": "Ruin_Defender_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "plaintext": "Wave 3:",
+                    "markdown": "Wave 3:",
+                    "substeps": [
+                        {
+                            "plaintext": "Ruin Drake: Skywatch x1",
+                            "markdown": "<img:ruin_drake_skywatch> \u25c0Ruin Drake: Skywatch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Drake:_Skywatch\u25b7 x1",
+                            "img": {
+                                "ruin_drake_skywatch": "Ruin_Drake_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "plaintext": "Use the Ruin Cannon to destroy the Golem's core",
+            "markdown": "Use the Ruin Cannon to destroy the Golem's core"
+        },
+        {
+            "plaintext": "Examine the opened device",
+            "markdown": "Examine the opened device"
+        },
+        {
+            "plaintext": "Obtain the Great Song of Khvarena",
+            "markdown": "Obtain the Great Song of Khvarena"
+        },
+        {
+            "plaintext": "Leave the proving ground",
+            "markdown": "Leave the proving ground"
+        }
+    ],
+    "dialogue": true
+}

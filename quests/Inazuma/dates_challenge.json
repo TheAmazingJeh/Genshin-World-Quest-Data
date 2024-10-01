@@ -1,0 +1,70 @@
+{
+    "type": "single",
+    "name": "Date's Challenge",
+    "url": "https://genshin-impact.fandom.com/wiki/Date%27s_Challenge",
+    "starting_location": {
+        "plaintext": "Evernight Temple , Enkanomiya , Inazuma",
+        "markdown": "\u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "The Subterranean Trials of Drake and Serpent",
+        "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Teleport to the northeastern-most waypoint at Evernight Temple",
+            "markdown": "Teleport to the northeastern-most waypoint at \u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7"
+        },
+        {
+            "plaintext": "Head east towards a labyrinth puzzle and interact with a mechanism to switch to Whitenight if not already in Whitenight",
+            "markdown": "Head east towards a labyrinth puzzle and interact with a mechanism to switch to \u25c0Whitenight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whitenight\u25b7 if not already in Whitenight"
+        },
+        {
+            "plaintext": "There are two Triangular Mechanisms, hit both of them just once to solve the puzzle",
+            "markdown": "There are two \u25c0Triangular Mechanisms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Triangular_Mechanism\u25b7, hit both of them just once to solve the puzzle"
+        },
+        {
+            "plaintext": "Switch back to Evernight",
+            "markdown": "Switch back to \u25c0Evernight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight\u25b7"
+        },
+        {
+            "plaintext": "Navigate through the labyrinth and activate the four Hydro Monuments to open the floor gate in the center of the labyrinth.",
+            "markdown": "Navigate through the labyrinth and activate the four \u25c0Hydro Monuments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Monument\u25b7 to open the floor gate in the center of the labyrinth."
+        },
+        {
+            "plaintext": "Go through the floor gate and open the chest to obtain  Date's Medal of Recognition",
+            "markdown": "Go through the floor gate and open the chest to obtain <img:dates_medal_of_recognition> \u25c0Date's Medal of Recognition\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Date%27s_Medal_of_Recognition\u25b7",
+            "img": {
+                "dates_medal_of_recognition": "Item_Date%27s_Medal_of_Recognition.png"
+            }
+        },
+        {
+            "plaintext": "Talk to the nearby Shade of Tokoyo to start this World Quest",
+            "markdown": "Talk to the nearby \u25c0Shade of Tokoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shade_of_Tokoyo\u25b7 to start this World Quest"
+        }
+    ],
+    "dialogue": true
+}

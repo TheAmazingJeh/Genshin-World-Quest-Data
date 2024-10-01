@@ -1,0 +1,63 @@
+{
+    "type": "single",
+    "name": "Question and Answer",
+    "url": "https://genshin-impact.fandom.com/wiki/Question_and_Answer",
+    "starting_location": {
+        "plaintext": "Mondstadt , Mondstadt",
+        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Reach Adventure Rank 24",
+        "markdown": "Reach \u25c0Adventure Rank\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventure_Rank\u25b7 24"
+    },
+    "rewards": [
+        {
+            "Name": "Mondstadt Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Reputation_EXP",
+            "Image": "Item_Mondstadt_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Knights of Favonius Handbook - 5th Edition",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Knights_of_Favonius_Handbook_-_5th_Edition",
+            "Image": "Book_Knights_of_Favonius_Handbook_-_5th_Edition.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Mondstadt Hash Brown",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mondstadt_Hash_Brown",
+            "Image": "Item_Mondstadt_Hash_Brown.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Swan",
+            "markdown": "Talk to \u25c0Swan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swan\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "The correct answers are, in order: Stormterror's Lair, Strange yet respectable traveler, and Acting Grand Master",
+                    "markdown": "The correct answers are, in order: Stormterror's Lair, Strange yet respectable traveler, and Acting Grand Master"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

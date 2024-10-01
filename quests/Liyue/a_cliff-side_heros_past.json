@@ -1,0 +1,104 @@
+{
+    "type": "single",
+    "name": "A Cliff-Side Hero's Past",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Cliff-Side_Hero%27s_Past",
+    "starting_location": {
+        "plaintext": "Cinnabar Cliff , The Chasm",
+        "markdown": "\u25c0Cinnabar Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cinnabar_Cliff\u25b7 , \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Started The Millennial Mountains quest",
+        "markdown": "Started \u25c0The Millennial Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Millennial_Mountains\u25b7 quest"
+    },
+    "rewards": [
+        {
+            "Name": "Liyue Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Liyue_Reputation_EXP",
+            "Image": "Item_Liyue_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Defeat Tang Wuchou, self-proclaimed Guhua disciple",
+            "markdown": "Defeat \u25c0Tang Wuchou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tang_Wuchou\u25b7, self-proclaimed Guhua disciple",
+            "substeps": [
+                {
+                    "plaintext": "Tang Wuchou - (Self Proclaimed) Guhua Hero",
+                    "markdown": "<img:treasure_hoarders_carmen> \u25c0Tang Wuchou - (Self Proclaimed) Guhua Hero\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Carmen\u25b7",
+                    "img": {
+                        "treasure_hoarders_carmen": "Treasure_Hoarder_Gravedigger_2_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Give the  Bird Egg to Tang Wuchou in exchange for the jade pendant",
+            "markdown": "Give the <img:bird_egg> \u25c0Bird Egg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bird_Egg\u25b7 to Tang Wuchou in exchange for the jade pendant",
+            "img": {
+                "bird_egg": "Item_Bird_Egg.png"
+            }
+        },
+        {
+            "plaintext": "Look for Old Chou",
+            "markdown": "Look for \u25c0Old Chou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Chou\u25b7"
+        },
+        {
+            "plaintext": "Dig for treasure once to get Old Chou's compensatory gift",
+            "markdown": "Dig for treasure once to get Old Chou's compensatory gift",
+            "substeps": [
+                {
+                    "plaintext": "Obtain  Bag of Ornaments",
+                    "markdown": "Obtain <img:bag_of_ornaments> \u25c0Bag of Ornaments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bag_of_Ornaments\u25b7",
+                    "img": {
+                        "bag_of_ornaments": "Item_Sack.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Old Chou",
+            "markdown": "Talk to Old Chou",
+            "substeps": [
+                {
+                    "plaintext": "You will be given the option to teleport back to Tang Wuchou.",
+                    "markdown": "You will be given the option to teleport back to Tang Wuchou."
+                }
+            ]
+        },
+        {
+            "plaintext": "Tell Tang Wuchou about Old Chou",
+            "markdown": "Tell Tang Wuchou about Old Chou"
+        }
+    ],
+    "dialogue": true
+}

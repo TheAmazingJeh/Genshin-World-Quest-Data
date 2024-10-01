@@ -1,0 +1,73 @@
+{
+    "type": "single",
+    "name": "Orobashi's Legacy: Part I",
+    "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy%3A_Part_I",
+    "starting_location": {
+        "plaintext": "Fort Fujitou",
+        "markdown": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Observe the ward",
+            "markdown": "Observe the \u25c0ward\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Pillar\u25b7"
+        },
+        {
+            "plaintext": "Search for the missing part to repair the ward",
+            "markdown": "Search for the missing part to repair the ward",
+            "substeps": [
+                {
+                    "plaintext": "Solve the Sacred Stone Puzzle",
+                    "markdown": "Solve the \u25c0Sacred Stone Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Stone_Puzzle\u25b7"
+                },
+                {
+                    "plaintext": "Direct the Sacred Stone Mound to the nearest Thunderbearer Mirror, until the lowest Thunderbearer Mirror facing the Rock Pillar Pearl inside the water domain. Next, attack the Sacred Stone Mound to fire the electric current to complete the puzzle.",
+                    "markdown": "Direct the Sacred Stone Mound to the nearest Thunderbearer Mirror, until the lowest Thunderbearer Mirror facing the Rock Pillar Pearl inside the water domain. Next, attack the Sacred Stone Mound to fire the electric current to complete the puzzle."
+                },
+                {
+                    "plaintext": "Obtain Musoujin Gorge: Rock Pillar Pearl and Musoujin Gorge: Rock Pillar Warding Stone",
+                    "markdown": "Obtain \u25c0Musoujin Gorge: Rock Pillar Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Musoujin_Gorge:_Rock_Pillar_Pearl\u25b7 and \u25c0Musoujin Gorge: Rock Pillar Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Musoujin_Gorge:_Rock_Pillar_Warding_Stone\u25b7"
+                }
+            ]
+        },
+        {
+            "plaintext": "Submit the missing parts to the ward",
+            "markdown": "Submit the missing parts to the ward"
+        },
+        {
+            "plaintext": "Go back and talk to Kaji",
+            "markdown": "Go back and talk to Kaji"
+        }
+    ],
+    "dialogue": true
+}

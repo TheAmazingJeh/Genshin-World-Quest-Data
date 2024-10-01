@@ -1,0 +1,127 @@
+{
+    "type": "single",
+    "name": "Dual Evidence",
+    "url": "https://genshin-impact.fandom.com/wiki/Dual_Evidence",
+    "starting_location": {
+        "plaintext": "Aaru Village , Sumeru",
+        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete Golden Slumber",
+        "markdown": "Complete \u25c0Golden Slumber\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Slumber\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "500",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "60",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "40,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter Aaru Village with Kalantari",
+            "markdown": "Enter \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 with \u25c0Kalantari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kalantari\u25b7"
+        },
+        {
+            "plaintext": "Talk to Soheil",
+            "markdown": "Talk to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
+        },
+        {
+            "plaintext": "Go to the location indicated by the stone slate",
+            "markdown": "Go to \u25c0the location indicated by the stone slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Duat_Hall\u25b7"
+        },
+        {
+            "plaintext": "Follow the stone slate's guidance and obtain full clearance (0/3)",
+            "markdown": "Follow \u25c0the stone slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Sand_Slate\u25b7's guidance and obtain full clearance (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Explore the Place of Rebirth, Place of Breath, and Place of Swallowing ruins",
+                    "markdown": "Explore the \u25c0Place of Rebirth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Rebirth\u25b7, \u25c0Place of Breath\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Breath\u25b7, and \u25c0Place of Swallowing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Swallowing\u25b7 ruins"
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to the Great Hall of Truths following the guidance of the slate",
+            "markdown": "Head to the Great Hall of Truths following the guidance of the slate"
+        },
+        {
+            "plaintext": "Examine the giant device",
+            "markdown": "Examine the giant device"
+        },
+        {
+            "plaintext": "Explore the area and find a way to activate the giant device",
+            "markdown": "Explore the area and find a way to activate the giant device"
+        },
+        {
+            "plaintext": "Continue forward",
+            "markdown": "Continue forward"
+        },
+        {
+            "plaintext": "Light the Primal Torches (0/3)",
+            "markdown": "Light the Primal Torches (0/3)"
+        },
+        {
+            "plaintext": "Activate the device",
+            "markdown": "Activate the device"
+        },
+        {
+            "plaintext": "Defeat the \"big guy with evil intentions\"",
+            "markdown": "Defeat the \"big guy with evil intentions\"",
+            "substeps": [
+                {
+                    "plaintext": "Field Annihilation Array: The Evincing Shadow",
+                    "markdown": "<img:algorithm_of_semi-intransient_matrix_of_overseer_network> \u25c0Field Annihilation Array: The Evincing Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network\u25b7",
+                    "img": {
+                        "algorithm_of_semi-intransient_matrix_of_overseer_network": "Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Look for valuable items",
+            "markdown": "Look for valuable items"
+        },
+        {
+            "plaintext": "Return to Aaru Village and talk to Soheil",
+            "markdown": "Return to Aaru Village and talk to Soheil"
+        }
+    ],
+    "dialogue": true
+}

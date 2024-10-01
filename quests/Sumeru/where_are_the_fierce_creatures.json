@@ -1,0 +1,82 @@
+{
+    "type": "single",
+    "name": "Where Are the Fierce Creatures?",
+    "url": "https://genshin-impact.fandom.com/wiki/Where_Are_the_Fierce_Creatures%3F",
+    "starting_location": {
+        "plaintext": "Lokapala Jungle , Sumeru",
+        "markdown": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Talk to Santon and kill creatures described by him",
+        "markdown": "Talk to Santon and kill creatures described by him"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Santon located south of the Palace of Alcazarzaray.",
+            "markdown": "Talk to \u25c0Santon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Santon\u25b7 located south of \u25c0the Palace of Alcazarzaray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Palace_of_Alcazarzaray\u25b7."
+        },
+        {
+            "plaintext": "Kill the 3 fierce creatures in any order",
+            "markdown": "Kill the 3 fierce creatures in any order",
+            "substeps": [
+                {
+                    "plaintext": "Gator Raja \u2014 Oversized Gator: In a lake located east of Sumeru City.",
+                    "markdown": "Gator Raja \u2014 Oversized Gator: In a lake located east of \u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7."
+                },
+                {
+                    "plaintext": "Sumpter Beastlord \u2014 Giant Blockading Sumpter Beast: In a cave located southeast of the Spire of Solitary Enlightenment domain, and southwest of The Chasm's Statue of The Seven. Upon approaching its location, Paimon will remark that the Sumpter Beastlord should be nearby.",
+                    "markdown": "Sumpter Beastlord \u2014 Giant Blockading Sumpter Beast: In a cave located southeast of the \u25c0Spire of Solitary Enlightenment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spire_of_Solitary_Enlightenment\u25b7 domain, and southwest of \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7's \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7. Upon approaching its location, Paimon will remark that the Sumpter Beastlord should be nearby."
+                },
+                {
+                    "plaintext": "Rishboland Raja \u2014 Alleged Child-Napper, Rishboland Tiger: Place  Fowl x1 in the plate next to the Notice located southwest of the Steeple of Ignorance domain, then change the time to between 21:00 and 03:00.",
+                    "markdown": "Rishboland Raja \u2014 Alleged Child-Napper, Rishboland Tiger: Place <img:fowl> \u25c0Fowl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fowl\u25b7 x1 in the plate next to the Notice located southwest of the \u25c0Steeple of Ignorance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Steeple_of_Ignorance\u25b7 domain, then change the time to between 21:00 and 03:00.",
+                    "img": {
+                        "fowl": "Item_Fowl.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Santon",
+            "markdown": "Talk to Santon"
+        }
+    ],
+    "dialogue": true
+}

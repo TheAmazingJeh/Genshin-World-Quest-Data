@@ -1,0 +1,36 @@
+{
+    "type": "single",
+    "name": "The Commission's Commission",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Commission%27s_Commission",
+    "starting_location": {
+        "plaintext": "Kamisato Estate , Narukami Island , Inazuma",
+        "markdown": "\u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete A Flower Blooms in a Prison",
+        "markdown": "Complete \u25c0A Flower Blooms in a Prison\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Flower_Blooms_in_a_Prison\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Madarame Hyakubei",
+            "markdown": "Talk to \u25c0Madarame Hyakubei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Madarame_Hyakubei\u25b7"
+        }
+    ],
+    "dialogue": true
+}

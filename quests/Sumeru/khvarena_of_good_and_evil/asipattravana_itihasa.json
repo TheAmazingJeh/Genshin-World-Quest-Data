@@ -1,0 +1,134 @@
+{
+    "type": "single",
+    "name": "Asipattravana Itihasa",
+    "url": "https://genshin-impact.fandom.com/wiki/Asipattravana_Itihasa",
+    "starting_location": {
+        "plaintext": "Asipattravana Swamp , Sumeru",
+        "markdown": "\u25c0Asipattravana Swamp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asipattravana_Swamp\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to Asipattravana Swamp to search for Mihir",
+            "markdown": "Go to Asipattravana Swamp to search for \u25c0Mihir\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mihir\u25b7"
+        },
+        {
+            "plaintext": "Follow the floating Khvarena",
+            "markdown": "Follow the floating Khvarena"
+        },
+        {
+            "plaintext": "Awaken the power of Khvarena and disperse the purple mist",
+            "markdown": "Awaken the power of Khvarena and disperse the purple mist"
+        },
+        {
+            "plaintext": "Follow the floating Khvarena",
+            "markdown": "Follow the floating Khvarena"
+        },
+        {
+            "plaintext": "Awaken the power of Khvarena and disperse the purple mist",
+            "markdown": "Awaken the power of Khvarena and disperse the purple mist"
+        },
+        {
+            "plaintext": "Follow the floating Khvarena",
+            "markdown": "Follow the floating Khvarena"
+        },
+        {
+            "plaintext": "Look for Mihir",
+            "markdown": "Look for Mihir"
+        },
+        {
+            "plaintext": "Talk to Sorush",
+            "markdown": "Talk to Sorush"
+        },
+        {
+            "plaintext": "Find a way to disperse the purple mist and save Mihir",
+            "markdown": "Find a way to disperse the purple mist and save Mihir",
+            "substeps": [
+                {
+                    "plaintext": "Hydro Abyss Mage x1",
+                    "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
+                    "img": {
+                        "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Pyro Hilichurl Shooter x2",
+                    "markdown": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 x2",
+                    "img": {
+                        "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Mihir",
+            "markdown": "Talk to Mihir"
+        },
+        {
+            "plaintext": "Escort Mihir to the location above",
+            "markdown": "Escort Mihir to the location above",
+            "substeps": [
+                {
+                    "plaintext": "Hydro Hilichurl Rogue x1",
+                    "markdown": "<img:hydro_hilichurl_rogue> \u25c0Hydro Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Hilichurl_Rogue\u25b7 x1",
+                    "img": {
+                        "hydro_hilichurl_rogue": "Hydro_Hilichurl_Rogue_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hilichurl Shooter x2",
+                    "markdown": "<img:hilichurl_shooter> \u25c0Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Shooter\u25b7 x2",
+                    "img": {
+                        "hilichurl_shooter": "Hilichurl_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Go to the Vourukasha Oasis",
+            "markdown": "Go to the \u25c0Vourukasha Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vourukasha_Oasis\u25b7"
+        },
+        {
+            "plaintext": "Talk to Mihir",
+            "markdown": "Talk to Mihir"
+        }
+    ],
+    "dialogue": true
+}

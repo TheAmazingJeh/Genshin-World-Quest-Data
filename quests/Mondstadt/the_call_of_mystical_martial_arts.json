@@ -1,0 +1,65 @@
+{
+    "type": "single",
+    "name": "The Call of Mystical Martial Arts",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Call_of_Mystical_Martial_Arts",
+    "starting_location": null,
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go to Windwail Highland",
+            "markdown": "Go to Windwail Highland"
+        },
+        {
+            "plaintext": "Save the adventurer",
+            "markdown": "Save the adventurer"
+        },
+        {
+            "plaintext": "Talk to the adventurer",
+            "markdown": "Talk to the adventurer"
+        },
+        {
+            "plaintext": "Continue forward with Gesine",
+            "markdown": "Continue forward with Gesine"
+        },
+        {
+            "plaintext": "Go to the Stone Gate",
+            "markdown": "Go to the Stone Gate"
+        },
+        {
+            "plaintext": "Take a commemorative photo nearby",
+            "markdown": "Take a commemorative photo nearby"
+        },
+        {
+            "plaintext": "Talk to Gesine",
+            "markdown": "Talk to Gesine"
+        },
+        {
+            "plaintext": "Arrive at Wangshu Inn",
+            "markdown": "Arrive at Wangshu Inn"
+        }
+    ],
+    "dialogue": true
+}

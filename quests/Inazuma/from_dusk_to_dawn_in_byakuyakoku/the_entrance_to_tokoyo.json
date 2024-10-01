@@ -1,0 +1,85 @@
+{
+    "type": "single",
+    "name": "The Entrance to Tokoyo",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Entrance_to_Tokoyo",
+    "starting_location": {
+        "plaintext": "Enkanomiya",
+        "markdown": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Go deeper into the cave",
+            "markdown": "Go deeper into the cave"
+        },
+        {
+            "plaintext": "Go to the building up ahead",
+            "markdown": "Go to the building up ahead"
+        },
+        {
+            "plaintext": "Investigate the nearby area and search for clues (0/5)",
+            "markdown": "Investigate the nearby area and search for clues (0/5)",
+            "substeps": [
+                {
+                    "plaintext": "The clues are seals in the shape of Key Sigils.",
+                    "markdown": "The clues are seals in the shape of \u25c0Key Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_Sigil\u25b7."
+                }
+            ]
+        },
+        {
+            "plaintext": "Investigate the mechanism and activate the gate",
+            "markdown": "Investigate the mechanism and activate the gate"
+        },
+        {
+            "plaintext": "Examine the great gate and look for a way to progress",
+            "markdown": "Examine the great gate and look for a way to progress"
+        },
+        {
+            "plaintext": "Investigate the hidden path",
+            "markdown": "Investigate the hidden path"
+        },
+        {
+            "plaintext": "Go to the door",
+            "markdown": "Go to the door"
+        },
+        {
+            "plaintext": "Use the Key of the Moon-Bathed Deep to open the door",
+            "markdown": "Use the \u25c0Key of the Moon-Bathed Deep\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_of_the_Moon-Bathed_Deep\u25b7 to open the door"
+        },
+        {
+            "plaintext": "Open the door",
+            "markdown": "Open the door"
+        }
+    ],
+    "dialogue": true
+}

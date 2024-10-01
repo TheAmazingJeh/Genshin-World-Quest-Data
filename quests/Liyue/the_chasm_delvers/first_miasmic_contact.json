@@ -1,0 +1,71 @@
+{
+    "type": "single",
+    "name": "First Miasmic Contact",
+    "url": "https://genshin-impact.fandom.com/wiki/First_Miasmic_Contact",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines , Liyue",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Head to investigate the site of the first anomaly",
+            "markdown": "Head to investigate the site of the first anomaly"
+        },
+        {
+            "plaintext": "Defeat the monsters influenced by the dark mud",
+            "markdown": "Defeat the monsters influenced by the dark mud",
+            "substeps": [
+                {
+                    "plaintext": "Pyro Abyss Mage x1",
+                    "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                    "img": {
+                        "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Hydro Abyss Mage x1",
+                    "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
+                    "img": {
+                        "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Head to investigate the site of the second anomaly",
+            "markdown": "Head to investigate the site of the second anomaly"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,93 @@
+{
+    "type": "single",
+    "name": "Join the Eremites and Embrace a Wonderful New Life!",
+    "url": "https://genshin-impact.fandom.com/wiki/Join_the_Eremites_and_Embrace_a_Wonderful_New_Life%21",
+    "starting_location": {
+        "plaintext": "Aaru Village , Sumeru",
+        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete King Deshret and the Three Magi",
+        "markdown": "Complete \u25c0King Deshret and the Three Magi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/King_Deshret_and_the_Three_Magi\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Wait till daytime (6:00 \u2013 19:00)",
+            "markdown": "Wait till daytime (6:00 \u2013 19:00)"
+        },
+        {
+            "plaintext": "Talk to Sania",
+            "markdown": "Talk to \u25c0Sania\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sania\u25b7"
+        },
+        {
+            "plaintext": "Talk to Fodil",
+            "markdown": "Talk to \u25c0Fodil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fodil\u25b7"
+        },
+        {
+            "plaintext": "Go back and take a break",
+            "markdown": "Go back and take a break"
+        },
+        {
+            "plaintext": "Demonstrate for Ayten and Karima",
+            "markdown": "Demonstrate for \u25c0Ayten\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ayten\u25b7 and \u25c0Karima\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Karima\u25b7",
+            "substeps": [
+                {
+                    "plaintext": "Finish reaching all marked points within 120 seconds.",
+                    "markdown": "Finish reaching all marked points within 120 seconds."
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Ayten and Karima",
+            "markdown": "Talk to Ayten and Karima"
+        },
+        {
+            "plaintext": "Defeat all monsters",
+            "markdown": "Defeat all monsters",
+            "substeps": [
+                {
+                    "plaintext": "Scorpion x3",
+                    "markdown": "<img:scorpion> \u25c0Scorpion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scorpion\u25b7 x3",
+                    "img": {
+                        "scorpion": "Scorpion_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to Ayten and Karima",
+            "markdown": "Talk to Ayten and Karima"
+        }
+    ],
+    "dialogue": true
+}

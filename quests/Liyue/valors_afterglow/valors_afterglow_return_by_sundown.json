@@ -1,0 +1,77 @@
+{
+    "type": "single",
+    "name": "Valor's Afterglow: Return by Sundown",
+    "url": "https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow%3A_Return_by_Sundown",
+    "starting_location": {
+        "plaintext": "The Chasm: Underground Mines",
+        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to the distressed Jinwu",
+            "markdown": "Talk to the distressed \u25c0Jinwu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinwu\u25b7"
+        },
+        {
+            "plaintext": "Go to the beacon placement sites to look for Zhiqiong (0/5)",
+            "markdown": "Go to the beacon placement sites to look for \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7 (0/5)",
+            "substeps": [
+                {
+                    "plaintext": "Zhiqiong is at the beacon placement site south of Stony Halls. The remaining placement sites, if any are left, do not need to be checked once the player finds Zhiqiong.",
+                    "markdown": "Zhiqiong is at the beacon placement site south of \u25c0Stony Halls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stony_Halls\u25b7. The remaining placement sites, if any are left, do not need to be checked once the player finds Zhiqiong."
+                }
+            ]
+        },
+        {
+            "plaintext": "Defeat the monsters around Zhiqiong",
+            "markdown": "Defeat the monsters around Zhiqiong"
+        },
+        {
+            "plaintext": "Talk to Zhiqiong",
+            "markdown": "Talk to Zhiqiong"
+        },
+        {
+            "plaintext": "Talk to Jinwu",
+            "markdown": "Talk to Jinwu"
+        },
+        {
+            "plaintext": "Pass Jinwu's soup to Zhiqiong",
+            "markdown": "Pass Jinwu's soup to Zhiqiong"
+        },
+        {
+            "plaintext": "Talk to Zhiqiong, who has woken up",
+            "markdown": "Talk to Zhiqiong, who has woken up"
+        }
+    ],
+    "dialogue": true
+}

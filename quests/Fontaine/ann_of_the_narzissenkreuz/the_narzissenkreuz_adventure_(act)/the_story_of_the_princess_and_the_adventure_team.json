@@ -1,0 +1,125 @@
+{
+    "type": "single",
+    "name": "The Story of \"the Princess\" and \"the Adventure Team\"",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Story_of_%22the_Princess%22_and_%22the_Adventure_Team%22",
+    "starting_location": {
+        "plaintext": "Annapausis , Fontaine",
+        "markdown": "\u25c0Annapausis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annapausis\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Enter the bubble",
+            "markdown": "Enter the bubble"
+        },
+        {
+            "plaintext": "Break the \"treasure\" seal (0/3)",
+            "markdown": "Break the \"treasure\" seal (0/3)",
+            "substeps": [
+                {
+                    "plaintext": "Bubbly Seahorse x3",
+                    "markdown": "<img:bubbly_seahorse> \u25c0Bubbly Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbly_Seahorse\u25b7 x3",
+                    "img": {
+                        "bubbly_seahorse": "Bubbly_Seahorse_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Bubbler Seahorse x1",
+                    "markdown": "<img:bubbler_seahorse> \u25c0Bubbler Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbler_Seahorse\u25b7 x1",
+                    "img": {
+                        "bubbler_seahorse": "Bubbler_Seahorse_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Obtain the treasure",
+            "markdown": "Obtain the treasure"
+        },
+        {
+            "plaintext": "Enter the tower",
+            "markdown": "Enter the tower"
+        },
+        {
+            "plaintext": "Defeat Narcissus's minions!",
+            "markdown": "Defeat \u25c0Narcissus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narzissenkreuz\u25b7's minions!",
+            "substeps": [
+                {
+                    "plaintext": "Wave 1:  \"Villain\" \u2014 Divine King of Narcissus x1",
+                    "markdown": "Wave 1: <img:tainted_water-spouting_phantasm> \u25c0\"Villain\" \u2014 Divine King of Narcissus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x1",
+                    "img": {
+                        "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 2:  \"Villain\" \u2014 Divine King of Narcissus x1",
+                    "markdown": "Wave 2: <img:tainted_water-spouting_phantasm> \u25c0\"Villain\" \u2014 Divine King of Narcissus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x1",
+                    "img": {
+                        "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
+                    }
+                },
+                {
+                    "plaintext": "Wave 3:  \"Villain\" x2",
+                    "markdown": "Wave 3: <img:tainted_water-spouting_phantasm> \u25c0\"Villain\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x2",
+                    "img": {
+                        "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
+                    }
+                }
+            ]
+        },
+        {
+            "plaintext": "Talk to the Narzissenkreuz Adventure Team",
+            "markdown": "Talk to the Narzissenkreuz Adventure Team"
+        },
+        {
+            "plaintext": "Enter the bubble",
+            "markdown": "Enter the bubble"
+        },
+        {
+            "plaintext": "Reach the top floor of the tower",
+            "markdown": "Reach the top floor of the tower"
+        },
+        {
+            "plaintext": "Head to the unknown",
+            "markdown": "Head to the unknown"
+        }
+    ],
+    "dialogue": true
+}

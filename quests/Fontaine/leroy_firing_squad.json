@@ -1,0 +1,55 @@
+{
+    "type": "single",
+    "name": "Leroy: Firing Squad",
+    "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Firing_Squad",
+    "starting_location": {
+        "plaintext": "Court of Fontaine: Vasari Passage , Fontaine",
+        "markdown": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Fruity Trio",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Fruity_Trio",
+            "Image": "Item_Fruity_Trio.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Benoit",
+            "markdown": "Talk to Benoit"
+        },
+        {
+            "plaintext": "Clean around the house (0/3)",
+            "markdown": "Clean around the house (0/3)"
+        },
+        {
+            "plaintext": "Report back to Benoit",
+            "markdown": "Report back to Benoit"
+        }
+    ],
+    "dialogue": true
+}

@@ -1,0 +1,66 @@
+{
+    "type": "single",
+    "name": "Garcia's Paean: A Gift of Compatibility",
+    "url": "https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean%3A_A_Gift_of_Compatibility",
+    "starting_location": {
+        "plaintext": "Treasures Street , Sumeru",
+        "markdown": "\u25c0Treasures Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_Street\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Obtain the Wonders of the World achievement Principia Arithmetica",
+        "markdown": "Obtain the \u25c0Wonders of the World\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wonders_of_the_World\u25b7 achievement \u25c0Principia Arithmetica\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Principia_Arithmetica\u25b7"
+    },
+    "rewards": [
+        {
+            "Name": "Sumeru Reputation EXP",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Sumeru_Reputation_EXP",
+            "Image": "Item_Sumeru_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "plaintext": "Talk to Garcia",
+            "markdown": "Talk to \u25c0Garcia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Garcia\u25b7"
+        },
+        {
+            "plaintext": "Talk to Garcia",
+            "markdown": "Talk to Garcia"
+        },
+        {
+            "plaintext": "Talk to Sheikh Zubayr",
+            "markdown": "Talk to \u25c0Sheikh Zubayr\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sheikh_Zubayr\u25b7"
+        },
+        {
+            "plaintext": "Talk to Garcia",
+            "markdown": "Talk to Garcia"
+        },
+        {
+            "plaintext": "Go back to the caf\u00e9, now!",
+            "markdown": "Go back to the caf\u00e9, now!"
+        }
+    ],
+    "dialogue": true
+}
