@@ -1,0 +1,1 @@
+# Genshin-World-Quest-Data
