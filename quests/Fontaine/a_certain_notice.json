@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Certain Notice",
     "url": "https://genshin-impact.fandom.com/wiki/A_Certain_Notice",
     "starting_location": {
-        "plaintext": "Palais Mermonia , , Fontaine .",
-        "markdown": "\u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7 , , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7 ."
+        "text": "\u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7 , , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7 ."
     },
     "requirements": {
         "plaintext": "Complete As Light Rain Falls Without Reason",
@@ -42,28 +42,43 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Gattineo / Difor",
-            "markdown": "Talk to \u25c0Gattineo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gattineo\u25b7 / \u25c0Difor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Difor\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "The NPC to talk to will be determined by the player's answer to Iaune.",
-                    "markdown": "The NPC to talk to will be determined by the player's answer to Iaune."
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Iaune\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iaune\u25b7 inside \u25c0Palais Mermonia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palais_Mermonia\u25b7."
         },
         {
-            "plaintext": "Talk to Difor / Gattineo",
-            "markdown": "Talk to Difor / Gattineo",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The NPC to talk to will be the NPC that was not chosen when talking to Iaune.",
-                    "markdown": "The NPC to talk to will be the NPC that was not chosen when talking to Iaune."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Gattineo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gattineo\u25b7 / \u25c0Difor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Difor\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The NPC to talk to will be determined by the player's answer to Iaune."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Difor / Gattineo"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The NPC to talk to will be the NPC that was not chosen when talking to Iaune."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Roialte\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Roialte\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Roialte",
-            "markdown": "Talk to \u25c0Roialte\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Roialte\u25b7"
         }
     ],
     "dialogue": true

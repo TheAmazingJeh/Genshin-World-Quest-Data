@@ -1,0 +1,94 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Stones, Coconuts, and Saurian Traffickers",
+    "url": "https://genshin-impact.fandom.com/wiki/Stones%2C_Coconuts%2C_and_Saurian_Traffickers",
+    "starting_location": {
+        "text": "\u25c0Tezcatepetonco Range\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tezcatepetonco_Range\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "\"Little One, Great Hero!\"",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Little_One,_Great_Hero!%22",
+            "Image": "Item_Little_One%2C_Great_Hero%21_Aether.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Gather materials to build the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a way to communicate with King Coconut and the other \u25c0Saurian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saurian\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Scout the area where the Saurian traffickers operate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait for your Saurian companion to act"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the opposing leader"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:iktomisaurus_warrior_cryocrystal_cannon> \u25c0Gilded Dragonclaw: Oeno \u2014 Evil Profiteer Who Betrayed Their Saurian Companion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iktomisaurus_Warrior:_Cryocrystal_Cannon\u25b7",
+                            "img": {
+                                "iktomisaurus_warrior_cryocrystal_cannon": "Iktomisaurus_Warrior_Cryocrystal_Cannon_Icon.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

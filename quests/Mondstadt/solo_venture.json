@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Solo Venture",
     "url": "https://genshin-impact.fandom.com/wiki/Solo_Venture",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Did not accept A Fine Opportunity? before completing Prologue Act I: The Outlander Who Caught the Wind \u200d",
@@ -42,22 +42,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Jack",
-            "markdown": "Talk to \u25c0Jack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack\u25b7"
-        },
-        {
-            "plaintext": "Go to the Thousand Winds Temple and look for Jack's lost items (0/2)",
-            "markdown": "Go to the \u25c0Thousand Winds Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thousand_Winds_Temple\u25b7 and look for Jack's lost items (0/2)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Locate Jack's Map and Jack's Adventurer Handbook",
-                    "markdown": "Locate \u25c0Jack's Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack%27s_Map\u25b7 and \u25c0Jack's Adventurer Handbook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack%27s_Adventurer_Handbook\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Jack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Thousand Winds Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thousand_Winds_Temple\u25b7 and look for Jack's lost items (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Locate \u25c0Jack's Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack%27s_Map\u25b7 and \u25c0Jack's Adventurer Handbook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack%27s_Adventurer_Handbook\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Jack"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Jack",
-            "markdown": "Report back to Jack"
         }
     ],
     "dialogue": true

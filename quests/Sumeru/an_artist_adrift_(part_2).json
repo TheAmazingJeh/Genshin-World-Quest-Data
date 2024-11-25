@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "An Artist Adrift (Part 2)",
     "url": "https://genshin-impact.fandom.com/wiki/An_Artist_Adrift_%28Part_2%29",
     "starting_location": {
-        "plaintext": "Realm of Farakhkert , Sumeru",
-        "markdown": "\u25c0Realm of Farakhkert\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Realm_of_Farakhkert\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Realm of Farakhkert\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Realm_of_Farakhkert\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,68 +39,79 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the camp by the water",
-            "markdown": "Go to the camp by the water"
-        },
-        {
-            "plaintext": "Search for Julien",
-            "markdown": "Search for \u25c0Julien\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Julien\u25b7"
-        },
-        {
-            "plaintext": "Save Julien",
-            "markdown": "Save Julien",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wooden Shieldwall Mitachurl x1",
-                    "markdown": "<img:wooden_shieldwall_mitachurl> \u25c0Wooden Shieldwall Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shieldwall_Mitachurl\u25b7 x1",
-                    "img": {
-                        "wooden_shieldwall_mitachurl": "Mitachurl_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the camp by the water"
                 },
                 {
-                    "plaintext": "Hilichurl x2",
-                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x2",
-                    "img": {
-                        "hilichurl": "Hilichurl_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Julien",
-            "markdown": "Talk to Julien"
-        },
-        {
-            "plaintext": "Follow the path and look for the missing sketch",
-            "markdown": "Follow the path and look for the missing sketch",
-            "substeps": [
-                {
-                    "plaintext": "\"Critic-In-Waiting\" x1",
-                    "markdown": "<img:blazing_axe_mitachurl> \u25c0\"Critic-In-Waiting\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
-                    "img": {
-                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Search for \u25c0Julien\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Julien\u25b7"
                 },
                 {
-                    "plaintext": "Hilichurl x2",
-                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x2",
-                    "img": {
-                        "hilichurl": "Hilichurl_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Save Julien"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:wooden_shieldwall_mitachurl> \u25c0Wooden Shieldwall Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shieldwall_Mitachurl\u25b7 \u00d71",
+                            "img": {
+                                "wooden_shieldwall_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 \u00d72",
+                            "img": {
+                                "hilichurl": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Julien"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the path and look for the missing sketch"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:blazing_axe_mitachurl> \u25c0\"Critic-In-Waiting\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 \u00d71",
+                            "img": {
+                                "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 \u00d72",
+                            "img": {
+                                "hilichurl": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Pepper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pepper_(NPC)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the sketch"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the camp and talk to Julien"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Pepper",
-            "markdown": "Talk to \u25c0Pepper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pepper_(NPC)\u25b7"
-        },
-        {
-            "plaintext": "Retrieve the sketch",
-            "markdown": "Retrieve the sketch"
-        },
-        {
-            "plaintext": "Go to the camp and talk to Julien",
-            "markdown": "Go to the camp and talk to Julien"
         }
     ],
     "dialogue": true

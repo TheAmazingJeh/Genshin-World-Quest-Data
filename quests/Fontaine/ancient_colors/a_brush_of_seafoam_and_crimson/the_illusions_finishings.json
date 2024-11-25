@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Illusion's Finishings",
     "url": "https://genshin-impact.fandom.com/wiki/The_Illusion%27s_Finishings",
     "starting_location": {
-        "plaintext": "Elynas , Fontaine",
-        "markdown": "\u25c0Elynas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elynas\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Elynas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elynas\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,117 +46,140 @@
     ],
     "steps": [
         {
-            "plaintext": "Chase away the Eremites",
-            "markdown": "Chase away the Eremites",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Eremite Axe Vanguard x1",
-                    "markdown": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 x1",
-                    "img": {
-                        "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Eremite Crossbow x1",
-                    "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
-                    "img": {
-                        "eremite_crossbow": "Eremite_Crossbow_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Eremite Ravenbeak Halberdier x1",
-                    "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x1",
-                    "img": {
-                        "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Start the quest by approaching the Melusine near the \u25c0Elynas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elynas\u25b7 Statue of The Seven."
                 }
             ]
         },
         {
-            "plaintext": "Talk to the silent Melusine",
-            "markdown": "Talk to the silent Melusine"
-        },
-        {
-            "plaintext": "Go to Merusea Village",
-            "markdown": "Go to \u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7"
-        },
-        {
-            "plaintext": "Talk to Mamere",
-            "markdown": "Talk to \u25c0Mamere\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mamere\u25b7"
-        },
-        {
-            "plaintext": "Go to Mamere's house",
-            "markdown": "Go to Mamere's house"
-        },
-        {
-            "plaintext": "Walk around",
-            "markdown": "Walk around"
-        },
-        {
-            "plaintext": "Go to the place to collect the paint",
-            "markdown": "Go to the place to collect the paint",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Shatterstone Breacher Primus x2",
-                    "markdown": "<img:shatterstone_breacher_primus> \u25c0Shatterstone Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shatterstone_Breacher_Primus\u25b7 x2",
-                    "img": {
-                        "shatterstone_breacher_primus": "Shatterstone_Breacher_Primus_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Use the prisms to resonate with the ore",
-            "markdown": "Use the prisms to resonate with the ore"
-        },
-        {
-            "plaintext": "Use the prisms to resonate with the ore again",
-            "markdown": "Use the prisms to resonate with the ore again"
-        },
-        {
-            "plaintext": "Find Mamere",
-            "markdown": "Find Mamere"
-        },
-        {
-            "plaintext": "Head to the designated location",
-            "markdown": "Head to the designated location"
-        },
-        {
-            "plaintext": "Adjust the position of the prism to let it resonate with the ore (0/2)",
-            "markdown": "Adjust the position of the prism to let it resonate with the ore (0/2)"
-        },
-        {
-            "plaintext": "Talk to Mamere",
-            "markdown": "Talk to Mamere"
-        },
-        {
-            "plaintext": "Go to Mamere's house",
-            "markdown": "Go to Mamere's house"
-        },
-        {
-            "plaintext": "Defeat the Eremites",
-            "markdown": "Defeat the Eremites",
-            "substeps": [
-                {
-                    "plaintext": "Eremite Axe Vanguard x1",
-                    "markdown": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 x1",
-                    "img": {
-                        "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Chase away the Eremites"
                 },
                 {
-                    "plaintext": "Eremite Crossbow x1",
-                    "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
-                    "img": {
-                        "eremite_crossbow": "Eremite_Crossbow_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 \u00d71",
+                            "img": {
+                                "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d71",
+                            "img": {
+                                "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Eremite Ravenbeak Halberdier x1",
-                    "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x1",
-                    "img": {
-                        "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to the silent Melusine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Mamere\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mamere\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Mamere's house"
+                },
+                {
+                    "tag": "li",
+                    "text": "Walk around"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the place to collect the paint"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:shatterstone_breacher_primus> \u25c0Shatterstone Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shatterstone_Breacher_Primus\u25b7 \u00d72",
+                            "img": {
+                                "shatterstone_breacher_primus": "Shatterstone_Breacher_Primus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the prisms to resonate with the ore"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the prisms to resonate with the ore again"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find Mamere"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Adjust the position of the prism to let it resonate with the ore (0/2)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Mamere"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Mamere's house"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Eremites"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 \u00d71",
+                            "img": {
+                                "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d71",
+                            "img": {
+                                "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }

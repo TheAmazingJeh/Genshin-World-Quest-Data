@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Investigate the Fatui Camps Marked by Sosi",
     "url": "https://genshin-impact.fandom.com/wiki/Investigate_the_Fatui_Camps_Marked_by_Sosi",
     "starting_location": {
-        "plaintext": "Temir Mountains , Sumeru",
-        "markdown": "\u25c0Temir Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temir_Mountains\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Temir Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temir_Mountains\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,130 +46,147 @@
     ],
     "steps": [
         {
-            "plaintext": "Investigate the Fatui camps marked by Sosi",
-            "markdown": "Investigate the Fatui camps marked by Sosi",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
-                    "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Investigate the Fatui camps marked by Sosi"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Investigate the next Fatui camp",
-            "markdown": "Investigate the next Fatui camp",
-            "substeps": [
-                {
-                    "plaintext": "Fatui Electro Cicin Mage x1",
-                    "markdown": "<img:fatui_electro_cicin_mage> \u25c0Fatui Electro Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Electro_Cicin_Mage\u25b7 x1",
-                    "img": {
-                        "fatui_electro_cicin_mage": "Fatui_Electro_Cicin_Mage_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Investigate the next Fatui camp"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Cryogunner Legionnaire x1",
-                    "markdown": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_electro_cicin_mage> \u25c0Fatui Electro Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Electro_Cicin_Mage\u25b7 \u00d71",
+                            "img": {
+                                "fatui_electro_cicin_mage": "Fatui_Electro_Cicin_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Wait until noon (10:00 \u2013 14:00)",
-            "markdown": "Wait until noon (10:00 \u2013 14:00)"
-        },
-        {
-            "plaintext": "Go to the main camp",
-            "markdown": "Go to the main camp"
-        },
-        {
-            "plaintext": "Follow the footprints and search for clues",
-            "markdown": "Follow the footprints and search for clues"
-        },
-        {
-            "plaintext": "Defeat all opponents",
-            "markdown": "Defeat all opponents",
-            "substeps": [
-                {
-                    "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
-                    "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Wait until noon (10:00 \u2013 14:00)"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the main camp"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Continue forward and look for clues",
-            "markdown": "Continue forward and look for clues"
-        },
-        {
-            "plaintext": "Talk to the Fatui officer",
-            "markdown": "Talk to the Fatui officer"
-        },
-        {
-            "plaintext": "Defeat all opponents",
-            "markdown": "Defeat all opponents",
-            "substeps": [
-                {
-                    "plaintext": "Markozov \u2014 Leader of Those Pursuing Knowledge x1",
-                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Markozov \u2014 Leader of Those Pursuing Knowledge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Follow the footprints and search for clues"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Defeat all opponents"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue forward and look for clues"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Fatui officer"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Markozov \u2014 Leader of Those Pursuing Knowledge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }

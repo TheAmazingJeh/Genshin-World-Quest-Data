@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Truly Mouthwatering!",
     "url": "https://genshin-impact.fandom.com/wiki/Truly_Mouthwatering%21",
     "starting_location": {
-        "plaintext": "West Slopes of Mont Automnequi , Fontaine",
-        "markdown": "\u25c0West Slopes of Mont Automnequi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/West_Slopes_of_Mont_Automnequi\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0West Slopes of Mont Automnequi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/West_Slopes_of_Mont_Automnequi\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,16 +46,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Henri",
-            "markdown": "Talk to Henri"
-        },
-        {
-            "plaintext": "Investigate the vicinity (0/4)",
-            "markdown": "Investigate the vicinity (0/4)"
-        },
-        {
-            "plaintext": "Talk to Henri",
-            "markdown": "Talk to Henri"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Henri"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the vicinity (0/4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Henri"
+                }
+            ]
         }
     ],
     "dialogue": true

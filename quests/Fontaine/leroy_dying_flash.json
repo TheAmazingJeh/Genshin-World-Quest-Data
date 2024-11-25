@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Leroy: Dying Flash",
     "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Dying_Flash",
     "starting_location": {
-        "plaintext": "Court of Fontaine: Quartier Narbonnais , Fontaine",
-        "markdown": "\u25c0Court of Fontaine: Quartier Narbonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Narbonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine: Quartier Narbonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Narbonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Impromptu Poem of the Crimson Dawn Complete Questioning Melusine and Answering Machine",
@@ -42,16 +42,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for Mr. Leroy",
-            "markdown": "Look for Mr. Leroy"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Euphrasie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Euphrasie\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "Finish the work (0/3)",
-            "markdown": "Finish the work (0/3)"
-        },
-        {
-            "plaintext": "Report to Mr. Leroy",
-            "markdown": "Report to Mr. Leroy"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Look for Mr. Leroy"
+                },
+                {
+                    "tag": "li",
+                    "text": "Finish the work (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report to Mr. Leroy"
+                }
+            ]
         }
     ],
     "dialogue": true

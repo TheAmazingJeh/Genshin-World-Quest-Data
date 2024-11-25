@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Fine Opportunity?",
     "url": "https://genshin-impact.fandom.com/wiki/A_Fine_Opportunity%3F",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Talk to Cyrus after completing Dragon Storm",
@@ -42,28 +42,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Cyrus",
-            "markdown": "Talk to Cyrus"
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7. He can be found outside the \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7 Headquarters (located south of \u25c0Knights of Favonius Headquarters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Knights_of_Favonius_Headquarters\u25b7) or in the \u25c0Angel's Share\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Angel%27s_Share\u25b7 tavern at nighttime."
         },
         {
-            "plaintext": "Track down Jack",
-            "markdown": "Track down \u25c0Jack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack\u25b7"
-        },
-        {
-            "plaintext": "Rescue Jack from the hilichurls",
-            "markdown": "Rescue Jack from the hilichurls"
-        },
-        {
-            "plaintext": "Talk to Jack",
-            "markdown": "Talk to Jack"
-        },
-        {
-            "plaintext": "Clear out the camp",
-            "markdown": "Clear out the camp"
-        },
-        {
-            "plaintext": "Talk to Cyrus",
-            "markdown": "Talk to Cyrus"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Cyrus"
+                },
+                {
+                    "tag": "li",
+                    "text": "Track down \u25c0Jack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jack\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Rescue Jack from the hilichurls"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jack"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clear out the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Cyrus"
+                }
+            ]
         }
     ],
     "dialogue": true

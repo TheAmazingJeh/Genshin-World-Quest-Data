@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Lost in the Sands",
     "url": "https://genshin-impact.fandom.com/wiki/Lost_in_the_Sands",
     "starting_location": {
-        "plaintext": "Aaru Village , Sumeru",
-        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,154 +46,181 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to Aaru Village and look for the merchant from Mondstadt (if commission was received from Katheryne)",
-            "markdown": "Go to \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 and look for the \u25c0merchant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bonifaz\u25b7 from \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7 (if commission was received from Katheryne)"
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7 in \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7. Alternatively, talk to Bonifaz in Aaru Village directly."
         },
         {
-            "plaintext": "Follow the footprints and search for the archaeology team",
-            "markdown": "Follow the footprints and search for the archaeology team"
-        },
-        {
-            "plaintext": "Proceed onward and search for the archaeology team",
-            "markdown": "Proceed onward and search for the archaeology team"
-        },
-        {
-            "plaintext": "Go to the bottom of the pit and look for clues",
-            "markdown": "Go to the bottom of the \u25c0pit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abdju_Pit\u25b7 and look for clues"
-        },
-        {
-            "plaintext": "Talk to the three people (0/3)",
-            "markdown": "Talk to the three people (0/3)"
-        },
-        {
-            "plaintext": "Talk to the fourth person in the distance",
-            "markdown": "Talk to the fourth person in the distance"
-        },
-        {
-            "plaintext": "Meet the others with Jeht",
-            "markdown": "Meet the others with \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7"
-        },
-        {
-            "plaintext": "Go to the area near the ruins together with Tirzad",
-            "markdown": "Go to the area near the ruins together with \u25c0Tirzad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tirzad\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "This unlocks a Teleport Waypoint",
-                    "markdown": "This unlocks a \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Explore up ahead through the long corridor",
-            "markdown": "Explore up ahead through the long corridor"
-        },
-        {
-            "plaintext": "Continue exploring",
-            "markdown": "Continue exploring"
-        },
-        {
-            "plaintext": "Defeat the opponents",
-            "markdown": "Defeat the opponents",
-            "substeps": [
-                {
-                    "plaintext": "Primal Construct: Prospector x1",
-                    "markdown": "<img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 x1",
-                    "img": {
-                        "primal_construct_prospector": "Primal_Construct_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Continue exploring",
-            "markdown": "Continue exploring",
-            "substeps": [
-                {
-                    "plaintext": "Follow the Seelie",
-                    "markdown": "Follow the \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7"
+                    "tag": "li",
+                    "text": "Go to \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 and look for the \u25c0merchant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bonifaz\u25b7 from \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7 (if commission was received from Katheryne)"
                 },
                 {
-                    "plaintext": "Light the four Ruins Torches and follow another Seelie",
-                    "markdown": "Light the four \u25c0Ruins Torches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruins_Torch\u25b7 and follow another Seelie"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Tirzad",
-            "markdown": "Talk to Tirzad"
-        },
-        {
-            "plaintext": "Continue investigating the ruins with Jeht",
-            "markdown": "Continue investigating the ruins with Jeht"
-        },
-        {
-            "plaintext": "Investigate the strange machine",
-            "markdown": "Investigate the \u25c0strange machine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Benben\u25b7"
-        },
-        {
-            "plaintext": "Report your findings to Jebrael",
-            "markdown": "Report your findings to \u25c0Jebrael\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jebrael\u25b7"
-        },
-        {
-            "plaintext": "Talk to Tirzad",
-            "markdown": "Talk to Tirzad"
-        },
-        {
-            "plaintext": "Talk to Jeht",
-            "markdown": "Talk to Jeht"
-        },
-        {
-            "plaintext": "Continue exploring and open the door",
-            "markdown": "Continue exploring and open the door"
-        },
-        {
-            "plaintext": "Continue exploring and look for an exit",
-            "markdown": "Continue exploring and look for an exit",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Follow the footprints and search for the archaeology team"
+                },
                 {
-                    "plaintext": "Follow another Seelie",
-                    "markdown": "Follow another Seelie"
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat the opponents",
-            "markdown": "Defeat the opponents",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Proceed onward and search for the archaeology team"
+                },
                 {
-                    "plaintext": "Primal Construct: Reshaper x2",
-                    "markdown": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x2",
-                    "img": {
-                        "primal_construct_reshaper": "Primal_Construct_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Open the door",
-            "markdown": "Open the door"
-        },
-        {
-            "plaintext": "Follow the path and continue exploring",
-            "markdown": "Follow the path and continue exploring"
-        },
-        {
-            "plaintext": "Meet with Nachtigal",
-            "markdown": "Meet with \u25c0Nachtigal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nachtigal\u25b7"
-        },
-        {
-            "plaintext": "Follow the direction of the wind to find the exit",
-            "markdown": "Follow the direction of the wind to find the exit",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Go to the bottom of the \u25c0pit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abdju_Pit\u25b7 and look for clues"
+                },
                 {
-                    "plaintext": "Follow another Seelie",
-                    "markdown": "Follow another Seelie"
+                    "tag": "li",
+                    "text": "Talk to the three people (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the fourth person in the distance"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet the others with \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the area near the ruins together with \u25c0Tirzad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tirzad\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This unlocks a \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore up ahead through the long corridor"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 \u00d71",
+                            "img": {
+                                "primal_construct_prospector": "Primal_Construct_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Follow the \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Light the four \u25c0Ruins Torches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruins_Torch\u25b7 and follow another Seelie"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Tirzad"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue investigating the ruins with Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the \u25c0strange machine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Benben\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report your findings to \u25c0Jebrael\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jebrael\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Tirzad"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring and open the door"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring and look for an exit"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Follow another Seelie"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 \u00d72",
+                            "img": {
+                                "primal_construct_reshaper": "Primal_Construct_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the door"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the path and continue exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet with \u25c0Nachtigal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nachtigal\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the direction of the wind to find the exit"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Follow another Seelie"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the pit through the exit"
                 }
             ]
-        },
-        {
-            "plaintext": "Leave the pit through the exit",
-            "markdown": "Leave the pit through the exit"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Adventure Rank Ascension 3",
     "url": "https://genshin-impact.fandom.com/wiki/Adventure_Rank_Ascension_3",
     "starting_location": {
-        "plaintext": "Starsnatch Cliff , Mondstadt",
-        "markdown": "\u25c0Starsnatch Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starsnatch_Cliff\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Starsnatch Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starsnatch_Cliff\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Reach Adventure Rank 45",
@@ -35,18 +35,26 @@
     ],
     "steps": [
         {
-            "plaintext": "Enter the ruins",
-            "markdown": "Enter the ruins",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Enter Midsummer Courtyard's Quest Domain: Ascend: Clear the Ruins",
-                    "markdown": "Enter \u25c0Midsummer Courtyard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Midsummer_Courtyard\u25b7's Quest Domain: \u25c0Ascend: Clear the Ruins\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ascend:_Clear_the_Ruins\u25b7"
+                    "tag": "li",
+                    "text": "Enter the ruins"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Enter \u25c0Midsummer Courtyard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Midsummer_Courtyard\u25b7's Quest Domain: \u25c0Ascend: Clear the Ruins\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ascend:_Clear_the_Ruins\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Clear the ruins"
                 }
             ]
-        },
-        {
-            "plaintext": "Clear the ruins",
-            "markdown": "Clear the ruins"
         }
     ],
     "dialogue": false

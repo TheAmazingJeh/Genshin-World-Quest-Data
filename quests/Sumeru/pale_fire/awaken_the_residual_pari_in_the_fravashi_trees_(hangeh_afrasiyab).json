@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Awaken the Residual Pari in the Fravashi Trees (Hangeh Afrasiyab)",
     "url": "https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_%28Hangeh_Afrasiyab%29",
     "starting_location": {
-        "plaintext": "Hangeh Afrasiyab , Girdle of the Sands , Sumeru",
-        "markdown": "\u25c0Hangeh Afrasiyab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hangeh_Afrasiyab\u25b7 , \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Hangeh Afrasiyab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hangeh_Afrasiyab\u25b7 , \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -18,43 +18,51 @@
     ],
     "steps": [
         {
-            "plaintext": "Let Sorush awaken the residual Pari in the Fravashi Tree",
-            "markdown": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
-        },
-        {
-            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
-            "markdown": "Talk to the residual Pari in the Fravashi Tree"
-        },
-        {
-            "plaintext": "Defeat the monsters",
-            "markdown": "Defeat the monsters",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Thundercraven Rifthound x1",
-                    "markdown": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 x1",
-                    "img": {
-                        "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
                 },
                 {
-                    "plaintext": "Rockfond Rifthound Whelp x1",
-                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x1",
-                    "img": {
-                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to the residual Pari in the Fravashi Tree"
                 },
                 {
-                    "plaintext": "Thundercraven Rifthound Whelp x1",
-                    "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x1",
-                    "img": {
-                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Defeat the monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 \u00d71",
+                            "img": {
+                                "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d71",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d71",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the residual Pari in the Fravashi Tree"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
-            "markdown": "Talk to the residual Pari in the Fravashi Tree"
         }
     ],
     "dialogue": true

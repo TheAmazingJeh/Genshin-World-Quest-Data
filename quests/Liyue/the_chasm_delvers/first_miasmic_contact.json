@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "First Miasmic Contact",
     "url": "https://genshin-impact.fandom.com/wiki/First_Miasmic_Contact",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines , Liyue",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,32 +39,40 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to investigate the site of the first anomaly",
-            "markdown": "Head to investigate the site of the first anomaly"
-        },
-        {
-            "plaintext": "Defeat the monsters influenced by the dark mud",
-            "markdown": "Defeat the monsters influenced by the dark mud",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Pyro Abyss Mage x1",
-                    "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
-                    "img": {
-                        "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Head to investigate the site of the first anomaly"
                 },
                 {
-                    "plaintext": "Hydro Abyss Mage x1",
-                    "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
-                    "img": {
-                        "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Defeat the monsters influenced by the dark mud"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to investigate the site of the second anomaly"
                 }
             ]
-        },
-        {
-            "plaintext": "Head to investigate the site of the second anomaly",
-            "markdown": "Head to investigate the site of the second anomaly"
         }
     ],
     "dialogue": true

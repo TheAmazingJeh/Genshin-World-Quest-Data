@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Dealing Sands",
     "url": "https://genshin-impact.fandom.com/wiki/The_Dealing_Sands",
     "starting_location": {
-        "plaintext": "Mt. Mingyuan , Liyue",
-        "markdown": "\u25c0Mt. Mingyuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Mingyuan\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Mt. Mingyuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Mingyuan\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,57 +39,68 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Iron Dou'er",
-            "markdown": "Talk to Iron Dou'er"
-        },
-        {
-            "plaintext": "Go to the beach beneath the cliff",
-            "markdown": "Go to the beach beneath the cliff"
-        },
-        {
-            "plaintext": "Participate in negotiations between the two parties",
-            "markdown": "Participate in negotiations between the two parties"
-        },
-        {
-            "plaintext": "Defeat Johnnie",
-            "markdown": "Defeat Johnnie",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Johnnie \u2014 Pinky Club's Pinky x1",
-                    "markdown": "<img:treasure_hoarders_pugilist> \u25c0Johnnie \u2014 Pinky Club's Pinky\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to Iron Dou'er"
                 },
                 {
-                    "plaintext": "Treasure Hoarders: Marksman x1",
-                    "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Iron Ming",
-            "markdown": "Talk to Iron Ming"
-        },
-        {
-            "plaintext": "Defeat Iron Ming",
-            "markdown": "Defeat Iron Ming",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Go to the beach beneath the cliff"
+                },
                 {
-                    "plaintext": "Iron Ming \u2014 Boss of the Iron and Salt Gang",
-                    "markdown": "<img:treasure_hoarders_crusher> \u25c0Iron Ming \u2014 Boss of the Iron and Salt Gang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7",
-                    "img": {
-                        "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Participate in negotiations between the two parties"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Johnnie"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pugilist> \u25c0Johnnie \u2014 Pinky Club's Pinky\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Iron Ming"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Iron Ming"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_crusher> \u25c0Iron Ming \u2014 Boss of the Iron and Salt Gang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Millelith"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to the Millelith",
-            "markdown": "Talk to the Millelith"
         }
     ],
     "dialogue": true

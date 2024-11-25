@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Hidden Mercenaries",
     "url": "https://genshin-impact.fandom.com/wiki/Hidden_Mercenaries",
     "starting_location": {
-        "plaintext": "Aaru Village , Sumeru",
-        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,20 +46,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Go near the Lamb-Devourer Rock",
-            "markdown": "Go near the Lamb-Devourer Rock"
-        },
-        {
-            "plaintext": "Enter Thutmose's secret base",
-            "markdown": "Enter \u25c0Thutmose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thutmose\u25b7's secret base"
-        },
-        {
-            "plaintext": "Look for valuable items",
-            "markdown": "Look for valuable items"
-        },
-        {
-            "plaintext": "Hand the slates to Soheil",
-            "markdown": "Hand the slates to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go near the Lamb-Devourer Rock"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter \u25c0Thutmose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thutmose\u25b7's secret base"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for valuable items"
+                },
+                {
+                    "tag": "li",
+                    "text": "Hand the slates to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

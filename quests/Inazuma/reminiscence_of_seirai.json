@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Reminiscence of Seirai",
     "url": "https://genshin-impact.fandom.com/wiki/Reminiscence_of_Seirai",
     "starting_location": {
-        "plaintext": "Seirai Island , Inazuma",
-        "markdown": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,20 +46,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Ask the adventurers some questions",
-            "markdown": "Ask the adventurers some questions"
-        },
-        {
-            "plaintext": "Ask Oda Tarou some questions",
-            "markdown": "Ask \u25c0Oda Tarou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oda_Tarou\u25b7 some questions"
-        },
-        {
-            "plaintext": "Go to Seirai Island and take pictures (0/4)",
-            "markdown": "Go to \u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 and take pictures (0/4)"
-        },
-        {
-            "plaintext": "Take the pictures back to Oda Tarou",
-            "markdown": "Take the pictures back to Oda Tarou"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Ask the adventurers some questions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Ask \u25c0Oda Tarou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oda_Tarou\u25b7 some questions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 and take pictures (0/4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take the pictures back to Oda Tarou"
+                }
+            ]
         }
     ],
     "dialogue": true

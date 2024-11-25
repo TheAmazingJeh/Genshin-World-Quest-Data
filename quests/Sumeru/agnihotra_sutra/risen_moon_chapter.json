@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Risen Moon Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/Risen_Moon_Chapter",
     "starting_location": {
-        "plaintext": "Lokapala Jungle , Sumeru",
-        "markdown": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "The World of Aranara",
@@ -42,79 +42,94 @@
     ],
     "steps": [
         {
-            "plaintext": "Find Aragaru (if Starry Night Chapter was completed first)",
-            "markdown": "Find \u25c0Aragaru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aragaru\u25b7 (if \u25c0Starry Night Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter\u25b7 was completed first)"
+            "tag": "p",
+            "text": "The quest will start by approaching the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7 located south of \u25c0Chatrakam Cave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chatrakam_Cave\u25b7, \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7, or after completing \u25c0Starry Night Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter\u25b7. You must complete \u25c0The World of Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_World_of_Aranara\u25b7 quest first."
         },
         {
-            "plaintext": "Talk to \"Aragaru\" / Talk to \"the Aranara that suddenly appeared\"",
-            "markdown": "Talk to \"Aragaru\" / Talk to \"the Aranara that suddenly appeared\""
-        },
-        {
-            "plaintext": "Use the Kusava to open up the path",
-            "markdown": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kusava\u25b7 to open up the path"
-        },
-        {
-            "plaintext": "Defeat the Fungi",
-            "markdown": "Defeat the Fungi"
-        },
-        {
-            "plaintext": "Explore the cave",
-            "markdown": "Explore the cave"
-        },
-        {
-            "plaintext": "Continue exploring the cave",
-            "markdown": "Continue exploring the cave"
-        },
-        {
-            "plaintext": "Defeat the Fungi",
-            "markdown": "Defeat the Fungi"
-        },
-        {
-            "plaintext": "Investigate the runes surrounded by Fungi",
-            "markdown": "Investigate the runes surrounded by Fungi"
-        },
-        {
-            "plaintext": "Continue looking for runes (0/3)",
-            "markdown": "Continue looking for runes (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The runes are hidden behind plant-eroded stones, which can be destroyed by using the \"Kusava.\"",
-                    "markdown": "The runes are hidden behind plant-eroded stones, which can be destroyed by using the \u25c0\"Kusava.\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7"
+                    "tag": "li",
+                    "text": "Find \u25c0Aragaru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aragaru\u25b7 (if \u25c0Starry Night Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter\u25b7 was completed first)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \"Aragaru\" / Talk to \"the Aranara that suddenly appeared\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kusava\u25b7 to open up the path"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fungi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fungi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the runes surrounded by Fungi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue looking for runes (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The runes are hidden behind plant-eroded stones, which can be destroyed by using the \u25c0\"Kusava.\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aragaru"
+                },
+                {
+                    "tag": "li",
+                    "text": "Exit the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the place where the Barsam Flower is located"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the Realm of Khab"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the Kusava to break the seal on the <img:barsam_flower> \u25c0Barsam Flower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Barsam_Flower\u25b7 (0/3)",
+                    "img": {
+                        "barsam_flower": "Item_Barsam_Flower.png"
+                    }
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Follow the 3 \u25c0Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 and destroy the plant-eroded stones along the way. The third Seelie is behind the green barrier, which will be removed by the other 2 Seelies."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Pick the Barsam Flower"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Aragaru",
-            "markdown": "Talk to Aragaru"
-        },
-        {
-            "plaintext": "Exit the cave",
-            "markdown": "Exit the cave"
-        },
-        {
-            "plaintext": "Enter the place where the Barsam Flower is located",
-            "markdown": "Enter the place where the Barsam Flower is located"
-        },
-        {
-            "plaintext": "Explore the Realm of Khab",
-            "markdown": "Explore the Realm of Khab"
-        },
-        {
-            "plaintext": "Use the Kusava to break the seal on the  Barsam Flower (0/3)",
-            "markdown": "Use the Kusava to break the seal on the <img:barsam_flower> \u25c0Barsam Flower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Barsam_Flower\u25b7 (0/3)",
-            "img": {
-                "barsam_flower": "Item_Barsam_Flower.png"
-            },
-            "substeps": [
-                {
-                    "plaintext": "Follow the 3 Seelies and destroy the plant-eroded stones along the way. The third Seelie is behind the green barrier, which will be removed by the other 2 Seelies.",
-                    "markdown": "Follow the 3 \u25c0Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 and destroy the plant-eroded stones along the way. The third Seelie is behind the green barrier, which will be removed by the other 2 Seelies."
-                }
-            ]
-        },
-        {
-            "plaintext": "Pick the Barsam Flower",
-            "markdown": "Pick the Barsam Flower"
         }
     ],
     "dialogue": true

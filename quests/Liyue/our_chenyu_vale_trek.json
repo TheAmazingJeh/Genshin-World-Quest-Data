@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Our Chenyu Vale Trek",
     "url": "https://genshin-impact.fandom.com/wiki/Our_Chenyu_Vale_Trek",
     "starting_location": {
-        "plaintext": "Hezhe Post , Yilong Wharf , Chenyu Vale , Liyue",
-        "markdown": "\u25c0Hezhe Post\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hezhe_Post\u25b7 , \u25c0Yilong Wharf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yilong_Wharf\u25b7 , \u25c0Chenyu Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Hezhe Post\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hezhe_Post\u25b7 , \u25c0Yilong Wharf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yilong_Wharf\u25b7 , \u25c0Chenyu Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Threefold Expectations",
@@ -49,23 +49,38 @@
     ],
     "steps": [
         {
-            "plaintext": "Complete the Chenyu Vale scenic photography contest (0/4)",
-            "markdown": "Complete the Chenyu Vale scenic photography contest (0/4)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Teatree Slope:",
-                    "markdown": "Teatree Slope:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Complete the Chenyu Vale scenic photography contest (0/4)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Large Cryo Slime x1",
-                            "markdown": "<img:large_cryo_slime> \u25c0Large Cryo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Cryo_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "Teatree Slope:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Mt. Xuanlian:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:large_cryo_slime> \u25c0Large Cryo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Cryo_Slime\u25b7 \u00d71",
                             "img": {
                                 "large_cryo_slime": "Large_Cryo_Slime_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hydro Slime x3",
-                            "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x3",
+                            "tag": "li",
+                            "text": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 \u00d73",
                             "img": {
                                 "hydro_slime": "Hydro_Slime_Icon.png"
                             }
@@ -73,35 +88,34 @@
                     ]
                 },
                 {
-                    "plaintext": "Mt. Xuanlian:",
-                    "markdown": "Mt. Xuanlian:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Hilichurl x3",
-                            "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x3",
+                            "tag": "li",
+                            "text": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 \u00d73",
                             "img": {
                                 "hilichurl": "Hilichurl_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to Hezhe Post"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Fangju"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait till 08:00 \u2013 18:00 the next day"
+                },
+                {
+                    "tag": "li",
+                    "text": "Visit the exhibition of selected works outside Hezhe Post"
                 }
             ]
-        },
-        {
-            "plaintext": "Return to Hezhe Post",
-            "markdown": "Return to Hezhe Post"
-        },
-        {
-            "plaintext": "Talk to Fangju",
-            "markdown": "Talk to Fangju"
-        },
-        {
-            "plaintext": "Wait till 08:00 \u2013 18:00 the next day",
-            "markdown": "Wait till 08:00 \u2013 18:00 the next day"
-        },
-        {
-            "plaintext": "Visit the exhibition of selected works outside Hezhe Post",
-            "markdown": "Visit the exhibition of selected works outside Hezhe Post"
         }
     ],
     "dialogue": true

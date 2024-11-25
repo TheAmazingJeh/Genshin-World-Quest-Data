@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Waiting For Seeds to Sprout",
     "url": "https://genshin-impact.fandom.com/wiki/Waiting_For_Seeds_to_Sprout",
     "starting_location": {
-        "plaintext": "Coatepec Mountain , Natlan",
-        "markdown": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,38 +32,46 @@
     ],
     "steps": [
         {
-            "plaintext": "Plant the seed with your Saurian buddy",
-            "markdown": "Plant the seed with your Saurian buddy"
-        },
-        {
-            "plaintext": "Infuse the seed with Phlogiston",
-            "markdown": "Infuse the seed with Phlogiston"
-        },
-        {
-            "plaintext": "Defeat the attracted Phlogiston Aphids",
-            "markdown": "Defeat the attracted Phlogiston Aphids"
-        },
-        {
-            "plaintext": "Re-infuse the seed with Phlogiston",
-            "markdown": "Re-infuse the seed with Phlogiston"
-        },
-        {
-            "plaintext": "Defeat the attracted monsters",
-            "markdown": "Defeat the attracted monsters",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Eroding Avatar of Lava x1",
-                    "markdown": "<img:eroding_avatar_of_lava> \u25c0Eroding Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eroding_Avatar_of_Lava\u25b7 x1",
-                    "img": {
-                        "eroding_avatar_of_lava": "Eroding_Avatar_of_Lava_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Plant the seed with your Saurian buddy"
                 },
                 {
-                    "plaintext": "Pyro Slime x2",
-                    "markdown": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 x2",
-                    "img": {
-                        "pyro_slime": "Pyro_Slime_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Infuse the seed with Phlogiston"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the attracted Phlogiston Aphids"
+                },
+                {
+                    "tag": "li",
+                    "text": "Re-infuse the seed with Phlogiston"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the attracted monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eroding_avatar_of_lava> \u25c0Eroding Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eroding_Avatar_of_Lava\u25b7 \u00d71",
+                            "img": {
+                                "eroding_avatar_of_lava": "Eroding_Avatar_of_Lava_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 \u00d72",
+                            "img": {
+                                "pyro_slime": "Pyro_Slime_Icon.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }

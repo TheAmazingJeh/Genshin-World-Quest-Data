@@ -1,0 +1,45 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Come Fly With Me",
+    "url": "https://genshin-impact.fandom.com/wiki/Come_Fly_With_Me",
+    "starting_location": {
+        "text": "\u25c0Quahuacan Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Quahuacan_Cliff\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Help Magnifico complete his shoot"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

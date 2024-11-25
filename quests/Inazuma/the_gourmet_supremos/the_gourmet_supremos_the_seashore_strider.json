@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Gourmet Supremos: The Seashore Strider",
     "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_The_Seashore_Strider",
     "starting_location": {
-        "plaintext": "Kujou Encampment , Kannazuka , Inazuma",
-        "markdown": "\u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7 , \u25c0Kannazuka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kannazuka\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7 , \u25c0Kannazuka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kannazuka\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,32 +46,43 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to the Gourmet Supremos",
-            "markdown": "Talk to the Gourmet Supremos",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain Crab Bait",
-                    "markdown": "Obtain \u25c0Crab Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crab_Bait\u25b7"
+                    "tag": "li",
+                    "text": "Talk to the Gourmet Supremos"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Crab Bait\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crab_Bait\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Place bait near the \u25c0Thunder Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Catch \u25c0crabs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crab\u25b7 near the Thunder Sakura"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Thunder Sakura Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Crab\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the captured crab to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Place bait near the Thunder Sakura",
-            "markdown": "Place bait near the \u25c0Thunder Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura\u25b7"
-        },
-        {
-            "plaintext": "Catch crabs near the Thunder Sakura",
-            "markdown": "Catch \u25c0crabs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crab\u25b7 near the Thunder Sakura",
-            "substeps": [
-                {
-                    "plaintext": "Obtain Thunder Sakura Crab",
-                    "markdown": "Obtain \u25c0Thunder Sakura Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Crab\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Give the captured crab to Xudong",
-            "markdown": "Give the captured crab to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
         }
     ],
     "dialogue": true

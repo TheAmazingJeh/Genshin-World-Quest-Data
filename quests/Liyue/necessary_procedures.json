@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Necessary Procedures",
     "url": "https://genshin-impact.fandom.com/wiki/Necessary_Procedures",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete A New Star Approaches",
@@ -42,32 +42,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Ivanovich",
-            "markdown": "Talk to \u25c0Ivanovich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ivanovich\u25b7"
-        },
-        {
-            "plaintext": "Copy down the bulletin concerning business permits",
-            "markdown": "Copy down the bulletin concerning business permits"
-        },
-        {
-            "plaintext": "Talk to Ivanovich",
-            "markdown": "Talk to Ivanovich"
-        },
-        {
-            "plaintext": "Give the appropriate documents to Nervous An",
-            "markdown": "Give the appropriate documents to \u25c0Nervous An\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nervous_An\u25b7"
-        },
-        {
-            "plaintext": "Give the appropriate documents to Jiayi",
-            "markdown": "Give the appropriate documents to \u25c0Jiayi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jiayi\u25b7"
-        },
-        {
-            "plaintext": "Give the appropriate documents to Clerk Zhao",
-            "markdown": "Give the appropriate documents to \u25c0Clerk Zhao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clerk_Zhao\u25b7"
-        },
-        {
-            "plaintext": "Report back to Ivanovich",
-            "markdown": "Report back to Ivanovich"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ivanovich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ivanovich\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Copy down the bulletin concerning business permits"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ivanovich"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the appropriate documents to \u25c0Nervous An\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nervous_An\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the appropriate documents to \u25c0Jiayi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jiayi\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the appropriate documents to \u25c0Clerk Zhao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clerk_Zhao\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Ivanovich"
+                }
+            ]
         }
     ],
     "dialogue": true

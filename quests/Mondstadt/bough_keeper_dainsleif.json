@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Bough Keeper: Dainsleif",
     "url": "https://genshin-impact.fandom.com/wiki/Bough_Keeper%3A_Dainsleif",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete A New Star Approaches",
@@ -70,104 +70,125 @@
     ],
     "steps": [
         {
-            "plaintext": "Ask Lawrence about the stranger",
-            "markdown": "Ask \u25c0Lawrence\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lawrence\u25b7 about \u25c0the stranger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainsleif\u25b7"
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7 in the \u25c0City of Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/City_of_Mondstadt\u25b7."
         },
         {
-            "plaintext": "Ask Wagner about the stranger",
-            "markdown": "Ask \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7 about the stranger"
-        },
-        {
-            "plaintext": "Ask Charles about the stranger",
-            "markdown": "Ask \u25c0Charles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charles\u25b7 about the stranger"
-        },
-        {
-            "plaintext": "Go to the second floor of the tavern and wait on the seat by the railing",
-            "markdown": "Go to the second floor of the \u25c0tavern\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Angel%27s_Share\u25b7 and wait on the seat by the railing"
-        },
-        {
-            "plaintext": "Go to the first floor of the tavern and find the stranger",
-            "markdown": "Go to the first floor of the tavern and find the stranger"
-        },
-        {
-            "plaintext": "Go to the Temple of the Falcon",
-            "markdown": "Go to the \u25c0Temple of the Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_of_the_Falcon\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Talk to Dainsleif to progress the quest. Co-Op Mode will be disabled until the story domain has been cleared.",
-                    "markdown": "Talk to Dainsleif to progress the quest. \u25c0Co-Op Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Co-Op_Mode\u25b7 will be disabled until the \u25c0story domain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domains#Story_Domains\u25b7 has been cleared."
-                }
-            ]
-        },
-        {
-            "plaintext": "Enter the Temple of the Falcon",
-            "markdown": "Enter the Temple of the Falcon",
-            "substeps": [
-                {
-                    "plaintext": "Enter Temple of the Falcon's Quest Domain: Abyssal Traces",
-                    "markdown": "Enter \u25c0Temple of the Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_of_the_Falcon\u25b7's Quest Domain: \u25c0Abyssal Traces\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyssal_Traces\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Continue exploring",
-            "markdown": "Continue exploring"
-        },
-        {
-            "plaintext": "Talk to Dainsleif",
-            "markdown": "Talk to \u25c0Dainsleif\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainsleif\u25b7"
-        },
-        {
-            "plaintext": "Look for clues related to the Abyss Order in Wolvendom (0/2)",
-            "markdown": "Look for clues related to the \u25c0Abyss Order\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Order\u25b7 in \u25c0Wolvendom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wolvendom\u25b7 (0/2)",
-            "substeps": [
-                {
-                    "plaintext": "A Cryo Abyss Mage and some Hilichurls will appear when you interact with the northern bonfire.",
-                    "markdown": "A \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 and some \u25c0Hilichurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurls\u25b7 will appear when you interact with the northern bonfire."
+                    "tag": "li",
+                    "text": "Ask \u25c0Lawrence\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lawrence\u25b7 about \u25c0the stranger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainsleif\u25b7"
                 },
                 {
-                    "plaintext": "A Pyro Abyss Mage and some Hilichurls are camping at the southern bonfire.",
-                    "markdown": "A \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 and some \u25c0Hilichurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurls\u25b7 are camping at the southern bonfire."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Dainsleif",
-            "markdown": "Talk to Dainsleif"
-        },
-        {
-            "plaintext": "Go to Stormterror's Lair",
-            "markdown": "Go to \u25c0Stormterror's Lair\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stormterror%27s_Lair\u25b7"
-        },
-        {
-            "plaintext": "Go deeper into Stormterror's Lair",
-            "markdown": "Go deeper into Stormterror's Lair"
-        },
-        {
-            "plaintext": "Defeat all the opponents",
-            "markdown": "Defeat all the opponents",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Ask \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7 about the stranger"
+                },
                 {
-                    "plaintext": "The first group consists of a Hydro Abyss Mage and some Hilichurls. Another Hydro Abyss Mage, Hydro Samachurl, and 2 Wooden Shieldwall Mitachurls will appear after the first group is defeated.",
-                    "markdown": "The first group consists of a \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 and some \u25c0Hilichurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurls\u25b7. Another \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7, \u25c0Hydro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7, and 2 \u25c0Wooden Shieldwall Mitachurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shieldwall_Mitachurl\u25b7 will appear after the first group is defeated."
+                    "tag": "li",
+                    "text": "Ask \u25c0Charles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charles\u25b7 about the stranger"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the second floor of the \u25c0tavern\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Angel%27s_Share\u25b7 and wait on the seat by the railing"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the first floor of the tavern and find the stranger"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Temple of the Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_of_the_Falcon\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Talk to Dainsleif to progress the quest. \u25c0Co-Op Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Co-Op_Mode\u25b7 will be disabled until the \u25c0story domain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domains#Story_Domains\u25b7 has been cleared."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the Temple of the Falcon"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Enter \u25c0Temple of the Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_of_the_Falcon\u25b7's Quest Domain: \u25c0Abyssal Traces\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyssal_Traces\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Dainsleif\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainsleif\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for clues related to the \u25c0Abyss Order\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Order\u25b7 in \u25c0Wolvendom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wolvendom\u25b7 (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "A \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 and some \u25c0Hilichurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurls\u25b7 will appear when you interact with the northern bonfire."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "A \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 and some \u25c0Hilichurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurls\u25b7 are camping at the southern bonfire."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Dainsleif"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Stormterror's Lair\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stormterror%27s_Lair\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go deeper into Stormterror's Lair"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The first group consists of a \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 and some \u25c0Hilichurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurls\u25b7. Another \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7, \u25c0Hydro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7, and 2 \u25c0Wooden Shieldwall Mitachurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shieldwall_Mitachurl\u25b7 will appear after the first group is defeated."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Dainsleif"
+                },
+                {
+                    "tag": "li",
+                    "text": "Catch up to Dainsleif"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Dainsleif"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go and examine the dandelion"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Dainsleif",
-            "markdown": "Talk to Dainsleif"
-        },
-        {
-            "plaintext": "Catch up to Dainsleif",
-            "markdown": "Catch up to Dainsleif"
-        },
-        {
-            "plaintext": "Follow Dainsleif",
-            "markdown": "Follow Dainsleif"
-        },
-        {
-            "plaintext": "Go and examine the dandelion",
-            "markdown": "Go and examine the dandelion"
         }
     ],
     "dialogue": true

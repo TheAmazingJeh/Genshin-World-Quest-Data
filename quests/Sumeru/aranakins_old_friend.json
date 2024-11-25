@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Aranakin's Old Friend",
     "url": "https://genshin-impact.fandom.com/wiki/Aranakin%27s_Old_Friend",
     "starting_location": {
-        "plaintext": "Chatrakam Cave , Sumeru",
-        "markdown": "\u25c0Chatrakam Cave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chatrakam_Cave\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Chatrakam Cave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chatrakam_Cave\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Aranyaka : Part II - Dream Nursery",
@@ -42,40 +42,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Play Aranakin's song",
-            "markdown": "Play Aranakin's song"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Get close to Aranakin",
-            "markdown": "Get close to Aranakin"
-        },
-        {
-            "plaintext": "Follow Aranakin",
-            "markdown": "Follow Aranakin"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Investigate the tree house",
-            "markdown": "Investigate the tree house"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Read the notebook on the second floor of the tree house",
-            "markdown": "Read the notebook on the second floor of the tree house"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Play Aranakin's song"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Get close to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the tree house"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Read the notebook on the second floor of the tree house"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                }
+            ]
         }
     ],
     "dialogue": true

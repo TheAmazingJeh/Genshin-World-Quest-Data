@@ -1,17 +1,17 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Revelations from the Past",
     "url": "https://genshin-impact.fandom.com/wiki/Revelations_from_the_Past",
     "starting_location": {
-        "plaintext": "Tequemecan Valley , Natlan",
-        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
         {
-            "Name": "Golden Entreaty",
+            "Name": "Golden Entreaty (Revelations from the Past)",
             "Value": "1",
-            "Link": "https://genshin-impact.fandom.com/wiki/Golden_Entreaty",
+            "Link": "https://genshin-impact.fandom.com/wiki/Golden_Entreaty_(Revelations_from_the_Past)",
             "Image": "Item_Golden_Entreaty.png",
             "Rarity": "4"
         },
@@ -60,100 +60,113 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the entrance to the ruins",
-            "markdown": "Go to the entrance to the ruins"
-        },
-        {
-            "plaintext": "Place the talisman",
-            "markdown": "Place the talisman"
-        },
-        {
-            "plaintext": "Open the barrier blocking the entrance to the ruins",
-            "markdown": "Open the barrier blocking the entrance to the ruins"
-        },
-        {
-            "plaintext": "Explore the ruins",
-            "markdown": "Explore the ruins"
-        },
-        {
-            "plaintext": "Investigate the ruins",
-            "markdown": "Investigate the ruins"
-        },
-        {
-            "plaintext": "Open the barrier",
-            "markdown": "Open the barrier"
-        },
-        {
-            "plaintext": "Meet up with (\"Little One\")",
-            "markdown": "Meet up with (\"Little One\")"
-        },
-        {
-            "plaintext": "Explore the ruins",
-            "markdown": "Explore the ruins"
-        },
-        {
-            "plaintext": "Investigate the ruins",
-            "markdown": "Investigate the ruins"
-        },
-        {
-            "plaintext": "Traverse the corridor",
-            "markdown": "Traverse the corridor"
-        },
-        {
-            "plaintext": "Unlock the mechanism",
-            "markdown": "Unlock the mechanism"
-        },
-        {
-            "plaintext": "Examine the mural",
-            "markdown": "Examine the mural"
-        },
-        {
-            "plaintext": "Meet up with (\"Little One\")",
-            "markdown": "Meet up with (\"Little One\")"
-        },
-        {
-            "plaintext": "Continue the trial",
-            "markdown": "Continue the trial"
-        },
-        {
-            "plaintext": "Traverse the lava",
-            "markdown": "Traverse the lava"
-        },
-        {
-            "plaintext": "Defeat the opponents",
-            "markdown": "Defeat the opponents",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Rockfond Rifthound Whelp x6",
-                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x6",
-                    "img": {
-                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the entrance to \u25c0the ruins\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hall_of_Parting_Vows\u25b7"
                 },
                 {
-                    "plaintext": "Abyss-Corroded Golden Wolflord x1",
-                    "markdown": "<img:abyss-corroded_golden_wolflord> \u25c0Abyss-Corroded Golden Wolflord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss-Corroded_Golden_Wolflord\u25b7 x1",
-                    "img": {
-                        "abyss-corroded_golden_wolflord": "Golden_Wolflord_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Place the \u25c0talisman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Talisman_of_Waxaklahun_Ubah_Kan\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the barrier blocking the entrance to the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the barrier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet up with (\"Little One\")"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Traverse the corridor"
+                },
+                {
+                    "tag": "li",
+                    "text": "Unlock the mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the mural"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet up with (\"Little One\")"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue the trial"
+                },
+                {
+                    "tag": "li",
+                    "text": "Traverse the lava"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Enter the portal to \u25c0Catastrophe's Edge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Catastrophe%27s_Edge\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d76",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:abyss-corroded_golden_wolflord> \u25c0Abyss-Corroded Golden Wolflord\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss-Corroded_Golden_Wolflord\u25b7 \u00d71",
+                            "img": {
+                                "abyss-corroded_golden_wolflord": "Golden_Wolflord_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue onward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0token\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Entreaty_(Revelations_from_the_Past)\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Traverse the lava",
-            "markdown": "Traverse the lava"
-        },
-        {
-            "plaintext": "Touch the inscription",
-            "markdown": "Touch the inscription"
-        },
-        {
-            "plaintext": "Continue onward",
-            "markdown": "Continue onward"
-        },
-        {
-            "plaintext": "Obtain the token",
-            "markdown": "Obtain the token"
         }
     ],
     "dialogue": true

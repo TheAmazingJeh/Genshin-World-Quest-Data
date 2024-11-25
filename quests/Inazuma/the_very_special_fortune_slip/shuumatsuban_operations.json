@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Shuumatsuban Operations",
     "url": "https://genshin-impact.fandom.com/wiki/Shuumatsuban_Operations",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Gendou Ringo's Strange Fortune Slips and Omnipresence Over Mortals",
@@ -56,40 +56,81 @@
     ],
     "steps": [
         {
-            "plaintext": "Head for the safehouse to investigate",
-            "markdown": "Head for the safehouse to investigate"
-        },
-        {
-            "plaintext": "Go to the safehouse to look for Gendou Ringo",
-            "markdown": "Go to the safehouse to look for \u25c0Gendou Ringo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gendou_Ringo\u25b7"
-        },
-        {
-            "plaintext": "Find the three spies (0/3)",
-            "markdown": "Find the three spies (0/3)",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Win the trust of the spy in Ritou",
-                    "markdown": "Win the trust of the spy in Ritou"
+                    "tag": "li",
+                    "text": "Start the quest by approaching the \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7 in \u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 from the \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 northwest of it, during the daytime."
                 },
                 {
-                    "plaintext": "Win the trust of the spy in Inazuma City",
-                    "markdown": "Win the trust of the spy in Inazuma City"
-                },
-                {
-                    "plaintext": "Win the trust of the spy at the hot springs",
-                    "markdown": "Win the trust of the spy at the hot springs",
-                    "substeps": [
-                        {
-                            "plaintext": "(Optional) Talk to Mikawa Akane to pinpoint her location",
-                            "markdown": "(Optional) Talk to \u25c0Mikawa Akane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikawa_Akane\u25b7 to pinpoint her location"
-                        }
-                    ]
+                    "tag": "li",
+                    "text": "Obtain \u25c0A Note Someone Stuffed You\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Note_Someone_Stuffed_You\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Report your intel to Momoyo",
-            "markdown": "Report your intel to \u25c0Momoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Momoyo\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "The player must adjust the time in-game to night time on the following day to start this quest after completing \u25c0Gendou Ringo's Strange Fortune Slips\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gendou_Ringo%27s_Strange_Fortune_Slips\u25b7."
+                },
+                {
+                    "tag": "li",
+                    "text": "The player can be traveling in either direction between the waypoint and the Adventurers' Guild."
+                },
+                {
+                    "tag": "li",
+                    "text": "The player needs to complete \u25c0Omnipresence Over Mortals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Omnipresence_Over_Mortals\u25b7 for this quest to trigger."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Head for the safehouse to investigate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the safehouse to look for \u25c0Gendou Ringo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gendou_Ringo\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the three spies (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Win the trust of the spy in Ritou"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Win the trust of the spy in Inazuma City"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Win the trust of the spy at the hot springs"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "(Optional) Talk to \u25c0Mikawa Akane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikawa_Akane\u25b7 to pinpoint her location"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report your intel to \u25c0Momoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Momoyo\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

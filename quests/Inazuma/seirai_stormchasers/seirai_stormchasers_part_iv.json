@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Seirai Stormchasers: Part IV",
     "url": "https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers%3A_Part_IV",
     "starting_location": {
-        "plaintext": "Seirai Island , Inazuma",
-        "markdown": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,61 +46,75 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Warding Stone's location",
-            "markdown": "Go to the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7's location"
-        },
-        {
-            "plaintext": "Touch the paper charm hangars [sic] (0/3)",
-            "markdown": "Touch the paper charm hangars [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] (0/3)"
-        },
-        {
-            "plaintext": "Seal the Warding Stone",
-            "markdown": "Seal the Warding Stone",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Rotate the stone to the correct position (rotate both the top and bottom twice)",
-                    "markdown": "Rotate the stone to the correct position (rotate both the top and bottom twice)"
-                }
-            ]
-        },
-        {
-            "plaintext": "Continue exploring",
-            "markdown": "Continue exploring"
-        },
-        {
-            "plaintext": "Defeat the  Thunder Manifestation",
-            "markdown": "Defeat the <img:thunder_manifestation> \u25c0Thunder Manifestation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Manifestation\u25b7",
-            "img": {
-                "thunder_manifestation": "Thunder_Manifestation_Icon.png"
-            }
-        },
-        {
-            "plaintext": "Continue exploring",
-            "markdown": "Continue exploring",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Go to the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7's location"
+                },
                 {
-                    "plaintext": "Use the Thunder Sakura Bough to the north of the Thunder Manifestation arena, the destination is at a higher elevation",
-                    "markdown": "Use the \u25c0Thunder Sakura Bough\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Bough\u25b7 to the north of the Thunder Manifestation arena, the destination is at a higher elevation",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Touch the paper charm hangars [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Seal the Warding Stone"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "An Electroculus, Luxurious Chest, and Precious Chest are nearby",
-                            "markdown": "An \u25c0Electroculus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electroculus\u25b7, \u25c0Luxurious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luxurious_Chest\u25b7, and \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 are nearby"
-                        },
-                        {
-                            "plaintext": "They contain the blueprints for Cleansing Shrine and Headquarters Alarm: Sound of Thunder",
-                            "markdown": "They contain the blueprints for \u25c0Cleansing Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cleansing_Shrine\u25b7 and \u25c0Headquarters Alarm: Sound of Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Headquarters_Alarm:_Sound_of_Thunder\u25b7"
+                            "tag": "li",
+                            "text": "Rotate the stone to the correct position (rotate both the top and bottom twice)"
                         }
                     ]
                 },
                 {
-                    "plaintext": "Obtain the Peculiar Pinion",
-                    "markdown": "Obtain the \u25c0Peculiar Pinion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peculiar_Pinion_(Quest_Item)\u25b7"
+                    "tag": "li",
+                    "text": "Continue exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the <img:thunder_manifestation> \u25c0Thunder Manifestation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Manifestation\u25b7",
+                    "img": {
+                        "thunder_manifestation": "Thunder_Manifestation_Icon.png"
+                    }
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the \u25c0Thunder Sakura Bough\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Bough\u25b7 to the north of the Thunder Manifestation arena, the destination is at a higher elevation"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Obtain the \u25c0Peculiar Pinion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peculiar_Pinion_(Quest_Item)\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "An \u25c0Electroculus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electroculus\u25b7, \u25c0Luxurious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luxurious_Chest\u25b7, and \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 are nearby"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "They contain the blueprints for \u25c0Cleansing Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cleansing_Shrine\u25b7 and \u25c0Headquarters Alarm: Sound of Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Headquarters_Alarm:_Sound_of_Thunder\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7 and \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Taisuke and Etsuko",
-            "markdown": "Report back to \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7 and \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
         }
     ],
     "dialogue": true

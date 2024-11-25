@@ -1,37 +1,42 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Cupid's Lover",
     "url": "https://genshin-impact.fandom.com/wiki/Cupid%27s_Lover",
     "starting_location": {
-        "plaintext": "East Slopes of Mont Automnequi , Fontaine",
-        "markdown": "\u25c0East Slopes of Mont Automnequi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/East_Slopes_of_Mont_Automnequi\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0East Slopes of Mont Automnequi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/East_Slopes_of_Mont_Automnequi\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Find the Seal",
-            "markdown": "Find the Seal"
-        },
-        {
-            "plaintext": "Study the Riddle Slate",
-            "markdown": "Study the Riddle Slate"
-        },
-        {
-            "plaintext": "Look for a way forward",
-            "markdown": "Look for a way forward"
-        },
-        {
-            "plaintext": "Solve the Orthant's puzzle",
-            "markdown": "Solve the Orthant's puzzle",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Enter the Mysterious Ruins and descend to the lower floor.",
-                    "markdown": "Enter the Mysterious Ruins and descend to the lower floor.",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Find the Seal"
+                },
+                {
+                    "tag": "li",
+                    "text": "Study the Riddle Slate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for a way forward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Solve the Orthant's puzzle",
+                    "img": {
+                        "special_key": "Item_Black_Key.png"
+                    }
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Recon Log Mek - Ousia x2",
-                            "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 \u00d72",
                             "img": {
                                 "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
                             }
@@ -39,92 +44,110 @@
                     ]
                 },
                 {
-                    "plaintext": "The following steps can be done in any order:",
-                    "markdown": "The following steps can be done in any order:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Connect the left-hand Energy Flow device:",
-                            "markdown": "Connect the left-hand Energy Flow device:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Enter the Looking Glass and light the two unlit torches in the room, then exit the Looking Glass.",
-                                    "markdown": "Enter the \u25c0Looking Glass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Looking_Glass\u25b7 and light the two unlit torches in the room, then exit the Looking Glass."
-                                },
-                                {
-                                    "plaintext": "Call the Lift to the current floor and release the Energy Flow from the other device on this floor.",
-                                    "markdown": "Call the Lift to the current floor and release the Energy Flow from the other device on this floor."
-                                },
-                                {
-                                    "plaintext": "Continue past the device and pick up the  Special Key on the windowsill.",
-                                    "markdown": "Continue past the device and pick up the <img:special_key> \u25c0Special Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Key\u25b7 on the windowsill.",
-                                    "img": {
-                                        "special_key": "Item_Black_Key.png"
-                                    },
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Geological Survey Mek - Ousia x1",
-                                            "markdown": "<img:geological_survey_mek_-_ousia> \u25c0Geological Survey Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geological_Survey_Mek_-_Ousia\u25b7 x1",
-                                            "img": {
-                                                "geological_survey_mek_-_ousia": "Geological_Survey_Mek_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "plaintext": "Connect the Energy Flow device straight ahead:",
-                            "markdown": "Connect the Energy Flow device straight ahead:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Take the Lift down and enter the underwater area.",
-                                    "markdown": "Take the Lift down and enter the underwater area."
-                                },
-                                {
-                                    "plaintext": "Enter the next chamber by activating the mechanism.",
-                                    "markdown": "Enter the next chamber by activating the mechanism."
-                                },
-                                {
-                                    "plaintext": "Enter the left-hand chamber by activating the mechanism, then use the Xenochromatic Jellyfish trigger the mechanism again.",
-                                    "markdown": "Enter the left-hand chamber by activating the mechanism, then use the Xenochromatic Jellyfish trigger the mechanism again."
-                                },
-                                {
-                                    "plaintext": "Release the Energy Flow. This will cause the surrounding area to become dry land.",
-                                    "markdown": "Release the Energy Flow. This will cause the surrounding area to become dry land.",
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Recon Log Mek - Pneuma x2",
-                                            "markdown": "<img:recon_log_mek_-_pneuma> \u25c0Recon Log Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Pneuma\u25b7 x2",
-                                            "img": {
-                                                "recon_log_mek_-_pneuma": "Recon_Log_Mek_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "plaintext": "Take the Lift up and release the Energy Flow.",
-                                    "markdown": "Take the Lift up and release the Energy Flow."
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "<img:geological_survey_mek_-_ousia> \u25c0Geological Survey Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geological_Survey_Mek_-_Ousia\u25b7 \u00d71",
+                            "img": {
+                                "geological_survey_mek_-_ousia": "Geological_Survey_Mek_Icon.png"
+                            }
                         }
                     ]
                 },
                 {
-                    "plaintext": "Return to the upper floor and use the  Special Key to open the door to the last Energy Flow device.",
-                    "markdown": "Return to the upper floor and use the <img:special_key> \u25c0Special Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Key\u25b7 to open the door to the last Energy Flow device.",
-                    "img": {
-                        "special_key": "Item_Black_Key.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:recon_log_mek_-_pneuma> \u25c0Recon Log Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Pneuma\u25b7 \u00d72",
+                            "img": {
+                                "recon_log_mek_-_pneuma": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Go down and release the Energy Flow.",
-                    "markdown": "Go down and release the Energy Flow."
+                    "tag": "li",
+                    "text": "Obtain the \"Soul\" piece"
                 }
             ]
         },
         {
-            "plaintext": "Obtain the \"Soul\" piece",
-            "markdown": "Obtain the \"Soul\" piece"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Enter the Mysterious Ruins and descend to the lower floor."
+                },
+                {
+                    "tag": "li",
+                    "text": "The following steps can be done in any order:"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the upper floor and use the <img:special_key> \u25c0Special Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Key\u25b7 to open the door to the last Energy Flow device."
+                },
+                {
+                    "tag": "li",
+                    "text": "Go down and release the Energy Flow."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Connect the left-hand Energy Flow device:"
+                },
+                {
+                    "tag": "li",
+                    "text": "Connect the Energy Flow device straight ahead:"
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Enter the \u25c0Looking Glass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Looking_Glass\u25b7 and light the two unlit torches in the room, then exit the Looking Glass."
+                },
+                {
+                    "tag": "li",
+                    "text": "Call the Lift to the current floor and release the Energy Flow from the other device on this floor."
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue past the device and pick up the <img:special_key> \u25c0Special Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Key\u25b7 on the windowsill."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Take the Lift down and enter the underwater area."
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the next chamber by activating the mechanism."
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the left-hand chamber by activating the mechanism, then use the Xenochromatic Jellyfish trigger the mechanism again."
+                },
+                {
+                    "tag": "li",
+                    "text": "Release the Energy Flow. This will cause the surrounding area to become dry land."
+                },
+                {
+                    "tag": "li",
+                    "text": "Take the Lift up and release the Energy Flow."
+                }
+            ]
         }
     ],
     "dialogue": true

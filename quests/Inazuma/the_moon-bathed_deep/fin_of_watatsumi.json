@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "\"Fin of Watatsumi\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22Fin_of_Watatsumi%22",
     "starting_location": {
-        "plaintext": "Watatsumi Island , Inazuma",
-        "markdown": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,30 +39,38 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the \"Fin\"",
-            "markdown": "Go to the \"Fin\""
-        },
-        {
-            "plaintext": "Read the stone tablet at the \"Fin\"",
-            "markdown": "Read the stone tablet at the \"Fin\""
-        },
-        {
-            "plaintext": "Break the \"Fin\" Seal",
-            "markdown": "Break the \"Fin\" Seal",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "To break the seal, orient the fish statues such that there is a blue line of the circle below.",
-                    "markdown": "To break the seal, orient the fish statues such that there is a blue line of the circle below."
+                    "tag": "li",
+                    "text": "Go to the \"Fin\""
                 },
                 {
-                    "plaintext": "Once the 3 statues are in position, interact with the Mysterious Pillar.",
-                    "markdown": "Once the 3 statues are in position, interact with the \u25c0Mysterious Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Pillar\u25b7."
+                    "tag": "li",
+                    "text": "Read the stone tablet at the \"Fin\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Break the \"Fin\" Seal"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "To break the seal, orient the fish statues such that there is a blue line of the circle below."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Once the 3 statues are in position, interact with the \u25c0Mysterious Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Pillar\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0Spirit Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spirit_Pearl\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Obtain the Spirit Pearl",
-            "markdown": "Obtain the \u25c0Spirit Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spirit_Pearl\u25b7"
         }
     ],
     "dialogue": true

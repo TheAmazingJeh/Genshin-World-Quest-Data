@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Hydrological Investigation in The Chasm",
     "url": "https://genshin-impact.fandom.com/wiki/Hydrological_Investigation_in_The_Chasm",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
     },
     "requirements": {
         "plaintext": "Completed Chasm Spelunkers quest",
@@ -35,20 +35,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Place the strange object by the water",
-            "markdown": "Place the strange object by the water"
-        },
-        {
-            "plaintext": "Use Hydro reactions to activate the strange object",
-            "markdown": "Use Hydro reactions to activate the strange object"
-        },
-        {
-            "plaintext": "Defeat the Hydro Geovishap that emerged",
-            "markdown": "Defeat the Hydro Geovishap that emerged"
-        },
-        {
-            "plaintext": "Tell Khedive about what happened by the water",
-            "markdown": "Tell Khedive about what happened by the water"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Place the strange object by the water"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use Hydro reactions to activate the strange object"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Hydro Geovishap that emerged"
+                },
+                {
+                    "tag": "li",
+                    "text": "Tell Khedive about what happened by the water"
+                }
+            ]
         }
     ],
     "dialogue": true

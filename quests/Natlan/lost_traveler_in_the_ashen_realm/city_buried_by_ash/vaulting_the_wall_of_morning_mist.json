@@ -1,0 +1,180 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Vaulting the Wall of Morning Mist",
+    "url": "https://genshin-impact.fandom.com/wiki/Vaulting_the_Wall_of_Morning_Mist",
+    "starting_location": {
+        "text": "\u25c0Ashflow Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashflow_Street\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "350",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Ochkanatlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ochkanatlan\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep exploring Ochkanatlan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try to get into the \u25c0tower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vucub_Caquix_Tower\u25b7 up ahead"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the tower"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the mysterious adventurer"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the tower"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat enemies"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Cocouik's Ring of Light\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tutorial/%22Cocouik%22%27s_Rings_of_Light\u25b7 will automatically activate, \u25c0Bona\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bona\u25b7 will assist as a \u25c0Winged Warrior: Feathershedder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Warrior:_Feathershedder\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:tenebrous_mimesis_-_crackling_axe_mitachurl> \u25c0Tenebrous Mimesis - Crackling Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tenebrous_Mimesis_-_Crackling_Axe_Mitachurl\u25b7 \u00d71",
+                            "img": {
+                                "tenebrous_mimesis_-_crackling_axe_mitachurl": "Tenebrous_Mimiflora_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 \u00d71",
+                            "img": {
+                                "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 \u00d71",
+                            "img": {
+                                "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 \u00d71",
+                            "img": {
+                                "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore Ashflow Street and collect Secret Source Scrap(s)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Secret Source Scraps are enclosed by \u25c0Abyssal Blights\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tutorial/Abyssal_Blight\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "After collecting second Scrap, dragon returns and periodically drops fireballs until third Scrap is collected"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore Ashflow Street\u200d[verification needed]"
+                },
+                {
+                    "tag": "li",
+                    "text": "Shoot the evil dragon down with the \u25c0Super Awesomesauce Laser\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tutorial/%22Super_Awesomesauce_Laser%22\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Player plays as Cocouik and must weaken (not break) the dragon's \u25c0Void Ward\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Void_Ward\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Track the evil dragon down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the evil dragon in its lair"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Bona and (\"Little One\") participate in the battle"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the \u25c0Pyrophosphorite\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyrophosphorite\u25b7"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

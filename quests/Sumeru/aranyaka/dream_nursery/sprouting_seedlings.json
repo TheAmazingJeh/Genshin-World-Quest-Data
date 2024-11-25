@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Sprouting Seedlings",
     "url": "https://genshin-impact.fandom.com/wiki/Sprouting_Seedlings",
     "starting_location": {
-        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
-        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Varuna Gatha",
@@ -35,12 +35,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to the garden cared for by AranakulaGarden locationAdditional context",
-            "markdown": "Head to the garden cared for by \u25c0Aranakula\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranakula\u25b7\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Sprouting_Seedlings_Garden_Location.png\u25b7Garden location\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Sprouting_Seedlings_Garden_Location_Context.png\u25b7Additional context"
-        },
-        {
-            "plaintext": "Talk to Aranakula",
-            "markdown": "Talk to Aranakula"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Head to the garden cared for by \u25c0Aranakula\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranakula\u25b7\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Sprouting_Seedlings_Garden_Location.png\u25b7Garden location\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Sprouting_Seedlings_Garden_Location_Context.png\u25b7Additional context"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakula"
+                }
+            ]
         }
     ],
     "dialogue": true

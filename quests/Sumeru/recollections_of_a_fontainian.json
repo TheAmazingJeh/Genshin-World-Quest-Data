@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Recollections of a Fontainian",
     "url": "https://genshin-impact.fandom.com/wiki/Recollections_of_a_Fontainian",
     "starting_location": {
-        "plaintext": "Sumeru City , Sumeru",
-        "markdown": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,16 +32,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Augustus",
-            "markdown": "Talk to Augustus"
-        },
-        {
-            "plaintext": "Take a Photo",
-            "markdown": "Take a Photo"
-        },
-        {
-            "plaintext": "Report back to Augustus",
-            "markdown": "Report back to Augustus"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Augustus"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a Photo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Augustus"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scenes from Life in Meropide: Fists of Fury",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Fists_of_Fury",
     "starting_location": {
-        "plaintext": "Production Zone , Fontaine",
-        "markdown": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,21 +39,38 @@
     ],
     "steps": [
         {
-            "plaintext": "Spar with Nizami",
-            "markdown": "Spar with Nizami",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Nizami \u2014 A Bodyguard's True Skill",
-                    "markdown": "<img:eremite_daythunder> \u25c0Nizami \u2014 A Bodyguard's True Skill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Daythunder\u25b7",
-                    "img": {
-                        "eremite_daythunder": "Eremite_Daythunder_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Nizami\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nizami\u25b7 at the \u25c0Rag and Bone Shop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rag_and_Bone_Shop\u25b7. This quest is unlocked during \u25c0Game of the Rich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Game_of_the_Rich\u25b7."
                 }
             ]
         },
         {
-            "plaintext": "Talk to Nizami",
-            "markdown": "Talk to Nizami"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Spar with Nizami"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_daythunder> \u25c0Nizami \u2014 A Bodyguard's True Skill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Daythunder\u25b7",
+                            "img": {
+                                "eremite_daythunder": "Eremite_Daythunder_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Nizami"
+                }
+            ]
         }
     ],
     "dialogue": true

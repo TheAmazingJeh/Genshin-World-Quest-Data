@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Ah, Fresh Meat!",
     "url": "https://genshin-impact.fandom.com/wiki/Ah%2C_Fresh_Meat%21",
     "starting_location": {
-        "plaintext": "Dragonspine Adventurer Camp , Mondstadt",
-        "markdown": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete In the Mountains or defeat The Great Snowboar King",
@@ -63,59 +63,77 @@
     ],
     "steps": [
         {
-            "plaintext": "Obtain 10 pieces of  Chilled Meat",
-            "markdown": "Obtain 10 pieces of <img:chilled_meat> \u25c0Chilled Meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chilled_Meat\u25b7",
-            "img": {
-                "chilled_meat": "Item_Chilled_Meat.png"
-            }
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Harris\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Harris\u25b7 in \u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7."
         },
         {
-            "plaintext": "Speak to Harris",
-            "markdown": "Speak to Harris"
-        },
-        {
-            "plaintext": "Obtain the  meat of the Great Snowboar King",
-            "markdown": "Obtain the <img:great_snowboar_king_meat> \u25c0meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Great_Snowboar_King_Meat\u25b7 of \u25c0the Great Snowboar King\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Great_Snowboar_King\u25b7",
-            "img": {
-                "great_snowboar_king_meat": "Item_Chilled_Meat.png"
-            },
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "To spawn the Great Snowboar King, melt and kill all the Snowboars in the area.",
-                    "markdown": "To spawn the Great Snowboar King, melt and kill all the Snowboars in the area."
-                }
-            ]
-        },
-        {
-            "plaintext": "Speak to Harris",
-            "markdown": "Speak to Harris",
-            "substeps": [
-                {
-                    "plaintext": "Harris will give the player  Recipe: Goulash",
-                    "markdown": "Harris will give the player <img:recipe_goulash> \u25c0Recipe: Goulash\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recipe:_Goulash\u25b7",
+                    "tag": "li",
+                    "text": "Obtain 10 pieces of <img:chilled_meat> \u25c0Chilled Meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chilled_Meat\u25b7",
                     "img": {
-                        "recipe_goulash": "Item_Goulash.png"
+                        "chilled_meat": "Item_Chilled_Meat.png"
                     }
-                }
-            ]
-        },
-        {
-            "plaintext": "Make Goulash",
-            "markdown": "Make Goulash",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Submit Delicious or Normal Goulash to Harris. He will not accept Suspicious Goulash.",
-                    "markdown": "Submit Delicious or Normal Goulash to Harris. He will not accept Suspicious Goulash."
+                    "tag": "li",
+                    "text": "Speak to Harris"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the <img:great_snowboar_king_meat> \u25c0meat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Great_Snowboar_King_Meat\u25b7 of \u25c0the Great Snowboar King\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Great_Snowboar_King\u25b7",
+                    "img": {
+                        "great_snowboar_king_meat": "Item_Chilled_Meat.png"
+                    }
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "To spawn the Great Snowboar King, melt and kill all the Snowboars in the area."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to Harris"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Harris will give the player <img:recipe_goulash> \u25c0Recipe: Goulash\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recipe:_Goulash\u25b7",
+                            "img": {
+                                "recipe_goulash": "Item_Goulash.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Make Goulash"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Submit Delicious or Normal Goulash to Harris. He will not accept Suspicious Goulash."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for Harris at 18:00"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to Harris"
                 }
             ]
-        },
-        {
-            "plaintext": "Look for Harris at 18:00",
-            "markdown": "Look for Harris at 18:00"
-        },
-        {
-            "plaintext": "Speak to Harris",
-            "markdown": "Speak to Harris"
         }
     ],
     "dialogue": true

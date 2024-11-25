@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Lingering Malady",
     "url": "https://genshin-impact.fandom.com/wiki/Lingering_Malady",
     "starting_location": {
-        "plaintext": "Outside the Cathedral, Mondstadt",
-        "markdown": "Outside the Cathedral, \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "Outside the Cathedral, \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Reach Adventure Rank 30",
@@ -49,16 +49,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Aramis",
-            "markdown": "Talk to \u25c0Aramis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aramis\u25b7"
-        },
-        {
-            "plaintext": "Look for posters and billboards in Mondstadt (0/4)",
-            "markdown": "Look for posters and billboards in Mondstadt (0/4)"
-        },
-        {
-            "plaintext": "Talk to Aramis",
-            "markdown": "Talk to Aramis"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Aramis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aramis\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for posters and billboards in Mondstadt (0/4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aramis"
+                }
+            ]
         }
     ],
     "dialogue": true

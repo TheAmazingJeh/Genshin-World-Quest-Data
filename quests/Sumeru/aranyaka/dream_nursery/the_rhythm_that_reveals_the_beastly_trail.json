@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Rhythm that Reveals the Beastly Trail",
     "url": "https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Reveals_the_Beastly_Trail",
     "starting_location": {
-        "plaintext": "Ardravi Valley , Sumeru",
-        "markdown": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Encounter in the Woods",
@@ -56,68 +56,79 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to the designated location to look for clues about Ashvattha's Concourses",
-            "markdown": "Head to the designated location to look for clues about \u25c0Ashvattha's Concourses\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashvattha%27s_Concourses\u25b7"
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama"
-        },
-        {
-            "plaintext": "Observe the Sumeru Roses to find the hidden song",
-            "markdown": "Observe the Sumeru Roses to find the hidden song"
-        },
-        {
-            "plaintext": "Play the music according to the pattern of the roses",
-            "markdown": "Play the music according to the pattern of the roses",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "You can now use the Vintage Lyre on the Claustroflora to remove obstacles.",
-                    "markdown": "You can now use the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7 on the \u25c0Claustroflora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Claustroflora\u25b7 to remove obstacles."
-                }
-            ]
-        },
-        {
-            "plaintext": "Head to the designated location",
-            "markdown": "Head to the designated location"
-        },
-        {
-            "plaintext": "Unlock the road ahead using the Rhythm of the Beastly Trail",
-            "markdown": "Unlock the road ahead using the Rhythm of the Beastly Trail"
-        },
-        {
-            "plaintext": "Keep going and reach Ashvattha's Concourse",
-            "markdown": "Keep going and reach Ashvattha's Concourse"
-        },
-        {
-            "plaintext": "Clean up the Withering Zone",
-            "markdown": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7"
-        },
-        {
-            "plaintext": "Investigate the trees inside Ashvattha's Concourse",
-            "markdown": "Investigate the trees inside Ashvattha's Concourse",
-            "substeps": [
-                {
-                    "plaintext": "You will enter the quest domain The Rhythm that Reveals the Beastly Trail. If you leave before completing the quest, you must redo the entire domain from the start.",
-                    "markdown": "You will enter the quest domain \u25c0The Rhythm that Reveals the Beastly Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Reveals_the_Beastly_Trail_(Domain)\u25b7. If you leave before completing the quest, you must redo the entire domain from the start."
+                    "tag": "li",
+                    "text": "Head to the designated location to look for clues about \u25c0Ashvattha's Concourses\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashvattha%27s_Concourses\u25b7"
                 },
                 {
-                    "plaintext": "You must have a Dendro character and a bow user in your team.",
-                    "markdown": "You must have a Dendro character and a bow user in your team."
+                    "tag": "li",
+                    "text": "Talk to Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Observe the Sumeru Roses to find the hidden song"
+                },
+                {
+                    "tag": "li",
+                    "text": "Play the music according to the pattern of the roses"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You can now use the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7 on the \u25c0Claustroflora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Claustroflora\u25b7 to remove obstacles."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Unlock the road ahead using the Rhythm of the Beastly Trail"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep going and reach Ashvattha's Concourse"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the trees inside Ashvattha's Concourse"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You will enter the quest domain \u25c0The Rhythm that Reveals the Beastly Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Reveals_the_Beastly_Trail_(Domain)\u25b7. If you leave before completing the quest, you must redo the entire domain from the start."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "You must have a Dendro character and a bow user in your team."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the dream of the \u25c0Vasara Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vasara_Tree\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the Vasara Tree"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arama"
                 }
             ]
-        },
-        {
-            "plaintext": "Explore the dream of the Vasara Tree",
-            "markdown": "Explore the dream of the \u25c0Vasara Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vasara_Tree\u25b7"
-        },
-        {
-            "plaintext": "Investigate the Vasara Tree",
-            "markdown": "Investigate the Vasara Tree"
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama"
         }
     ],
     "dialogue": true

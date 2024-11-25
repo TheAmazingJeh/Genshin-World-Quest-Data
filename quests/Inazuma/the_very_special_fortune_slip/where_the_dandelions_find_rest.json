@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Where the Dandelions Find Rest",
     "url": "https://genshin-impact.fandom.com/wiki/Where_the_Dandelions_Find_Rest",
     "starting_location": {
-        "plaintext": "Mt. Yougou , Inazuma",
-        "markdown": "\u25c0Mt. Yougou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Yougou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Mt. Yougou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Yougou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,86 +53,103 @@
     ],
     "steps": [
         {
-            "plaintext": "Head for the safehouse",
-            "markdown": "Head for the safehouse"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui/Enemies\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Head for the safehouse"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                    "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Pursue the elemental trail",
-            "markdown": "Pursue the elemental trail"
-        },
-        {
-            "plaintext": "Enter the basement of the abandoned building",
-            "markdown": "Enter the basement of the abandoned building",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui/Enemies\u25b7"
+                },
                 {
-                    "plaintext": "Enter the Quest Domain: Beneath the Abandoned House",
-                    "markdown": "Enter the Quest Domain: \u25c0Beneath the Abandoned House\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Beneath_the_Abandoned_House\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Follow the elemental trail to search for Momoyo",
-            "markdown": "Follow the elemental trail to search for \u25c0Momoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Momoyo\u25b7"
-        },
-        {
-            "plaintext": "Look for a key",
-            "markdown": "Look for a \u25c0key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cell_Key\u25b7"
-        },
-        {
-            "plaintext": "Open the cell gate",
-            "markdown": "Open the cell gate"
-        },
-        {
-            "plaintext": "Give Lyudochka the good news",
-            "markdown": "Give \u25c0Lyudochka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka_Snezhevna\u25b7 the good news"
-        },
-        {
-            "plaintext": "Consult Aratani",
-            "markdown": "Consult \u25c0Aratani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aratani\u25b7",
-            "substeps": [
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                            }
+                        }
+                    ]
+                },
                 {
-                    "plaintext": "Obtain Lyudochka's Letter and Lyudochka's Mora Purse",
-                    "markdown": "Obtain \u25c0Lyudochka's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka%27s_Letter\u25b7 and \u25c0Lyudochka's Mora Purse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka%27s_Mora_Purse\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Tell Momoyo about the situation",
-            "markdown": "Tell Momoyo about the situation"
-        },
-        {
-            "plaintext": "Search for Lyudochka",
-            "markdown": "Search for Lyudochka",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Pursue the elemental trail"
+                },
                 {
-                    "plaintext": "She is located on a boat in the southwestern spot of the quest area.",
-                    "markdown": "She is located on a boat in the southwestern spot of the quest area."
+                    "tag": "li",
+                    "text": "Enter the basement of the abandoned building"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Enter the Quest Domain: \u25c0Beneath the Abandoned House\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Beneath_the_Abandoned_House\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the elemental trail to search for \u25c0Momoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Momoyo\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for a \u25c0key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cell_Key\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the cell gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give \u25c0Lyudochka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka_Snezhevna\u25b7 the good news"
+                },
+                {
+                    "tag": "li",
+                    "text": "Consult \u25c0Aratani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aratani\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Lyudochka's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka%27s_Letter\u25b7 and \u25c0Lyudochka's Mora Purse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lyudochka%27s_Mora_Purse\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Tell Momoyo about the situation"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for Lyudochka"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "She is located on a boat in the southwestern spot of the quest area."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Pass \"\u25c0that item\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Fortune_Slip\u25b7\" to Lyudochka"
                 }
             ]
-        },
-        {
-            "plaintext": "Pass \"that item\" to Lyudochka",
-            "markdown": "Pass \"\u25c0that item\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Fortune_Slip\u25b7\" to Lyudochka"
         }
     ],
     "dialogue": true

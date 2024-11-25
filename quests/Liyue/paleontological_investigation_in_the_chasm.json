@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Paleontological Investigation in The Chasm",
     "url": "https://genshin-impact.fandom.com/wiki/Paleontological_Investigation_in_The_Chasm",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
     },
     "requirements": {
         "plaintext": "Completed Chasm Spelunkers quest",
@@ -35,12 +35,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Take pictures of more fossils",
-            "markdown": "Take pictures of more fossils"
-        },
-        {
-            "plaintext": "Give the fossil pictures to Khedive",
-            "markdown": "Give the fossil pictures to Khedive"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Take pictures of more fossils"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the fossil pictures to Khedive"
+                }
+            ]
         }
     ],
     "dialogue": true

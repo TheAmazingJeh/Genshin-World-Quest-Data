@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Dune-Entombed Fecundity: Part I",
     "url": "https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity%3A_Part_I",
     "starting_location": {
-        "plaintext": "Tanit Camps , Sumeru",
-        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,39 +46,54 @@
     ],
     "steps": [
         {
-            "plaintext": "Speak with Jeht and Azariq",
-            "markdown": "Speak with \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7 and \u25c0Azariq\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Azariq\u25b7"
-        },
-        {
-            "plaintext": "Talk to Babel",
-            "markdown": "Talk to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
-        },
-        {
-            "plaintext": "Descend to the innermost depths of the Eternal Oasis in Mt. Damavand",
-            "markdown": "Descend to the innermost depths of the \u25c0Eternal Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eternal_Oasis\u25b7 in \u25c0Mt. Damavand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Damavand\u25b7"
-        },
-        {
-            "plaintext": "Reach the entrance of Mt. Damavand",
-            "markdown": "Reach the entrance of Mt. Damavand"
-        },
-        {
-            "plaintext": "Defeat all opponents",
-            "markdown": "Defeat all opponents",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Speak with \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7 and \u25c0Azariq\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Azariq\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Descend to the innermost depths of the \u25c0Eternal Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eternal_Oasis\u25b7 in \u25c0Mt. Damavand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Damavand\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Reach the entrance of Mt. Damavand"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Stretchy Geo Fungus x3",
-                            "markdown": "<img:stretchy_geo_fungus> \u25c0Stretchy Geo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Geo_Fungus\u25b7 x3",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:stretchy_geo_fungus> \u25c0Stretchy Geo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Geo_Fungus\u25b7 \u00d73",
                             "img": {
                                 "stretchy_geo_fungus": "Stretchy_Geo_Fungus_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Grounded Geoshroom x1",
-                            "markdown": "<img:grounded_geoshroom> \u25c0Grounded Geoshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grounded_Geoshroom\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:grounded_geoshroom> \u25c0Grounded Geoshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grounded_Geoshroom\u25b7 \u00d71",
                             "img": {
                                 "grounded_geoshroom": "Grounded_Geoshroom_Icon.png"
                             }
@@ -86,106 +101,115 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Stretchy Geo Fungus x2",
-                            "markdown": "<img:stretchy_geo_fungus> \u25c0Stretchy Geo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Geo_Fungus\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:stretchy_geo_fungus> \u25c0Stretchy Geo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Geo_Fungus\u25b7 \u00d72",
                             "img": {
                                 "stretchy_geo_fungus": "Stretchy_Geo_Fungus_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Grounded Geoshroom x2",
-                            "markdown": "<img:grounded_geoshroom> \u25c0Grounded Geoshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grounded_Geoshroom\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:grounded_geoshroom> \u25c0Grounded Geoshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grounded_Geoshroom\u25b7 \u00d72",
                             "img": {
                                 "grounded_geoshroom": "Grounded_Geoshroom_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Enter Mt. Damavand",
-            "markdown": "Enter Mt. Damavand"
-        },
-        {
-            "plaintext": "Investigate the abandoned Eremite camp",
-            "markdown": "Investigate the abandoned \u25c0Eremite\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite\u25b7 camp"
-        },
-        {
-            "plaintext": "Explore Mt. Damavand",
-            "markdown": "Explore Mt. Damavand"
-        },
-        {
-            "plaintext": "Examine the mysterious mechanism",
-            "markdown": "Examine the mysterious mechanism"
-        },
-        {
-            "plaintext": "Activate the mysterious mechanism",
-            "markdown": "Activate the mysterious mechanism"
-        },
-        {
-            "plaintext": "Proceed deeper",
-            "markdown": "Proceed deeper"
-        },
-        {
-            "plaintext": "Connect the junctions",
-            "markdown": "Connect the junctions"
-        },
-        {
-            "plaintext": "Proceed deeper",
-            "markdown": "Proceed deeper"
-        },
-        {
-            "plaintext": "Find another way to enter the central area",
-            "markdown": "Find another way to enter the central area"
-        },
-        {
-            "plaintext": "Proceed deeper",
-            "markdown": "Proceed deeper"
-        },
-        {
-            "plaintext": "Collect Liloupar's fragment",
-            "markdown": "Collect Liloupar's fragment"
-        },
-        {
-            "plaintext": "Head into the depths",
-            "markdown": "Head into the depths"
-        },
-        {
-            "plaintext": "Open the door",
-            "markdown": "Open the door"
-        },
-        {
-            "plaintext": "Head to the depths of the mountain",
-            "markdown": "Head to the depths of the mountain"
-        },
-        {
-            "plaintext": "Activate the mysterious mechanism",
-            "markdown": "Activate the mysterious mechanism"
-        },
-        {
-            "plaintext": "Enter the central area",
-            "markdown": "Enter the central area"
-        },
-        {
-            "plaintext": "Activate the mechanism",
-            "markdown": "Activate the mechanism"
-        },
-        {
-            "plaintext": "Hold back the attracted monsters",
-            "markdown": "Hold back the attracted monsters",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Enter Mt. Damavand"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the abandoned \u25c0Eremite\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite\u25b7 camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore Mt. Damavand"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the mysterious mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the mysterious mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Proceed deeper"
+                },
+                {
+                    "tag": "li",
+                    "text": "Connect the junctions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Proceed deeper"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find another way to enter the central area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Proceed deeper"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect Liloupar's fragment"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head into the depths"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the door"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the depths of the mountain"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the mysterious mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the central area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Hold back the attracted monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Primal Construct: Repulsor x2",
-                            "markdown": "<img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 x2",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 \u00d72",
                             "img": {
                                 "primal_construct_repulsor": "Primal_Construct_Icon.png"
                             }
@@ -193,46 +217,45 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Primal Construct: Prospector x1",
-                            "markdown": "<img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 \u00d71",
                             "img": {
                                 "primal_construct_prospector": "Primal_Construct_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Primal Construct: Reshaper x1",
-                            "markdown": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 \u00d71",
                             "img": {
                                 "primal_construct_reshaper": "Primal_Construct_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the exit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jeht and the others"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the surface"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Azariq and the others"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Azariq"
                 }
             ]
-        },
-        {
-            "plaintext": "Head to the exit",
-            "markdown": "Head to the exit"
-        },
-        {
-            "plaintext": "Talk to Jeht and the others",
-            "markdown": "Talk to Jeht and the others"
-        },
-        {
-            "plaintext": "Return to the surface",
-            "markdown": "Return to the surface"
-        },
-        {
-            "plaintext": "Talk to Azariq and the others",
-            "markdown": "Talk to Azariq and the others"
-        },
-        {
-            "plaintext": "Talk to Azariq",
-            "markdown": "Talk to Azariq"
         }
     ],
     "dialogue": true

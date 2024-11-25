@@ -1,0 +1,65 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "The Other Side of the Sky",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Other_Side_of_the_Sky",
+    "starting_location": {
+        "text": "\u25c0Cradle of Fleeting Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cradle_of_Fleeting_Dreams\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Explore the Tonatiuh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go with your little Tepetlisaurus to where Bona is"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to where Bona is"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collecting the burning Firestones (0/4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Begin the Altar offering"
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the Jade of Return"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

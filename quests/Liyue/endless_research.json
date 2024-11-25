@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Endless Research",
     "url": "https://genshin-impact.fandom.com/wiki/Endless_Research",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -56,28 +56,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Alrani",
-            "markdown": "Talk to \u25c0Alrani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Alrani\u25b7"
-        },
-        {
-            "plaintext": "Defeat all the hilichurls",
-            "markdown": "Defeat all the hilichurls"
-        },
-        {
-            "plaintext": "Speak to Alrani",
-            "markdown": "Speak to Alrani"
-        },
-        {
-            "plaintext": "Use Elemental Sight to find the slimes",
-            "markdown": "Use \u25c0Elemental Sight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Sight\u25b7 to find the slimes"
-        },
-        {
-            "plaintext": "Defeat all the slimes",
-            "markdown": "Defeat all the slimes"
-        },
-        {
-            "plaintext": "Speak to Alrani",
-            "markdown": "Speak to Alrani"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Alrani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Alrani\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the hilichurls"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to Alrani"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use \u25c0Elemental Sight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Sight\u25b7 to find the slimes"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the slimes"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to Alrani"
+                }
+            ]
         }
     ],
     "dialogue": true

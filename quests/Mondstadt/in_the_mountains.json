@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "In the Mountains",
     "url": "https://genshin-impact.fandom.com/wiki/In_the_Mountains",
     "starting_location": {
-        "plaintext": "Dragonspine Adventurer Camp , Mondstadt",
-        "markdown": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,85 +53,83 @@
     ],
     "steps": [
         {
-            "plaintext": "Investigate the strange ice",
-            "markdown": "Investigate the strange ice",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The strange ice is located next to a  Frostarm Lawachurl, near the first waypoint from Dragonspine Adventurer Camp.",
-                    "markdown": "The strange ice is located next to a <img:frostarm_lawachurl> \u25c0Frostarm Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Frostarm_Lawachurl\u25b7, near the first waypoint from \u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7.",
-                    "img": {
-                        "frostarm_lawachurl": "Frostarm_Lawachurl_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Investigate the strange ice"
                 },
                 {
-                    "plaintext": "Use the nearby Scarlet Quartz on the ice four times to thaw it.",
-                    "markdown": "Use the nearby \u25c0Scarlet Quartz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Quartz\u25b7 on the ice four times to thaw it."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The strange ice is located next to a <img:frostarm_lawachurl> \u25c0Frostarm Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Frostarm_Lawachurl\u25b7, near the first waypoint from \u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7.",
+                            "img": {
+                                "frostarm_lawachurl": "Frostarm_Lawachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the nearby \u25c0Scarlet Quartz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Quartz\u25b7 on the ice four times to thaw it."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Activate the orb to unlock the \u25c0Frostbearing Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Frostbearing_Tree\u25b7."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Activate the orb to unlock the Frostbearing Tree.",
-                    "markdown": "Activate the orb to unlock the \u25c0Frostbearing Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Frostbearing_Tree\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Continue upwards to investigate",
-            "markdown": "Continue upwards to investigate"
-        },
-        {
-            "plaintext": "Thaw all the shards out (1/3)",
-            "markdown": "Thaw all the shards out (1/3)",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Continue upwards to investigate"
+                },
                 {
-                    "plaintext": "Entombed City Outskirts (2nd waypoint south from Dawn Winery's Statue of The Seven)",
-                    "markdown": "Entombed City Outskirts (2nd waypoint south from Dawn Winery's Statue of The Seven)",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Thaw all the shards out (1/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Activate the device and watch the Warming Seelie go to the 5 Cryo Totems.",
-                            "markdown": "Activate the device and watch the Warming Seelie go to the 5 Cryo Totems."
+                            "tag": "li",
+                            "text": "Entombed City Outskirts (2nd waypoint south from Dawn Winery's Statue of The Seven)"
                         },
                         {
-                            "plaintext": "Activate the 5 totems in the same order using a Cryo character.",
-                            "markdown": "Activate the 5 totems in the same order using a Cryo character."
+                            "tag": "li",
+                            "text": "Starglow Cavern (waypoint southwest of \u25c0Peak of Vindagnyr\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peak_of_Vindagnyr\u25b7 domain)"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Activate the device and watch the Warming Seelie go to the 5 Cryo Totems."
                         },
                         {
-                            "plaintext": "Open the Precious Chest and defeat the enemies that spawn afterward:",
-                            "markdown": "Open the Precious Chest and defeat the enemies that spawn afterward:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Wave 1:  Ruin Guard x2.",
-                                    "markdown": "Wave 1: <img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x2.",
-                                    "img": {
-                                        "ruin_guard": "Ruin_Guard_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Wave 2:  Ruin Grader.",
-                                    "markdown": "Wave 2: <img:ruin_grader> \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7.",
-                                    "img": {
-                                        "ruin_grader": "Ruin_Grader_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "A snowstorm begins at the start of the fight that accelerates Sheer Cold. During the fight, only 1 of the 4 Ruin Braziers will be active at any one time.",
-                                    "markdown": "A snowstorm begins at the start of the fight that accelerates \u25c0Sheer Cold\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sheer_Cold\u25b7. During the fight, only 1 of the 4 \u25c0Ruin Braziers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Brazier\u25b7 will be active at any one time."
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Activate the 5 totems in the same order using a Cryo character."
                         },
                         {
-                            "plaintext": "Glide down into the cavern. Guide the floating Warming Seelie to its garden.",
-                            "markdown": "Glide down into the cavern. Guide the floating Warming Seelie to its garden."
+                            "tag": "li",
+                            "text": "Open the Precious Chest and defeat the enemies that spawn afterward:"
                         },
                         {
-                            "plaintext": "Free the 2nd Warming Seelie from the ice near the stele with Ancient Carvings.",
-                            "markdown": "Free the 2nd Warming Seelie from the ice near the stele with \u25c0Ancient Carvings\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Carvings\u25b7."
+                            "tag": "li",
+                            "text": "Glide down into the cavern. Guide the floating Warming Seelie to its garden."
                         },
                         {
-                            "plaintext": "Use the nearby Scarlet Quartz on the ice four times to thaw it.",
-                            "markdown": "Use the nearby \u25c0Scarlet Quartz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Quartz\u25b7 on the ice four times to thaw it."
+                            "tag": "li",
+                            "text": "Free the 2nd Warming Seelie from the ice near the stele with \u25c0Ancient Carvings\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Carvings\u25b7."
                         },
                         {
-                            "plaintext": "Activate the orb after thawing the ice.  Ruin Grader x2 will spawn. The entrance near the Seelie will open up, leading to a passage with some Starsilver ores.",
-                            "markdown": "Activate the orb after thawing the ice. <img:ruin_grader> \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7 x2 will spawn. The entrance near the Seelie will open up, leading to a passage with some \u25c0Starsilver\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starsilver\u25b7 ores.",
+                            "tag": "li",
+                            "text": "Use the nearby \u25c0Scarlet Quartz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Quartz\u25b7 on the ice four times to thaw it."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Activate the orb after thawing the ice. <img:ruin_grader> \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7 \u00d72 will spawn. The entrance near the Seelie will open up, leading to a passage with some \u25c0Starsilver\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starsilver\u25b7 ores.",
                             "img": {
                                 "ruin_grader": "Ruin_Grader_Icon.png"
                             }
@@ -139,213 +137,268 @@
                     ]
                 },
                 {
-                    "plaintext": "Starglow Cavern (waypoint southwest of Peak of Vindagnyr domain)",
-                    "markdown": "Starglow Cavern (waypoint southwest of \u25c0Peak of Vindagnyr\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peak_of_Vindagnyr\u25b7 domain)",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Head east from the waypoint, glide down, and continue east to the cavern with the strange ice.",
-                            "markdown": "Head east from the waypoint, glide down, and continue east to the cavern with the strange ice."
+                            "tag": "li",
+                            "text": "Wave 1: <img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 \u00d72.",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
                         },
                         {
-                            "plaintext": "Complete the Time Trial Challenge at the bottom of the cavern. This consists of four waves that must be cleared in three minutes:",
-                            "markdown": "Complete the Time Trial Challenge at the bottom of the cavern. This consists of four waves that must be cleared in three minutes:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Wave 1:",
-                                    "markdown": "Wave 1:",
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Cryo Hilichurl Shooter x2",
-                                            "markdown": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 x2",
-                                            "img": {
-                                                "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
-                                            }
-                                        },
-                                        {
-                                            "plaintext": "Cryo Hilichurl Grenadier x1",
-                                            "markdown": "<img:cryo_hilichurl_grenadier> \u25c0Cryo Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Grenadier\u25b7 x1",
-                                            "img": {
-                                                "cryo_hilichurl_grenadier": "Cryo_Hilichurl_Shooter_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "plaintext": "Wave 2:",
-                                    "markdown": "Wave 2:",
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Cryo Hilichurl Shooter x3",
-                                            "markdown": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 x3",
-                                            "img": {
-                                                "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
-                                            }
-                                        },
-                                        {
-                                            "plaintext": "Cryo Samachurl x1",
-                                            "markdown": "<img:cryo_samachurl> \u25c0Cryo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Samachurl\u25b7 x1",
-                                            "img": {
-                                                "cryo_samachurl": "Cryo_Samachurl_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "plaintext": "Wave 3:",
-                                    "markdown": "Wave 3:",
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Cryo Hilichurl Shooter x2",
-                                            "markdown": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 x2",
-                                            "img": {
-                                                "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
-                                            }
-                                        },
-                                        {
-                                            "plaintext": "Cryo Samachurl x2",
-                                            "markdown": "<img:cryo_samachurl> \u25c0Cryo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Samachurl\u25b7 x2",
-                                            "img": {
-                                                "cryo_samachurl": "Cryo_Samachurl_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "plaintext": "Wave 4:  Cryo Abyss Mage x3",
-                                    "markdown": "Wave 4: <img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x3",
-                                    "img": {
-                                        "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "During this challenge, icicles will continually fall from above. It is recommended to find the three Warming Seelies and guide them to the courts before attempting the challenge.",
-                                    "markdown": "During this challenge, icicles will continually fall from above. It is recommended to find the three \u25c0Warming Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warming_Seelie\u25b7 and guide them to the courts before attempting the challenge."
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Wave 2: <img:ruin_grader> \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7.",
+                            "img": {
+                                "ruin_grader": "Ruin_Grader_Icon.png"
+                            }
                         },
                         {
-                            "plaintext": "Use the nearby Scarlet Quartz on the ice four times to thaw it.",
-                            "markdown": "Use the nearby \u25c0Scarlet Quartz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Quartz\u25b7 on the ice four times to thaw it."
-                        },
-                        {
-                            "plaintext": "Activate the orb after thawing the ice.",
-                            "markdown": "Activate the orb after thawing the ice."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Head for Dragonspine's summit",
-            "markdown": "Head for Dragonspine's summit",
-            "substeps": [
-                {
-                    "plaintext": "Go to the Statue of The Seven and head south, then west.",
-                    "markdown": "Go to the Statue of The Seven and head south, then west."
-                },
-                {
-                    "plaintext": "Follow the Warming Seelie at the hilichurl camp to reach the Skyfrost Nail subarea.",
-                    "markdown": "Follow the Warming Seelie at the hilichurl camp to reach the Skyfrost Nail subarea."
-                }
-            ]
-        },
-        {
-            "plaintext": "Thaw all the shards out again (3 shards)",
-            "markdown": "Thaw all the shards out again (3 shards)",
-            "substeps": [
-                {
-                    "plaintext": "Break the first shard",
-                    "markdown": "Break the first shard",
-                    "substeps": [
-                        {
-                            "plaintext": "From the Skyfrost Nail waypoint, break the Scarlet Quartz near an inactive Ruin Guard.",
-                            "markdown": "From the Skyfrost Nail waypoint, break the Scarlet Quartz near an inactive Ruin Guard."
-                        },
-                        {
-                            "plaintext": "Go further up the circular slope and use an archer to shoot the 1st glowing shard floating in the sky.",
-                            "markdown": "Go further up the circular slope and use an archer to shoot the 1st glowing shard floating in the sky."
+                            "tag": "li",
+                            "text": "A snowstorm begins at the start of the fight that accelerates \u25c0Sheer Cold\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sheer_Cold\u25b7. During the fight, only 1 of the 4 \u25c0Ruin Braziers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Brazier\u25b7 will be active at any one time."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Break the second shard",
-                    "markdown": "Break the second shard",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Head up the slope to a heat beacon in a field of ice grass.",
-                            "markdown": "Head up the slope to a heat beacon in a field of ice grass."
+                            "tag": "li",
+                            "text": "Head east from the waypoint, glide down, and continue east to the cavern with the strange ice."
                         },
                         {
-                            "plaintext": "Go north and defeat the  Frostarm Lawachurl. This Lawachurl will call in  Cryo Hilichurl Shooters as reinforcements, all of whom will despawn when the Lawachurl is killed.",
-                            "markdown": "Go north and defeat the <img:frostarm_lawachurl> \u25c0Frostarm Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Frostarm_Lawachurl\u25b7. This Lawachurl will call in <img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7s as reinforcements, all of whom will despawn when the Lawachurl is killed.",
+                            "tag": "li",
+                            "text": "Complete the Time Trial Challenge at the bottom of the cavern. This consists of four waves that must be cleared in three minutes:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the nearby \u25c0Scarlet Quartz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Quartz\u25b7 on the ice four times to thaw it."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Activate the orb after thawing the ice."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 4: <img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 \u00d73",
+                            "img": {
+                                "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "During this challenge, icicles will continually fall from above. It is recommended to find the three \u25c0Warming Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warming_Seelie\u25b7 and guide them to the courts before attempting the challenge."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d72",
+                            "img": {
+                                "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_grenadier> \u25c0Cryo Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Grenadier\u25b7 \u00d71",
+                            "img": {
+                                "cryo_hilichurl_grenadier": "Cryo_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d73",
+                            "img": {
+                                "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_samachurl> \u25c0Cryo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Samachurl\u25b7 \u00d71",
+                            "img": {
+                                "cryo_samachurl": "Cryo_Samachurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d72",
+                            "img": {
+                                "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_samachurl> \u25c0Cryo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Samachurl\u25b7 \u00d72",
+                            "img": {
+                                "cryo_samachurl": "Cryo_Samachurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head for Dragonspine's summit"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Go to the Statue of The Seven and head south, then west."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Follow the Warming Seelie at the hilichurl camp to reach the Skyfrost Nail subarea."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Thaw all the shards out again (3 shards)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Break the first shard"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Break the second shard"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Break the third shard"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Activate all the Orbs revealed by the broken shards."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "From the Skyfrost Nail waypoint, break the Scarlet Quartz near an inactive Ruin Guard."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Go further up the circular slope and use an archer to shoot the 1st glowing shard floating in the sky."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Head up the slope to a heat beacon in a field of ice grass."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Go north and defeat the <img:frostarm_lawachurl> \u25c0Frostarm Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Frostarm_Lawachurl\u25b7. This Lawachurl will call in <img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7s as reinforcements, all of whom will despawn when the Lawachurl is killed.",
                             "img": {
                                 "frostarm_lawachurl": "Frostarm_Lawachurl_Icon.png",
                                 "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Break the Scarlet Quartz near the chest.",
-                            "markdown": "Break the Scarlet Quartz near the chest."
+                            "tag": "li",
+                            "text": "Break the Scarlet Quartz near the chest."
                         },
                         {
-                            "plaintext": "Go back to the cliff near the heat beacon and shoot the 2nd shard floating in the sky.",
-                            "markdown": "Go back to the cliff near the heat beacon and shoot the 2nd shard floating in the sky."
+                            "tag": "li",
+                            "text": "Go back to the cliff near the heat beacon and shoot the 2nd shard floating in the sky."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Break the third shard",
-                    "markdown": "Break the third shard",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Follow the Warming Seelie near the Lawachurl's chest up to an Anemo Totem.",
-                            "markdown": "Follow the Warming Seelie near the Lawachurl's chest up to an Anemo Totem."
+                            "tag": "li",
+                            "text": "Follow the Warming Seelie near the Lawachurl's chest up to an Anemo Totem."
                         },
                         {
-                            "plaintext": "Activate the Anemo Totem, then glide up the wind current and use the wind rings to reach a hilichurl camp.",
-                            "markdown": "Activate the Anemo Totem, then glide up the wind current and use the wind rings to reach a hilichurl camp."
+                            "tag": "li",
+                            "text": "Activate the Anemo Totem, then glide up the wind current and use the wind rings to reach a hilichurl camp."
                         },
                         {
-                            "plaintext": "Break the Scarlet Quartz in the hilichurl camp.",
-                            "markdown": "Break the Scarlet Quartz in the hilichurl camp."
+                            "tag": "li",
+                            "text": "Break the Scarlet Quartz in the hilichurl camp."
                         },
                         {
-                            "plaintext": "Glide down onto one of the floating platforms and shoot the 3rd shard. The player can also activate the other 2 orbs before shooting the 3rd shard if quick enough. Otherwise, shoot the 3rd shard first, then go back and glide down to activate all the orbs.",
-                            "markdown": "Glide down onto one of the floating platforms and shoot the 3rd shard. The player can also activate the other 2 orbs before shooting the 3rd shard if quick enough. Otherwise, shoot the 3rd shard first, then go back and glide down to activate all the orbs."
+                            "tag": "li",
+                            "text": "Glide down onto one of the floating platforms and shoot the 3rd shard. The player can also activate the other 2 orbs before shooting the 3rd shard if quick enough. Otherwise, shoot the 3rd shard first, then go back and glide down to activate all the orbs."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Activate all the Orbs revealed by the broken shards.",
-                    "markdown": "Activate all the Orbs revealed by the broken shards."
-                }
-            ]
-        },
-        {
-            "plaintext": "Investigate the area below",
-            "markdown": "Investigate the area below",
-            "substeps": [
-                {
-                    "plaintext": "Open the Luxurious Chest with the red aura.",
-                    "markdown": "Open the Luxurious Chest with the red aura."
+                    "tag": "li",
+                    "text": "Investigate the area below"
                 },
                 {
-                    "plaintext": "This will grant access to the Peak of Vindagnyr domain.",
-                    "markdown": "This will grant access to the \u25c0Peak of Vindagnyr\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peak_of_Vindagnyr\u25b7 \u25c0domain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domain\u25b7."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Open the Luxurious Chest with the red aura."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "This will grant access to the \u25c0Peak of Vindagnyr\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peak_of_Vindagnyr\u25b7 \u25c0domain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domain\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "There are also 3 Precious \u25c0Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chests\u25b7 and 1 Exquisite Chest near the entrance of the domain."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "There are also 3 Precious Chests and 1 Exquisite Chest near the entrance of the domain.",
-                    "markdown": "There are also 3 Precious \u25c0Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chests\u25b7 and 1 Exquisite Chest near the entrance of the domain."
-                }
-            ]
-        },
-        {
-            "plaintext": "Report back to Iris",
-            "markdown": "Report back to Iris",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Report back to Iris"
+                },
                 {
-                    "plaintext": "The Cryo Hypostasis will become available after this step.",
-                    "markdown": "The \u25c0Cryo Hypostasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hypostasis\u25b7 will become available after this step."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The \u25c0Cryo Hypostasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hypostasis\u25b7 will become available after this step."
+                        }
+                    ]
                 }
             ]
         }

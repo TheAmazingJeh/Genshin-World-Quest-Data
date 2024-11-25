@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Moon-Bathed Deep (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep_%28Quest%29",
     "starting_location": {
-        "plaintext": "Mouun Shrine , Inazuma",
-        "markdown": "\u25c0Mouun Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mouun_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Mouun Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mouun_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Chapter II : Act I Quest Ritou Escape Plan",
@@ -13,8 +13,13 @@
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Talk to Tsuyuko at Mouun Shrine",
-            "markdown": "Talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7 at \u25c0Mouun Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mouun_Shrine\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7 at \u25c0Mouun Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mouun_Shrine\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

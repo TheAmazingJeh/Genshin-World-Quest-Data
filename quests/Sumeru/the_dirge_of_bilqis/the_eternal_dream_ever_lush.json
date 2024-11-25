@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Eternal Dream, Ever Lush",
     "url": "https://genshin-impact.fandom.com/wiki/The_Eternal_Dream%2C_Ever_Lush",
     "starting_location": {
-        "plaintext": "The Orchard of Pairidaeza , Desert of Hadramaveth , Sumeru",
-        "markdown": "\u25c0The Orchard of Pairidaeza\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Orchard_of_Pairidaeza\u25b7 , \u25c0Desert of Hadramaveth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert_of_Hadramaveth\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0The Orchard of Pairidaeza\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Orchard_of_Pairidaeza\u25b7 , \u25c0Desert of Hadramaveth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert_of_Hadramaveth\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -18,52 +18,57 @@
     ],
     "steps": [
         {
-            "plaintext": "Exit the cave",
-            "markdown": "Exit the cave"
-        },
-        {
-            "plaintext": "Continue onward",
-            "markdown": "Continue onward"
-        },
-        {
-            "plaintext": "Go to where the Goddess of Flowers slumbers",
-            "markdown": "Go to where the Goddess of Flowers slumbers"
-        },
-        {
-            "plaintext": "Collect Liloupar's fragment",
-            "markdown": "Collect Liloupar's fragment"
-        },
-        {
-            "plaintext": "Talk to Liloupar",
-            "markdown": "Talk to Liloupar"
-        },
-        {
-            "plaintext": "Find Jeht",
-            "markdown": "Find Jeht"
-        },
-        {
-            "plaintext": "Accompany Jeht",
-            "markdown": "Accompany Jeht"
-        },
-        {
-            "plaintext": "Talk to Jeht",
-            "markdown": "Talk to Jeht"
-        },
-        {
-            "plaintext": "Talk to Liloupar",
-            "markdown": "Talk to Liloupar"
-        },
-        {
-            "plaintext": "Leave the Orchard of Pairidaeza",
-            "markdown": "Leave the Orchard of Pairidaeza"
-        },
-        {
-            "plaintext": "Talk to Jeht",
-            "markdown": "Talk to Jeht"
-        },
-        {
-            "plaintext": "Report your findings to Babel",
-            "markdown": "Report your findings to Babel"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Exit the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue onward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to where the Goddess of Flowers slumbers"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect Liloupar's fragment"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Liloupar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Accompany Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Liloupar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the Orchard of Pairidaeza"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report your findings to Babel"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,0 +1,95 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Molting Season",
+    "url": "https://genshin-impact.fandom.com/wiki/Molting_Season",
+    "starting_location": {
+        "text": "\u25c0Quahuacan Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Quahuacan_Cliff\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Fight off the hostile \u25c0Saurian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saurian\u25b7 traffickers"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:flowing_blade_harpoon-thrower> \u25c0Flowing Blade Harpoon-Thrower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flowing_Blade_Harpoon-Thrower\u25b7 \u00d71",
+                            "img": {
+                                "flowing_blade_harpoon-thrower": "Flowing_Blade_Harpoon-Thrower_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:flowing_blade_skirmisher> \u25c0Flowing Blade Skirmisher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flowing_Blade_Skirmisher\u25b7 \u00d71",
+                            "img": {
+                                "flowing_blade_skirmisher": "Flowing_Blade_Skirmisher_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Find Acomitl"
+                },
+                {
+                    "tag": "li",
+                    "text": "Start your scored flight!"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Complete the \u25c0Warrior's Challenge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warrior%27s_Challenge\u25b7 with an S (7500 points) or higher"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

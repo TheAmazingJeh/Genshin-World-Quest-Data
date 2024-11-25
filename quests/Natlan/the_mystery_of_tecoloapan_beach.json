@@ -1,0 +1,144 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "The Mystery of Tecoloapan Beach",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Mystery_of_Tecoloapan_Beach",
+    "starting_location": {
+        "text": "\u25c0???\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tecoloapan_Bay\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Masters of the Night-Wind Reputation EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Masters_of_the_Night-Wind_Reputation_EXP",
+            "Image": "Item_Masters_of_the_Night-Wind_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "450",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "50,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by approaching \u25c0Tecoloapan Bay\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tecoloapan_Bay\u25b7 (initially\u00a0???) on the west end of \u25c0Tezcatepetonco Range\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tezcatepetonco_Range\u25b7."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Unveil the secrets of the island within the fog"
+                },
+                {
+                    "tag": "li",
+                    "text": "Undo the island's seal(s)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue undoing the island's seal(s)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:forged_sand_interrogator> \u25c0Forged Sand Interrogator\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forged_Sand_Interrogator\u25b7 \u00d71 (Abyss-corrupted Nightsoul variant)",
+                            "img": {
+                                "forged_sand_interrogator": "Forged_Sand_Interrogator_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:forged_sand_shieldbreaker> \u25c0Forged Sand Shieldbreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forged_Sand_Shieldbreaker\u25b7 \u00d71 (Abyss-corrupted Nightsoul variant)",
+                            "img": {
+                                "forged_sand_shieldbreaker": "Forged_Sand_Shieldbreaker_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:tepetlisaurus_warrior_shard_striker> \u25c0Tepetlisaurus Warrior: Shard Striker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus_Warrior:_Shard_Striker\u25b7 \u00d71 (Abyss-corrupted Nightsoul variant)",
+                            "img": {
+                                "tepetlisaurus_warrior_shard_striker": "Tepetlisaurus_Warrior_Shard_Striker_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the center that is sealed by the graffiti"
+                },
+                {
+                    "tag": "li",
+                    "text": "Battle the \u25c0Abyss\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss\u25b7-corrupted Wayob manifestation"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:biting-cold_wayob_manifestation> \u25c0Delusion's Distortion \u2014 Evildoer Who Once Led Countless Priests Astray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Biting-Cold_Wayob_Manifestation\u25b7",
+                            "img": {
+                                "biting-cold_wayob_manifestation": "Biting-Cold_Wayob_Manifestation_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d72 (appears after some time)",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Wayob manifestation"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the surface"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Leroy: Hangman's Noose",
     "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Hangman%27s_Noose",
     "starting_location": {
-        "plaintext": "Court of Fontaine: Vasari Passage , Fontaine",
-        "markdown": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,16 +32,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Observe what's going on near Benoit's residence",
-            "markdown": "Observe what's going on near Benoit's residence"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "The quest unlocks automatically 1 in-game day after completing \u25c0Leroy: High Noon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Leroy:_High_Noon\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "Discuss with Paimon",
-            "markdown": "Discuss with Paimon"
-        },
-        {
-            "plaintext": "Go and examine the strange box (0/2)",
-            "markdown": "Go and examine the strange box (0/2)"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Observe what's going on near Benoit's residence"
+                },
+                {
+                    "tag": "li",
+                    "text": "Discuss with Paimon"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go and examine the strange box (0/2)"
+                }
+            ]
         }
     ],
     "dialogue": true

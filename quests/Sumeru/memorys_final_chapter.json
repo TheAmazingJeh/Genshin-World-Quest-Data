@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Memory's Final Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/Memory%27s_Final_Chapter",
     "starting_location": {
-        "plaintext": "Mawtiyima Forest , Sumeru",
-        "markdown": "\u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Dream Nursery",
@@ -42,12 +42,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Reach the Mawtiyima Forest",
-            "markdown": "Reach the Mawtiyima Forest"
-        },
-        {
-            "plaintext": "Talk to Aranara",
-            "markdown": "Talk to Aranara"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Reach the Mawtiyima Forest"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranara"
+                }
+            ]
         }
     ],
     "dialogue": true

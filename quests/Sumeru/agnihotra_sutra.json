@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Agnihotra Sutra",
     "url": "https://genshin-impact.fandom.com/wiki/Agnihotra_Sutra",
@@ -77,16 +78,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Starry Night Chapter",
-            "markdown": "\u25c0Starry Night Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter\u25b7"
+            "tag": "p",
+            "text": "Quests 1 and 2 can be done in any order."
         },
         {
-            "plaintext": "Risen Moon Chapter",
-            "markdown": "\u25c0Risen Moon Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Risen_Moon_Chapter\u25b7"
-        },
-        {
-            "plaintext": "The Final Chapter",
-            "markdown": "\u25c0The Final Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Final_Chapter\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Starry Night Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Risen Moon Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Risen_Moon_Chapter\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Final Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Final_Chapter\u25b7"
+                }
+            ]
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Yae Publishing House's Invitation",
     "url": "https://genshin-impact.fandom.com/wiki/Yae_Publishing_House%27s_Invitation",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Bookworm Swordsman and Ritou Escape Plan",
@@ -42,20 +42,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Chang the Ninth",
-            "markdown": "Talk to \u25c0Chang the Ninth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chang_the_Ninth\u25b7"
+            "tag": "p",
+            "text": "Start this quest by talking to \u25c0Aratani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aratani\u25b7 at the \u25c0Yae Publishing House\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yae_Publishing_House\u25b7."
         },
         {
-            "plaintext": "Search for Zhenyu at the Wanwen Bookhouse",
-            "markdown": "Search for Zhenyu at the \u25c0Wanwen Bookhouse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wanwen_Bookhouse\u25b7"
-        },
-        {
-            "plaintext": "Talk to Xingqiu",
-            "markdown": "Talk to \u25c0Xingqiu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xingqiu\u25b7"
-        },
-        {
-            "plaintext": "Report back to Aratani",
-            "markdown": "Report back to Aratani"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Chang the Ninth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chang_the_Ninth\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for Zhenyu at the \u25c0Wanwen Bookhouse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wanwen_Bookhouse\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Xingqiu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xingqiu\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Aratani"
+                }
+            ]
         }
     ],
     "dialogue": true

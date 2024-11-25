@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Through the Looking Glass",
     "url": "https://genshin-impact.fandom.com/wiki/Through_the_Looking_Glass",
     "starting_location": {
-        "plaintext": "??? , Fontaine",
-        "markdown": "\u25c0???\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%3F%3F%3F\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0???\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%3F%3F%3F\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "In the Wake of Narcissus",
@@ -49,18 +49,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Start the quest by completing the 6 Looking Glass puzzles",
-            "markdown": "Start the quest by completing the 6 \u25c0Looking Glass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Looking_Glass\u25b7 puzzles",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "See Looking Glass \u00a7 Locations for map locations and context images.",
-                    "markdown": "See \u25c0Looking Glass \u00a7 Locations\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Looking_Glass#Locations\u25b7 for map locations and context images."
+                    "tag": "li",
+                    "text": "Enter the Looking Glass"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Canotila"
                 }
             ]
-        },
-        {
-            "plaintext": "Then enter one of the Looking Glasses displaying sunflowers at any of the Looking Glass puzzle locations:",
-            "markdown": "Then enter one of the Looking Glasses displaying sunflowers at any of the Looking Glass puzzle locations:"
         }
     ],
     "dialogue": true

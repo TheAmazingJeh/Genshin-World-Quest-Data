@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Hereafter: Return to the Mountains",
     "url": "https://genshin-impact.fandom.com/wiki/Hereafter%3A_Return_to_the_Mountains",
     "starting_location": {
-        "plaintext": "Lisha , Liyue",
-        "markdown": "\u25c0Lisha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lisha\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Lisha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lisha\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,20 +39,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Go back to the Pervases statue",
-            "markdown": "Go back to the \u25c0Pervases\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pervases\u25b7 statue"
-        },
-        {
-            "plaintext": "Talk to Wang Ping'an",
-            "markdown": "Talk to \u25c0Wang Ping'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wang_Ping%27an\u25b7"
-        },
-        {
-            "plaintext": "Offer incense to Pervases",
-            "markdown": "Offer incense to Pervases"
-        },
-        {
-            "plaintext": "Talk to Wang Ping'an",
-            "markdown": "Talk to Wang Ping'an"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go back to the \u25c0Pervases\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pervases\u25b7 statue"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Wang Ping'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wang_Ping%27an\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Offer incense to Pervases"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Wang Ping'an"
+                }
+            ]
         }
     ],
     "dialogue": true

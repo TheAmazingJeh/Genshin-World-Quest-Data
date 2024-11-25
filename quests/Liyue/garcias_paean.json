@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Garcia's Paean",
     "url": "https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean",
     "starting_location": {
-        "plaintext": "Wangshu Inn , Liyue",
-        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,24 +32,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Garcia and Lutong",
-            "markdown": "Talk to Garcia and Lutong"
-        },
-        {
-            "plaintext": "Go to the kitchen",
-            "markdown": "Go to the kitchen"
-        },
-        {
-            "plaintext": "Make Delicious Radish Veggie Soup",
-            "markdown": "Make \u25c0Delicious Radish Veggie Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Delicious_Radish_Veggie_Soup\u25b7"
-        },
-        {
-            "plaintext": "Hand Over Delicious Radish Veggie Soup",
-            "markdown": "Hand Over Delicious Radish Veggie Soup"
-        },
-        {
-            "plaintext": "Talk to Garcia",
-            "markdown": "Talk to Garcia"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Garcia and Lutong"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the kitchen"
+                },
+                {
+                    "tag": "li",
+                    "text": "Make \u25c0Delicious Radish Veggie Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Delicious_Radish_Veggie_Soup\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Hand Over Delicious Radish Veggie Soup"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Garcia"
+                }
+            ]
         }
     ],
     "dialogue": true

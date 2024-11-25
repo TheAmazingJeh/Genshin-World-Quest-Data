@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Hiromi's Watch",
     "url": "https://genshin-impact.fandom.com/wiki/Hiromi%27s_Watch",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete The Chi of Yore and Ritou Escape Plan Have Someone's Drifting Bottle in your inventory",
@@ -49,28 +49,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the north of Narukami Island to find traces of Shun",
-            "markdown": "Go to the north of \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 to find traces of \u25c0Shun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shun\u25b7"
-        },
-        {
-            "plaintext": "Go to Jueyun Karst to search for Sun Yu and Little Que'er",
-            "markdown": "Go to \u25c0Jueyun Karst\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jueyun_Karst\u25b7 to search for \u25c0Sun Yu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sun_Yu\u25b7 and \u25c0Little Que'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Que%27er\u25b7"
-        },
-        {
-            "plaintext": "Go to Mt. Hulao to search for traces of \"Big Sis\"",
-            "markdown": "Go to \u25c0Mt. Hulao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Hulao\u25b7 to search for traces of \"Big Sis\""
-        },
-        {
-            "plaintext": "Talk to \"Big Sis\"",
-            "markdown": "Talk to \"Big Sis\""
-        },
-        {
-            "plaintext": "Rescue Yan'er",
-            "markdown": "Rescue \u25c0Yan'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yan%27er\u25b7"
-        },
-        {
-            "plaintext": "Go back and find Hiromi",
-            "markdown": "Go back and find \u25c0Hiromi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hiromi\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the north of \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 to find traces of \u25c0Shun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shun\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Jueyun Karst\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jueyun_Karst\u25b7 to search for \u25c0Sun Yu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sun_Yu\u25b7 and \u25c0Little Que'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Que%27er\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Mt. Hulao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Hulao\u25b7 to search for traces of \"Big Sis\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \"Big Sis\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Rescue \u25c0Yan'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yan%27er\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back and find \u25c0Hiromi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hiromi\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

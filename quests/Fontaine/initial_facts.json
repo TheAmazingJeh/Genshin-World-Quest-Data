@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Initial Facts",
     "url": "https://genshin-impact.fandom.com/wiki/Initial_Facts",
     "starting_location": {
-        "plaintext": "Institute of Natural Philosophy , Fontaine",
-        "markdown": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -28,16 +28,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Find clues regarding the Narzissenkreuz Ordo",
-            "markdown": "Find clues regarding the Narzissenkreuz Ordo"
-        },
-        {
-            "plaintext": "Go to the Narzissenkreuz Ordo",
-            "markdown": "Go to the Narzissenkreuz Ordo"
-        },
-        {
-            "plaintext": "Organize clues at the Narzissenkreuz Ordo",
-            "markdown": "Organize clues at the Narzissenkreuz Ordo"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Find clues regarding the Narzissenkreuz Ordo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Narzissenkreuz Ordo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Organize clues at the Narzissenkreuz Ordo"
+                }
+            ]
         }
     ],
     "dialogue": true

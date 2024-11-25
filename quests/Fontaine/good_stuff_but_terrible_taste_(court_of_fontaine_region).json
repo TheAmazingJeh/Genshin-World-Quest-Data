@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Good Stuff, but Terrible Taste (Court of Fontaine Region)",
     "url": "https://genshin-impact.fandom.com/wiki/Good_Stuff%2C_but_Terrible_Taste_%28Court_of_Fontaine_Region%29",
     "starting_location": {
-        "plaintext": "Court of Fontaine Region , Fontaine",
-        "markdown": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,8 +32,22 @@
     ],
     "steps": [
         {
-            "plaintext": "Place the object in a suitable location",
-            "markdown": "Place the object in a suitable location"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by opening a chest spawned after completing a nearby puzzle."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Place the object in a suitable location"
+                }
+            ]
         }
     ],
     "dialogue": true

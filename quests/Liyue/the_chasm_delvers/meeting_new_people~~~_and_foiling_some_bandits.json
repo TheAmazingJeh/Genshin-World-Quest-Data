@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Meeting New People... and Foiling Some Bandits",
     "url": "https://genshin-impact.fandom.com/wiki/Meeting_New_People..._and_Foiling_Some_Bandits",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines , Liyue",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,100 +39,111 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the campsite that has been occupied by Treasure Hoarders",
-            "markdown": "Go to the campsite that has been occupied by Treasure Hoarders"
-        },
-        {
-            "plaintext": "Clear out the Treasure Hoarders in the miner's camp",
-            "markdown": "Clear out the Treasure Hoarders in the miner's camp",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Treasure Hoarders: Crusher x1",
-                    "markdown": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the campsite that has been occupied by Treasure Hoarders"
                 },
                 {
-                    "plaintext": "Treasure Hoarders: Pugilist x1",
-                    "markdown": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Clear out the Treasure Hoarders in the miner's camp"
                 },
                 {
-                    "plaintext": "Treasure Hoarders: Scout x1",
-                    "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Treasure Hoarders: Pyro Potioneer x1",
-                    "markdown": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Save the person trapped in a cage by the Treasure Hoarders"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Clitopho\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clitopho\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the second occupied camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clear the Treasure Hoarders from the miner's camp"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the giant cannon in the depths of the tunnels"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the storehouse in which the cannonballs are stored"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Save the person trapped in a cage by the Treasure Hoarders",
-            "markdown": "Save the person trapped in a cage by the Treasure Hoarders"
-        },
-        {
-            "plaintext": "Talk to Clitopho",
-            "markdown": "Talk to \u25c0Clitopho\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clitopho\u25b7"
-        },
-        {
-            "plaintext": "Go to the second occupied camp",
-            "markdown": "Go to the second occupied camp"
-        },
-        {
-            "plaintext": "Clear the Treasure Hoarders from the miner's camp",
-            "markdown": "Clear the Treasure Hoarders from the miner's camp",
-            "substeps": [
-                {
-                    "plaintext": "Treasure Hoarders: Crusher x1",
-                    "markdown": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Treasure Hoarders: Pugilist x1",
-                    "markdown": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Treasure Hoarders: Scout x1",
-                    "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Treasure Hoarders: Electro Potioneer x1",
-                    "markdown": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Examine the giant cannon in the depths of the tunnels",
-            "markdown": "Examine the giant cannon in the depths of the tunnels"
-        },
-        {
-            "plaintext": "Go to the storehouse in which the cannonballs are stored",
-            "markdown": "Go to the storehouse in which the cannonballs are stored"
-        },
-        {
-            "plaintext": "Talk to Zhiqiong",
-            "markdown": "Talk to \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7"
         }
     ],
     "dialogue": true

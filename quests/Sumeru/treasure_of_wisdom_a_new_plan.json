@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Treasure of Wisdom: A New Plan",
     "url": "https://genshin-impact.fandom.com/wiki/Treasure_of_Wisdom%3A_A_New_Plan",
     "starting_location": {
-        "plaintext": "Sumeru City , Sumeru",
-        "markdown": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Drusus' Riddles and wait for the daily reset",
@@ -42,12 +42,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Set up the riddles with Drusus",
-            "markdown": "Set up the riddles with Drusus"
-        },
-        {
-            "plaintext": "Set up the treasure with Drusus",
-            "markdown": "Set up the treasure with Drusus"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Set up the riddles with Drusus"
+                },
+                {
+                    "tag": "li",
+                    "text": "Set up the treasure with Drusus"
+                }
+            ]
         }
     ],
     "dialogue": true

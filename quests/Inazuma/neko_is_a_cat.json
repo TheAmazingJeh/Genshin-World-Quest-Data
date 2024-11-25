@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Neko Is a Cat",
     "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat",
@@ -42,40 +43,100 @@
     ],
     "steps": [
         {
-            "plaintext": "Neko Is a Cat: Shrine Cleanup",
-            "markdown": "\u25c0Neko Is a Cat: Shrine Cleanup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Cleanup\u25b7"
+            "tag": "h",
+            "text": "World Quest Series"
         },
         {
-            "plaintext": "Neko Is a Cat: Wooden Shelf",
-            "markdown": "\u25c0Neko Is a Cat: Wooden Shelf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Wooden_Shelf\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: Shrine Cleanup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Cleanup\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: Wooden Shelf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Wooden_Shelf\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: The Children\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_The_Children\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: Shrine Recipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Recipe\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: Cat and Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Cat_and_Stone\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: Stone Human's Troubles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Stone_Human%27s_Troubles\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: Shrine Canteen\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Canteen\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: Ding-a-Ling Metal Ball\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Ding-a-Ling_Metal_Ball\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Neko Is a Cat: A \"Good Turn\" Comes Late\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_A_%22Good_Turn%22_Comes_Late\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "Neko Is a Cat: The Children",
-            "markdown": "\u25c0Neko Is a Cat: The Children\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_The_Children\u25b7"
+            "tag": "h",
+            "text": "Follow-Up Quests"
         },
         {
-            "plaintext": "Neko Is a Cat: Shrine Recipe",
-            "markdown": "\u25c0Neko Is a Cat: Shrine Recipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Recipe\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0A Fishy Flavor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Fishy_Flavor\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Shadow of the Cat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shadow_of_the_Cat\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Shrine Cleanup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shrine_Cleanup\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Cat's Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Cat%27s_Trail\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0To Make Cat Ornaments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/To_Make_Cat_Ornaments\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0To Make a Cat Carving\u25b6\u25c1https://genshin-impact.fandom.com/wiki/To_Make_a_Cat_Carving\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "Neko Is a Cat: Cat and Stone",
-            "markdown": "\u25c0Neko Is a Cat: Cat and Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Cat_and_Stone\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Narukami Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narukami_Trail\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "Neko Is a Cat: Stone Human's Troubles",
-            "markdown": "\u25c0Neko Is a Cat: Stone Human's Troubles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Stone_Human%27s_Troubles\u25b7"
-        },
-        {
-            "plaintext": "Neko Is a Cat: Shrine Canteen",
-            "markdown": "\u25c0Neko Is a Cat: Shrine Canteen\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Shrine_Canteen\u25b7"
-        },
-        {
-            "plaintext": "Neko Is a Cat: Ding-a-Ling Metal Ball",
-            "markdown": "\u25c0Neko Is a Cat: Ding-a-Ling Metal Ball\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_Ding-a-Ling_Metal_Ball\u25b7"
-        },
-        {
-            "plaintext": "Neko Is a Cat: A \"Good Turn\" Comes Late",
-            "markdown": "\u25c0Neko Is a Cat: A \"Good Turn\" Comes Late\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat:_A_%22Good_Turn%22_Comes_Late\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Requires 4 total completions of any of the following: \u25c0Shrine Cleanup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shrine_Cleanup\u25b7, \u25c0A Fishy Flavor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Fishy_Flavor\u25b7, \u25c0The Cat's Trail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Cat%27s_Trail\u25b7"
+                }
+            ]
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Gradus ad Capitolium",
     "url": "https://genshin-impact.fandom.com/wiki/Gradus_ad_Capitolium",
     "starting_location": {
-        "plaintext": "Sea of Bygone Eras , Fontaine",
-        "markdown": "\u25c0Sea of Bygone Eras\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Bygone_Eras\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Sea of Bygone Eras\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Bygone_Eras\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,37 +46,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to \"Domus Aurea\"",
-            "markdown": "Head to \"\u25c0Domus Aurea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domus_Aurea\u25b7\""
-        },
-        {
-            "plaintext": "Fend off the golems",
-            "markdown": "Fend off the golems",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Praetorian Golem x3",
-                    "markdown": "<img:praetorian_golem> \u25c0Praetorian Golem\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Praetorian_Golem\u25b7 x3",
-                    "img": {
-                        "praetorian_golem": "Praetorian_Golem_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Head to \"\u25c0Domus Aurea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domus_Aurea\u25b7\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Fend off the golems"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:praetorian_golem> \u25c0Praetorian Golem\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Praetorian_Golem\u25b7 \u00d73",
+                            "img": {
+                                "praetorian_golem": "Praetorian_Golem_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the mysterious space"
+                },
+                {
+                    "tag": "li",
+                    "text": "Rebuild the golden aqueducts"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to where the golden aqueducts are"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Scylla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scylla\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Explore the mysterious space",
-            "markdown": "Explore the mysterious space"
-        },
-        {
-            "plaintext": "Rebuild the golden aqueducts",
-            "markdown": "Rebuild the golden aqueducts"
-        },
-        {
-            "plaintext": "Head to where the golden aqueducts are",
-            "markdown": "Head to where the golden aqueducts are"
-        },
-        {
-            "plaintext": "Talk to Scylla",
-            "markdown": "Talk to \u25c0Scylla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scylla\u25b7"
         }
     ],
     "dialogue": true

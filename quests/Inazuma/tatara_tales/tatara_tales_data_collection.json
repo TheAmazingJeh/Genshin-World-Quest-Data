@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tatara Tales: Data Collection",
     "url": "https://genshin-impact.fandom.com/wiki/Tatara_Tales%3A_Data_Collection",
     "starting_location": {
-        "plaintext": "Tatarasuna , Inazuma",
-        "markdown": "\u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,16 +32,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
-        },
-        {
-            "plaintext": "Retrieve the beacon (0/3)",
-            "markdown": "Retrieve the beacon (0/3)"
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the beacon (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                }
+            ]
         }
     ],
     "dialogue": true

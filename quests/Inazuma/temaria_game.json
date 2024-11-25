@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Temaria Game",
     "url": "https://genshin-impact.fandom.com/wiki/Temaria_Game",
     "starting_location": {
-        "plaintext": "Byakko Plain , Inazuma",
-        "markdown": "\u25c0Byakko Plain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Byakko_Plain\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Byakko Plain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Byakko_Plain\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan",
@@ -35,16 +35,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Kid Kujirai",
-            "markdown": "Talk to Kid Kujirai"
-        },
-        {
-            "plaintext": "Find the Temari",
-            "markdown": "Find the \u25c0Temari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temari\u25b7"
-        },
-        {
-            "plaintext": "Talk to Kid Kujirai",
-            "markdown": "Talk to Kid Kujirai"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Kid Kujirai"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the \u25c0Temari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temari\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Kid Kujirai"
+                }
+            ]
         }
     ],
     "dialogue": true

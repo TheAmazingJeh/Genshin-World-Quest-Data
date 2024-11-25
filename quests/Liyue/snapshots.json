@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Snapshots",
     "url": "https://genshin-impact.fandom.com/wiki/Snapshots",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Reach Adventure Rank 25",
@@ -42,22 +42,34 @@
     ],
     "steps": [
         {
-            "plaintext": "Deliver the picture to the customer (0/2)",
-            "markdown": "Deliver the \u25c0picture\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamera_Picture\u25b7 to the customer (0/2)",
-            "substeps": [
-                {
-                    "plaintext": "Deliver to Granny Shan",
-                    "markdown": "Deliver to \u25c0Granny Shan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Granny_Shan\u25b7"
-                },
-                {
-                    "plaintext": "Deliver to Tea Master Liu Su",
-                    "markdown": "Deliver to \u25c0Tea Master Liu Su\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tea_Master_Liu_Su\u25b7"
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Xu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xu\u25b7 at Feiyun Slope (near the northern \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 at Liyue Harbor)."
         },
         {
-            "plaintext": "Report back to Xu",
-            "markdown": "Report back to Xu"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Deliver the \u25c0picture\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamera_Picture\u25b7 to the customer (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Deliver to \u25c0Granny Shan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Granny_Shan\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Deliver to \u25c0Tea Master Liu Su\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tea_Master_Liu_Su\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Xu"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Letter",
     "url": "https://genshin-impact.fandom.com/wiki/A_Letter",
     "starting_location": {
-        "plaintext": "New Fontaine Research Institute , Fontaine",
-        "markdown": "\u25c0New Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/New_Fontaine_Research_Institute\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0New Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/New_Fontaine_Research_Institute\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -42,37 +42,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Fontaine Research Institute",
-            "markdown": "Go to the Fontaine Research Institute"
-        },
-        {
-            "plaintext": "Go to the Mary-Ann Memorial Park",
-            "markdown": "Go to the \u25c0Mary-Ann Memorial Park\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mary-Ann_Memorial_Park\u25b7"
-        },
-        {
-            "plaintext": "Defeat all the malfunctioning meka",
-            "markdown": "Defeat all the malfunctioning meka",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Recon Log Mek - Ousia x3",
-                    "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x3",
-                    "img": {
-                        "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the Fontaine Research Institute"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Mary-Ann Memorial Park\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mary-Ann_Memorial_Park\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the malfunctioning meka"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 \u00d73",
+                            "img": {
+                                "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Academic Assembly Hall\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Academic_Assembly_Hall\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take pictures around the perimeter and give them to Iaune"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Qualifications Review Representative Office"
                 }
             ]
-        },
-        {
-            "plaintext": "Go to the Academic Assembly Hall",
-            "markdown": "Go to the \u25c0Academic Assembly Hall\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Academic_Assembly_Hall\u25b7"
-        },
-        {
-            "plaintext": "Take pictures around the perimeter and give them to Iaune",
-            "markdown": "Take pictures around the perimeter and give them to Iaune"
-        },
-        {
-            "plaintext": "Go to the Qualifications Review Representative Office",
-            "markdown": "Go to the Qualifications Review Representative Office"
         }
     ],
     "dialogue": true

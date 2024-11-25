@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Temporary Acclimatization",
     "url": "https://genshin-impact.fandom.com/wiki/Temporary_Acclimatization",
     "starting_location": {
-        "plaintext": "Chenyu Vale: Upper Vale , Liyue",
-        "markdown": "\u25c0Chenyu Vale: Upper Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Upper_Vale\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Chenyu Vale: Upper Vale\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Upper_Vale\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -42,42 +42,57 @@
     ],
     "steps": [
         {
-            "plaintext": "Help Woliu set up the device (0/2)",
-            "markdown": "Help Woliu set up the device (0/2)"
-        },
-        {
-            "plaintext": "Report back to Woliu",
-            "markdown": "Report back to Woliu"
-        },
-        {
-            "plaintext": "Go with Woliu",
-            "markdown": "Go with Woliu"
-        },
-        {
-            "plaintext": "Defeat all the Treasure Hoarders",
-            "markdown": "Defeat all the Treasure Hoarders",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Side 1:",
-                    "markdown": "Side 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Help Woliu set up the device (0/2)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Woliu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go with Woliu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the Treasure Hoarders"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Pugilist x1",
-                            "markdown": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x1",
+                            "tag": "li",
+                            "text": "Side 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Side 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Gravedigger x1",
-                            "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Scout x2",
-                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d72",
                             "img": {
                                 "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
                             }
@@ -85,34 +100,33 @@
                     ]
                 },
                 {
-                    "plaintext": "Side 2:",
-                    "markdown": "Side 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Pyro Potioneer x1",
-                            "markdown": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pyro_potioneer> \u25c0Treasure Hoarders: Pyro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Scout x2",
-                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d72",
                             "img": {
                                 "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak with the person who just escaped"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7 and look for \u25c0Ms. Qiu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ms._Qiu\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Speak with the person who just escaped",
-            "markdown": "Speak with the person who just escaped"
-        },
-        {
-            "plaintext": "Go to Qiaoying Village and look for Ms. Qiu",
-            "markdown": "Go to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7 and look for \u25c0Ms. Qiu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ms._Qiu\u25b7"
         }
     ],
     "dialogue": true

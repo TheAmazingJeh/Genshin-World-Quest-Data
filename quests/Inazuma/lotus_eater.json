@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Lotus Eater",
     "url": "https://genshin-impact.fandom.com/wiki/Lotus_Eater",
     "starting_location": {
-        "plaintext": "The Serpent's Heart , Enkanomiya , Inazuma",
-        "markdown": "\u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "The Subterranean Trials of Drake and Serpent",
@@ -42,40 +42,119 @@
     ],
     "steps": [
         {
-            "plaintext": "First obtain the Golden Bridle during the World Quest The Subterranean Trials of Drake and Serpent and change to Evernight.",
-            "markdown": "First obtain the \u25c0Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Bridle\u25b7 during the World Quest \u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7 and change to \u25c0Evernight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight\u25b7."
-        },
-        {
-            "plaintext": "Glide down north from The Serpent's Heart northwest-most waypoint.",
-            "markdown": "Glide down north from \u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7 northwest-most waypoint."
-        },
-        {
-            "plaintext": "Along the cliff of the north side of the island, there is a cave.",
-            "markdown": "Along the cliff of the north side of the island, there is a cave."
-        },
-        {
-            "plaintext": "Enter the cave, turn left and glide towards the walls, roughly with your back to the fishing spot in the middle of the cave.",
-            "markdown": "Enter the cave, turn left and glide towards the walls, roughly with your back to the fishing spot in the middle of the cave."
-        },
-        {
-            "plaintext": "One of the walls is missing a large part, resulting in a V-shaped gap. Climb through that gap. Don't jump down immediately.",
-            "markdown": "One of the walls is missing a large part, resulting in a V-shaped gap. Climb through that gap. Don't jump down immediately."
-        },
-        {
-            "plaintext": "Glide down on the left side towards the Ruin Sentinel that is by a Time Trial Challenge.",
-            "markdown": "Glide down on the left side towards the Ruin Sentinel that is by a \u25c0Time Trial Challenge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Time_Trial_Challenge\u25b7."
-        },
-        {
-            "plaintext": "Kill the Ruin Sentinel.",
-            "markdown": "Kill the \u25c0Ruin Sentinel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Sentinels\u25b7."
-        },
-        {
-            "plaintext": "Activate the Altar Pattern that was behind the Ruin Sentinel",
-            "markdown": "Activate the \u25c0Altar Pattern\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Altar_Pattern\u25b7 that was behind the Ruin Sentinel"
-        },
-        {
-            "plaintext": "Return to The Altar at The Serpent's Heart and enter the Altar Pattern from the previous step.",
-            "markdown": "Return to \u25c0The Altar at The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Altar_at_The_Serpent%27s_Heart\u25b7 and enter the Altar Pattern from the previous step."
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to the afterimage at \u25c0The Altar at The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Altar_at_The_Serpent%27s_Heart\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Help the afterimage find out their identity"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Read the Ancient Stone Tablet, which is located northeast of the afterimage and before Day-Night Mechanism."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to the afterimage"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find where the \"children are hidden\""
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Switch to \u25c0Whitenight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whitenight\u25b7 in order to solve the puzzle for this step"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Hit the \u25c0Triangular Mechanisms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Triangular_Mechanisms\u25b7 to solve the puzzle. Each hit will move a lantern behind that mechanism. Each lantern has three positions: top, middle, and bottom."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "When a lantern is moved to its correct position, a clicking sound will be heard, and the message \"This seems to be the right position...\" will appear on the screen. Do this for all three lanterns."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Once the lanterns are in the correct positions, the door will open"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Go into the room through the door that just opened. Inside the room, there is a mechanism to switch back to \u25c0Evernight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight\u25b7. Switch to Evernight in order to proceed to the next step."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The correct positions for the lanterns are, from left to right: top, bottom, middle"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the afterimage in the hiding place in \u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "While here, make sure to open the chest behind the afterimage to obtain the <img:secret_room_key> \u25c0Secret Room Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Secret_Room_Key\u25b7. This key is not related to this quest, but is for the \u25c0Hidden Exploration Objective\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hidden_Exploration_Objective\u25b7: \u25c0Adonis' Abandoned Safehouse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adonis%27_Abandoned_Safehouse\u25b7",
+                            "img": {
+                                "secret_room_key": "Item_Black_Key.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Tokoyo Reisen\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tokoyo_Reisen\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the <img:waters_of_lethe> \u25c0Waters of Lethe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Waters_of_Lethe\u25b7",
+                    "img": {
+                        "waters_of_lethe": "Item_Waters_of_Lethe.png"
+                    }
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the top of the \u25c0Dragonbone Flower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonbone_Flower\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait for the \u25c0Dragonbone Flower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonbone_Flower\u25b7 to condense"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This will take until the next \u25c0Daily Reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Daily_Reset\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the <img:dragonbone_orb> \u25c0Dragonbone Orb\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonbone_Orb\u25b7",
+                    "img": {
+                        "dragonbone_orb": "Item_Dragonbone_Orb.png"
+                    }
+                }
+            ]
         }
     ],
     "dialogue": true

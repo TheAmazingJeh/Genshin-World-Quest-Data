@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "An Ancient Sacrifice of Sacred Brocade",
     "url": "https://genshin-impact.fandom.com/wiki/An_Ancient_Sacrifice_of_Sacred_Brocade",
     "starting_location": {
-        "plaintext": "Chenyu Vale: Southern Mountain , Liyue",
-        "markdown": "\u25c0Chenyu Vale: Southern Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Southern_Mountain\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Chenyu Vale: Southern Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Southern_Mountain\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,179 +46,221 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to Fogbank River",
-            "markdown": "Go to Fogbank River"
-        },
-        {
-            "plaintext": "Follow Little Mao",
-            "markdown": "Follow \u25c0Little Mao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Mao\u25b7"
-        },
-        {
-            "plaintext": "Take care of the nearby miasma",
-            "markdown": "Take care of the nearby \u25c0miasma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Miasma\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Hydro Samachurl \u2014 Miasma-Infused Monster",
-                    "markdown": "<img:hydro_samachurl> \u25c0Hydro Samachurl \u2014 Miasma-Infused Monster\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7",
-                    "img": {
-                        "hydro_samachurl": "Hydro_Samachurl_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Enter the cavern",
-            "markdown": "Enter the cavern"
-        },
-        {
-            "plaintext": "Check the cavern",
-            "markdown": "Check the cavern"
-        },
-        {
-            "plaintext": "Follow the golden carp",
-            "markdown": "Follow the golden carp",
-            "substeps": [
-                {
-                    "plaintext": "Hydro Mimic Crane x2",
-                    "markdown": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 x2",
-                    "img": {
-                        "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Fujin",
-            "markdown": "Talk to \u25c0Fujin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fujin\u25b7"
-        },
-        {
-            "plaintext": "Prepare for the Rainjade Rite (0/2)",
-            "markdown": "Prepare for the Rainjade Rite (0/2)"
-        },
-        {
-            "plaintext": "Talk to Fujin",
-            "markdown": "Talk to Fujin"
-        },
-        {
-            "plaintext": "Go to Adeptus's Repose",
-            "markdown": "Go to \u25c0Adeptus's Repose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adeptus%27s_Repose\u25b7"
-        },
-        {
-            "plaintext": "Take care of the nearby miasma",
-            "markdown": "Take care of the nearby miasma",
-            "substeps": [
-                {
-                    "plaintext": "Anemo Hilichurl Rogue \u2014 Miasma-Infused Monster",
-                    "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue \u2014 Miasma-Infused Monster\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7",
-                    "img": {
-                        "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Check the clues nearby",
-            "markdown": "Check the clues nearby"
-        },
-        {
-            "plaintext": "Examine the mural",
-            "markdown": "Examine the mural"
-        },
-        {
-            "plaintext": "Go to Mt. Xuanlian",
-            "markdown": "Go to \u25c0Mt. Xuanlian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Xuanlian\u25b7"
-        },
-        {
-            "plaintext": "Explore Mt. Xuanlian",
-            "markdown": "Explore Mt. Xuanlian"
-        },
-        {
-            "plaintext": "Collect the Spirit Orb (0/3)",
-            "markdown": "Collect the \u25c0Spirit Orb\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Carp_Spirit_Orb\u25b7 (0/3)"
-        },
-        {
-            "plaintext": "Use your adeptal energy to activate the Spirit Orb (0/3)",
-            "markdown": "Use your adeptal energy to activate the Spirit Orb (0/3)"
-        },
-        {
-            "plaintext": "Go to the mountaintop pavilion",
-            "markdown": "Go to the mountaintop pavilion"
-        },
-        {
-            "plaintext": "Go back to look for Fujin",
-            "markdown": "Go back to look for Fujin"
-        },
-        {
-            "plaintext": "Talk to Fujin",
-            "markdown": "Talk to Fujin"
-        },
-        {
-            "plaintext": "Climb the sacred mountain",
-            "markdown": "Climb the sacred mountain"
-        },
-        {
-            "plaintext": "Accompany Fujin",
-            "markdown": "Accompany Fujin"
-        },
-        {
-            "plaintext": "Take care of the nearby miasma",
-            "markdown": "Take care of the nearby miasma",
-            "substeps": [
-                {
-                    "plaintext": "Thunderhelm Lawachurl \u2014 Miasma-Infused Monster",
-                    "markdown": "<img:thunderhelm_lawachurl> \u25c0Thunderhelm Lawachurl \u2014 Miasma-Infused Monster\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunderhelm_Lawachurl\u25b7",
-                    "img": {
-                        "thunderhelm_lawachurl": "Thunderhelm_Lawachurl_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Accompany Fujin",
-            "markdown": "Accompany Fujin"
-        },
-        {
-            "plaintext": "Defeat the Xuanwen Beast",
-            "markdown": "Defeat the Xuanwen Beast",
-            "substeps": [
-                {
-                    "plaintext": "\"Luwi\" x1",
-                    "markdown": "<img:xuanwen_beast> \u25c0\"Luwi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xuanwen_Beast\u25b7 x1",
-                    "img": {
-                        "xuanwen_beast": "Xuanwen_Beast_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to Fogbank River"
                 },
                 {
-                    "plaintext": "\"Kaiming\" x1",
-                    "markdown": "<img:xuanwen_beast> \u25c0\"Kaiming\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xuanwen_Beast\u25b7 x1",
-                    "img": {
-                        "xuanwen_beast": "Xuanwen_Beast_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Accompany Fujin",
-            "markdown": "Accompany Fujin"
-        },
-        {
-            "plaintext": "Take care of the nearby miasma",
-            "markdown": "Take care of the nearby miasma",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Follow \u25c0Little Mao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Mao\u25b7"
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Take care of the nearby \u25c0miasma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Miasma\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Anemo Samachurl x1",
-                            "markdown": "<img:anemo_samachurl> \u25c0Anemo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Samachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:hydro_samachurl> \u25c0Hydro Samachurl \u2014 Miasma-Infused Monster\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7",
+                            "img": {
+                                "hydro_samachurl": "Hydro_Samachurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the cavern"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the cavern"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the golden carp"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 \u00d72",
+                            "img": {
+                                "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Fujin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fujin\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Prepare for the Rainjade Rite (0/2)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Fujin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Adeptus's Repose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adeptus%27s_Repose\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take care of the nearby miasma"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue \u2014 Miasma-Infused Monster\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7",
+                            "img": {
+                                "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the clues nearby"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the mural"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Mt. Xuanlian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Xuanlian\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore Mt. Xuanlian"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect the \u25c0Spirit Orb\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Carp_Spirit_Orb\u25b7 (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use your adeptal energy to activate the Spirit Orb (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the mountaintop pavilion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back to look for Fujin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Fujin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Climb the sacred mountain"
+                },
+                {
+                    "tag": "li",
+                    "text": "Accompany Fujin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take care of the nearby miasma"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thunderhelm_lawachurl> \u25c0Thunderhelm Lawachurl \u2014 Miasma-Infused Monster\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunderhelm_Lawachurl\u25b7",
+                            "img": {
+                                "thunderhelm_lawachurl": "Thunderhelm_Lawachurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Accompany Fujin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Xuanwen Beast"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:xuanwen_beast> \u25c0\"Luwi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xuanwen_Beast\u25b7 \u00d71",
+                            "img": {
+                                "xuanwen_beast": "Xuanwen_Beast_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:xuanwen_beast> \u25c0\"Kaiming\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xuanwen_Beast\u25b7 \u00d71",
+                            "img": {
+                                "xuanwen_beast": "Xuanwen_Beast_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Accompany Fujin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take care of the nearby miasma"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 4:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 5:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:anemo_samachurl> \u25c0Anemo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Samachurl\u25b7 \u00d71",
                             "img": {
                                 "anemo_samachurl": "Anemo_Samachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hilichurl Shooter x2",
-                            "markdown": "<img:hilichurl_shooter> \u25c0Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Shooter\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:hilichurl_shooter> \u25c0Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Shooter\u25b7 \u00d72",
                             "img": {
                                 "hilichurl_shooter": "Hilichurl_Icon.png"
                             }
@@ -226,19 +268,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Hilichurl Grenadier x2",
-                            "markdown": "<img:hilichurl_grenadier> \u25c0Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Grenadier\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:hilichurl_grenadier> \u25c0Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Grenadier\u25b7 \u00d72",
                             "img": {
                                 "hilichurl_grenadier": "Pyro_Hilichurl_Shooter_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Pyro Hilichurl Shooter x2",
-                            "markdown": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 \u00d72",
                             "img": {
                                 "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
                             }
@@ -246,33 +287,32 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Geo Samachurl x1",
-                            "markdown": "<img:geo_samachurl> \u25c0Geo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Samachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:geo_samachurl> \u25c0Geo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Samachurl\u25b7 \u00d71",
                             "img": {
                                 "geo_samachurl": "Geo_Samachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Blazing Axe Mitachurl x1",
-                            "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 \u00d71",
                             "img": {
                                 "blazing_axe_mitachurl": "Mitachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hilichurl Berserker x2",
-                            "markdown": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 \u00d72",
                             "img": {
                                 "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Cryo Hilichurl Shooter x2",
-                            "markdown": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d72",
                             "img": {
                                 "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
                             }
@@ -280,26 +320,25 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 4:",
-                    "markdown": "Wave 4:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Anemo Hilichurl Rogue x1",
-                            "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 \u00d71",
                             "img": {
                                 "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Blazing Axe Mitachurl x1",
-                            "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 \u00d71",
                             "img": {
                                 "blazing_axe_mitachurl": "Mitachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Cryo Hilichurl Shooter x2",
-                            "markdown": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d72",
                             "img": {
                                 "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
                             }
@@ -307,64 +346,69 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 5:",
-                    "markdown": "Wave 5:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Stonehide Lawachurl x1",
-                            "markdown": "<img:stonehide_lawachurl> \u25c0Stonehide Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stonehide_Lawachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:stonehide_lawachurl> \u25c0Stonehide Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stonehide_Lawachurl\u25b7 \u00d71",
                             "img": {
                                 "stonehide_lawachurl": "Stonehide_Lawachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Geo Samachurl x2",
-                            "markdown": "<img:geo_samachurl> \u25c0Geo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Samachurl\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:geo_samachurl> \u25c0Geo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Samachurl\u25b7 \u00d72",
                             "img": {
                                 "geo_samachurl": "Geo_Samachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Pyro Hilichurl Shooter x2",
-                            "markdown": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 \u00d72",
                             "img": {
                                 "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Enter Chiwang Terrace",
-            "markdown": "Enter Chiwang Terrace",
-            "substeps": [
+                },
                 {
-                    "plaintext": "The player will be teleported into the Quest Domain Chiwang Terrace",
-                    "markdown": "The player will be teleported into the Quest Domain \u25c0Chiwang Terrace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chiwang_Terrace_(Quest_Domain)\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Calm Lingyuan down",
-            "markdown": "Calm \u25c0Lingyuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingyuan\u25b7 down",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Enter Chiwang Terrace"
+                },
                 {
-                    "plaintext": "Lingyuan \u2014 Beastlord of the Sunken Jade Realm",
-                    "markdown": "<img:solitary_suanni> \u25c0Lingyuan \u2014 Beastlord of the Sunken Jade Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Solitary_Suanni\u25b7",
-                    "img": {
-                        "solitary_suanni": "Solitary_Suanni_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The player will be teleported into the Quest Domain \u25c0Chiwang Terrace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chiwang_Terrace_(Quest_Domain)\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Calm \u25c0Lingyuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingyuan\u25b7 down"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:solitary_suanni> \u25c0Lingyuan \u2014 Beastlord of the Sunken Jade Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Solitary_Suanni\u25b7",
+                            "img": {
+                                "solitary_suanni": "Solitary_Suanni_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Fujin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Escort Little Mao back to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Fujin",
-            "markdown": "Talk to Fujin"
-        },
-        {
-            "plaintext": "Escort Little Mao back to Qiaoying Village",
-            "markdown": "Escort Little Mao back to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7"
         }
     ],
     "dialogue": true

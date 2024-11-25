@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Vimana Agama: First Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/Vimana_Agama%3A_First_Chapter",
     "starting_location": {
-        "plaintext": "Devantaka Mountain , Sumeru",
-        "markdown": "\u25c0Devantaka Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Devantaka_Mountain\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Devantaka Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Devantaka_Mountain\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "The World of Aranara",
@@ -42,44 +42,52 @@
     ],
     "steps": [
         {
-            "plaintext": "Investigate the strange spot",
-            "markdown": "Investigate the strange spot"
-        },
-        {
-            "plaintext": "Keep exploring",
-            "markdown": "Keep exploring"
-        },
-        {
-            "plaintext": "Investigate the strange spot",
-            "markdown": "Investigate the strange spot"
-        },
-        {
-            "plaintext": "Keep exploring",
-            "markdown": "Keep exploring"
-        },
-        {
-            "plaintext": "Talk to the suspicious person",
-            "markdown": "Talk to the suspicious person"
-        },
-        {
-            "plaintext": "Talk to Ararycan",
-            "markdown": "Talk to Ararycan"
-        },
-        {
-            "plaintext": "Talk to Jazari",
-            "markdown": "Talk to \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7"
-        },
-        {
-            "plaintext": "Talk to Royinjan",
-            "markdown": "Talk to \u25c0Royinjan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "There is some randomness involved with this negotiation. Acceptable values may vary. The conditions stated are for initial offer at 4 hearts.",
-                    "markdown": "There is some randomness involved with this negotiation. Acceptable values may vary. The conditions stated are for initial offer at 4 hearts."
+                    "tag": "li",
+                    "text": "Investigate the strange spot"
                 },
                 {
-                    "plaintext": "If negotiations fail, Royinjan will take the price of 500,000 Mora.",
-                    "markdown": "If negotiations fail, Royinjan will take the price of 500,000 Mora."
+                    "tag": "li",
+                    "text": "Keep exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the strange spot"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the suspicious person"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ararycan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Royinjan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "There is some randomness involved with this negotiation. Acceptable values may vary. The conditions stated are for initial offer at 4 hearts."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "If negotiations fail, Royinjan will take the price of 500,000 Mora."
+                        }
+                    ]
                 }
             ]
         }

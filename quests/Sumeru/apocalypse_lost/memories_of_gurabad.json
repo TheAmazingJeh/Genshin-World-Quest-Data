@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Memories of Gurabad",
     "url": "https://genshin-impact.fandom.com/wiki/Memories_of_Gurabad",
     "starting_location": {
-        "plaintext": "Safhe Shatranj , Sumeru",
-        "markdown": "\u25c0Safhe Shatranj\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Safhe_Shatranj\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Safhe Shatranj\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Safhe_Shatranj\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,64 +46,84 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Liloupar",
-            "markdown": "Talk to \u25c0Liloupar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liloupar\u25b7"
-        },
-        {
-            "plaintext": "Defeat the Primal Construct",
-            "markdown": "Defeat the Primal Construct",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Wave 1:  Primal Construct: Reshaper x2",
-                    "markdown": "Wave 1: <img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x2",
-                    "img": {
-                        "primal_construct_reshaper": "Primal_Construct_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Wave 2:  Primal Construct: Repulsor x2",
-                    "markdown": "Wave 2: <img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 x2",
-                    "img": {
-                        "primal_construct_repulsor": "Primal_Construct_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Wave 3:  Primal Construct: Prospector x2",
-                    "markdown": "Wave 3: <img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 x2",
-                    "img": {
-                        "primal_construct_prospector": "Primal_Construct_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Start the quest by placing the 5 \u25c0Chess Pieces\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chess_Piece\u25b7 on the chessboard in \u25c0Safhe Shatranj\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Safhe_Shatranj\u25b7 and after having finished the \u25c0World Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/World_Quest\u25b7 \u25c0The Fallen Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Fallen_Falcon\u25b7."
                 }
             ]
         },
         {
-            "plaintext": "Investigate Chess Piece",
-            "markdown": "Investigate Chess Piece"
-        },
-        {
-            "plaintext": "Trigger Chess Piece",
-            "markdown": "Trigger Chess Piece"
-        },
-        {
-            "plaintext": "Open the gate to Gurabad",
-            "markdown": "Open the gate to \u25c0Gurabad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gurabad\u25b7"
-        },
-        {
-            "plaintext": "Defeat the Primal Construct",
-            "markdown": "Defeat the Primal Construct",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Primal Construct: Reshaper x2",
-                    "markdown": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x2",
-                    "img": {
-                        "primal_construct_reshaper": "Primal_Construct_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to \u25c0Liloupar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liloupar\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Primal Construct"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: <img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 \u00d72",
+                            "img": {
+                                "primal_construct_reshaper": "Primal_Construct_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2: <img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 \u00d72",
+                            "img": {
+                                "primal_construct_repulsor": "Primal_Construct_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3: <img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 \u00d72",
+                            "img": {
+                                "primal_construct_prospector": "Primal_Construct_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate Chess Piece"
+                },
+                {
+                    "tag": "li",
+                    "text": "Trigger Chess Piece"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the gate to \u25c0Gurabad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gurabad\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Primal Construct"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 \u00d72",
+                            "img": {
+                                "primal_construct_reshaper": "Primal_Construct_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain Liloupar's fragment"
                 }
             ]
-        },
-        {
-            "plaintext": "Obtain Liloupar's fragment",
-            "markdown": "Obtain Liloupar's fragment"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Mondstadt and its Archon",
     "url": "https://genshin-impact.fandom.com/wiki/Mondstadt_and_its_Archon",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Should You Be Trapped in a Windless Land",
@@ -49,26 +49,38 @@
     ],
     "steps": [
         {
-            "plaintext": "Search for the Dandelion Seeds she requested",
-            "markdown": "Search for the \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7 she requested",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Grace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grace\u25b7, near the \u25c0Anemo God Statue Plaza\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_God_Statue_Plaza\u25b7, during the day."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "If Dandelion Seeds are already in your inventory, this step will be skipped.",
-                    "markdown": "If Dandelion Seeds are already in your inventory, this step will be skipped."
+                    "tag": "li",
+                    "text": "Search for the \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7 she requested"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "If Dandelion Seeds are already in your inventory, this step will be skipped."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the Dandelion Seeds to Grace"
+                },
+                {
+                    "tag": "li",
+                    "text": "Climb to the Anemo Archon statue's hand and scatter the \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Grace"
                 }
             ]
-        },
-        {
-            "plaintext": "Give the Dandelion Seeds to Grace",
-            "markdown": "Give the Dandelion Seeds to Grace"
-        },
-        {
-            "plaintext": "Climb to the Anemo Archon statue's hand and scatter the Dandelion Seeds",
-            "markdown": "Climb to the Anemo Archon statue's hand and scatter the \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7"
-        },
-        {
-            "plaintext": "Talk to Grace",
-            "markdown": "Talk to Grace"
         }
     ],
     "dialogue": true

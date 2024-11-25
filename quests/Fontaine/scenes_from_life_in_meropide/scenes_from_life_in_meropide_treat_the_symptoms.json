@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scenes from Life in Meropide: Treat the Symptoms",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Treat_the_Symptoms",
     "starting_location": {
-        "plaintext": "Production Zone , Fontaine",
-        "markdown": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,12 +39,26 @@
     ],
     "steps": [
         {
-            "plaintext": "Ask for Arderne's opinion",
-            "markdown": "Ask for \u25c0Arderne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arderne\u25b7's opinion"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Lechlade\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lechlade\u25b7 on the Production Zone Lower Level."
+                }
+            ]
         },
         {
-            "plaintext": "Report to Lechlade",
-            "markdown": "Report to Lechlade"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Ask for \u25c0Arderne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arderne\u25b7's opinion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report to Lechlade"
+                }
+            ]
         }
     ],
     "dialogue": true

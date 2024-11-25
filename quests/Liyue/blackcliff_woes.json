@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Blackcliff Woes",
     "url": "https://genshin-impact.fandom.com/wiki/Blackcliff_Woes",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Of the Land Amidst Monoliths",
@@ -49,42 +49,50 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Manager Kuan",
-            "markdown": "Talk to \u25c0Manager Kuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Manager_Kuan\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "He's next to the toy shop",
-                    "markdown": "He's next to the toy shop"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Manager Kuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Manager_Kuan\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "He's next to the toy shop"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Patrol the Chasm's perimeter"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all enemies and clear the obstacles"
+                },
+                {
+                    "tag": "li",
+                    "text": "Patrol the Chasm's perimeter"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all enemies"
+                },
+                {
+                    "tag": "li",
+                    "text": "Patrol the Chasm's perimeter"
+                },
+                {
+                    "tag": "li",
+                    "text": "Dismantle the monster camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Manager Kuan"
                 }
             ]
-        },
-        {
-            "plaintext": "Patrol the Chasm's perimeter",
-            "markdown": "Patrol the Chasm's perimeter"
-        },
-        {
-            "plaintext": "Defeat all enemies and clear the obstacles",
-            "markdown": "Defeat all enemies and clear the obstacles"
-        },
-        {
-            "plaintext": "Patrol the Chasm's perimeter",
-            "markdown": "Patrol the Chasm's perimeter"
-        },
-        {
-            "plaintext": "Defeat all enemies",
-            "markdown": "Defeat all enemies"
-        },
-        {
-            "plaintext": "Patrol the Chasm's perimeter",
-            "markdown": "Patrol the Chasm's perimeter"
-        },
-        {
-            "plaintext": "Dismantle the monster camp",
-            "markdown": "Dismantle the monster camp"
-        },
-        {
-            "plaintext": "Report back to Manager Kuan",
-            "markdown": "Report back to Manager Kuan"
         }
     ],
     "dialogue": true

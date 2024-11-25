@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Three Great Martial Trials",
     "url": "https://genshin-impact.fandom.com/wiki/The_Three_Great_Martial_Trials",
     "starting_location": {
-        "plaintext": "Enkanomiya",
-        "markdown": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+        "text": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
     },
     "requirements": {
         "plaintext": "From Dusk to Dawn in Byakuyakoku",
@@ -56,30 +56,38 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Eboshi",
-            "markdown": "Talk to Eboshi"
-        },
-        {
-            "plaintext": "Complete the challenge (0/3)See the pages for each sub-quest for steps and details:",
-            "markdown": "Complete the challenge (0/3)See the pages for each sub-quest for steps and details:",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Yachimatahiko's Trial",
-                    "markdown": "\u25c0Yachimatahiko's Trial\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yachimatahiko%27s_Trial\u25b7"
+                    "tag": "li",
+                    "text": "Talk to Eboshi"
                 },
                 {
-                    "plaintext": "Yachimatahime's Trial",
-                    "markdown": "\u25c0Yachimatahime's Trial\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yachimatahime%27s_Trial\u25b7"
+                    "tag": "li",
+                    "text": "Complete the challenge (0/3)See the pages for each sub-quest for steps and details:"
                 },
                 {
-                    "plaintext": "Kunado's Trial",
-                    "markdown": "\u25c0Kunado's Trial\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kunado%27s_Trial\u25b7"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Yachimatahiko's Trial\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yachimatahiko%27s_Trial\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Yachimatahime's Trial\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yachimatahime%27s_Trial\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Kunado's Trial\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kunado%27s_Trial\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Eboshi"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Eboshi",
-            "markdown": "Talk to Eboshi"
         }
     ],
     "dialogue": true

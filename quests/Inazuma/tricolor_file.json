@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tricolor File",
     "url": "https://genshin-impact.fandom.com/wiki/Tricolor_File",
     "starting_location": {
-        "plaintext": "Vishap Research Lab , Enkanomiya , Inazuma",
-        "markdown": "\u25c0Vishap Research Lab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vishap_Research_Lab\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Vishap Research Lab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vishap_Research_Lab\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "The Subterranean Trials of Drake and Serpent",
@@ -42,20 +42,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Teleport to the north-most waypoint on Dainichi Mikoshi.",
-            "markdown": "Teleport to the north-most waypoint on \u25c0Dainichi Mikoshi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainichi_Mikoshi\u25b7."
-        },
-        {
-            "plaintext": "Head north and glide down to the small island north of Dainichi Mikoshi.",
-            "markdown": "Head north and glide down to the small island north of Dainichi Mikoshi."
-        },
-        {
-            "plaintext": "Head to the north-most point on the island and use the Phase Gate to travel to the Vishap Research Lab.",
-            "markdown": "Head to the north-most point on the island and use the \u25c0Phase Gate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Phase_Gate\u25b7 to travel to the Vishap Research Lab."
-        },
-        {
-            "plaintext": "Follow the path and talk to the Shade of Tokoyo to start the quest. (Must be during \"Evernight\" as quest icon won't appear during \"Whitenight\")",
-            "markdown": "Follow the path and talk to the Shade of Tokoyo to start the quest. (Must be during \"Evernight\" as quest icon won't appear during \"Whitenight\")"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0the afterimage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Michiya\u25b7 in the restricted area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the experimental records in the experimental site"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Activate the Cryo \u25c0Elemental Monument\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Monument\u25b7 to unlock the cell containing a \u25c0Rimebiter Bathysmal Vishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rimebiter_Bathysmal_Vishap\u25b7 and the \u25c0Bathysmal Vishap Experimental Records\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bathysmal_Vishap_Experimental_Records\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "If the Experimental Records were already obtained before speaking to Michiya, this step will be automatically completed and the quest ends after Michiya's dialogue finishes playing."
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "dialogue": true

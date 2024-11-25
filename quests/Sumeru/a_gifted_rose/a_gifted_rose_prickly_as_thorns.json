@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Gifted Rose: Prickly as Thorns",
     "url": "https://genshin-impact.fandom.com/wiki/A_Gifted_Rose%3A_Prickly_as_Thorns",
     "starting_location": {
-        "plaintext": "Land of Lower Setekh , Sumeru",
-        "markdown": "\u25c0Land of Lower Setekh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Lower_Setekh\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Land of Lower Setekh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Lower_Setekh\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete The Exile (World Quest Series) and interact with Sabbah",
@@ -63,22 +63,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to Affan's nursery",
-            "markdown": "Go to Affan's nursery"
-        },
-        {
-            "plaintext": "Clean Affan's nursery up",
-            "markdown": "Clean Affan's nursery up",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Destroy the Withering Zone",
-                    "markdown": "Destroy the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
+                    "tag": "li",
+                    "text": "Go to Affan's nursery"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean Affan's nursery up"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Destroy the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Affan"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Affan",
-            "markdown": "Talk to Affan"
         }
     ],
     "dialogue": true

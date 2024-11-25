@@ -1,0 +1,87 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Palace of the Vision Serpent",
+    "url": "https://genshin-impact.fandom.com/wiki/Palace_of_the_Vision_Serpent",
+    "starting_location": {
+        "text": "\u25c0Core of Chu'ulel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Core_of_Chu%27ulel\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "400",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "50",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "5",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Enter the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Approach the suspicious core"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try to clear the Abyssal corruption out"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the suspicious fallen core"
+                },
+                {
+                    "tag": "li",
+                    "text": "Protect the fallen core and repel the monsters"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet up with Bona"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Bona"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

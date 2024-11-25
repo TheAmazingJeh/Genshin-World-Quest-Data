@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Time and Wind",
     "url": "https://genshin-impact.fandom.com/wiki/Time_and_Wind",
     "starting_location": {
-        "plaintext": "Nameless Island , Mondstadt",
-        "markdown": "\u25c0Nameless Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nameless_Island\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Nameless Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nameless_Island\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Reach the Nameless Island and read the Ragged Notebook",
@@ -56,94 +56,124 @@
     ],
     "steps": [
         {
-            "plaintext": "Uncover the secret of the uninhabited island",
-            "markdown": "Uncover the secret of the uninhabited island",
-            "substeps": [
-                {
-                    "plaintext": "Find the \"Ragged Notebook\" item by destroying the breakable rock on the south end of the island and read it.",
-                    "markdown": "Find the \"\u25c0Ragged Notebook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ragged_Notebook_(Time_and_Wind)\u25b7\" item by destroying the breakable rock on the south end of the island and read it."
-                }
-            ]
+            "tag": "p",
+            "text": "Reach and explore the island to start the quest."
         },
         {
-            "plaintext": "Observe the shadow on the sundial",
-            "markdown": "Observe the shadow on the sundial",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wait until 2:00 \u2013 5:00 and use Elemental Sight to follow the trail to the first cluster of wind located east of the sundial. Use Anemo on the cluster.",
-                    "markdown": "Wait until 2:00 \u2013 5:00 and use \u25c0Elemental Sight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Sight\u25b7 to follow the trail to the first cluster of wind located east of the sundial. Use Anemo on the cluster."
-                }
-            ]
-        },
-        {
-            "plaintext": "Disperse the cluster of wind (0/3)",
-            "markdown": "Disperse the cluster of wind (0/3)",
-            "substeps": [
-                {
-                    "plaintext": "Use Anemo on the clusters located at the southern coast, on top of the ruin on the eastern coast, and on top of the largest pillar.",
-                    "markdown": "Use Anemo on the clusters located at the southern coast, on top of the ruin on the eastern coast, and on top of the largest pillar."
-                }
-            ]
-        },
-        {
-            "plaintext": "Scatter the deposit of wind",
-            "markdown": "Scatter the deposit of wind",
-            "substeps": [
-                {
-                    "plaintext": "Located in the middle of the island above the stone circle.",
-                    "markdown": "Located in the middle of the island above the stone circle."
+                    "tag": "li",
+                    "text": "Uncover the secret of the uninhabited island"
                 },
                 {
-                    "plaintext": "Fight the Eye of the Storm.",
-                    "markdown": "Fight the \u25c0Eye of the Storm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eye_of_the_Storm\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Pursue the Eye of the Storm",
-            "markdown": "Pursue the Eye of the Storm",
-            "substeps": [
-                {
-                    "plaintext": "Use the wind current to follow it.",
-                    "markdown": "Use the wind current to follow it."
+                    "tag": "li",
+                    "text": "Observe the shadow on the sundial"
                 },
                 {
-                    "plaintext": "Alternatively, teleport to the Temple of the Wolf and head northeast until you reach the group of hilichurls by the sundial.",
-                    "markdown": "Alternatively, teleport to the \u25c0Temple of the Wolf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_of_the_Wolf\u25b7 and head northeast until you reach the group of hilichurls by the sundial."
-                }
-            ]
-        },
-        {
-            "plaintext": "Search for the Eye of the Storm",
-            "markdown": "Search for the Eye of the Storm",
-            "substeps": [
-                {
-                    "plaintext": "Optional: Speak to Henry Morton, who will be standing near the sundial, and/or find his Thick Notebook in the nearby camp.",
-                    "markdown": "Optional: Speak to \u25c0Henry Morton\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Henry_Morton\u25b7, who will be standing near the sundial, and/or find his \u25c0Thick Notebook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thick_Notebook\u25b7 in the nearby camp."
+                    "tag": "li",
+                    "text": "Disperse the cluster of wind (0/3)"
                 },
                 {
-                    "plaintext": "Wait until dawn (02:00 \u2013 05:00) and use Elemental Sight to discover 3 clusters that need to be dispersed.",
-                    "markdown": "Wait until dawn (02:00 \u2013 05:00) and use Elemental Sight to discover 3 clusters that need to be dispersed.",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Scatter the deposit of wind"
+                },
+                {
+                    "tag": "li",
+                    "text": "Pursue the Eye of the Storm"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fend off the monsters that spawn after dispersing each cluster.",
-                            "markdown": "Fend off the monsters that spawn after dispersing each cluster."
+                            "tag": "li",
+                            "text": "Use the wind current to follow it."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Alternatively, teleport to the \u25c0Temple of the Wolf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_of_the_Wolf\u25b7 and head northeast until you reach the group of hilichurls by the sundial."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Use Elemental Sight again to see the deposit of wind and scatter it again.",
-                    "markdown": "Use Elemental Sight again to see the deposit of wind and scatter it again."
+                    "tag": "li",
+                    "text": "Search for the Eye of the Storm"
                 },
                 {
-                    "plaintext": "Fight the Eye of the Storm again. It will be slightly stronger than the first encounter, and also summons Anemo Slimes and Anemo Samachurls as reinforcements. These reinforcements despawn when the Eye of the Storm is defeated.",
-                    "markdown": "Fight the Eye of the Storm again. It will be slightly stronger than the first encounter, and also summons \u25c0Anemo Slimes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Slimes\u25b7 and \u25c0Anemo Samachurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Samachurls\u25b7 as reinforcements. These reinforcements despawn when the Eye of the Storm is defeated."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Optional: Speak to \u25c0Henry Morton\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Henry_Morton\u25b7, who will be standing near the sundial, and/or find his \u25c0Thick Notebook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thick_Notebook\u25b7 in the nearby camp."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wait until dawn (02:00 \u2013 05:00) and use Elemental Sight to discover 3 clusters that need to be dispersed."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use Elemental Sight again to see the deposit of wind and scatter it again."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Fight the Eye of the Storm again. It will be slightly stronger than the first encounter, and also summons \u25c0Anemo Slimes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Slimes\u25b7 and \u25c0Anemo Samachurls\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Samachurls\u25b7 as reinforcements. These reinforcements despawn when the Eye of the Storm is defeated."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Fend off the monsters that spawn after dispersing each cluster."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Henry Morton"
                 }
             ]
         },
         {
-            "plaintext": "Talk to Henry Morton",
-            "markdown": "Talk to Henry Morton"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Find the \"\u25c0Ragged Notebook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ragged_Notebook_(Time_and_Wind)\u25b7\" item by destroying the breakable rock on the south end of the island and read it."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Wait until 2:00 \u2013 5:00 and use \u25c0Elemental Sight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Sight\u25b7 to follow the trail to the first cluster of wind located east of the sundial. Use Anemo on the cluster."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Use Anemo on the clusters located at the southern coast, on top of the ruin on the eastern coast, and on top of the largest pillar."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Located in the middle of the island above the stone circle."
+                },
+                {
+                    "tag": "li",
+                    "text": "Fight the \u25c0Eye of the Storm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eye_of_the_Storm\u25b7."
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tadhla the Falcon",
     "url": "https://genshin-impact.fandom.com/wiki/Tadhla_the_Falcon",
     "starting_location": {
-        "plaintext": "Tanit Camps",
-        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
+        "text": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
     },
     "requirements": {
         "plaintext": "Wait for daily reset after completing The Dirge of Bilqis",
@@ -42,51 +42,59 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Masseira",
-            "markdown": "Talk to \u25c0Masseira\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Masseira\u25b7"
-        },
-        {
-            "plaintext": "Go to Tadhla's last known location",
-            "markdown": "Go to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7's last known location"
-        },
-        {
-            "plaintext": "Proceed deeper",
-            "markdown": "Proceed deeper"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
-                    "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to \u25c0Masseira\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Masseira\u25b7"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7's last known location"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Proceed deeper"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Masseira"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Tadhla",
-            "markdown": "Talk to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7"
-        },
-        {
-            "plaintext": "Talk to Masseira",
-            "markdown": "Talk to Masseira"
         }
     ],
     "dialogue": true

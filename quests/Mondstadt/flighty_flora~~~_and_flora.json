@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Flighty Flora... and Flora",
     "url": "https://genshin-impact.fandom.com/wiki/Flighty_Flora..._and_Flora",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Reach Adventure Rank 24",
@@ -56,20 +56,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Collect flowers for Flora",
-            "markdown": "Collect flowers for Flora"
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Flora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flora\u25b7 in \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7."
         },
         {
-            "plaintext": "Report to Flora",
-            "markdown": "Report to Flora"
-        },
-        {
-            "plaintext": "Collect one portion of Dandelion Seeds",
-            "markdown": "Collect one portion of \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7"
-        },
-        {
-            "plaintext": "Report to Flora",
-            "markdown": "Report to Flora"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Collect flowers for Flora"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report to Flora"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect one portion of \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report to Flora"
+                }
+            ]
         }
     ],
     "dialogue": true

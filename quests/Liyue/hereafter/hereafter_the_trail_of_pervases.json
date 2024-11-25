@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Hereafter: The Trail of Pervases",
     "url": "https://genshin-impact.fandom.com/wiki/Hereafter%3A_The_Trail_of_Pervases",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Butterfly's Dream",
@@ -21,39 +21,54 @@
     ],
     "steps": [
         {
-            "plaintext": "Speak to Chef Mao",
-            "markdown": "Speak to \u25c0Chef Mao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chef_Mao\u25b7"
+            "tag": "p",
+            "text": "Begin the World Quest by approaching \u25c0Wanmin Restaurant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wanmin_Restaurant\u25b7."
         },
         {
-            "plaintext": "Pay respects to Pervases",
-            "markdown": "Pay respects to \u25c0Pervases\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pervases\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Pervases' statue can be found at a run-down temple for the adepti near the foot on Mt. Tianheng.",
-                    "markdown": "Pervases' statue can be found at \u25c0a run-down temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pervases%27_Temple\u25b7 for the \u25c0adepti\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adepti\u25b7 near the foot on \u25c0Mt. Tianheng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Tianheng\u25b7."
+                    "tag": "li",
+                    "text": "Speak to \u25c0Chef Mao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chef_Mao\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Pay respects to \u25c0Pervases\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pervases\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Pervases' statue can be found at \u25c0a run-down temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pervases%27_Temple\u25b7 for the \u25c0adepti\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adepti\u25b7 near the foot on \u25c0Mt. Tianheng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Tianheng\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Save the person in danger"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 \u00d72",
+                            "img": {
+                                "hilichurl_fighter": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Wang Ping'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wang_Ping%27an\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back to the Pervases statue"
                 }
             ]
-        },
-        {
-            "plaintext": "Save the person in danger",
-            "markdown": "Save the person in danger",
-            "substeps": [
-                {
-                    "plaintext": "Hilichurl Fighter x2",
-                    "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x2",
-                    "img": {
-                        "hilichurl_fighter": "Hilichurl_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Wang Ping'an",
-            "markdown": "Talk to \u25c0Wang Ping'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wang_Ping%27an\u25b7"
-        },
-        {
-            "plaintext": "Go back to the Pervases statue",
-            "markdown": "Go back to the Pervases statue"
         }
     ],
     "dialogue": true

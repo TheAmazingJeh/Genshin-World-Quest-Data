@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Cleansing Defilement",
     "url": "https://genshin-impact.fandom.com/wiki/Cleansing_Defilement",
     "starting_location": {
-        "plaintext": "Chinju Forest , Inazuma Kamisato Estate , Inazuma Araumi , Inazuma",
-        "markdown": "\u25c0Chinju Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chinju_Forest\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7 \u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7 \u25c0Araumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araumi\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Chinju Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chinju_Forest\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7 \u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7 \u25c0Araumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araumi\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,12 +46,20 @@
     ],
     "steps": [
         {
-            "plaintext": "Complete the Sacred Sakura Cleansing Ritual (0/3).",
-            "markdown": "Complete the Sacred Sakura Cleansing Ritual (0/3).",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The locations are in Chinju Forest, Araumi, and Kamisato Estate",
-                    "markdown": "The locations are in \u25c0Chinju Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chinju_Forest\u25b7, \u25c0Araumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araumi\u25b7, and \u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7"
+                    "tag": "li",
+                    "text": "Complete the Sacred Sakura Cleansing Ritual (0/3)."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The locations are in \u25c0Chinju Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chinju_Forest\u25b7, \u25c0Araumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araumi\u25b7, and \u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7"
+                        }
+                    ]
                 }
             ]
         }

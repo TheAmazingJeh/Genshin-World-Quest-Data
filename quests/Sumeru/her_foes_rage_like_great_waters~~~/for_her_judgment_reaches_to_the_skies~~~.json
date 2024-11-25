@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "For Her Judgment Reaches to the Skies...",
     "url": "https://genshin-impact.fandom.com/wiki/For_Her_Judgment_Reaches_to_the_Skies...",
     "starting_location": {
-        "plaintext": "Wadi Al-Majuj , Sumeru",
-        "markdown": "\u25c0Wadi Al-Majuj\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wadi_Al-Majuj\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Wadi Al-Majuj\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wadi_Al-Majuj\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,127 +46,174 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the location mentioned in the Fatui's documents",
-            "markdown": "Go to the location mentioned in the Fatui's documents"
-        },
-        {
-            "plaintext": "Look for Jeht",
-            "markdown": "Look for \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7"
-        },
-        {
-            "plaintext": "Chase the sounds to their source",
-            "markdown": "Chase the sounds to their source"
-        },
-        {
-            "plaintext": "Enter the Fatui hideout",
-            "markdown": "Enter the Fatui hideout",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wave 1:  Fatui Skirmisher - Anemoboxer Vanguard x2",
-                    "markdown": "Wave 1: <img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x2",
-                    "img": {
-                        "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the location mentioned in the Fatui's documents"
                 },
                 {
-                    "plaintext": "Wave 2:  Fatui Skirmisher - Cryogunner Legionnaire x1",
-                    "markdown": "Wave 2: <img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Find the injured Jeht",
-            "markdown": "Find the injured Jeht"
-        },
-        {
-            "plaintext": "Calm Jeht down",
-            "markdown": "Calm Jeht down",
-            "substeps": [
-                {
-                    "plaintext": "Jeht \u2014 Rage Born of Betrayal x1",
-                    "markdown": "<img:eremite_desert_clearwater> \u25c0Jeht \u2014 Rage Born of Betrayal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Desert_Clearwater\u25b7 x1",
-                    "img": {
-                        "eremite_desert_clearwater": "Eremite_Desert_Clearwater_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat the attacking assassin(s)",
-            "markdown": "Defeat the attacking assassin(s)",
-            "substeps": [
-                {
-                    "plaintext": "Wave 1:  Nayram \u2014 Tanit Falcon x1",
-                    "markdown": "Wave 1: <img:eremite_axe_vanguard> \u25c0Nayram \u2014 Tanit Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 x1",
-                    "img": {
-                        "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Look for \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7"
                 },
                 {
-                    "plaintext": "Wave 2:  Rezki \u2014 Tanit Falcon x1",
-                    "markdown": "Wave 2: <img:eremite_sunfrost> \u25c0Rezki \u2014 Tanit Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sunfrost\u25b7 x1",
-                    "img": {
-                        "eremite_sunfrost": "Eremite_Sunfrost_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Jeht",
-            "markdown": "Talk to Jeht"
-        },
-        {
-            "plaintext": "Go and confront Babel",
-            "markdown": "Go and confront \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
-        },
-        {
-            "plaintext": "Defeat Babel and her underlings",
-            "markdown": "Defeat Babel and her underlings",
-            "substeps": [
-                {
-                    "plaintext": "Eremite Ravenbeak Halberdier x2",
-                    "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x2",
-                    "img": {
-                        "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Chase the sounds to their source"
                 },
                 {
-                    "plaintext": "Babel \u2014 Tanit Matriarch x1",
-                    "markdown": "<img:eremite_scorching_loremaster> \u25c0Babel \u2014 Tanit Matriarch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Scorching_Loremaster\u25b7 x1",
-                    "img": {
-                        "eremite_scorching_loremaster": "Eremite_Scorching_Loremaster_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat the forces of the Tanit tribe",
-            "markdown": "Defeat the forces of the Tanit tribe",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Enter the Fatui hideout"
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Ravenbeak Halberdier x1",
-                            "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1: <img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 \u00d72",
+                            "img": {
+                                "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2: <img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the injured Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Calm Jeht down"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_desert_clearwater> \u25c0Jeht \u2014 Rage Born of Betrayal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Desert_Clearwater\u25b7 \u00d71",
+                            "img": {
+                                "eremite_desert_clearwater": "Eremite_Desert_Clearwater_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the attacking assassin(s)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: <img:eremite_axe_vanguard> \u25c0Nayram \u2014 Tanit Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2: <img:eremite_sunfrost> \u25c0Rezki \u2014 Tanit Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sunfrost\u25b7 \u00d71",
+                            "img": {
+                                "eremite_sunfrost": "Eremite_Sunfrost_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go and confront \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Babel and her underlings"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d72",
                             "img": {
                                 "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Linebreaker x1",
-                            "markdown": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_scorching_loremaster> \u25c0Babel \u2014 Tanit Matriarch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Scorching_Loremaster\u25b7 \u00d71",
+                            "img": {
+                                "eremite_scorching_loremaster": "Eremite_Scorching_Loremaster_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the forces of the Tanit tribe"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 4:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 5:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 6:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 7:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d71",
+                            "img": {
+                                "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 \u00d71",
                             "img": {
                                 "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Sword-Dancer x1",
-                            "markdown": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 \u00d71",
                             "img": {
                                 "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
                             }
@@ -174,19 +221,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Linebreaker x1",
-                            "markdown": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 \u00d71",
                             "img": {
                                 "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Sword-Dancer x1",
-                            "markdown": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 \u00d71",
                             "img": {
                                 "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
                             }
@@ -194,19 +240,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Crossbow x1",
-                            "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 \u00d71",
                             "img": {
                                 "eremite_crossbow": "Eremite_Crossbow_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Linebreaker x1",
-                            "markdown": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 \u00d71",
                             "img": {
                                 "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
                             }
@@ -214,19 +259,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 4:",
-                    "markdown": "Wave 4:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Sword-Dancer x1",
-                            "markdown": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 \u00d71",
                             "img": {
                                 "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Daythunder x1",
-                            "markdown": "<img:eremite_daythunder> \u25c0Eremite Daythunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Daythunder\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_daythunder> \u25c0Eremite Daythunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Daythunder\u25b7 \u00d71",
                             "img": {
                                 "eremite_daythunder": "Eremite_Daythunder_Icon.png"
                             }
@@ -234,19 +278,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 5:",
-                    "markdown": "Wave 5:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Ravenbeak Halberdier x1",
-                            "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d71",
                             "img": {
                                 "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Sword-Dancer x1",
-                            "markdown": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 \u00d71",
                             "img": {
                                 "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
                             }
@@ -254,12 +297,11 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 6:",
-                    "markdown": "Wave 6:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Sword-Dancer x1",
-                            "markdown": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 \u00d71",
                             "img": {
                                 "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
                             }
@@ -267,74 +309,79 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 7:",
-                    "markdown": "Wave 7:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Sword-Dancer x2",
-                            "markdown": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Eremite Sword-Dancer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 \u00d72",
                             "img": {
                                 "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Axe Vanguard x1",
-                            "markdown": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Yuften \u2014 Tanit Farmer x1",
-                            "markdown": "<img:eremite_sword-dancer> \u25c0Yuften \u2014 Tanit Farmer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Yuften \u2014 Tanit Farmer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7 \u00d71",
                             "img": {
                                 "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Catch up with Babel",
-            "markdown": "Catch up with Babel"
-        },
-        {
-            "plaintext": "Defeat Babel",
-            "markdown": "Defeat Babel",
-            "substeps": [
-                {
-                    "plaintext": "Babel \u2014 Tanit Matriarch x1",
-                    "markdown": "<img:eremite_scorching_loremaster> \u25c0Babel \u2014 Tanit Matriarch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Scorching_Loremaster\u25b7 x1",
-                    "img": {
-                        "eremite_scorching_loremaster": "Eremite_Scorching_Loremaster_Icon.png"
-                    }
                 },
                 {
-                    "plaintext": "The following enemies will infinitely respawn until Babel is defeated:",
-                    "markdown": "The following enemies will infinitely respawn until Babel is defeated:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Catch up with Babel"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Babel"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Ravenbeak Halberdier x1",
-                            "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_scorching_loremaster> \u25c0Babel \u2014 Tanit Matriarch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Scorching_Loremaster\u25b7 \u00d71",
+                            "img": {
+                                "eremite_scorching_loremaster": "Eremite_Scorching_Loremaster_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The following enemies will infinitely respawn until Babel is defeated:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d71",
                             "img": {
                                 "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Crossbow x1",
-                            "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 \u00d71",
                             "img": {
                                 "eremite_crossbow": "Eremite_Crossbow_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Jeht out of this place"
                 }
             ]
-        },
-        {
-            "plaintext": "Follow Jeht out of this place",
-            "markdown": "Follow Jeht out of this place"
         }
     ],
     "dialogue": true

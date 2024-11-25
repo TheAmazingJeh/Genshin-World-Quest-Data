@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Hyperion's Dirge (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Hyperion%27s_Dirge_%28Quest%29",
@@ -46,22 +47,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Find and offer up the objects in which Aberaku nested his thoughts (0/3)",
-            "markdown": "Find and offer up the objects in which Aberaku nested his thoughts (0/3)"
-        },
-        {
-            "plaintext": "Reach the top of Dainichi Mikoshi",
-            "markdown": "Reach the top of Dainichi Mikoshi",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Use the Phase Gate that appears in the hidden room after submitting the offerings to reach the top.",
-                    "markdown": "Use the \u25c0Phase Gate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Phase_Gate\u25b7 that appears in the hidden room after submitting the offerings to reach the top."
+                    "tag": "li",
+                    "text": "Find and offer up the objects in which Aberaku nested his thoughts (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Reach the top of Dainichi Mikoshi"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the \u25c0Phase Gate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Phase_Gate\u25b7 that appears in the hidden room after submitting the offerings to reach the top."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to Aberaku"
                 }
             ]
-        },
-        {
-            "plaintext": "Speak to Aberaku",
-            "markdown": "Speak to Aberaku"
         }
     ],
     "dialogue": true

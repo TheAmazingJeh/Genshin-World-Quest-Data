@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Wilting Weeping Willow",
     "url": "https://genshin-impact.fandom.com/wiki/Wilting_Weeping_Willow",
     "starting_location": {
-        "plaintext": "Weeping Willow of the Lake , Fontaine",
-        "markdown": "\u25c0Weeping Willow of the Lake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Weeping_Willow_of_the_Lake\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Weeping Willow of the Lake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Weeping_Willow_of_the_Lake\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,34 +46,42 @@
     ],
     "steps": [
         {
-            "plaintext": "Search for the \"key\" near the \"Weeping Willow\"",
-            "markdown": "Search for the \"key\" near the \"Weeping Willow\""
-        },
-        {
-            "plaintext": "Find a way to activate the altar",
-            "markdown": "Find a way to activate the altar",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Use the Xenochromatic Hunter's Ray's ability to cut the Fontemer Seagrass and free the Xenochromatic Ball Octopus.",
-                    "markdown": "Use the \u25c0Xenochromatic Hunter's Ray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xenochromatic_Hunter%27s_Ray\u25b7's ability to cut the \u25c0Fontemer Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontemer_Seagrass\u25b7 and free the \u25c0Xenochromatic Ball Octopus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xenochromatic_Ball_Octopus\u25b7."
+                    "tag": "li",
+                    "text": "Search for the \"key\" near the \"Weeping Willow\""
                 },
                 {
-                    "plaintext": "Use the Ball Octopus' ability to destroy the Contaminated Bacterial Mats near the altar, which reveals a Dew Bubble.",
-                    "markdown": "Use the Ball Octopus' ability to destroy the \u25c0Contaminated Bacterial Mats\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Contaminated_Bacterial_Mat\u25b7 near the altar, which reveals a \u25c0Dew Bubble\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dew_Bubble\u25b7."
+                    "tag": "li",
+                    "text": "Find a way to activate the altar"
                 },
                 {
-                    "plaintext": "Solve the Harmonious Reed Pipe puzzle.",
-                    "markdown": "Solve the \u25c0Harmonious Reed Pipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Harmonious_Reed_Pipe\u25b7 puzzle."
+                    "tag": "li",
+                    "text": "Examine the item on the altar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0the Melusine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pahsiv\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Examine the item on the altar",
-            "markdown": "Examine the item on the altar"
-        },
-        {
-            "plaintext": "Talk to the Melusine",
-            "markdown": "Talk to \u25c0the Melusine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pahsiv\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Use the \u25c0Xenochromatic Hunter's Ray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xenochromatic_Hunter%27s_Ray\u25b7's ability to cut the \u25c0Fontemer Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontemer_Seagrass\u25b7 and free the \u25c0Xenochromatic Ball Octopus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xenochromatic_Ball_Octopus\u25b7."
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the Ball Octopus' ability to destroy the \u25c0Contaminated Bacterial Mats\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Contaminated_Bacterial_Mat\u25b7 near the altar, which reveals a \u25c0Dew Bubble\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dew_Bubble\u25b7."
+                },
+                {
+                    "tag": "li",
+                    "text": "Solve the \u25c0Harmonious Reed Pipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Harmonious_Reed_Pipe\u25b7 puzzle."
+                }
+            ]
         }
     ],
     "dialogue": true

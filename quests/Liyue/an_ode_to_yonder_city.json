@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "An Ode to Yonder City",
     "url": "https://genshin-impact.fandom.com/wiki/An_Ode_to_Yonder_City",
     "starting_location": {
-        "plaintext": "Wangshu Inn , Liyue",
-        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete A New Star Approaches",
@@ -63,28 +63,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Qingzhou",
-            "markdown": "Talk to \u25c0Qingzhou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingzhou\u25b7"
-        },
-        {
-            "plaintext": "Look for poetic inspiration at the south wharf",
-            "markdown": "Look for poetic inspiration at the south wharf"
-        },
-        {
-            "plaintext": "Look for poetic inspiration at Bubu Pharmacy",
-            "markdown": "Look for poetic inspiration at Bubu Pharmacy"
-        },
-        {
-            "plaintext": "Look for poetic inspiration near Yujing Terrace",
-            "markdown": "Look for poetic inspiration near Yujing Terrace"
-        },
-        {
-            "plaintext": "Talk to people at Yujing Terrace (0/2)",
-            "markdown": "Talk to people at Yujing Terrace (0/2)"
-        },
-        {
-            "plaintext": "Report back to Qingzhou",
-            "markdown": "Report back to Qingzhou"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Qingzhou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingzhou\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for poetic inspiration at the south wharf"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for poetic inspiration at Bubu Pharmacy"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for poetic inspiration near Yujing Terrace"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to people at Yujing Terrace (0/2)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Qingzhou"
+                }
+            ]
         }
     ],
     "dialogue": true

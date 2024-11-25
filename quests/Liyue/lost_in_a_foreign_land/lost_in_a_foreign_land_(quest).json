@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Lost in a Foreign Land (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Lost_in_a_Foreign_Land_%28Quest%29",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,24 +39,29 @@
     ],
     "steps": [
         {
-            "plaintext": "The defeated Fatui Mage seems to have something to tell you.",
-            "markdown": "The defeated Fatui Mage seems to have something to tell you."
-        },
-        {
-            "plaintext": "Defeat the Floating Fungi that emerged",
-            "markdown": "Defeat the \u25c0Floating Fungi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Fungi\u25b7 that emerged"
-        },
-        {
-            "plaintext": "Continue talking to the Fatui Mage",
-            "markdown": "Continue talking to the Fatui Mage"
-        },
-        {
-            "plaintext": "Go to the Fatui Mage's hidden encampment",
-            "markdown": "Go to the Fatui Mage's hidden encampment"
-        },
-        {
-            "plaintext": "Talk to the Fatui Mage",
-            "markdown": "Talk to the Fatui Mage"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "The defeated Fatui Mage seems to have something to tell you."
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Floating Fungi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Fungi\u25b7 that emerged"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue talking to the Fatui Mage"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Fatui Mage's hidden encampment"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Fatui Mage"
+                }
+            ]
         }
     ],
     "dialogue": true

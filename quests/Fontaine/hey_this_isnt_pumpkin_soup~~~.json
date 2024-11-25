@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "\"Hey, This Isn't Pumpkin Soup...\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22Hey%2C_This_Isn%27t_Pumpkin_Soup...%22",
     "starting_location": {
-        "plaintext": "Merusea Village , Fontaine",
-        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,27 +60,42 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Verenata",
-            "markdown": "Talk to Verenata"
-        },
-        {
-            "plaintext": "Defeat all opponents",
-            "markdown": "Defeat all opponents",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Talk to Verenata"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Large Overgrown Breacher Primus x1",
-                            "markdown": "<img:large_overgrown_breacher_primus> \u25c0Large Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Overgrown_Breacher_Primus\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:large_overgrown_breacher_primus> \u25c0Large Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Overgrown_Breacher_Primus\u25b7 \u00d71",
                             "img": {
                                 "large_overgrown_breacher_primus": "Large_Overgrown_Breacher_Primus_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Overgrown Breacher Primus x2",
-                            "markdown": "<img:overgrown_breacher_primus> \u25c0Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Overgrown_Breacher_Primus\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:overgrown_breacher_primus> \u25c0Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Overgrown_Breacher_Primus\u25b7 \u00d72",
                             "img": {
                                 "overgrown_breacher_primus": "Overgrown_Breacher_Primus_Icon.png"
                             }
@@ -88,49 +103,62 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Large Overgrown Breacher Primus x1",
-                            "markdown": "<img:large_overgrown_breacher_primus> \u25c0Large Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Overgrown_Breacher_Primus\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:large_overgrown_breacher_primus> \u25c0Large Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Overgrown_Breacher_Primus\u25b7 \u00d71",
                             "img": {
                                 "large_overgrown_breacher_primus": "Large_Overgrown_Breacher_Primus_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Overgrown Breacher Primus x2",
-                            "markdown": "<img:overgrown_breacher_primus> \u25c0Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Overgrown_Breacher_Primus\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:overgrown_breacher_primus> \u25c0Overgrown Breacher Primus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Overgrown_Breacher_Primus\u25b7 \u00d72",
                             "img": {
                                 "overgrown_breacher_primus": "Overgrown_Breacher_Primus_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Verenata",
-            "markdown": "Talk to Verenata"
-        },
-        {
-            "plaintext": "Defeat all opponents",
-            "markdown": "Defeat all opponents",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Talk to Verenata"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Large Pyro Slime x2",
-                            "markdown": "<img:large_pyro_slime> \u25c0Large Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Pyro_Slime\u25b7 x2",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:large_pyro_slime> \u25c0Large Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Pyro_Slime\u25b7 \u00d72",
                             "img": {
                                 "large_pyro_slime": "Large_Pyro_Slime_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Pyro Slime x1",
-                            "markdown": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 \u00d71",
                             "img": {
                                 "pyro_slime": "Pyro_Slime_Icon.png"
                             }
@@ -138,19 +166,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Large Pyro Slime x2",
-                            "markdown": "<img:large_pyro_slime> \u25c0Large Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Pyro_Slime\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:large_pyro_slime> \u25c0Large Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Pyro_Slime\u25b7 \u00d72",
                             "img": {
                                 "large_pyro_slime": "Large_Pyro_Slime_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Pyro Slime x1",
-                            "markdown": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 \u00d71",
                             "img": {
                                 "pyro_slime": "Pyro_Slime_Icon.png"
                             }
@@ -158,27 +185,26 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Pyro Slime x1",
-                            "markdown": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:pyro_slime> \u25c0Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Slime\u25b7 \u00d71",
                             "img": {
                                 "pyro_slime": "Pyro_Slime_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Verenata"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Verenata's workshop"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Verenata",
-            "markdown": "Talk to Verenata"
-        },
-        {
-            "plaintext": "Go to Verenata's workshop",
-            "markdown": "Go to Verenata's workshop"
         }
     ],
     "dialogue": true

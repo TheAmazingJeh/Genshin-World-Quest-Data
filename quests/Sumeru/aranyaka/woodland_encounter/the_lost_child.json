@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Lost Child",
     "url": "https://genshin-impact.fandom.com/wiki/The_Lost_Child",
     "starting_location": {
-        "plaintext": "Ardravi Valley , Sumeru",
-        "markdown": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,76 +46,87 @@
     ],
     "steps": [
         {
-            "plaintext": "Return to Vimara Village",
-            "markdown": "Return to \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7"
-        },
-        {
-            "plaintext": "Look for Iotham",
-            "markdown": "Look for \u25c0Iotham\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iotham\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Eremite Crossbow x1",
-                    "markdown": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 x1",
-                    "img": {
-                        "eremite_crossbow": "Eremite_Crossbow_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Return to \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7"
                 },
                 {
-                    "plaintext": "Eremite Sunfrost x1",
-                    "markdown": "<img:eremite_sunfrost> \u25c0Eremite Sunfrost\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sunfrost\u25b7 x1",
-                    "img": {
-                        "eremite_sunfrost": "Eremite_Sunfrost_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Go into the depths of the cave to look for Iotham",
-            "markdown": "Go into the depths of the cave to look for Iotham"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Fatui Pyro Agent x1",
-                    "markdown": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 x1",
-                    "img": {
-                        "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Look for \u25c0Iotham\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iotham\u25b7"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_crossbow> \u25c0Eremite Crossbow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7 \u00d71",
+                            "img": {
+                                "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_sunfrost> \u25c0Eremite Sunfrost\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sunfrost\u25b7 \u00d71",
+                            "img": {
+                                "eremite_sunfrost": "Eremite_Sunfrost_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go into the depths of the cave to look for Iotham"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 \u00d71",
+                            "img": {
+                                "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Proceed deeper within to look for Iotham"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try to clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to Vimara Village"
+                },
+                {
+                    "tag": "li",
+                    "text": "Escort Iotham back to Vimara Village"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to where \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7 is"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the strange traces"
                 }
             ]
-        },
-        {
-            "plaintext": "Proceed deeper within to look for Iotham",
-            "markdown": "Proceed deeper within to look for Iotham"
-        },
-        {
-            "plaintext": "Try to clean up the Withering Zone",
-            "markdown": "Try to clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
-        },
-        {
-            "plaintext": "Return to Vimara Village",
-            "markdown": "Return to Vimara Village"
-        },
-        {
-            "plaintext": "Escort Iotham back to Vimara Village",
-            "markdown": "Escort Iotham back to Vimara Village"
-        },
-        {
-            "plaintext": "Go to where Rana is",
-            "markdown": "Go to where \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7 is"
-        },
-        {
-            "plaintext": "Follow the strange traces",
-            "markdown": "Follow the strange traces"
         }
     ],
     "dialogue": true

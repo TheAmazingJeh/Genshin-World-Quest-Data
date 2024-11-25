@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Seirai Stormchasers: Part III",
     "url": "https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers%3A_Part_III",
     "starting_location": {
-        "plaintext": "Seirai Island , Inazuma",
-        "markdown": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,34 +32,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Warding Stone's location",
-            "markdown": "Go to the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7's location"
-        },
-        {
-            "plaintext": "Talk to Taisuke",
-            "markdown": "Talk to \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7"
-        },
-        {
-            "plaintext": "Search for the path to the Warding Stone",
-            "markdown": "Search for the path to the Warding Stone",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Use the nearby Phase Gate",
-                    "markdown": "Use the nearby Phase Gate"
-                }
-            ]
-        },
-        {
-            "plaintext": "Touch the paper charm hangers x/3",
-            "markdown": "Touch the paper charm hangers x/3"
-        },
-        {
-            "plaintext": "Seal the Warding Stone",
-            "markdown": "Seal the Warding Stone",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Go to the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7's location"
+                },
                 {
-                    "plaintext": "Rotate the stone to the correct position (rotate the top 3 times and the bottom 5 times)",
-                    "markdown": "Rotate the stone to the correct position (rotate the top 3 times and the bottom 5 times)"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for the path to the Warding Stone"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the nearby Phase Gate"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the paper charm hangers x/3"
+                },
+                {
+                    "tag": "li",
+                    "text": "Seal the Warding Stone"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Rotate the stone to the correct position (rotate the top 3 times and the bottom 5 times)"
+                        }
+                    ]
                 }
             ]
         }

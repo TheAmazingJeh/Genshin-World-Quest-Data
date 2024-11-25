@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "act",
     "name": "In the End, the Forest Will Remember",
     "url": "https://genshin-impact.fandom.com/wiki/In_the_End%2C_the_Forest_Will_Remember",
@@ -6,8 +7,13 @@
     "rewards": null,
     "steps": [
         {
-            "plaintext": "\"Hello,\" \"Thank You,\" and the Final \"Goodbye\"",
-            "markdown": "\u25c0\"Hello,\" \"Thank You,\" and the Final \"Goodbye\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Hello,%22_%22Thank_You,%22_and_the_Final_%22Goodbye%22\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Hello,\" \"Thank You,\" and the Final \"Goodbye\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Hello,%22_%22Thank_You,%22_and_the_Final_%22Goodbye%22\u25b7"
+                }
+            ]
         }
     ]
 }

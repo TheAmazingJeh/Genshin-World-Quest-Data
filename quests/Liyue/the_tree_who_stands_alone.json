@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Tree who Stands Alone",
     "url": "https://genshin-impact.fandom.com/wiki/The_Tree_who_Stands_Alone",
     "starting_location": {
-        "plaintext": "Mingyun Village , Liyue",
-        "markdown": "\u25c0Mingyun Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mingyun_Village\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Mingyun Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mingyun_Village\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,12 +39,124 @@
     ],
     "steps": [
         {
-            "plaintext": "Look around Mingyun Village",
-            "markdown": "Look around Mingyun Village",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Yuan Hong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yuan_Hong\u25b7 in \u25c0Mingyun Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mingyun_Village\u25b7."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Go to the house facing the billboard and read the \"Lost Notes\".",
-                    "markdown": "Go to the house facing the billboard and read the \"Lost Notes\"."
+                    "tag": "li",
+                    "text": "Look around Mingyun Village"
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the house facing the billboard and read the \"Lost Notes\"."
+                }
+            ]
+        },
+        {
+            "tag": "p",
+            "text": "It is required to read the notes as the first step, as it triggers the spawning of the four parts of the fathers will and the matching four markers on the map. If you don't read the notes at first, you have to go all the ways twice or more."
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Look for a will (0/4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the treasure"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect the treasure"
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "The will to the south is in a cave, guarded by a hilichurl standing in front of an explosive barrel."
+                },
+                {
+                    "tag": "li",
+                    "text": "The will to the east is in a cave, with three hilichurls outside the entrance. If you already unlocked the nearby Exquisite Chest they were guarding, no hilichurls will appear."
+                },
+                {
+                    "tag": "li",
+                    "text": "The will to the north is in a cave, with a hilichurl and three Geo slimes inside. You can skip this battle by swimming past them."
+                },
+                {
+                    "tag": "li",
+                    "text": "The will to the west is in a cave with two entrances. The southern entrance has three Electro Cicins guarding an Exquisite Chest. The northern entrance has a Blazing Axe Mitachurl and three hilichurls guarding an Exquisite Chest. If you already unlocked these chests, no enemies will appear."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Noctilucous Jade can be mined."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "White Iron Chunk, Noctilucous Jade, and Cor Lapis can be mined. An Exquisite Chest can be opened."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Iron Chunk, White Iron Chunk, and Noctilucous Jade can be mined."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Iron Chunk, White Iron Chunk, Cor Lapis, and Noctilucous Jade can be mined. A Geoculus can be collected."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "The treasure is at the base of a large tree. When you approach the tree, four Treasure Hoarders will spawn."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "A dig option becomes available at the base of the tree."
+                },
+                {
+                    "tag": "li",
+                    "text": "After digging, a Precious Chest will spawn."
                 }
             ]
         }

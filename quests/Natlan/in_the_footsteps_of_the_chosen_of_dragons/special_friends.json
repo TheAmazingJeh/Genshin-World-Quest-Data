@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Special Friends",
     "url": "https://genshin-impact.fandom.com/wiki/Special_Friends",
     "starting_location": {
-        "plaintext": "Coatepec Mountain , Natlan",
-        "markdown": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,41 +32,49 @@
     ],
     "steps": [
         {
-            "plaintext": "Calm the Yumkasaurus down",
-            "markdown": "Calm the Yumkasaurus down",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Overly-Watchful Yumkasaurus",
-                    "markdown": "<img:yumkasaurus> \u25c0Overly-Watchful Yumkasaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yumkasaurus\u25b7",
-                    "img": {
-                        "yumkasaurus": "Yumkasaurus_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Calm the Yumkasaurus down"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:yumkasaurus> \u25c0Overly-Watchful Yumkasaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yumkasaurus\u25b7",
+                            "img": {
+                                "yumkasaurus": "Yumkasaurus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the now-calm Yumkasaurus"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try talking to the Alpacas"
+                },
+                {
+                    "tag": "li",
+                    "text": "See what your Saurian buddy has found"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the wooden planks to create a path"
+                },
+                {
+                    "tag": "li",
+                    "text": "Save the scaredy-cat Alpaca"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Wactana"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to the now-calm Yumkasaurus",
-            "markdown": "Talk to the now-calm Yumkasaurus"
-        },
-        {
-            "plaintext": "Try talking to the Alpacas",
-            "markdown": "Try talking to the Alpacas"
-        },
-        {
-            "plaintext": "See what your Saurian buddy has found",
-            "markdown": "See what your Saurian buddy has found"
-        },
-        {
-            "plaintext": "Use the wooden planks to create a path",
-            "markdown": "Use the wooden planks to create a path"
-        },
-        {
-            "plaintext": "Save the scaredy-cat Alpaca",
-            "markdown": "Save the scaredy-cat Alpaca"
-        },
-        {
-            "plaintext": "Report back to Wactana",
-            "markdown": "Report back to Wactana"
         }
     ],
     "dialogue": true

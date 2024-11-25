@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Film Notes",
     "url": "https://genshin-impact.fandom.com/wiki/Film_Notes",
@@ -42,12 +43,17 @@
     ],
     "steps": [
         {
-            "plaintext": "\"Outlander Brigade!\"",
-            "markdown": "\u25c0\"Outlander Brigade!\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Outlander_Brigade!%22\u25b7"
-        },
-        {
-            "plaintext": "Mushounin",
-            "markdown": "\u25c0Mushounin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mushounin\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Outlander Brigade!\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Outlander_Brigade!%22\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Mushounin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mushounin\u25b7"
+                }
+            ]
         }
     ]
 }

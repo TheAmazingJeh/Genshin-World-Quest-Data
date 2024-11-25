@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Aragaru's Drawing",
     "url": "https://genshin-impact.fandom.com/wiki/Aragaru%27s_Drawing",
     "starting_location": {
-        "plaintext": "Chatrakam Cave , Sumeru",
-        "markdown": "\u25c0Chatrakam Cave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chatrakam_Cave\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Chatrakam Cave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chatrakam_Cave\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Aranyaka : Part II - Dream Nursery",
@@ -42,16 +42,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Aragaru",
-            "markdown": "Talk to Aragaru"
-        },
-        {
-            "plaintext": "Investigate the Eremites' camp",
-            "markdown": "Investigate the Eremites' camp"
-        },
-        {
-            "plaintext": "Talk to Aragaru",
-            "markdown": "Talk to Aragaru"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Aragaru"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the Eremites' camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aragaru"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "The Dirge of Bilqis",
     "url": "https://genshin-impact.fandom.com/wiki/The_Dirge_of_Bilqis",
@@ -42,28 +43,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars",
-            "markdown": "\u25c0Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wisdom_Has_Built_Her_House,_She_Has_Hewn_Out_Her_Seven_Pillars\u25b7"
-        },
-        {
-            "plaintext": "The Temple Where Sand Flows Like Tears",
-            "markdown": "\u25c0The Temple Where Sand Flows Like Tears\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Temple_Where_Sand_Flows_Like_Tears\u25b7"
-        },
-        {
-            "plaintext": "Dune-Entombed Fecundity: Part I",
-            "markdown": "\u25c0Dune-Entombed Fecundity: Part I\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_I\u25b7"
-        },
-        {
-            "plaintext": "Dune-Entombed Fecundity: Part II",
-            "markdown": "\u25c0Dune-Entombed Fecundity: Part II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_II\u25b7"
-        },
-        {
-            "plaintext": "Dune-Entombed Fecundity: Part III",
-            "markdown": "\u25c0Dune-Entombed Fecundity: Part III\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_III\u25b7"
-        },
-        {
-            "plaintext": "The Eternal Dream, Ever Lush",
-            "markdown": "\u25c0The Eternal Dream, Ever Lush\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eternal_Dream,_Ever_Lush\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wisdom_Has_Built_Her_House,_She_Has_Hewn_Out_Her_Seven_Pillars\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Temple Where Sand Flows Like Tears\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Temple_Where_Sand_Flows_Like_Tears\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Dune-Entombed Fecundity: Part I\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_I\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Dune-Entombed Fecundity: Part II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_II\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Dune-Entombed Fecundity: Part III\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity:_Part_III\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Eternal Dream, Ever Lush\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eternal_Dream,_Ever_Lush\u25b7"
+                }
+            ]
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Foggy Forest Path (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path_%28Quest%29",
     "starting_location": {
-        "plaintext": "Marcotte Station , Fontaine",
-        "markdown": "\u25c0Marcotte Station\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marcotte_Station\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Marcotte Station\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marcotte_Station\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,36 +46,56 @@
     ],
     "steps": [
         {
-            "plaintext": "Search for the Foggy Forest Path",
-            "markdown": "Search for the \u25c0Foggy Forest Path\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path\u25b7",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "This step only appears if the Carved Stone Tablet at Marcotte Station was interacted with.\u200d[verification needed]",
-                    "markdown": "This step only appears if the Carved Stone Tablet at Marcotte Station was interacted with.\u200d[verification needed]"
+                    "tag": "li",
+                    "text": "Start the quest either by interacting with the inscription on the fountain in \u25c0Marcotte Station\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marcotte_Station\u25b7, or by completing one of the concurrent quests \u25c0Wilting Weeping Willow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wilting_Weeping_Willow\u25b7 or \u25c0Furious Mouth of the Spring\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Furious_Mouth_of_the_Spring\u25b7 first."
                 }
             ]
         },
         {
-            "plaintext": "Go deeper into Foggy Forest Path",
-            "markdown": "Go deeper into Foggy Forest Path"
-        },
-        {
-            "plaintext": "Reveal the altar's secrets",
-            "markdown": "Reveal the altar's secrets",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Complete the three Harmonious Reed Pipe puzzles in the area.",
-                    "markdown": "Complete the three \u25c0Harmonious Reed Pipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Harmonious_Reed_Pipe\u25b7 puzzles in the area."
+                    "tag": "li",
+                    "text": "Search for the \u25c0Foggy Forest Path\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This step only appears if the Carved Stone Tablet at Marcotte Station was interacted with.\u200d[verification needed]"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go deeper into Foggy Forest Path"
+                },
+                {
+                    "tag": "li",
+                    "text": "Reveal the altar's secrets"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Complete the three \u25c0Harmonious Reed Pipe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Harmonious_Reed_Pipe\u25b7 puzzles in the area."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the item on the altar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0the Melusine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pahsiv\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Examine the item on the altar",
-            "markdown": "Examine the item on the altar"
-        },
-        {
-            "plaintext": "Talk to the Melusine",
-            "markdown": "Talk to \u25c0the Melusine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pahsiv\u25b7"
         }
     ],
     "dialogue": true

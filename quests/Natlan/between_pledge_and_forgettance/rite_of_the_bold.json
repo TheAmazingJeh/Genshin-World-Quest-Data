@@ -1,12 +1,15 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Rite of the Bold",
     "url": "https://genshin-impact.fandom.com/wiki/Rite_of_the_Bold",
     "starting_location": {
-        "plaintext": "\"Children of Echoes\" , Natlan",
-        "markdown": "\u25c0\"Children of Echoes\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Children_of_Echoes%22\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0\"Children of Echoes\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Children_of_Echoes%22\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
-    "requirements": null,
+    "requirements": {
+        "plaintext": "",
+        "markdown": ""
+    },
     "rewards": [
         {
             "Name": "Talisman of Waxaklahun Ubah Kan",
@@ -53,20 +56,63 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Children of Echoes",
-            "markdown": "Go to the Children of Echoes"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Interact with \u25c0Manqu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Manqu\u25b7 at least once, then wait two in-game days after finishing the \u25c0World Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/World_Quest\u25b7 \u25c0Peace to the Slumbering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peace_to_the_Slumbering\u25b7 in Series \u25c0Shadows of the Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shadows_of_the_Mountains\u25b7 and the \u25c0World Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/World_Quest\u25b7 \u25c0Seeker No Finding\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seeker_No_Finding\u25b7 in Series \u25c0Tale of Dreams Plucked From Fire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tale_of_Dreams_Plucked_From_Fire\u25b7."
+                }
+            ]
         },
         {
-            "plaintext": "Talk to Manqu",
-            "markdown": "Talk to Manqu"
-        },
-        {
-            "plaintext": "Defeat Pacal",
-            "markdown": "Defeat Pacal"
-        },
-        {
-            "plaintext": "Talk to Manqu",
-            "markdown": "Talk to Manqu"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Children of Echoes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Children_of_Echoes\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Manqu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Challenge \u25c0Pacal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pacal\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This only appears if the the player fails the battle."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Pacal"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0File:Pacal Icon.png\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special:Upload?wpDestFile=Pacal_Icon.png\u25b7 \u25c0Pacal \u2014 Chief, Children of Echoes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pacal\u25b7 \u00d71"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:tepetlisaurus> \u25c0Tepetlisaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus\u25b7 \u00d71",
+                            "img": {
+                                "tepetlisaurus": "Tepetlisaurus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Manqu"
+                }
+            ]
         }
     ],
     "dialogue": true

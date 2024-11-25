@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Garcia's Paean: A Gift of Compatibility",
     "url": "https://genshin-impact.fandom.com/wiki/Garcia%27s_Paean%3A_A_Gift_of_Compatibility",
     "starting_location": {
-        "plaintext": "Treasures Street , Sumeru",
-        "markdown": "\u25c0Treasures Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_Street\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Treasures Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_Street\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Obtain the Wonders of the World achievement Principia Arithmetica",
@@ -42,24 +42,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Garcia",
-            "markdown": "Talk to \u25c0Garcia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Garcia\u25b7"
-        },
-        {
-            "plaintext": "Talk to Garcia",
-            "markdown": "Talk to Garcia"
-        },
-        {
-            "plaintext": "Talk to Sheikh Zubayr",
-            "markdown": "Talk to \u25c0Sheikh Zubayr\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sheikh_Zubayr\u25b7"
-        },
-        {
-            "plaintext": "Talk to Garcia",
-            "markdown": "Talk to Garcia"
-        },
-        {
-            "plaintext": "Go back to the caf\u00e9, now!",
-            "markdown": "Go back to the caf\u00e9, now!"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Garcia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Garcia\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Garcia"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Sheikh Zubayr\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sheikh_Zubayr\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Garcia"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back to the caf\u00e9, now!"
+                }
+            ]
         }
     ],
     "dialogue": true

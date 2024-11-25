@@ -1,0 +1,88 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Adventure in the Land of Mists",
+    "url": "https://genshin-impact.fandom.com/wiki/Adventure_in_the_Land_of_Mists",
+    "starting_location": {
+        "text": "\u25c0Vision Serpent's Sanctum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vision_Serpent%27s_Sanctum\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Pyrophosphorite",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Pyrophosphorite",
+            "Image": "Item_Pyrophosphorite.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "150",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "25,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Follow Coco's guidance to find the Altar of Primal Flame"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Bona"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the area around the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to where Bona is"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the ambushing monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:tenebrous_mimiflora> \u25c0Tenebrous Mimiflora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tenebrous_Mimiflora\u25b7 \u00d71",
+                            "img": {
+                                "tenebrous_mimiflora": "Tenebrous_Mimiflora_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Check on the mechanism-like object"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the mechanism"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Words Worth Their Weight in Mora",
     "url": "https://genshin-impact.fandom.com/wiki/Words_Worth_Their_Weight_in_Mora",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete A New Star Approaches",
@@ -56,26 +56,34 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Jifang",
-            "markdown": "Talk to \u25c0Jifang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jifang\u25b7"
-        },
-        {
-            "plaintext": "Help Jifang deliver the book (0/2)",
-            "markdown": "Help Jifang deliver the book (0/2)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Deliver Verses of Equilibrium to Uncle Tian",
-                    "markdown": "Deliver \u25c0Verses of Equilibrium\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Verses_of_Equilibrium\u25b7 to \u25c0Uncle Tian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_Tian\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Jifang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jifang\u25b7"
                 },
                 {
-                    "plaintext": "Deliver Rex Incognito (IV) to Gentry De'an",
-                    "markdown": "Deliver \u25c0Rex Incognito (IV)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rex_Incognito_(IV)\u25b7 to \u25c0Gentry De'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gentry_De%27an\u25b7"
+                    "tag": "li",
+                    "text": "Help Jifang deliver the book (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Deliver \u25c0Verses of Equilibrium\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Verses_of_Equilibrium\u25b7 to \u25c0Uncle Tian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_Tian\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Deliver \u25c0Rex Incognito (IV)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rex_Incognito_(IV)\u25b7 to \u25c0Gentry De'an\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gentry_De%27an\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Jifang"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Jifang",
-            "markdown": "Report back to Jifang"
         }
     ],
     "dialogue": true

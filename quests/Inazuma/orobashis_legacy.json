@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Orobashi's Legacy",
     "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy",
@@ -42,28 +43,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Orobashi's Legacy: Prologue",
-            "markdown": "\u25c0Orobashi's Legacy: Prologue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Prologue\u25b7"
-        },
-        {
-            "plaintext": "Orobashi's Legacy: Part I",
-            "markdown": "\u25c0Orobashi's Legacy: Part I\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_I\u25b7"
-        },
-        {
-            "plaintext": "Orobashi's Legacy: Part II",
-            "markdown": "\u25c0Orobashi's Legacy: Part II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_II\u25b7"
-        },
-        {
-            "plaintext": "Orobashi's Legacy: Part III",
-            "markdown": "\u25c0Orobashi's Legacy: Part III\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_III\u25b7"
-        },
-        {
-            "plaintext": "Orobashi's Legacy: Part IV",
-            "markdown": "\u25c0Orobashi's Legacy: Part IV\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_IV\u25b7"
-        },
-        {
-            "plaintext": "Orobashi's Legacy: Part V",
-            "markdown": "\u25c0Orobashi's Legacy: Part V\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_V\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Orobashi's Legacy: Prologue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Prologue\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Orobashi's Legacy: Part I\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_I\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Orobashi's Legacy: Part II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_II\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Orobashi's Legacy: Part III\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_III\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Orobashi's Legacy: Part IV\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_IV\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Orobashi's Legacy: Part V\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy:_Part_V\u25b7"
+                }
+            ]
         }
     ]
 }

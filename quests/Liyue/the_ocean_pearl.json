@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Ocean Pearl",
     "url": "https://genshin-impact.fandom.com/wiki/The_Ocean_Pearl",
     "starting_location": {
-        "plaintext": "Sea of Clouds , Liyue",
-        "markdown": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,82 +39,96 @@
     ],
     "steps": [
         {
-            "plaintext": "Demand an invitation from those aboard the ship",
-            "markdown": "Demand an invitation from those aboard the ship"
-        },
-        {
-            "plaintext": "Talk to Luoxia",
-            "markdown": "Talk to \u25c0Luoxia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luoxia\u25b7"
-        },
-        {
-            "plaintext": "Demand an invitation letter from those aboard the ship",
-            "markdown": "Demand an invitation letter from those aboard the ship"
-        },
-        {
-            "plaintext": "The following steps are concurrent:",
-            "markdown": "The following steps are concurrent:",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Demand an invitation letter from those aboard the ship",
-                    "markdown": "Demand an invitation letter from those aboard the ship"
+                    "tag": "li",
+                    "text": "Demand an invitation from those aboard the ship"
                 },
                 {
-                    "plaintext": "(Optional) Talk to Guan Hong",
-                    "markdown": "(Optional) Talk to \u25c0Guan Hong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guan_Hong\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Luoxia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luoxia\u25b7"
                 },
                 {
-                    "plaintext": "(Optional) Talk to Li the Ninth",
-                    "markdown": "(Optional) Talk to \u25c0Li the Ninth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Li_the_Ninth\u25b7"
+                    "tag": "li",
+                    "text": "Demand an invitation letter from those aboard the ship"
                 },
                 {
-                    "plaintext": "(Optional) Talk to Luo Feng",
-                    "markdown": "(Optional) Talk to \u25c0Luo Feng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luo_Feng\u25b7"
+                    "tag": "li",
+                    "text": "The following steps are concurrent:"
                 },
                 {
-                    "plaintext": "(Optional) Talk to Maksim",
-                    "markdown": "(Optional) Talk to \u25c0Maksim\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maksim\u25b7"
-                },
-                {
-                    "plaintext": "(Optional) Talk to Cui'er",
-                    "markdown": "(Optional) Talk to \u25c0Cui'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cui%27er\u25b7",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Talk to Guan Hong",
-                            "markdown": "Talk to Guan Hong"
+                            "tag": "li",
+                            "text": "Demand an invitation letter from those aboard the ship"
                         },
                         {
-                            "plaintext": "Give the letter to Chaoxi",
-                            "markdown": "Give the letter to \u25c0Chaoxi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chaoxi\u25b7"
+                            "tag": "li",
+                            "text": "(Optional) Talk to \u25c0Guan Hong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guan_Hong\u25b7"
                         },
                         {
-                            "plaintext": "Give Chaoxi's reply to Cui'er",
-                            "markdown": "Give Chaoxi's reply to Cui'er"
+                            "tag": "li",
+                            "text": "(Optional) Talk to \u25c0Li the Ninth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Li_the_Ninth\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "(Optional) Talk to \u25c0Luo Feng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luo_Feng\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "(Optional) Talk to \u25c0Maksim\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maksim\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "(Optional) Talk to \u25c0Cui'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cui%27er\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Talk to \u25c0Qiu'ge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiu%27ge\u25b7"
                         }
                     ]
                 },
                 {
-                    "plaintext": "Talk to Qiu'ge",
-                    "markdown": "Talk to \u25c0Qiu'ge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiu%27ge\u25b7",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Give 3 Qingxin flowers to Qiu'ge",
-                            "markdown": "Give 3 \u25c0Qingxin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingxin\u25b7 flowers to Qiu'ge"
+                            "tag": "li",
+                            "text": "Talk to Guan Hong"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Give the letter to \u25c0Chaoxi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chaoxi\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Give Chaoxi's reply to Cui'er"
                         }
                     ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Give 3 \u25c0Qingxin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingxin\u25b7 flowers to Qiu'ge"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Qiu'ge"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Luoxia"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Pinghai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pinghai\u25b7 and return to Liyue Harbor"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Qiu'ge",
-            "markdown": "Talk to Qiu'ge"
-        },
-        {
-            "plaintext": "Talk to Luoxia",
-            "markdown": "Talk to Luoxia"
-        },
-        {
-            "plaintext": "Talk to Pinghai and return to Liyue Harbor",
-            "markdown": "Talk to \u25c0Pinghai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pinghai\u25b7 and return to Liyue Harbor"
         }
     ],
     "dialogue": true

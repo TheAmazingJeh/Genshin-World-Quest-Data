@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Within the Depths of Erinnyes",
     "url": "https://genshin-impact.fandom.com/wiki/Within_the_Depths_of_Erinnyes",
     "starting_location": {
-        "plaintext": "Marcotte Station , Fontaine",
-        "markdown": "\u25c0Marcotte Station\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marcotte_Station\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Marcotte Station\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Marcotte_Station\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -18,89 +18,103 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the square",
-            "markdown": "Go to the square"
-        },
-        {
-            "plaintext": "Insert the Waterdrop Keys [sic] into the statue (0/3)",
-            "markdown": "Insert the Waterdrop Keys [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] into the statue (0/3)"
-        },
-        {
-            "plaintext": "Enter the secret passage under the square",
-            "markdown": "Enter the secret passage under the square"
-        },
-        {
-            "plaintext": "Go deeper into the passage",
-            "markdown": "Go deeper into the passage"
-        },
-        {
-            "plaintext": "Cleanse the filth near the \"root\"",
-            "markdown": "Cleanse the filth near the \"root\"",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Defeat the Root-Consuming Tumor",
-                    "markdown": "Defeat the \u25c0Root-Consuming Tumor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Root-Consuming_Tumor\u25b7"
+                    "tag": "li",
+                    "text": "Go to the square"
                 },
                 {
-                    "plaintext": "Thundercraven Rifthound Whelp x4",
-                    "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x4",
-                    "img": {
-                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Repel the Rifthounds",
-            "markdown": "Repel the \u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthound\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Wave 1:  Thundercraven Rifthound Whelp x3",
-                    "markdown": "Wave 1: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x3",
-                    "img": {
-                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Insert the Waterdrop Keys [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] into the statue (0/3)"
                 },
                 {
-                    "plaintext": "Wave 2:  Thundercraven Rifthound Whelp x4",
-                    "markdown": "Wave 2: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x4",
-                    "img": {
-                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Enter the secret passage under the square"
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Go deeper into the passage"
+                },
+                {
+                    "tag": "li",
+                    "text": "Cleanse the filth near the \"root\""
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Rockfond Rifthound x2",
-                            "markdown": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 x2",
-                            "img": {
-                                "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
-                            }
+                            "tag": "li",
+                            "text": "Defeat the \u25c0Root-Consuming Tumor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Root-Consuming_Tumor\u25b7"
                         },
                         {
-                            "plaintext": "Thundercraven Rifthound Whelp x2",
-                            "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d74",
                             "img": {
                                 "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Repel the \u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthound\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d73",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d74",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 \u00d72",
+                            "img": {
+                                "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d72",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go with the flow..."
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go deeper into the passage"
                 }
             ]
-        },
-        {
-            "plaintext": "Go with the flow...",
-            "markdown": "Go with the flow..."
-        },
-        {
-            "plaintext": "Talk to Paimon",
-            "markdown": "Talk to \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7"
-        },
-        {
-            "plaintext": "Go deeper into the passage",
-            "markdown": "Go deeper into the passage"
         }
     ],
     "dialogue": true

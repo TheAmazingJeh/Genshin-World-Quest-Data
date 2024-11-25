@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Provisional Arrangement",
     "url": "https://genshin-impact.fandom.com/wiki/A_Provisional_Arrangement",
     "starting_location": {
-        "plaintext": "Wangshu Inn , Liyue",
-        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,18 +39,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Ride the elevator",
-            "markdown": "Ride the elevator",
-            "substeps": [
-                {
-                    "plaintext": "You acquire Traveling Merchant's Package",
-                    "markdown": "You acquire \u25c0Traveling Merchant's Package\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveling_Merchant%27s_Package\u25b7"
-                }
-            ]
+            "tag": "p",
+            "text": "Talk to \u25c0Zhen Qiang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhen_Qiang\u25b7 below Wangshu Inn in Dihua Marsh to start the quest."
         },
         {
-            "plaintext": "Talk to Huai'an",
-            "markdown": "Talk to Huai'an"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Ride the elevator"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You acquire \u25c0Traveling Merchant's Package\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveling_Merchant%27s_Package\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Huai'an"
+                }
+            ]
         }
     ],
     "dialogue": true

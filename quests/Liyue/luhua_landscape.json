@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Luhua Landscape",
     "url": "https://genshin-impact.fandom.com/wiki/Luhua_Landscape",
     "starting_location": {
-        "plaintext": "Luhua Pool , Liyue",
-        "markdown": "\u25c0Luhua Pool\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luhua_Pool\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Luhua Pool\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luhua_Pool\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,66 +46,87 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for Vermeer's paintbrushes and paints (0/2)",
-            "markdown": "Look for Vermeer's paintbrushes and paints (0/2)",
-            "substeps": [
-                {
-                    "plaintext": "See the Gameplay Notes section for locations.",
-                    "markdown": "See the \u25c0Gameplay Notes\u25b6\u25c1#Gameplay_Notes\u25b7 section for locations."
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Vermeer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vermeer\u25b7 near \u25c0Luhua Pool\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luhua_Pool\u25b7."
         },
         {
-            "plaintext": "Pass the painting tools to Vermeer",
-            "markdown": "Pass the painting tools to Vermeer"
-        },
-        {
-            "plaintext": "Look for another Strange Stone",
-            "markdown": "Look for another \u25c0Strange Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Stone\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Investigate all marked glowing indicators in the terrace ponds to find the other \"strange stone.\"",
-                    "markdown": "Investigate all marked glowing indicators in the terrace ponds to find the other \"strange stone.\""
+                    "tag": "li",
+                    "text": "Look for Vermeer's paintbrushes and paints (0/2)"
                 },
                 {
-                    "plaintext": "It is possible to find the strange stones before reaching this step, in which case this step will be skipped.",
-                    "markdown": "It is possible to find the strange stones before reaching this step, in which case this step will be skipped."
-                }
-            ]
-        },
-        {
-            "plaintext": "Unravel the secret behind Luhua Pool",
-            "markdown": "Unravel the secret behind Luhua Pool",
-            "substeps": [
-                {
-                    "plaintext": "Climb up to the heads of the two giant statues overlooking Luhua Pool and insert a stone into each of them.",
-                    "markdown": "Climb up to the heads of the two giant statues overlooking Luhua Pool and insert a stone into each of them."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "See the \u25c0Gameplay Notes\u25b6\u25c1#Gameplay_Notes\u25b7 section for locations."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Use a Geo Elemental Skill to activate the monument at the center of the ruin entrance.",
-                    "markdown": "Use a \u25c0Geo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo\u25b7 Elemental Skill to activate the monument at the center of the ruin entrance."
+                    "tag": "li",
+                    "text": "Pass the painting tools to Vermeer"
                 },
                 {
-                    "plaintext": "Defeat the 3 Abyss Mages (Cryo, Pyro, and Hydro) that spawn within 90 seconds.",
-                    "markdown": "Defeat the 3 \u25c0Abyss Mages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Mages\u25b7 (Cryo, Pyro, and Hydro) that spawn within 90 seconds."
-                }
-            ]
-        },
-        {
-            "plaintext": "Search the ruins",
-            "markdown": "Search the ruins",
-            "substeps": [
-                {
-                    "plaintext": "1 Luxurious Chest and 2 Exquisite Chests are in the ruins.",
-                    "markdown": "1 Luxurious Chest and 2 Exquisite Chests are in the ruins."
+                    "tag": "li",
+                    "text": "Look for another \u25c0Strange Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Stone\u25b7"
                 },
                 {
-                    "plaintext": "The quest is considered done after opening the Luxurious Chest.",
-                    "markdown": "The quest is considered done after opening the Luxurious Chest."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Investigate all marked glowing indicators in the terrace ponds to find the other \"strange stone.\""
+                        },
+                        {
+                            "tag": "li",
+                            "text": "It is possible to find the strange stones before reaching this step, in which case this step will be skipped."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Two Spiders can be found on either end of the ruins, covering the Exquisite Chests.",
-                    "markdown": "Two \u25c0Spiders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spider\u25b7 can be found on either end of the ruins, covering the Exquisite Chests."
+                    "tag": "li",
+                    "text": "Unravel the secret behind Luhua Pool"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Climb up to the heads of the two giant statues overlooking Luhua Pool and insert a stone into each of them."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use a \u25c0Geo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo\u25b7 Elemental Skill to activate the monument at the center of the ruin entrance."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Defeat the 3 \u25c0Abyss Mages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Mages\u25b7 (Cryo, Pyro, and Hydro) that spawn within 90 seconds."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Search the ruins"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "1 Luxurious Chest and 2 Exquisite Chests are in the ruins."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The quest is considered done after opening the Luxurious Chest."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Two \u25c0Spiders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spider\u25b7 can be found on either end of the ruins, covering the Exquisite Chests."
+                        }
+                    ]
                 }
             ]
         }

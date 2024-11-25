@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Return of the Jade Chamber?",
     "url": "https://genshin-impact.fandom.com/wiki/Return_of_the_Jade_Chamber%3F",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,46 +53,54 @@
     ],
     "steps": [
         {
-            "plaintext": "Start the quest by talking to Kun",
-            "markdown": "Start the quest by talking to \u25c0Kun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kun\u25b7"
-        },
-        {
-            "plaintext": "Talk to Jifang",
-            "markdown": "Talk to \u25c0Jifang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jifang\u25b7"
-        },
-        {
-            "plaintext": "Talk to Qingzhou",
-            "markdown": "Talk to \u25c0Qingzhou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingzhou\u25b7"
-        },
-        {
-            "plaintext": "Give a serving of Delicious Triple-Layered Consomm\u00e9 to Qingzhou",
-            "markdown": "Give a serving of \u25c0Delicious Triple-Layered Consomm\u00e9\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Triple-Layered_Consomm%C3%A9\u25b7 to Qingzhou"
-        },
-        {
-            "plaintext": "Talk to Qingzhou",
-            "markdown": "Talk to Qingzhou",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain Meadow of Gems",
-                    "markdown": "Obtain \u25c0Meadow of Gems\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Meadow_of_Gems\u25b7"
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Kun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kun\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Jifang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jifang\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Qingzhou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingzhou\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give a serving of \u25c0Delicious Triple-Layered Consomm\u00e9\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Triple-Layered_Consomm%C3%A9\u25b7 to Qingzhou"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Qingzhou"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Meadow of Gems\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Meadow_of_Gems\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Master Lu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Master_Lu\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Chase the boars away"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Master Lu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Baiwen\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Baiwen\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Master Lu",
-            "markdown": "Talk to \u25c0Master Lu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Master_Lu\u25b7"
-        },
-        {
-            "plaintext": "Chase the boars away",
-            "markdown": "Chase the boars away"
-        },
-        {
-            "plaintext": "Report back to Master Lu",
-            "markdown": "Report back to Master Lu"
-        },
-        {
-            "plaintext": "Report back to Baiwen",
-            "markdown": "Report back to \u25c0Baiwen\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Baiwen\u25b7"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "On the Stage, Behind the Stage",
     "url": "https://genshin-impact.fandom.com/wiki/On_the_Stage%2C_Behind_the_Stage",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Interlude Chapter : Act I - The Crane Returns on the Wind",
@@ -49,54 +49,62 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Liu Su",
-            "markdown": "Talk to \u25c0Liu Su\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tea_Master_Liu_Su\u25b7"
-        },
-        {
-            "plaintext": "Head to Qingce Village and look for Master Lu",
-            "markdown": "Head to \u25c0Qingce Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingce_Village\u25b7 and look for \u25c0Master Lu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Master_Lu\u25b7"
-        },
-        {
-            "plaintext": "Talk to Master Lu",
-            "markdown": "Talk to Master Lu"
-        },
-        {
-            "plaintext": "Collect furniture materials",
-            "markdown": "Collect furniture materials",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Pine Wood x3,  Red Dye",
-                    "markdown": "<img:pine_wood> \u25c0Pine Wood\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pine_Wood\u25b7 x3, <img:red_dye> \u25c0Red Dye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Red_Dye\u25b7",
-                    "img": {
-                        "pine_wood": "Item_Pine_Wood.png",
-                        "red_dye": "Item_Red_Dye.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to \u25c0Liu Su\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tea_Master_Liu_Su\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to \u25c0Qingce Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingce_Village\u25b7 and look for \u25c0Master Lu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Master_Lu\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Master Lu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect furniture materials"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:pine_wood> \u25c0Pine Wood\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pine_Wood\u25b7 \u00d73, <img:red_dye> \u25c0Red Dye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Red_Dye\u25b7",
+                            "img": {
+                                "pine_wood": "Item_Pine_Wood.png",
+                                "red_dye": "Item_Red_Dye.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until the following day (18:00 \u2013 21:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to \u25c0Heyu Tea House\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Heyu_Tea_House\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Brew tea with \u25c0Yun Jin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yun_Jin\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Fan Er'ye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fan_Er%27ye\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the warehouse at the dock and obtain the wooden planks"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the planks to \u25c0Dayu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dayu\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Wait until the following day (18:00 \u2013 21:00)",
-            "markdown": "Wait until the following day (18:00 \u2013 21:00)"
-        },
-        {
-            "plaintext": "Head to Heyu Tea House",
-            "markdown": "Head to \u25c0Heyu Tea House\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Heyu_Tea_House\u25b7"
-        },
-        {
-            "plaintext": "Brew tea with Yun Jin",
-            "markdown": "Brew tea with \u25c0Yun Jin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yun_Jin\u25b7"
-        },
-        {
-            "plaintext": "Talk to Fan Er'ye",
-            "markdown": "Talk to \u25c0Fan Er'ye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fan_Er%27ye\u25b7"
-        },
-        {
-            "plaintext": "Go to the warehouse at the dock and obtain the wooden planks",
-            "markdown": "Go to the warehouse at the dock and obtain the wooden planks"
-        },
-        {
-            "plaintext": "Give the planks to Dayu",
-            "markdown": "Give the planks to \u25c0Dayu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dayu\u25b7"
         }
     ],
     "dialogue": true

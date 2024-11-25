@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scenes from Life in Meropide: Chit-Chat",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Chit-Chat",
     "starting_location": {
-        "plaintext": "Production Zone , Fontaine",
-        "markdown": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,12 +39,26 @@
     ],
     "steps": [
         {
-            "plaintext": "Negotiate with the person behind the door",
-            "markdown": "Negotiate with the person behind the door"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Nakul\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nakul\u25b7 on the south side of the dormitory block. This quest is unlocked during \u25c0Game of the Rich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Game_of_the_Rich\u25b7."
+                }
+            ]
         },
         {
-            "plaintext": "Talk to Nakul",
-            "markdown": "Talk to Nakul"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Negotiate with the person behind the door"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Nakul"
+                }
+            ]
         }
     ],
     "dialogue": true

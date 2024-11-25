@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Ritou Road",
     "url": "https://genshin-impact.fandom.com/wiki/The_Ritou_Road",
     "starting_location": {
-        "plaintext": "Ritou , Inazuma",
-        "markdown": "\u25c0Ritou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Ritou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan",
@@ -42,47 +42,55 @@
     ],
     "steps": [
         {
-            "plaintext": "Investigate the strange camp",
-            "markdown": "Investigate the strange camp"
-        },
-        {
-            "plaintext": "Hide next to the camp",
-            "markdown": "Hide next to the camp"
-        },
-        {
-            "plaintext": "Observe Harrison",
-            "markdown": "Observe Harrison"
-        },
-        {
-            "plaintext": "Defeat all the slimes",
-            "markdown": "Defeat all the slimes",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Electro Slime x3",
-                    "markdown": "<img:electro_slime> \u25c0Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Slime\u25b7 x3",
-                    "img": {
-                        "electro_slime": "Electro_Slime_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Investigate the strange camp"
                 },
                 {
-                    "plaintext": "Large Electro Slime x1",
-                    "markdown": "<img:large_electro_slime> \u25c0Large Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Electro_Slime\u25b7 x1",
-                    "img": {
-                        "large_electro_slime": "Large_Electro_Slime_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Hide next to the camp"
                 },
                 {
-                    "plaintext": "Mutant Electro Slime x1",
-                    "markdown": "<img:mutant_electro_slime> \u25c0Mutant Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mutant_Electro_Slime\u25b7 x1",
-                    "img": {
-                        "mutant_electro_slime": "Mutant_Electro_Slime_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Observe Harrison"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the slimes"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:electro_slime> \u25c0Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Slime\u25b7 \u00d73",
+                            "img": {
+                                "electro_slime": "Electro_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:large_electro_slime> \u25c0Large Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Electro_Slime\u25b7 \u00d71",
+                            "img": {
+                                "large_electro_slime": "Large_Electro_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:mutant_electro_slime> \u25c0Mutant Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mutant_Electro_Slime\u25b7 \u00d71",
+                            "img": {
+                                "mutant_electro_slime": "Mutant_Electro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Harrison"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Harrison",
-            "markdown": "Talk to Harrison"
         }
     ],
     "dialogue": true

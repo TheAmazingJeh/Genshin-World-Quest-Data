@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Yougou Cleansing",
     "url": "https://genshin-impact.fandom.com/wiki/Yougou_Cleansing",
     "starting_location": {
-        "plaintext": "Konda Village , Narukami Island , Inazuma",
-        "markdown": "\u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,28 +53,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Report back to Hanachirusato",
-            "markdown": "Report back to \u25c0Hanachirusato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hanachirusato\u25b7"
-        },
-        {
-            "plaintext": "Head to the opening at Mt. Yougou: The Depths and talk to Hanachirusato",
-            "markdown": "Head to the opening at \u25c0Mt. Yougou: The Depths\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Yougou:_The_Depths\u25b7 and talk to Hanachirusato"
-        },
-        {
-            "plaintext": "Jump in",
-            "markdown": "Jump in"
-        },
-        {
-            "plaintext": "Defeat Miasmic Tumor",
-            "markdown": "Defeat \u25c0Miasmic Tumor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Miasmic_Tumor%22\u25b7"
-        },
-        {
-            "plaintext": "Talk to Hanachirusato",
-            "markdown": "Talk to Hanachirusato"
-        },
-        {
-            "plaintext": "Pick up the mask",
-            "markdown": "Pick up \u25c0the mask\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mask_of_Memories\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Hanachirusato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hanachirusato\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the opening at \u25c0Mt. Yougou: The Depths\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Yougou:_The_Depths\u25b7 and talk to Hanachirusato"
+                },
+                {
+                    "tag": "li",
+                    "text": "Jump in"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat \u25c0Miasmic Tumor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Miasmic_Tumor%22\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Hanachirusato"
+                },
+                {
+                    "tag": "li",
+                    "text": "Pick up \u25c0the mask\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mask_of_Memories\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

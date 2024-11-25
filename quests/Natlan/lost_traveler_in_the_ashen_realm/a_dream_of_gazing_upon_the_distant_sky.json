@@ -1,0 +1,27 @@
+{
+    "version": "1.1",
+    "type": "act",
+    "name": "A Dream of Gazing Upon the Distant Sky",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Dream_of_Gazing_Upon_the_Distant_Sky",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Adventure in the Land of Mists\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventure_in_the_Land_of_Mists\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Palace of the Vision Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Palace_of_the_Vision_Serpent\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0To the Sky-Road\u25b6\u25c1https://genshin-impact.fandom.com/wiki/To_the_Sky-Road\u25b7"
+                }
+            ]
+        }
+    ]
+}

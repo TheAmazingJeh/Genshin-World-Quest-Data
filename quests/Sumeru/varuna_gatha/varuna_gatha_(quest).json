@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Varuna Gatha (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Varuna_Gatha_%28Quest%29",
     "starting_location": {
-        "plaintext": "Apam Woods , Sumeru",
-        "markdown": "\u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "The World of Aranara",
@@ -42,50 +42,62 @@
     ],
     "steps": [
         {
-            "plaintext": "Help the trapped Aranara",
-            "markdown": "Help the trapped Aranara"
+            "tag": "p",
+            "text": "Start the quest by approaching \u25c0Arapandu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapandu\u25b7, who is located southeast of \u25c0Yasna Monument\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yasna_Monument\u25b7, \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7. You must complete \u25c0The World of Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_World_of_Aranara\u25b7 quest first."
         },
         {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the Aranara"
-        },
-        {
-            "plaintext": "Go to the vantage spot with Arapandu",
-            "markdown": "Go to the vantage spot with Arapandu"
-        },
-        {
-            "plaintext": "Defeat the Fungi in the trees (0/2)",
-            "markdown": "Defeat the Fungi in the trees (0/2)"
-        },
-        {
-            "plaintext": "Head to the rest stop",
-            "markdown": "Head to the rest stop"
-        },
-        {
-            "plaintext": "Talk to Arapandu",
-            "markdown": "Talk to Arapandu"
-        },
-        {
-            "plaintext": "Find the \"branch\" and \"leaves\" with Arapandu",
-            "markdown": "Find the \"branch\" and \"leaves\" with Arapandu",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Go east from the rest stop until you reach a series of Four-Leaf Sigils. Use them to quickly move up and northeast until you land on a ledge with a broken bridge. The \"branch\" is in a cave nearby.",
-                    "markdown": "Go east from the rest stop until you reach a series of \u25c0Four-Leaf Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Four-Leaf_Sigil\u25b7. Use them to quickly move up and northeast until you land on a ledge with a broken bridge. The \"branch\" is in a cave nearby."
+                    "tag": "li",
+                    "text": "Help the trapped Aranara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Aranara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the vantage spot with Arapandu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fungi in the trees (0/2)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the rest stop"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arapandu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the \"branch\" and \"leaves\" with Arapandu"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Go east from the rest stop until you reach a series of \u25c0Four-Leaf Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Four-Leaf_Sigil\u25b7. Use them to quickly move up and northeast until you land on a ledge with a broken bridge. The \"branch\" is in a cave nearby."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arapandu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Make the three \"leaves\" turn towards the \"branch\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arapandu"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Arapandu",
-            "markdown": "Talk to Arapandu"
-        },
-        {
-            "plaintext": "Make the three \"leaves\" turn towards the \"branch\"",
-            "markdown": "Make the three \"leaves\" turn towards the \"branch\""
-        },
-        {
-            "plaintext": "Talk to Arapandu",
-            "markdown": "Talk to Arapandu"
         }
     ],
     "dialogue": true

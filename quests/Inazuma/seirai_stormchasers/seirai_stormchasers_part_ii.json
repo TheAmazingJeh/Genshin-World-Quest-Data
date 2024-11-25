@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Seirai Stormchasers: Part II",
     "url": "https://genshin-impact.fandom.com/wiki/Seirai_Stormchasers%3A_Part_II",
     "starting_location": {
-        "plaintext": "Seirai Island , Inazuma",
-        "markdown": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,53 +39,64 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Warding Stone",
-            "markdown": "Go to the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7"
-        },
-        {
-            "plaintext": "Defeat all opponents",
-            "markdown": "Defeat all opponents",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Nobushi: Hitsukeban x1",
-                    "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x1",
-                    "img": {
-                        "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7"
                 },
                 {
-                    "plaintext": "Nobushi: Kikouban x1",
-                    "markdown": "<img:nobushi_kikouban> \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7 x1",
-                    "img": {
-                        "nobushi_kikouban": "Nobushi_Kikouban_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Defeat all opponents"
                 },
                 {
-                    "plaintext": "Kairagi: Dancing Thunder x1",
-                    "markdown": "<img:kairagi_dancing_thunder> \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 x1",
-                    "img": {
-                        "kairagi_dancing_thunder": "Kairagi_Dancing_Thunder_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Touch the paper charm hangars [sic] x/3",
-            "markdown": "Touch the paper charm hangars [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] x/3"
-        },
-        {
-            "plaintext": "Seal the Warding Stone",
-            "markdown": "Seal the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7",
-            "substeps": [
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 \u00d71",
+                            "img": {
+                                "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_kikouban> \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7 \u00d71",
+                            "img": {
+                                "nobushi_kikouban": "Nobushi_Kikouban_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:kairagi_dancing_thunder> \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 \u00d71",
+                            "img": {
+                                "kairagi_dancing_thunder": "Kairagi_Dancing_Thunder_Icon.png"
+                            }
+                        }
+                    ]
+                },
                 {
-                    "plaintext": "Rotate the stone to the correct position (rotate the top stone three times)",
-                    "markdown": "Rotate the stone to the correct position (rotate the top stone three times)"
+                    "tag": "li",
+                    "text": "Touch the paper charm hangars [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] x/3"
+                },
+                {
+                    "tag": "li",
+                    "text": "Seal the \u25c0Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warding_Stone\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Rotate the stone to the correct position (rotate the top stone three times)"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Etsuko",
-            "markdown": "Talk to \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
         }
     ],
     "dialogue": true

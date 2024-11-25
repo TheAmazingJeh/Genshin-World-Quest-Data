@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Chisato's Letter",
     "url": "https://genshin-impact.fandom.com/wiki/Chisato%27s_Letter",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan",
@@ -49,37 +49,48 @@
     ],
     "steps": [
         {
-            "plaintext": "Give the letter to Kujou Kamaji",
-            "markdown": "Give the letter to \u25c0Kujou Kamaji\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Kamaji\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Approach Sanada (optional)",
-                    "markdown": "Approach \u25c0Sanada\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sanada\u25b7 (optional)"
+                    "tag": "li",
+                    "text": "Give the letter to \u25c0Kujou Kamaji\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Kamaji\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Approach \u25c0Sanada\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sanada\u25b7 (optional)"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Find Kujou Kamaji"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Kiminami Restaurant to collect the snacks"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:travel_permit> \u25c0Travel Permit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Travel_Permit\u25b7, <img:kujou_kamajis_letter> \u25c0Kujou Kamaji's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Kamaji%27s_Letter\u25b7, and <img:snack_box> \u25c0Snack Box\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Snack_Box\u25b7",
+                            "img": {
+                                "travel_permit": "Item_Quest_Letter.png",
+                                "kujou_kamajis_letter": "Item_Sealed_Letter.png",
+                                "snack_box": "Item_Gift.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Hiiragi Chisato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hiiragi_Chisato\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Find Kujou Kamaji",
-            "markdown": "Find Kujou Kamaji"
-        },
-        {
-            "plaintext": "Go to Kiminami Restaurant to collect the snacks",
-            "markdown": "Go to Kiminami Restaurant to collect the snacks",
-            "substeps": [
-                {
-                    "plaintext": "Obtain  Travel Permit,  Kujou Kamaji's Letter, and  Snack Box",
-                    "markdown": "Obtain <img:travel_permit> \u25c0Travel Permit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Travel_Permit\u25b7, <img:kujou_kamajis_letter> \u25c0Kujou Kamaji's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Kamaji%27s_Letter\u25b7, and <img:snack_box> \u25c0Snack Box\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Snack_Box\u25b7",
-                    "img": {
-                        "travel_permit": "Item_Quest_Letter.png",
-                        "kujou_kamajis_letter": "Item_Sealed_Letter.png",
-                        "snack_box": "Item_Gift.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Report back to Hiiragi Chisato",
-            "markdown": "Report back to \u25c0Hiiragi Chisato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hiiragi_Chisato\u25b7"
         }
     ],
     "dialogue": true

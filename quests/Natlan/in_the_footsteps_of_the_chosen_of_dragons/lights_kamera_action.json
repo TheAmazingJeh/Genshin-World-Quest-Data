@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Lights, Kamera, Action!",
     "url": "https://genshin-impact.fandom.com/wiki/Lights%2C_Kamera%2C_Action%21",
     "starting_location": {
-        "plaintext": "Tequemecan Valley , Natlan",
-        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,36 +39,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Place the Wooden Barrel somewhere suitable",
-            "markdown": "Place the Wooden Barrel somewhere suitable"
-        },
-        {
-            "plaintext": "Place the Elemental Bait somewhere suitable",
-            "markdown": "Place the Elemental Bait somewhere suitable"
-        },
-        {
-            "plaintext": "Talk to Akatanga",
-            "markdown": "Talk to Akatanga"
-        },
-        {
-            "plaintext": "Wait for your Saurian companion to get in position",
-            "markdown": "Wait for your Saurian companion to get in position"
-        },
-        {
-            "plaintext": "Get into position at the designated spot",
-            "markdown": "Get into position at the designated spot"
-        },
-        {
-            "plaintext": "Get into position at the designated spot",
-            "markdown": "Get into position at the designated spot"
-        },
-        {
-            "plaintext": "Lure the antagonist near the barrel, and smash the barrel",
-            "markdown": "Lure the antagonist near the barrel, and smash the barrel"
-        },
-        {
-            "plaintext": "Talk to Akatanga",
-            "markdown": "Talk to Akatanga"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Place the Wooden Barrel somewhere suitable"
+                },
+                {
+                    "tag": "li",
+                    "text": "Place the Elemental Bait somewhere suitable"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Akatanga"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait for your Saurian companion to get in position"
+                },
+                {
+                    "tag": "li",
+                    "text": "Get into position at the designated spot"
+                },
+                {
+                    "tag": "li",
+                    "text": "Get into position at the designated spot"
+                },
+                {
+                    "tag": "li",
+                    "text": "Lure the antagonist near the barrel, and smash the barrel"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Akatanga"
+                }
+            ]
         }
     ],
     "dialogue": true

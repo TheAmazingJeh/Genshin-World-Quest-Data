@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Temple Inquiry",
     "url": "https://genshin-impact.fandom.com/wiki/Temple_Inquiry",
     "starting_location": {
-        "plaintext": "Evernight Temple , Enkanomiya , Inazuma",
-        "markdown": "\u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "The Subterranean Trials of Drake and Serpent",
@@ -21,23 +21,42 @@
     ],
     "steps": [
         {
-            "plaintext": "Activate the spirit's trial",
-            "markdown": "Activate the spirit's trial",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by going to the start location and using \u25c0Key Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_Sigil\u25b7 to activate the Seals. Aberaku will appear after the Seals have been activated. Talk to him to start the quest."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Defeat 3 opponents in 60 second(s)",
-                    "markdown": "Defeat 3 opponents in 60 second(s)",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Activate the spirit's trial"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Rockfond Rifthound x1",
-                            "markdown": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 x1",
+                            "tag": "li",
+                            "text": "Defeat 3 opponents in 60 second(s)"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will spawn after defeating the opponents."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 \u00d71",
                             "img": {
                                 "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Rockfond Rifthound Whelp x2",
-                            "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d72",
                             "img": {
                                 "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
                             }
@@ -45,14 +64,10 @@
                     ]
                 },
                 {
-                    "plaintext": "A Precious Chest will spawn after defeating the opponents.",
-                    "markdown": "A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will spawn after defeating the opponents."
+                    "tag": "li",
+                    "text": "Obtain the \u25c0offerings from the spirit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Offerings_of_the_Temple\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Obtain the offerings from the spirit",
-            "markdown": "Obtain the \u25c0offerings from the spirit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Offerings_of_the_Temple\u25b7"
         }
     ],
     "dialogue": true

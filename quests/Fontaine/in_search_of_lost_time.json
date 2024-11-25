@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "In Search of Lost Time",
     "url": "https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time",
     "starting_location": {
-        "plaintext": "New Fontaine Research Institute , Fontaine",
-        "markdown": "\u25c0New Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/New_Fontaine_Research_Institute\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0New Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/New_Fontaine_Research_Institute\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,73 +46,84 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Broglie",
-            "markdown": "Talk to \u25c0Broglie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Broglie\u25b7"
-        },
-        {
-            "plaintext": "Go to the central processing station",
-            "markdown": "Go to the central processing station"
-        },
-        {
-            "plaintext": "Talk to Broglie",
-            "markdown": "Talk to Broglie"
-        },
-        {
-            "plaintext": "Enter the central processing station",
-            "markdown": "Enter the central processing station"
-        },
-        {
-            "plaintext": "Examine the central processing station",
-            "markdown": "Examine the central processing station"
-        },
-        {
-            "plaintext": "Examine the central processing station",
-            "markdown": "Examine the central processing station"
-        },
-        {
-            "plaintext": "Chase down the Fatui commander",
-            "markdown": "Chase down the \u25c0Fatui commander\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Malinovskyi\u25b7"
-        },
-        {
-            "plaintext": "Defeat the Fatui commander",
-            "markdown": "Defeat the Fatui commander",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Malinovskyi \u2014 Quite Agile... For Some Reason x1",
-                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Malinovskyi \u2014 Quite Agile... For Some Reason\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Chase down the Fatui commander",
-            "markdown": "Chase down the Fatui commander"
-        },
-        {
-            "plaintext": "Defeat the Fatui again",
-            "markdown": "Defeat the Fatui again",
-            "substeps": [
-                {
-                    "plaintext": "Malinovskyi \u2014 Quite Agile... For Some Reason x1",
-                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Malinovskyi \u2014 Quite Agile... For Some Reason\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to \u25c0Broglie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Broglie\u25b7"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the central processing station"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Broglie"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the central processing station"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the central processing station"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the central processing station"
+                },
+                {
+                    "tag": "li",
+                    "text": "Chase down the \u25c0Fatui commander\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Malinovskyi\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fatui commander"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Malinovskyi \u2014 Quite Agile... For Some Reason\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Chase down the Fatui commander"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fatui again"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Malinovskyi \u2014 Quite Agile... For Some Reason\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Confront the Fatui commander"
                 }
             ]
-        },
-        {
-            "plaintext": "Confront the Fatui commander",
-            "markdown": "Confront the Fatui commander"
         }
     ],
     "dialogue": true

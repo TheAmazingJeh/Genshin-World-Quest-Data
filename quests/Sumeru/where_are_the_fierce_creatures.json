@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Where Are the Fierce Creatures?",
     "url": "https://genshin-impact.fandom.com/wiki/Where_Are_the_Fierce_Creatures%3F",
     "starting_location": {
-        "plaintext": "Lokapala Jungle , Sumeru",
-        "markdown": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Talk to Santon and kill creatures described by him",
@@ -49,33 +49,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Santon located south of the Palace of Alcazarzaray.",
-            "markdown": "Talk to \u25c0Santon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Santon\u25b7 located south of \u25c0the Palace of Alcazarzaray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Palace_of_Alcazarzaray\u25b7."
-        },
-        {
-            "plaintext": "Kill the 3 fierce creatures in any order",
-            "markdown": "Kill the 3 fierce creatures in any order",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Gator Raja \u2014 Oversized Gator: In a lake located east of Sumeru City.",
-                    "markdown": "Gator Raja \u2014 Oversized Gator: In a lake located east of \u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Santon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Santon\u25b7 located south of \u25c0the Palace of Alcazarzaray\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Palace_of_Alcazarzaray\u25b7."
                 },
                 {
-                    "plaintext": "Sumpter Beastlord \u2014 Giant Blockading Sumpter Beast: In a cave located southeast of the Spire of Solitary Enlightenment domain, and southwest of The Chasm's Statue of The Seven. Upon approaching its location, Paimon will remark that the Sumpter Beastlord should be nearby.",
-                    "markdown": "Sumpter Beastlord \u2014 Giant Blockading Sumpter Beast: In a cave located southeast of the \u25c0Spire of Solitary Enlightenment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spire_of_Solitary_Enlightenment\u25b7 domain, and southwest of \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7's \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7. Upon approaching its location, Paimon will remark that the Sumpter Beastlord should be nearby."
+                    "tag": "li",
+                    "text": "Kill the 3 fierce creatures in any order"
                 },
                 {
-                    "plaintext": "Rishboland Raja \u2014 Alleged Child-Napper, Rishboland Tiger: Place  Fowl x1 in the plate next to the Notice located southwest of the Steeple of Ignorance domain, then change the time to between 21:00 and 03:00.",
-                    "markdown": "Rishboland Raja \u2014 Alleged Child-Napper, Rishboland Tiger: Place <img:fowl> \u25c0Fowl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fowl\u25b7 x1 in the plate next to the Notice located southwest of the \u25c0Steeple of Ignorance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Steeple_of_Ignorance\u25b7 domain, then change the time to between 21:00 and 03:00.",
-                    "img": {
-                        "fowl": "Item_Fowl.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Gator Raja \u2014 Oversized Gator: In a lake located east of \u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Sumpter Beastlord \u2014 Giant Blockading Sumpter Beast: In a cave located southeast of the \u25c0Spire of Solitary Enlightenment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spire_of_Solitary_Enlightenment\u25b7 domain, and southwest of \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7's \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7. Upon approaching its location, Paimon will remark that the Sumpter Beastlord should be nearby."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Rishboland Raja \u2014 Alleged Child-Napper, Rishboland Tiger: Place <img:fowl> \u25c0Fowl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fowl\u25b7 \u00d71 in the plate next to the Notice located southwest of the \u25c0Steeple of Ignorance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Steeple_of_Ignorance\u25b7 domain, then change the time to between 21:00 and 03:00.",
+                            "img": {
+                                "fowl": "Item_Fowl.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Santon"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Santon",
-            "markdown": "Talk to Santon"
         }
     ],
     "dialogue": true

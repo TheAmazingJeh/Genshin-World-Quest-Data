@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Cost-Effective Hook",
     "url": "https://genshin-impact.fandom.com/wiki/Cost-Effective_Hook",
     "starting_location": {
-        "plaintext": "Port Ormos , Sumeru",
-        "markdown": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Supreme Hookshot? three times and wait for daily reset",
@@ -42,77 +42,94 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Helbet and Kayvan",
-            "markdown": "Talk to \u25c0Helbet\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Helbet\u25b7 and \u25c0Kayvan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kayvan\u25b7"
-        },
-        {
-            "plaintext": "Look for the materials that Kayvan needs (0/3)",
-            "markdown": "Look for the materials that Kayvan needs (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Defeat  Whirling Pyro Fungus x3",
-                    "markdown": "Defeat <img:whirling_pyro_fungus> \u25c0Whirling Pyro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whirling_Pyro_Fungus\u25b7 x3",
-                    "img": {
-                        "whirling_pyro_fungus": "Whirling_Pyro_Fungus_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to \u25c0Helbet\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Helbet\u25b7 and \u25c0Kayvan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kayvan\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the materials that Kayvan needs (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat <img:whirling_pyro_fungus> \u25c0Whirling Pyro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whirling_Pyro_Fungus\u25b7 \u00d73",
+                            "img": {
+                                "whirling_pyro_fungus": "Whirling_Pyro_Fungus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the bait materials to Kayvan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the materials that Kayvan needs"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat <img:stretchy_anemo_fungus> \u25c0Stretchy Anemo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Anemo_Fungus\u25b7 \u00d73 and <img:winged_dendroshroom> \u25c0Winged Dendroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Dendroshroom\u25b7",
+                            "img": {
+                                "stretchy_anemo_fungus": "Stretchy_Anemo_Fungus_Icon.png",
+                                "winged_dendroshroom": "Winged_Dendroshroom_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the bait materials to Kayvan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the attacking monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 \u00d74",
+                            "img": {
+                                "hydro_slime": "Hydro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Helbet and Kayvan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the materials that Kayvan needs (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat the <img:pyro_whopperflower> \u25c0Pyro Whopperflower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Whopperflower\u25b7 to obtain the Zaytun Peach northwest of \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7",
+                            "img": {
+                                "pyro_whopperflower": "Pyro_Whopperflower_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the bait materials to Kayvan"
                 }
             ]
-        },
-        {
-            "plaintext": "Give the bait materials to Kayvan",
-            "markdown": "Give the bait materials to Kayvan"
-        },
-        {
-            "plaintext": "Look for the materials that Kayvan needs",
-            "markdown": "Look for the materials that Kayvan needs",
-            "substeps": [
-                {
-                    "plaintext": "Defeat  Stretchy Anemo Fungus x3 and  Winged Dendroshroom",
-                    "markdown": "Defeat <img:stretchy_anemo_fungus> \u25c0Stretchy Anemo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stretchy_Anemo_Fungus\u25b7 x3 and <img:winged_dendroshroom> \u25c0Winged Dendroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Dendroshroom\u25b7",
-                    "img": {
-                        "stretchy_anemo_fungus": "Stretchy_Anemo_Fungus_Icon.png",
-                        "winged_dendroshroom": "Winged_Dendroshroom_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Give the bait materials to Kayvan",
-            "markdown": "Give the bait materials to Kayvan"
-        },
-        {
-            "plaintext": "Defeat the attacking monsters",
-            "markdown": "Defeat the attacking monsters",
-            "substeps": [
-                {
-                    "plaintext": "Hydro Slime x4",
-                    "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x4",
-                    "img": {
-                        "hydro_slime": "Hydro_Slime_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Helbet and Kayvan",
-            "markdown": "Talk to Helbet and Kayvan"
-        },
-        {
-            "plaintext": "Look for the materials that Kayvan needs (0/3)",
-            "markdown": "Look for the materials that Kayvan needs (0/3)",
-            "substeps": [
-                {
-                    "plaintext": "Defeat the  Pyro Whopperflower to obtain the Zaytun Peach northwest of Vimara Village",
-                    "markdown": "Defeat the <img:pyro_whopperflower> \u25c0Pyro Whopperflower\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Whopperflower\u25b7 to obtain the Zaytun Peach northwest of \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7",
-                    "img": {
-                        "pyro_whopperflower": "Pyro_Whopperflower_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Give the bait materials to Kayvan",
-            "markdown": "Give the bait materials to Kayvan"
         }
     ],
     "dialogue": true

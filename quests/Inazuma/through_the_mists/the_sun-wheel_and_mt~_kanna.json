@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Sun-Wheel and Mt. Kanna",
     "url": "https://genshin-impact.fandom.com/wiki/The_Sun-Wheel_and_Mt._Kanna",
     "starting_location": {
-        "plaintext": "Tsurumi Island , Inazuma",
-        "markdown": "\u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,69 +53,90 @@
     ],
     "steps": [
         {
-            "plaintext": "Travel to Tsurumi Island",
-            "markdown": "Travel to Tsurumi Island",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Approach the marked location from Tsurumi Island's Statue of The Seven. Fog will prevent players from traveling into the heart of the island.",
-                    "markdown": "Approach the marked location from Tsurumi Island's \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7. \u25c0Fog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fog\u25b7 will prevent players from traveling into the heart of the island."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Kama",
-            "markdown": "Talk to \u25c0Kama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kama\u25b7"
-        },
-        {
-            "plaintext": "Travel to Tsurumi Island",
-            "markdown": "Travel to Tsurumi Island",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Travel to Tsurumi Island"
+                },
                 {
-                    "plaintext": "Pass through the large gate. This clears the red fog over Tsurumi Island and allows access to the Teleport Waypoints in the heart of the island.",
-                    "markdown": "Pass through the large gate. This clears the red fog over Tsurumi Island and allows access to the Teleport Waypoints in the heart of the island."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to Wakukau Shoal",
-            "markdown": "Go to \u25c0Wakukau Shoal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wakukau_Shoal\u25b7"
-        },
-        {
-            "plaintext": "Use the feather",
-            "markdown": "Use \u25c0the feather\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peculiar_Pinion\u25b7"
-        },
-        {
-            "plaintext": "Defeat opponents",
-            "markdown": "Defeat opponents",
-            "substeps": [
-                {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Cryo Hilichurl Shooter x1",
-                            "markdown": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 x1",
+                            "tag": "li",
+                            "text": "Approach the marked location from Tsurumi Island's \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7. \u25c0Fog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fog\u25b7 will prevent players from traveling into the heart of the island."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Kama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kama\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Travel to Tsurumi Island"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Pass through the large gate. This clears the red fog over Tsurumi Island and allows access to the Teleport Waypoints in the heart of the island."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Wakukau Shoal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wakukau_Shoal\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use \u25c0the feather\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peculiar_Pinion\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d71",
                             "img": {
                                 "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Electro Hilichurl Shooter x1",
-                            "markdown": "<img:electro_hilichurl_shooter> \u25c0Electro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Hilichurl_Shooter\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:electro_hilichurl_shooter> \u25c0Electro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Hilichurl_Shooter\u25b7 \u00d71",
                             "img": {
                                 "electro_hilichurl_shooter": "Electro_Hilichurl_Shooter_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Wooden Shield Hilichurl Guard x1",
-                            "markdown": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 \u00d71",
                             "img": {
                                 "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hilichurl Fighter x1",
-                            "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 \u00d71",
                             "img": {
                                 "hilichurl_fighter": "Hilichurl_Icon.png"
                             }
@@ -123,50 +144,59 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Thunderhelm Lawachurl x1",
-                            "markdown": "<img:thunderhelm_lawachurl> \u25c0Thunderhelm Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunderhelm_Lawachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:thunderhelm_lawachurl> \u25c0Thunderhelm Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunderhelm_Lawachurl\u25b7 \u00d71",
                             "img": {
                                 "thunderhelm_lawachurl": "Thunderhelm_Lawachurl_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Touch the feather that suddenly appeared",
-            "markdown": "Touch the feather that suddenly appeared"
-        },
-        {
-            "plaintext": "Go to Oina Beach",
-            "markdown": "Go to \u25c0Oina Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oina_Beach\u25b7"
-        },
-        {
-            "plaintext": "Use the feather",
-            "markdown": "Use the feather"
-        },
-        {
-            "plaintext": "Defeat opponents",
-            "markdown": "Defeat opponents",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Touch the feather that suddenly appeared"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Oina Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oina_Beach\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the feather"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Ruin Cruiser x1",
-                            "markdown": "<img:ruin_cruiser> \u25c0Ruin Cruiser\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Cruiser\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:ruin_cruiser> \u25c0Ruin Cruiser\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Cruiser\u25b7 \u00d71",
                             "img": {
                                 "ruin_cruiser": "Ruin_Cruiser_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Ruin Destroyer x1",
-                            "markdown": "<img:ruin_destroyer> \u25c0Ruin Destroyer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Destroyer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:ruin_destroyer> \u25c0Ruin Destroyer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Destroyer\u25b7 \u00d71",
                             "img": {
                                 "ruin_destroyer": "Ruin_Destroyer_Icon.png"
                             }
@@ -174,39 +204,48 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Ruin Guard x1",
-                            "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 \u00d71",
                             "img": {
                                 "ruin_guard": "Ruin_Guard_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Touch the feather",
-            "markdown": "Touch the feather"
-        },
-        {
-            "plaintext": "Go to the Autake Plains",
-            "markdown": "Go to the \u25c0Autake Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Plains\u25b7"
-        },
-        {
-            "plaintext": "Defeat opponents",
-            "markdown": "Defeat opponents",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Touch the feather"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Autake Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Plains\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Thundercraven Rifthound Whelp x2",
-                            "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d72",
                             "img": {
                                 "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
                             }
@@ -214,84 +253,86 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Thundercraven Rifthound x1",
-                            "markdown": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 \u00d71",
                             "img": {
                                 "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Use the feather",
-            "markdown": "Use the feather"
-        },
-        {
-            "plaintext": "Touch the feather",
-            "markdown": "Touch the feather"
-        },
-        {
-            "plaintext": "Go to Mt. Kanna",
-            "markdown": "Go to \u25c0Mt. Kanna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Kanna\u25b7"
-        },
-        {
-            "plaintext": "Investigate the altar",
-            "markdown": "Investigate the altar"
-        },
-        {
-            "plaintext": "Defeat the Thunder Manifestation",
-            "markdown": "Defeat the \u25c0Thunder Manifestation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Manifestation\u25b7",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Thunder Manifestation \u2014 Coagulated Millennial Regret",
-                    "markdown": "<img:thunder_manifestation> \u25c0Thunder Manifestation \u2014 Coagulated Millennial Regret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Manifestation\u25b7",
-                    "img": {
-                        "thunder_manifestation": "Thunder_Manifestation_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Use the feather"
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the feather"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Mt. Kanna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Kanna\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the altar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Thunder Manifestation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Manifestation\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thunder_manifestation> \u25c0Thunder Manifestation \u2014 Coagulated Millennial Regret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Manifestation\u25b7",
+                            "img": {
+                                "thunder_manifestation": "Thunder_Manifestation_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the feather"
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the feather"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ruu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruu\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to Mt. Kanna"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the altar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ruu at the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Sumida\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Kiminami Restaurant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kiminami_Restaurant\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Use the feather",
-            "markdown": "Use the feather"
-        },
-        {
-            "plaintext": "Touch the feather",
-            "markdown": "Touch the feather"
-        },
-        {
-            "plaintext": "Talk to Ruu",
-            "markdown": "Talk to \u25c0Ruu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruu\u25b7"
-        },
-        {
-            "plaintext": "Go to Seirai Island",
-            "markdown": "Go to \u25c0Seirai Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seirai_Island\u25b7"
-        },
-        {
-            "plaintext": "Return to Mt. Kanna",
-            "markdown": "Return to Mt. Kanna"
-        },
-        {
-            "plaintext": "Investigate the altar",
-            "markdown": "Investigate the altar"
-        },
-        {
-            "plaintext": "Talk to Ruu at the designated location",
-            "markdown": "Talk to Ruu at the designated location"
-        },
-        {
-            "plaintext": "Report back to Sumida",
-            "markdown": "Report back to \u25c0Sumida\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida\u25b7"
-        },
-        {
-            "plaintext": "Go to Kiminami Restaurant",
-            "markdown": "Go to \u25c0Kiminami Restaurant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kiminami_Restaurant\u25b7"
         }
     ],
     "dialogue": true

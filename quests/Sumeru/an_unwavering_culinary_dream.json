@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "An Unwavering Culinary Dream",
     "url": "https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream",
@@ -63,30 +64,38 @@
     ],
     "steps": [
         {
-            "plaintext": "An Unwavering Culinary Dream",
-            "markdown": "\u25c0An Unwavering Culinary Dream\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream_(Quest)\u25b7"
-        },
-        {
-            "plaintext": "Cooking, the Flavor of Nature",
-            "markdown": "\u25c0Cooking, the Flavor of Nature\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Flavor_of_Nature\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Cooking, a Pleasant Memory",
-                    "markdown": "\u25c0Cooking, a Pleasant Memory\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_a_Pleasant_Memory\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0An Unwavering Culinary Dream\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Unwavering_Culinary_Dream_(Quest)\u25b7"
                 },
                 {
-                    "plaintext": "Cooking, the Aroma of Homecoming",
-                    "markdown": "\u25c0Cooking, the Aroma of Homecoming\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Aroma_of_Homecoming\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Cooking, the Flavor of Nature\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Flavor_of_Nature\u25b7"
                 },
                 {
-                    "plaintext": "Cooking, the Beauty of Sharing",
-                    "markdown": "\u25c0Cooking, the Beauty of Sharing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Beauty_of_Sharing\u25b7"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Cooking, a Pleasant Memory\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_a_Pleasant_Memory\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Cooking, the Aroma of Homecoming\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Aroma_of_Homecoming\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Cooking, the Beauty of Sharing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cooking,_the_Beauty_of_Sharing\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0A Delicacy for Nara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Delicacy_for_Nara\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "A Delicacy for Nara",
-            "markdown": "\u25c0A Delicacy for Nara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Delicacy_for_Nara\u25b7"
         }
     ]
 }

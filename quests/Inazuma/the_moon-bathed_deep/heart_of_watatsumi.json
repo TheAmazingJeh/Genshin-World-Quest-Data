@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "\"Heart of Watatsumi\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22Heart_of_Watatsumi%22",
     "starting_location": {
-        "plaintext": "Sangonomiya Shrine , Inazuma",
-        "markdown": "\u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,222 +60,260 @@
     ],
     "steps": [
         {
-            "plaintext": "Return to Sangonomiya Shrine and talk to Tsuyuko",
-            "markdown": "Return to \u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7 and talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7"
-        },
-        {
-            "plaintext": "Open the gate to the \"Heart of Watatsumi\"",
-            "markdown": "Open the gate to the \"Heart of Watatsumi\""
-        },
-        {
-            "plaintext": "Go to the \"Heart\"",
-            "markdown": "Go to the \"Heart\""
-        },
-        {
-            "plaintext": "Break the final seal",
-            "markdown": "Break the final seal",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "From the entrance, walk to the central pedestal for directional orientation. The southwest platform (nearest to entrance), northwest platform, and northeast platform can be completed in any order:",
-                    "markdown": "From the entrance, walk to the central pedestal for directional orientation. The southwest platform (nearest to entrance), northwest platform, and northeast platform can be completed in any order:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Return to \u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7 and talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the gate to the \"Heart of Watatsumi\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \"Heart\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Break the final seal"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Go to the platform",
-                            "markdown": "Go to the platform"
+                            "tag": "li",
+                            "text": "From the entrance, walk to the central pedestal for directional orientation. The southwest platform (nearest to entrance), northwest platform, and northeast platform can be completed in any order:"
                         },
                         {
-                            "plaintext": "Rotate the fish statues until they face each other",
-                            "markdown": "Rotate the fish statues until they face each other"
+                            "tag": "li",
+                            "text": "Go to the southeast platform and activate the Mysterious Pillar"
                         },
                         {
-                            "plaintext": "Defeat the Hydro Mimics that appear",
-                            "markdown": "Defeat the \u25c0Hydro Mimics\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimics\u25b7 that appear",
-                            "substeps": [
-                                {
-                                    "plaintext": "On southwest platform:",
-                                    "markdown": "On southwest platform:",
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Hydro Mimic Ferret x1",
-                                            "markdown": "<img:hydro_mimic_ferret> \u25c0Hydro Mimic Ferret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Ferret\u25b7 x1",
-                                            "img": {
-                                                "hydro_mimic_ferret": "Hydro_Mimic_Icon.png"
-                                            }
-                                        },
-                                        {
-                                            "plaintext": "Hydro Mimic Finch x1",
-                                            "markdown": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 x1",
-                                            "img": {
-                                                "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "plaintext": "On northwest platform:",
-                                    "markdown": "On northwest platform:",
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Hydro Mimic Finch x1",
-                                            "markdown": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 x1",
-                                            "img": {
-                                                "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
-                                            }
-                                        },
-                                        {
-                                            "plaintext": "Hydro Mimic Boar x1",
-                                            "markdown": "<img:hydro_mimic_boar> \u25c0Hydro Mimic Boar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Boar\u25b7 x1",
-                                            "img": {
-                                                "hydro_mimic_boar": "Hydro_Mimic_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                },
-                                {
-                                    "plaintext": "On northeast platform:",
-                                    "markdown": "On northeast platform:",
-                                    "substeps": [
-                                        {
-                                            "plaintext": "Hydro Mimic Frog x1",
-                                            "markdown": "<img:hydro_mimic_frog> \u25c0Hydro Mimic Frog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Frog\u25b7 x1",
-                                            "img": {
-                                                "hydro_mimic_frog": "Hydro_Mimic_Icon.png"
-                                            }
-                                        },
-                                        {
-                                            "plaintext": "Hydro Mimic Crab x1",
-                                            "markdown": "<img:hydro_mimic_crab> \u25c0Hydro Mimic Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crab\u25b7 x1",
-                                            "img": {
-                                                "hydro_mimic_crab": "Hydro_Mimic_Icon.png"
-                                            }
-                                        }
-                                    ]
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Rotate the fish statues until they face each other"
                         },
                         {
-                            "plaintext": "Activate the Mysterious Pillar",
-                            "markdown": "Activate the \u25c0Mysterious Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Pillar\u25b7",
-                            "substeps": [
-                                {
-                                    "plaintext": "If the player forgets to activate the Mysterious Pillar, they may realign the fish statues without fighting the Mimics again.",
-                                    "markdown": "If the player forgets to activate the Mysterious Pillar, they may realign the fish statues without fighting the Mimics again."
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Defeat 3 waves of Hydro Mimics that appear"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "If the player leaves the cave while there are undefeated Hydro Mimics, the Hydro Mimics will despawn. The player must \"re-solve\" the puzzle, this can be done by rotating one of the pieces in the last circle entirely around in a circle by interacting with it four times."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Go to the southeast platform and activate the Mysterious Pillar",
-                    "markdown": "Go to the southeast platform and activate the Mysterious Pillar"
-                },
-                {
-                    "plaintext": "Rotate the fish statues until they face each other",
-                    "markdown": "Rotate the fish statues until they face each other"
-                },
-                {
-                    "plaintext": "Defeat 3 waves of Hydro Mimics that appear",
-                    "markdown": "Defeat 3 waves of Hydro Mimics that appear",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Wave 1:",
-                            "markdown": "Wave 1:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Hydro Mimic Crane x3",
-                                    "markdown": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 x3",
-                                    "img": {
-                                        "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Hydro Mimic Ferret x1",
-                                    "markdown": "<img:hydro_mimic_ferret> \u25c0Hydro Mimic Ferret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Ferret\u25b7 x1",
-                                    "img": {
-                                        "hydro_mimic_ferret": "Hydro_Mimic_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Hydro Mimic Finch x1",
-                                    "markdown": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 x1",
-                                    "img": {
-                                        "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
-                                    }
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Go to the platform"
                         },
                         {
-                            "plaintext": "Wave 2:",
-                            "markdown": "Wave 2:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Hydro Mimic Crane x3",
-                                    "markdown": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 x3",
-                                    "img": {
-                                        "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Hydro Mimic Boar x1",
-                                    "markdown": "<img:hydro_mimic_boar> \u25c0Hydro Mimic Boar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Boar\u25b7 x1",
-                                    "img": {
-                                        "hydro_mimic_boar": "Hydro_Mimic_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Hydro Mimic Finch x1",
-                                    "markdown": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 x1",
-                                    "img": {
-                                        "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
-                                    }
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Rotate the fish statues until they face each other"
                         },
                         {
-                            "plaintext": "Wave 3:",
-                            "markdown": "Wave 3:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Hydro Mimic Crane x3",
-                                    "markdown": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 x3",
-                                    "img": {
-                                        "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Hydro Mimic Frog x1",
-                                    "markdown": "<img:hydro_mimic_frog> \u25c0Hydro Mimic Frog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Frog\u25b7 x1",
-                                    "img": {
-                                        "hydro_mimic_frog": "Hydro_Mimic_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Hydro Mimic Crab x1",
-                                    "markdown": "<img:hydro_mimic_crab> \u25c0Hydro Mimic Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crab\u25b7 x1",
-                                    "img": {
-                                        "hydro_mimic_crab": "Hydro_Mimic_Icon.png"
-                                    }
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Defeat the \u25c0Hydro Mimics\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimics\u25b7 that appear"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Activate the \u25c0Mysterious Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Pillar\u25b7"
                         }
                     ]
                 },
                 {
-                    "plaintext": "If the player leaves the cave while there are undefeated Hydro Mimics, the Hydro Mimics will despawn. The player must \"re-solve\" the puzzle, this can be done by rotating one of the pieces in the last circle entirely around in a circle by interacting with it four times.",
-                    "markdown": "If the player leaves the cave while there are undefeated Hydro Mimics, the Hydro Mimics will despawn. The player must \"re-solve\" the puzzle, this can be done by rotating one of the pieces in the last circle entirely around in a circle by interacting with it four times."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "On southwest platform:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "On northwest platform:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "On northeast platform:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_ferret> \u25c0Hydro Mimic Ferret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Ferret\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_ferret": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_boar> \u25c0Hydro Mimic Boar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Boar\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_boar": "Hydro_Mimic_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_frog> \u25c0Hydro Mimic Frog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Frog\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_frog": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_crab> \u25c0Hydro Mimic Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crab\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_crab": "Hydro_Mimic_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "If the player forgets to activate the Mysterious Pillar, they may realign the fish statues without fighting the Mimics again."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 \u00d73",
+                            "img": {
+                                "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_ferret> \u25c0Hydro Mimic Ferret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Ferret\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_ferret": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 \u00d73",
+                            "img": {
+                                "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_boar> \u25c0Hydro Mimic Boar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Boar\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_boar": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_finch> \u25c0Hydro Mimic Finch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Finch\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_finch": "Hydro_Mimic_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_crane> \u25c0Hydro Mimic Crane\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crane\u25b7 \u00d73",
+                            "img": {
+                                "hydro_mimic_crane": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_frog> \u25c0Hydro Mimic Frog\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Frog\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_frog": "Hydro_Mimic_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_mimic_crab> \u25c0Hydro Mimic Crab\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Mimic_Crab\u25b7 \u00d71",
+                            "img": {
+                                "hydro_mimic_crab": "Hydro_Mimic_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the <img:key_of_the_moon-bathed_deep> \u25c0Key of the Deep\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_of_the_Moon-Bathed_Deep\u25b7",
+                    "img": {
+                        "key_of_the_moon-bathed_deep": "Item_Key_of_the_Moon-Bathed_Deep.png"
+                    }
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Tsuyuko"
                 }
             ]
-        },
-        {
-            "plaintext": "Obtain the  Key of the Deep",
-            "markdown": "Obtain the <img:key_of_the_moon-bathed_deep> \u25c0Key of the Deep\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_of_the_Moon-Bathed_Deep\u25b7",
-            "img": {
-                "key_of_the_moon-bathed_deep": "Item_Key_of_the_Moon-Bathed_Deep.png"
-            }
-        },
-        {
-            "plaintext": "Talk to Tsuyuko",
-            "markdown": "Talk to Tsuyuko"
         }
     ],
     "dialogue": true

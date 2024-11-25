@@ -1,0 +1,31 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "The Flowing Primal Flame (Part 2)",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Flowing_Primal_Flame_%28Part_2%29",
+    "starting_location": {
+        "text": "\u25c0Legendary Tonatiuh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Legendary_Tonatiuh\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": null,
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Retrieve the Firestone(s) on the lower level of the northwestern floating island"
+                },
+                {
+                    "tag": "li",
+                    "text": "Catch up with the Secret Source Sentinel that took the Firestone(s) away"
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the Firestone(s) back to the Altar"
+                }
+            ]
+        }
+    ],
+    "dialogue": false
+}

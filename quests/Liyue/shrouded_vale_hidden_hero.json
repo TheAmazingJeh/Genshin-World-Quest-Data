@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Shrouded Vale, Hidden Hero",
     "url": "https://genshin-impact.fandom.com/wiki/Shrouded_Vale%2C_Hidden_Hero",
     "starting_location": {
-        "plaintext": "Mt. Lingmeng , Liyue",
-        "markdown": "\u25c0Mt. Lingmeng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Lingmeng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Mt. Lingmeng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Lingmeng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,28 +46,51 @@
     ],
     "steps": [
         {
-            "plaintext": "Keep moving",
-            "markdown": "Keep moving"
-        },
-        {
-            "plaintext": "Talk to Paimon",
-            "markdown": "Talk to Paimon"
-        },
-        {
-            "plaintext": "Investigate the mechanism",
-            "markdown": "Investigate the mechanism"
-        },
-        {
-            "plaintext": "Complete the trial",
-            "markdown": "Complete the trial",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Keep moving"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Paimon"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete the trial"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Hydro Slime x1",
-                            "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 4:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 \u00d71",
                             "img": {
                                 "hydro_slime": "Hydro_Slime_Icon.png"
                             }
@@ -75,19 +98,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Blazing Axe Mitachurl x1",
-                            "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 \u00d71",
                             "img": {
                                 "blazing_axe_mitachurl": "Mitachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hilichurl Fighter x4",
-                            "markdown": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 x4",
+                            "tag": "li",
+                            "text": "<img:hilichurl_fighter> \u25c0Hilichurl Fighter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Fighter\u25b7 \u00d74",
                             "img": {
                                 "hilichurl_fighter": "Hilichurl_Icon.png"
                             }
@@ -95,26 +117,25 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Anemo Hilichurl Rogue x1",
-                            "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 \u00d71",
                             "img": {
                                 "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hydro Samachurl x2",
-                            "markdown": "<img:hydro_samachurl> \u25c0Hydro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:hydro_samachurl> \u25c0Hydro Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Samachurl\u25b7 \u00d72",
                             "img": {
                                 "hydro_samachurl": "Hydro_Samachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Geo Samachurl x1",
-                            "markdown": "<img:geo_samachurl> \u25c0Geo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Samachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:geo_samachurl> \u25c0Geo Samachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Samachurl\u25b7 \u00d71",
                             "img": {
                                 "geo_samachurl": "Geo_Samachurl_Icon.png"
                             }
@@ -122,34 +143,33 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 4:",
-                    "markdown": "Wave 4:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Geovishap x1 (Pyro)",
-                            "markdown": "<img:geovishap> \u25c0Geovishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap\u25b7 x1 (\u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7)",
+                            "tag": "li",
+                            "text": "<img:geovishap> \u25c0Geovishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap\u25b7 \u00d71 (\u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7)",
                             "img": {
                                 "geovishap": "Geovishap_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Geovishap x1 (Electro)",
-                            "markdown": "<img:geovishap> \u25c0Geovishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap\u25b7 x1 (\u25c0Electro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro\u25b7)",
+                            "tag": "li",
+                            "text": "<img:geovishap> \u25c0Geovishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap\u25b7 \u00d71 (\u25c0Electro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro\u25b7)",
                             "img": {
                                 "geovishap": "Geovishap_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep moving"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the ancient sword"
                 }
             ]
-        },
-        {
-            "plaintext": "Keep moving",
-            "markdown": "Keep moving"
-        },
-        {
-            "plaintext": "Investigate the ancient sword",
-            "markdown": "Investigate the ancient sword"
         }
     ],
     "dialogue": true

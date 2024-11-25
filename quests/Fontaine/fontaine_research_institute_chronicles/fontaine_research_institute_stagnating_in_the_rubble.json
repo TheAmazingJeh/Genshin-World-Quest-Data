@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Fontaine Research Institute, Stagnating in the Rubble",
     "url": "https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute%2C_Stagnating_in_the_Rubble",
     "starting_location": {
-        "plaintext": "Liffey Region , Fontaine",
-        "markdown": "\u25c0Liffey Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liffey_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Liffey Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liffey_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,189 +60,232 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the preliminary review location",
-            "markdown": "Go to the preliminary review location",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "This step is automatically completed if the Recon Log Meks are approached before talking to Katheryne.",
-                    "markdown": "This step is automatically completed if the Recon Log Meks are approached before talking to Katheryne."
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat all the enemies",
-            "markdown": "Defeat all the enemies",
-            "substeps": [
-                {
-                    "plaintext": "Recon Log Mek x2",
-                    "markdown": "<img:recon_log_mek> \u25c0Recon Log Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek\u25b7 x2",
-                    "img": {
-                        "recon_log_mek": "Recon_Log_Mek_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Find Nacker",
-            "markdown": "Find \u25c0Nacker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nacker\u25b7"
-        },
-        {
-            "plaintext": "Go to the Executive Office of Fontaine Research Institute",
-            "markdown": "Go to the \u25c0Executive Office\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Executive_Office\u25b7 of \u25c0Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute\u25b7"
-        },
-        {
-            "plaintext": "Go to the Materials Office of Fontaine Research Institute",
-            "markdown": "Go to the \u25c0Materials Office\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Materials_Office\u25b7 of Fontaine Research Institute"
-        },
-        {
-            "plaintext": "Operate the Transfer Terminal to unblock the area",
-            "markdown": "Operate the Transfer Terminal to unblock the area"
-        },
-        {
-            "plaintext": "Retrieve the Survey Anchor",
-            "markdown": "Retrieve the Survey Anchor"
-        },
-        {
-            "plaintext": "Defeat the malfunctioning meka",
-            "markdown": "Defeat the malfunctioning meka",
-            "substeps": [
-                {
-                    "plaintext": "Assault Specialist Mek - Ousia x1",
-                    "markdown": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 x1",
-                    "img": {
-                        "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the preliminary review location"
                 },
                 {
-                    "plaintext": "Recon Log Mek - Ousia x1",
-                    "markdown": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 x1",
-                    "img": {
-                        "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the next location",
-            "markdown": "Go to the next location"
-        },
-        {
-            "plaintext": "Recover Fontaine Research Institute research assets",
-            "markdown": "Recover Fontaine Research Institute research assets"
-        },
-        {
-            "plaintext": "Defeat the malfunctioning meka",
-            "markdown": "Defeat the malfunctioning meka",
-            "substeps": [
-                {
-                    "plaintext": "Annihilation Specialist Mek - Pneuma x1",
-                    "markdown": "<img:annihilation_specialist_mek_-_pneuma> \u25c0Annihilation Specialist Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek_-_Pneuma\u25b7 x1",
-                    "img": {
-                        "annihilation_specialist_mek_-_pneuma": "Annihilation_Specialist_Mek_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Recon Log Mek - Pneuma x2",
-                    "markdown": "<img:recon_log_mek_-_pneuma> \u25c0Recon Log Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Pneuma\u25b7 x2",
-                    "img": {
-                        "recon_log_mek_-_pneuma": "Recon_Log_Mek_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the Fontaine Research Institute",
-            "markdown": "Go to the Fontaine Research Institute"
-        },
-        {
-            "plaintext": "Retrieve the remaining Anchors",
-            "markdown": "Retrieve the remaining Anchors",
-            "substeps": [
-                {
-                    "plaintext": "Progression past this step requires completing Go to the Institute Dormitories and retrieve the Anchor and Go to the Institute of Clockwork Applications and retrieve the Anchor.",
-                    "markdown": "Progression past this step requires completing \u25c0Go to the Institute Dormitories and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_Dormitories_and_retrieve_the_Anchor\u25b7 and \u25c0Go to the Institute of Clockwork Applications and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_of_Clockwork_Applications_and_retrieve_the_Anchor\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Return to the new Fontaine Research Institute and report to Raimondo",
-            "markdown": "Return to the new Fontaine Research Institute and report to \u25c0Raimondo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Raimondo\u25b7"
-        },
-        {
-            "plaintext": "Go to the ruins of the Fontaine Research Institute",
-            "markdown": "Go to the ruins of the Fontaine Research Institute"
-        },
-        {
-            "plaintext": "Defeat all of the malfunctioning meka",
-            "markdown": "Defeat all of the malfunctioning meka",
-            "substeps": [
-                {
-                    "plaintext": "Suppression Specialist Mek - Pneuma x1",
-                    "markdown": "<img:suppression_specialist_mek_-_pneuma> \u25c0Suppression Specialist Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Pneuma\u25b7 x1",
-                    "img": {
-                        "suppression_specialist_mek_-_pneuma": "Suppression_Specialist_Mek_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Recon Log Mek - Pneuma x2",
-                    "markdown": "<img:recon_log_mek_-_pneuma> \u25c0Recon Log Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Pneuma\u25b7 x2",
-                    "img": {
-                        "recon_log_mek_-_pneuma": "Recon_Log_Mek_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Use a Kamera to take pictures and document the area",
-            "markdown": "Use a Kamera to take pictures and document the area"
-        },
-        {
-            "plaintext": "Find Chronie",
-            "markdown": "Find \u25c0Chronie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chronie\u25b7"
-        },
-        {
-            "plaintext": "Go back to the Fontaine Research Institute and report to Raimondo",
-            "markdown": "Go back to the Fontaine Research Institute and report to Raimondo"
-        },
-        {
-            "plaintext": "Go to the ruins of the Fontaine Research Institute",
-            "markdown": "Go to the ruins of the Fontaine Research Institute"
-        },
-        {
-            "plaintext": "Defeat all of the malfunctioning meka",
-            "markdown": "Defeat all of the malfunctioning meka",
-            "substeps": [
-                {
-                    "plaintext": "Assault Specialist Mek - Ousia x2",
-                    "markdown": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 x2",
-                    "img": {
-                        "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Examine the large, out-of-control Arkhium",
-            "markdown": "Examine the large, out-of-control Arkhium"
-        },
-        {
-            "plaintext": "Recover the condensing components (0/4)",
-            "markdown": "Recover the condensing components (0/4)",
-            "substeps": [
-                {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Large Hydro Slime x1",
-                            "markdown": "<img:large_hydro_slime> \u25c0Large Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Hydro_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "This step is automatically completed if the Recon Log Meks are approached before talking to Katheryne."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the enemies"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:recon_log_mek> \u25c0Recon Log Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek\u25b7 \u00d72",
+                            "img": {
+                                "recon_log_mek": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Nacker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nacker\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Executive Office\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Executive_Office\u25b7 of \u25c0Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Materials Office\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Materials_Office\u25b7 of Fontaine Research Institute"
+                },
+                {
+                    "tag": "li",
+                    "text": "Operate the Transfer Terminal to unblock the area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the Survey Anchor"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the malfunctioning meka"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 \u00d71",
+                            "img": {
+                                "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:recon_log_mek_-_ousia> \u25c0Recon Log Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Ousia\u25b7 \u00d71",
+                            "img": {
+                                "recon_log_mek_-_ousia": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the next location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Recover Fontaine Research Institute research assets"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the malfunctioning meka"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:annihilation_specialist_mek_-_pneuma> \u25c0Annihilation Specialist Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Annihilation_Specialist_Mek_-_Pneuma\u25b7 \u00d71",
+                            "img": {
+                                "annihilation_specialist_mek_-_pneuma": "Annihilation_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:recon_log_mek_-_pneuma> \u25c0Recon Log Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Pneuma\u25b7 \u00d72",
+                            "img": {
+                                "recon_log_mek_-_pneuma": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Fontaine Research Institute"
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the remaining Anchors"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Progression past this step requires completing \u25c0Go to the Institute Dormitories and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_Dormitories_and_retrieve_the_Anchor\u25b7 and \u25c0Go to the Institute of Clockwork Applications and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_of_Clockwork_Applications_and_retrieve_the_Anchor\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the new Fontaine Research Institute and report to \u25c0Raimondo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Raimondo\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the ruins of the Fontaine Research Institute"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all of the malfunctioning meka"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:suppression_specialist_mek_-_pneuma> \u25c0Suppression Specialist Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suppression_Specialist_Mek_-_Pneuma\u25b7 \u00d71",
+                            "img": {
+                                "suppression_specialist_mek_-_pneuma": "Suppression_Specialist_Mek_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:recon_log_mek_-_pneuma> \u25c0Recon Log Mek - Pneuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Recon_Log_Mek_-_Pneuma\u25b7 \u00d72",
+                            "img": {
+                                "recon_log_mek_-_pneuma": "Recon_Log_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Use a Kamera to take pictures and document the area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Chronie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chronie\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back to the Fontaine Research Institute and report to Raimondo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the ruins of the Fontaine Research Institute"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all of the malfunctioning meka"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:assault_specialist_mek_-_ousia> \u25c0Assault Specialist Mek - Ousia\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Assault_Specialist_Mek_-_Ousia\u25b7 \u00d72",
+                            "img": {
+                                "assault_specialist_mek_-_ousia": "Assault_Specialist_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the large, out-of-control Arkhium"
+                },
+                {
+                    "tag": "li",
+                    "text": "Recover the condensing components (0/4)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3: <img:tainted_water-spouting_phantasm> \u25c0Tainted Water-Spouting Phantasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 \u00d72",
+                            "img": {
+                                "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:large_hydro_slime> \u25c0Large Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Hydro_Slime\u25b7 \u00d71",
                             "img": {
                                 "large_hydro_slime": "Large_Hydro_Slime_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hydro Slime x2",
-                            "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 \u00d72",
                             "img": {
                                 "hydro_slime": "Hydro_Slime_Icon.png"
                             }
@@ -250,26 +293,25 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Tainted Water-Spouting Phantasm x1",
-                            "markdown": "<img:tainted_water-spouting_phantasm> \u25c0Tainted Water-Spouting Phantasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:tainted_water-spouting_phantasm> \u25c0Tainted Water-Spouting Phantasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 \u00d71",
                             "img": {
                                 "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Large Hydro Slime x1",
-                            "markdown": "<img:large_hydro_slime> \u25c0Large Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Hydro_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:large_hydro_slime> \u25c0Large Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Hydro_Slime\u25b7 \u00d71",
                             "img": {
                                 "large_hydro_slime": "Large_Hydro_Slime_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hydro Slime x1",
-                            "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 \u00d71",
                             "img": {
                                 "hydro_slime": "Hydro_Slime_Icon.png"
                             }
@@ -277,34 +319,30 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:  Tainted Water-Spouting Phantasm x2",
-                    "markdown": "Wave 3: <img:tainted_water-spouting_phantasm> \u25c0Tainted Water-Spouting Phantasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tainted_Water-Spouting_Phantasm\u25b7 x2",
-                    "img": {
-                        "tainted_water-spouting_phantasm": "Tainted_Water-Spouting_Phantasm_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Raimondo",
-            "markdown": "Talk to Raimondo"
-        },
-        {
-            "plaintext": "Shut off the Experimental Field Generator",
-            "markdown": "Shut off the Experimental Field Generator",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Talk to Raimondo"
+                },
                 {
-                    "plaintext": "Test Prototype G001 - Experimental Field Generator",
-                    "markdown": "<img:prototype_cal> \u25c0Test Prototype G001 - Experimental Field Generator\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Prototype_Cal._Breguet\u25b7",
-                    "img": {
-                        "prototype_cal": "Prototype_Cal._Breguet_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Shut off the Experimental Field Generator"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:prototype_cal> \u25c0Test Prototype G001 - Experimental Field Generator\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Prototype_Cal._Breguet\u25b7",
+                            "img": {
+                                "prototype_cal": "Prototype_Cal._Breguet_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the Fontaine Research Institute"
                 }
             ]
-        },
-        {
-            "plaintext": "Return to the Fontaine Research Institute",
-            "markdown": "Return to the Fontaine Research Institute"
         }
     ],
     "dialogue": true

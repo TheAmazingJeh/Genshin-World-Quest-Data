@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Pursuit (Part 2)",
     "url": "https://genshin-impact.fandom.com/wiki/Pursuit_%28Part_2%29",
     "starting_location": {
-        "plaintext": "Canotila and the Book of Revealing , Fontaine",
-        "markdown": "\u25c0Canotila and the Book of Revealing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila_and_the_Book_of_Revealing\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Canotila and the Book of Revealing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila_and_the_Book_of_Revealing\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,75 +39,89 @@
     ],
     "steps": [
         {
-            "plaintext": "Enter the world of Meditation through the Book of Revealing",
-            "markdown": "Enter the world of Meditation through the Book of Revealing"
-        },
-        {
-            "plaintext": "Talk to Canotila",
-            "markdown": "Talk to \u25c0Canotila\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila\u25b7"
-        },
-        {
-            "plaintext": "Continue the pursuit",
-            "markdown": "Continue the pursuit"
-        },
-        {
-            "plaintext": "Fight",
-            "markdown": "Fight",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Anemo Hilichurl Rogue x1",
-                    "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
-                    "img": {
-                        "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Enter the world of Meditation through the Book of Revealing"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Canotila\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue the pursuit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Fight"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 \u00d71",
+                            "img": {
+                                "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue the pursuit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Fight"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 \u00d71",
+                            "img": {
+                                "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go toward where the sound is coming from"
+                },
+                {
+                    "tag": "li",
+                    "text": "Fight"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 \u00d71",
+                            "img": {
+                                "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Canotila"
+                },
+                {
+                    "tag": "li",
+                    "text": "Awaken"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Canotila"
                 }
             ]
-        },
-        {
-            "plaintext": "Continue the pursuit",
-            "markdown": "Continue the pursuit"
-        },
-        {
-            "plaintext": "Fight",
-            "markdown": "Fight",
-            "substeps": [
-                {
-                    "plaintext": "Anemo Hilichurl Rogue x1",
-                    "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
-                    "img": {
-                        "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Go toward where the sound is coming from",
-            "markdown": "Go toward where the sound is coming from"
-        },
-        {
-            "plaintext": "Fight",
-            "markdown": "Fight",
-            "substeps": [
-                {
-                    "plaintext": "Anemo Hilichurl Rogue x1",
-                    "markdown": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 x1",
-                    "img": {
-                        "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Canotila",
-            "markdown": "Talk to Canotila"
-        },
-        {
-            "plaintext": "Awaken",
-            "markdown": "Awaken"
-        },
-        {
-            "plaintext": "Talk to Canotila",
-            "markdown": "Talk to Canotila"
         }
     ],
     "dialogue": true

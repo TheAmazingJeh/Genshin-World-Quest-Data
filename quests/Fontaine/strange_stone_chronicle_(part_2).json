@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Strange Stone Chronicle (Part 2)",
     "url": "https://genshin-impact.fandom.com/wiki/Strange_Stone_Chronicle_%28Part_2%29",
     "starting_location": {
-        "plaintext": "Merusea Village , Fontaine",
-        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ancient Colors",
@@ -49,16 +49,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Puca",
-            "markdown": "Talk to \u25c0Puca\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Puca\u25b7"
-        },
-        {
-            "plaintext": "Collect Strange Ore",
-            "markdown": "Collect \u25c0Strange Ore\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Ore\u25b7"
-        },
-        {
-            "plaintext": "Take the ore you've gathered to Chesil",
-            "markdown": "Take the ore you've gathered to \u25c0Chesil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chesil\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Puca\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Puca\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect \u25c0Strange Ore\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Ore\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take the ore you've gathered to \u25c0Chesil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chesil\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

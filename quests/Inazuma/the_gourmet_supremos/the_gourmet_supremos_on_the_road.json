@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Gourmet Supremos: On the Road",
     "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_On_the_Road",
     "starting_location": {
-        "plaintext": "Inazuma City , Narukami Island , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,28 +46,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Xudong",
-            "markdown": "Talk to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
-        },
-        {
-            "plaintext": "Go to the designated location to look for cooking ingredients",
-            "markdown": "Go to the designated location to look for cooking ingredients"
-        },
-        {
-            "plaintext": "Explore further and find cooking ingredients",
-            "markdown": "Explore further and find cooking ingredients"
-        },
-        {
-            "plaintext": "Talk to the people in front of you",
-            "markdown": "Talk to the people in front of you"
-        },
-        {
-            "plaintext": "Look for cooking ingredients (0/3)",
-            "markdown": "Look for cooking ingredients (0/3)"
-        },
-        {
-            "plaintext": "Find a good spot for cooking",
-            "markdown": "Find a good spot for cooking"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the designated location to look for cooking ingredients"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore further and find cooking ingredients"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the people in front of you"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for cooking ingredients (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a good spot for cooking"
+                }
+            ]
         }
     ],
     "dialogue": true

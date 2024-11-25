@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Beneath the Crystal Rock",
     "url": "https://genshin-impact.fandom.com/wiki/Beneath_the_Crystal_Rock",
     "starting_location": {
-        "plaintext": "Tequemecan Valley , Natlan",
-        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,88 +53,243 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Lesser Shadow Pin with Titu",
-            "markdown": "Go to the Lesser Shadow Pin with Titu"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Titu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Titu\u25b7 or by completing a Lesser Shadow Pin challenge."
+                }
+            ]
         },
         {
-            "plaintext": "Touch the golden inscription",
-            "markdown": "Touch the golden inscription"
-        },
-        {
-            "plaintext": "Talk to Titu",
-            "markdown": "Talk to Titu"
-        },
-        {
-            "plaintext": "Repair the inscription",
-            "markdown": "Repair the inscription"
-        },
-        {
-            "plaintext": "Talk to Titu",
-            "markdown": "Talk to Titu"
-        },
-        {
-            "plaintext": "Go to the Lesser Shadow Pin with Titu",
-            "markdown": "Go to the Lesser Shadow Pin with Titu"
-        },
-        {
-            "plaintext": "Examine the Lesser Shadow Pin",
-            "markdown": "Examine the Lesser Shadow Pin"
-        },
-        {
-            "plaintext": "Repair the inscription",
-            "markdown": "Repair the inscription"
-        },
-        {
-            "plaintext": "Find the inscription(s) scattered in other locations",
-            "markdown": "Find the inscription(s) scattered in other locations"
-        },
-        {
-            "plaintext": "Search for the inscription(s)",
-            "markdown": "Search for the inscription(s)"
-        },
-        {
-            "plaintext": "Find a way down",
-            "markdown": "Find a way down"
-        },
-        {
-            "plaintext": "Continue exploring",
-            "markdown": "Continue exploring"
-        },
-        {
-            "plaintext": "Find a way to touch the inscription",
-            "markdown": "Find a way to touch the inscription"
-        },
-        {
-            "plaintext": "Follow the inscription back to the Lesser Shadow Pin",
-            "markdown": "Follow the inscription back to the Lesser Shadow Pin"
-        },
-        {
-            "plaintext": "Complete the sealing ritual",
-            "markdown": "Complete the sealing ritual"
-        },
-        {
-            "plaintext": "Talk to Titu",
-            "markdown": "Talk to Titu"
-        },
-        {
-            "plaintext": "Head to the last Lesser Shadow Pin",
-            "markdown": "Head to the last Lesser Shadow Pin"
-        },
-        {
-            "plaintext": "Examine the Lesser Shadow Pin",
-            "markdown": "Examine the Lesser Shadow Pin"
-        },
-        {
-            "plaintext": "Investigate the area beneath the canyon",
-            "markdown": "Investigate the area beneath the canyon"
-        },
-        {
-            "plaintext": "Defeat the opponents",
-            "markdown": "Defeat the opponents"
-        },
-        {
-            "plaintext": "Talk to Titu",
-            "markdown": "Talk to Titu"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the Lesser Shadow Pin with Titu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the golden inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Titu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Repair the inscription"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Break the Engraved Stone Pillar to collect the inscription's power"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: <img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d72",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 \u00d71",
+                            "img": {
+                                "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d71",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Titu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Lesser Shadow Pin with Titu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the Lesser Shadow Pin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Repair the inscription"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:anemo_hilichurl_rogue> \u25c0Anemo Hilichurl Rogue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anemo_Hilichurl_Rogue\u25b7 \u00d71",
+                            "img": {
+                                "anemo_hilichurl_rogue": "Anemo_Hilichurl_Rogue_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the inscription(s) scattered in other locations"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for the inscription(s)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a way down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a way to touch the inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the inscription back to the Lesser Shadow Pin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete the sealing ritual"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Break the Engraved Stone Pillar to collect the inscription's power"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Titu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the last Lesser Shadow Pin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the Lesser Shadow Pin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the area beneath the canyon"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d72",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d71",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:forged_sand_shieldbreaker> \u25c0Forged Sand Shieldbreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forged_Sand_Shieldbreaker\u25b7 \u00d72 (Nightsoul Warrior)",
+                            "img": {
+                                "forged_sand_shieldbreaker": "Forged_Sand_Shieldbreaker_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d71",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:tepetlisaurus_warrior_shard_striker> \u25c0Tepetlisaurus Warrior: Shard Striker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus_Warrior:_Shard_Striker\u25b7 \u00d71 (Nightsoul Warrior)",
+                            "img": {
+                                "tepetlisaurus_warrior_shard_striker": "Tepetlisaurus_Warrior_Shard_Striker_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:forged_sand_shieldbreaker> \u25c0Forged Sand Shieldbreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forged_Sand_Shieldbreaker\u25b7 \u00d71 (Nightsoul Warrior)",
+                            "img": {
+                                "forged_sand_shieldbreaker": "Forged_Sand_Shieldbreaker_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:forged_sand_interrogator> \u25c0Forged Sand Interrogator\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forged_Sand_Interrogator\u25b7 \u00d71 (Nightsoul Warrior)",
+                            "img": {
+                                "forged_sand_interrogator": "Forged_Sand_Interrogator_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Titu"
+                }
+            ]
         }
     ],
     "dialogue": true

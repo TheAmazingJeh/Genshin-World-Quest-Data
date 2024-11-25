@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Cooking, a Pleasant Memory",
     "url": "https://genshin-impact.fandom.com/wiki/Cooking%2C_a_Pleasant_Memory",
     "starting_location": {
-        "plaintext": "Avidya Forest , Sumeru",
-        "markdown": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,33 +39,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for Arasaka",
-            "markdown": "Look for \u25c0Arasaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arasaka\u25b7"
-        },
-        {
-            "plaintext": "Approach the Aranara by the Zaytun Peaches",
-            "markdown": "Approach the Aranara by the \u25c0Zaytun Peaches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zaytun_Peach\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Interact with the Zaytun Peaches or Arasaka will ignore you.",
-                    "markdown": "Interact with the Zaytun Peaches or Arasaka will ignore you."
+                    "tag": "li",
+                    "text": "Look for \u25c0Arasaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arasaka\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Approach the Aranara by the \u25c0Zaytun Peaches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zaytun_Peach\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Interact with the Zaytun Peaches or Arasaka will ignore you."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to Gandharva Ville and look for someone \"with a bulge on their back\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the person \"with a bulge on their back\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the <img:sugar> \u25c0sugar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sugar\u25b7 to Arasaka",
+                    "img": {
+                        "sugar": "Item_Sugar.png"
+                    }
                 }
             ]
-        },
-        {
-            "plaintext": "Head to Gandharva Ville and look for someone \"with a bulge on their back\"",
-            "markdown": "Head to Gandharva Ville and look for someone \"with a bulge on their back\""
-        },
-        {
-            "plaintext": "Talk to the person \"with a bulge on their back\"",
-            "markdown": "Talk to the person \"with a bulge on their back\""
-        },
-        {
-            "plaintext": "Give the  sugar to Arasaka",
-            "markdown": "Give the <img:sugar> \u25c0sugar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sugar\u25b7 to Arasaka",
-            "img": {
-                "sugar": "Item_Sugar.png"
-            }
         }
     ],
     "dialogue": true

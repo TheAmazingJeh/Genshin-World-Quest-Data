@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Next Time, On King of Invokations...",
     "url": "https://genshin-impact.fandom.com/wiki/Next_Time%2C_On_King_of_Invokations...",
     "starting_location": {
-        "plaintext": "Sumeru City , Sumeru",
-        "markdown": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete:",
@@ -35,20 +35,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Fukumoto",
-            "markdown": "Talk to \u25c0Fukumoto\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fukumoto_(King_of_Invokations)\u25b7"
-        },
-        {
-            "plaintext": "Meet up with Fukumoto at Puspa Cafe",
-            "markdown": "Meet up with Fukumoto at \u25c0Puspa Cafe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Puspa_Cafe\u25b7"
-        },
-        {
-            "plaintext": "Talk to Cyno",
-            "markdown": "Talk to \u25c0Cyno\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyno\u25b7"
-        },
-        {
-            "plaintext": "Take some pictures of Cyno",
-            "markdown": "Take some pictures of Cyno"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Fukumoto\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fukumoto_(King_of_Invokations)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet up with Fukumoto at \u25c0Puspa Cafe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Puspa_Cafe\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Cyno\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyno\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take some pictures of Cyno"
+                }
+            ]
         }
     ],
     "dialogue": true

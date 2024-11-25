@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Final Question",
     "url": "https://genshin-impact.fandom.com/wiki/The_Final_Question",
     "starting_location": {
-        "plaintext": "Institute of Natural Philosophy , Fontaine",
-        "markdown": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -35,8 +35,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Seymour",
-            "markdown": "Talk to Seymour"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Seymour"
+                }
+            ]
         }
     ],
     "dialogue": true

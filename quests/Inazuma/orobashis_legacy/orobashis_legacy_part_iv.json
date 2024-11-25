@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Orobashi's Legacy: Part IV",
     "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy%3A_Part_IV",
     "starting_location": {
-        "plaintext": "Fort Fujitou",
-        "markdown": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
+        "text": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,8 +32,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Go back and report to Kaji",
-            "markdown": "Go back and report to \u25c0Kaji\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaji\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go back and report to \u25c0Kaji\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaji\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

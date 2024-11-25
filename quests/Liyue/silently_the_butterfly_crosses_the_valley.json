@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Silently the Butterfly Crosses the Valley",
     "url": "https://genshin-impact.fandom.com/wiki/Silently_the_Butterfly_Crosses_the_Valley",
     "starting_location": {
-        "plaintext": "Lingshu Courtyard , Chenyu Vale: Southern Mountain , Liyue",
-        "markdown": "\u25c0Lingshu Courtyard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingshu_Courtyard\u25b7 , \u25c0Chenyu Vale: Southern Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Southern_Mountain\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Lingshu Courtyard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingshu_Courtyard\u25b7 , \u25c0Chenyu Vale: Southern Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chenyu_Vale:_Southern_Mountain\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,32 +46,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Capture the butterflies",
-            "markdown": "Capture the butterflies"
-        },
-        {
-            "plaintext": "Chase the butterflies into the medicine jar (0/5)",
-            "markdown": "Chase the butterflies into the medicine jar (0/5)"
-        },
-        {
-            "plaintext": "Talk to the Sacred Simulacra",
-            "markdown": "Talk to the Sacred Simulacra"
-        },
-        {
-            "plaintext": "Investigate the ancient tree",
-            "markdown": "Investigate the ancient tree"
-        },
-        {
-            "plaintext": "Return to Adeptus's Repose",
-            "markdown": "Return to \u25c0Adeptus's Repose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adeptus%27s_Repose\u25b7"
-        },
-        {
-            "plaintext": "Look for the medicine jar mentioned by the Sacred Simalacrum",
-            "markdown": "Look for the medicine jar mentioned by the Sacred Simalacrum"
-        },
-        {
-            "plaintext": "Explore the hidden vault",
-            "markdown": "Explore the hidden vault"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Capture the butterflies"
+                },
+                {
+                    "tag": "li",
+                    "text": "Chase the butterflies into the medicine jar (0/5)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Sacred Simulacra"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the ancient tree"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to \u25c0Adeptus's Repose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adeptus%27s_Repose\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the medicine jar mentioned by the Sacred Simalacrum"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the hidden vault"
+                }
+            ]
         }
     ],
     "dialogue": true

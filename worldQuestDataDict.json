@@ -1,5 +1,5 @@
 {
-    "timeUpdated": "2024-09-28 03:12:47",
+    "timeUpdated": "2024-11-25 14:38:56",
     "regions": {
         "Mondstadt": {
             "series": {
@@ -694,35 +694,87 @@
                     "revelations_from_the_past",
                     "rite_of_the_bold"
                 ],
+                "from_one_case_to_another": [
+                    "incidents_are_ever_sudden",
+                    "beat_the_clock_24_hours",
+                    "an_air_race_and_an_alibi",
+                    "farewell_final_saurus_cracker"
+                ],
                 "in_the_footsteps_of_the_chosen_of_dragons": [
                     "a_saurian_lovers_ordinary_days",
                     "feeling_like_fish_today",
+                    "friends_of_fire_and_water",
                     "gifts_and_gifts_in_return",
                     "lies_and_promises",
                     "lights_kamera_action",
+                    "sauro-vets_dilemma",
                     "special_friends",
+                    "stones_coconuts_and_saurian_traffickers",
                     "tepetlisaurus_hide-and-seek",
+                    "the_lone_isle_named_night",
                     "treasures_and_collectors",
                     "waiting_for_seeds_to_sprout",
                     "weighty_wings"
+                ],
+                "lost_traveler_in_the_ashen_realm": [
+                    {
+                        "name": "city_buried_by_ash",
+                        "subquests": [
+                            "vaulting_the_wall_of_morning_mist"
+                        ]
+                    },
+                    {
+                        "name": "a_dream_of_gazing_upon_the_distant_sky",
+                        "subquests": [
+                            "adventure_in_the_land_of_mists",
+                            "palace_of_the_vision_serpent",
+                            "to_the_sky-road"
+                        ]
+                    },
+                    {
+                        "name": "the_tonatiuh_quivers",
+                        "subquests": [
+                            "the_flowing_primal_flame_(part_1)",
+                            "the_flowing_primal_flame_(part_2)",
+                            "the_flowing_primal_flame_(part_3)",
+                            "the_other_side_of_the_sky",
+                            "moment_of_awakening"
+                        ]
+                    },
+                    {
+                        "name": "the_chosen_ones_promise",
+                        "subquests": [
+                            "the_chosen_ones_promise_(quest)"
+                        ]
+                    }
                 ],
                 "shadows_of_the_mountains": [
                     "beneath_the_crystal_rock",
                     "peace_to_the_slumbering"
                 ],
                 "tale_of_dreams_plucked_from_fire": [
-                    "seeker_no_finding",
-                    "tracer_no_tracing"
+                    "tracer_no_tracing",
+                    "seeker_no_finding"
                 ]
             },
             "single": [
+                "a_saurian_returns_to_the_nest",
+                "charge_forward_go_go_go",
+                "come_fly_with_me",
+                "dancin_in_the_moonlight",
+                "every_aspect_of_a_warrior",
+                "molting_season",
+                "open_your_heart_to_me",
                 "ripe_for_trouble",
+                "stand_by_me_(quest)",
                 "stride_on_rainbows_split_the_waves",
                 "the_case_of_the_crafting_bench",
+                "the_mystery_of_tecoloapan_beach",
                 "the_road_ahead",
                 "to_the_night_what_is_the_nights",
                 "to_wish_upon_a_star",
-                "toward_red-hot_adventure"
+                "toward_red-hot_adventure",
+                "twisted_extension"
             ]
         }
     }

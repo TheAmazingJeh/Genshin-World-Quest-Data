@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "For Yesterday and Tomorrow",
     "url": "https://genshin-impact.fandom.com/wiki/For_Yesterday_and_Tomorrow",
     "starting_location": {
-        "plaintext": "Petrichor , Fontaine",
-        "markdown": "\u25c0Petrichor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Petrichor\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Petrichor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Petrichor\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -35,8 +35,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Bring Osse to the cattery",
-            "markdown": "Bring \u25c0Osse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Osse\u25b7 to the cattery"
+            "tag": "p",
+            "text": "To start this quest, talk to \u25c0Este\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Este_(Human)\u25b7, located north of the bell tower."
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Bring \u25c0Osse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Osse\u25b7 to the cattery"
+                }
+            ]
         }
     ],
     "dialogue": true

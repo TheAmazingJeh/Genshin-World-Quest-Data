@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Cooking, the Flavor of Nature",
     "url": "https://genshin-impact.fandom.com/wiki/Cooking%2C_the_Flavor_of_Nature",
     "starting_location": {
-        "plaintext": "Vissudha Field , Sumeru",
-        "markdown": "\u25c0Vissudha Field\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vissudha_Field\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vissudha Field\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vissudha_Field\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete The World of Aranara",
@@ -56,24 +56,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for a rising pillar of smoke",
-            "markdown": "Look for a rising pillar of smoke"
-        },
-        {
-            "plaintext": "Use Dendro to heal the Aranara",
-            "markdown": "Use Dendro to heal the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7"
-        },
-        {
-            "plaintext": "Look for the \"Head Mushroom\"",
-            "markdown": "Look for the \"Head Mushroom\""
-        },
-        {
-            "plaintext": "Neutralize the Withering Zone and pick the Head Mushroom",
-            "markdown": "Neutralize the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7 and pick the Head Mushroom"
-        },
-        {
-            "plaintext": "Return to Arachatora's pot",
-            "markdown": "Return to \u25c0Arachatora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arachatora\u25b7's pot"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Look for a rising pillar of smoke"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use Dendro to heal the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the \"Head Mushroom\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Neutralize the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7 and pick the Head Mushroom"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to \u25c0Arachatora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arachatora\u25b7's pot"
+                }
+            ]
         }
     ],
     "dialogue": true

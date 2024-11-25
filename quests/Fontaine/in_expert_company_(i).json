@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "In Expert Company? (I)",
     "url": "https://genshin-impact.fandom.com/wiki/In_Expert_Company%3F_%28I%29",
     "starting_location": {
-        "plaintext": "Fountain of Lucine , Fontaine",
-        "markdown": "\u25c0Fountain of Lucine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fountain_of_Lucine\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Fountain of Lucine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fountain_of_Lucine\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Chapter IV : Act II - As Light Rain Falls Without Reason",
@@ -35,28 +35,36 @@
     ],
     "steps": [
         {
-            "plaintext": "Defeat all monsters and retrieve the Film Kamera",
-            "markdown": "Defeat all monsters and retrieve the Film Kamera",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Blazing Axe Mitachurl x1",
-                    "markdown": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 x1",
-                    "img": {
-                        "blazing_axe_mitachurl": "Mitachurl_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Defeat all monsters and retrieve the Film Kamera"
                 },
                 {
-                    "plaintext": "Hilichurl x3",
-                    "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x3",
-                    "img": {
-                        "hilichurl": "Hilichurl_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:blazing_axe_mitachurl> \u25c0Blazing Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blazing_Axe_Mitachurl\u25b7 \u00d71",
+                            "img": {
+                                "blazing_axe_mitachurl": "Mitachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 \u00d73",
+                            "img": {
+                                "hilichurl": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ms. Qiu and her company"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Ms. Qiu and her company",
-            "markdown": "Talk to Ms. Qiu and her company"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Saga of Mr. Forgetful",
     "url": "https://genshin-impact.fandom.com/wiki/The_Saga_of_Mr._Forgetful",
     "starting_location": {
-        "plaintext": "Tsurumi Island , Inazuma",
-        "markdown": "\u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Octave of the Maushiro",
@@ -56,29 +56,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Give Roald the  Fluorescent Fungus x10",
-            "markdown": "Give Roald the <img:fluorescent_fungus> \u25c0Fluorescent Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus\u25b7 x10",
-            "img": {
-                "fluorescent_fungus": "Item_Fluorescent_Fungus.png"
-            }
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Roald\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Roald\u25b7 near the waverider waypoint directly south of Tsurumi Island's \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7."
         },
         {
-            "plaintext": "Take a photo of the ruin murals (0/6)",
-            "markdown": "Take a photo of the ruin murals (0/6)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The murals are located in the underground ruins of Shirikoro Peak. See Gallery below for details.",
-                    "markdown": "The murals are located in the underground ruins of \u25c0Shirikoro Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shirikoro_Peak\u25b7. See Gallery below for details."
+                    "tag": "li",
+                    "text": "Give Roald the <img:fluorescent_fungus> \u25c0Fluorescent Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus\u25b7 \u00d710",
+                    "img": {
+                        "fluorescent_fungus": "Item_Fluorescent_Fungus.png"
+                    }
                 },
                 {
-                    "plaintext": "The pictures can be taken with either Photo Mode, or with the Kamera or Special Kamera. The photo does not need to be saved to count for the quest.",
-                    "markdown": "The pictures can be taken with either \u25c0Photo Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Photo_Mode\u25b7, or with the \u25c0Kamera\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamera\u25b7 or \u25c0Special Kamera\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Kamera\u25b7. The photo does not need to be saved to count for the quest."
+                    "tag": "li",
+                    "text": "Take a photo of the ruin murals (0/6)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The murals are located in the underground ruins of \u25c0Shirikoro Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shirikoro_Peak\u25b7. See Gallery below for details."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The pictures can be taken with either \u25c0Photo Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Photo_Mode\u25b7, or with the \u25c0Kamera\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamera\u25b7 or \u25c0Special Kamera\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Kamera\u25b7. The photo does not need to be saved to count for the quest."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return and look for Roald"
                 }
             ]
-        },
-        {
-            "plaintext": "Return and look for Roald",
-            "markdown": "Return and look for Roald"
         }
     ],
     "dialogue": true

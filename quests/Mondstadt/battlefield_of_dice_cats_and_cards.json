@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Battlefield of Dice, Cats, and Cards",
     "url": "https://genshin-impact.fandom.com/wiki/Battlefield_of_Dice%2C_Cats%2C_and_Cards",
@@ -42,8 +43,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Come Try Genius Invokation TCG!",
-            "markdown": "\u25c0Come Try Genius Invokation TCG!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Come_Try_Genius_Invokation_TCG!\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Come Try Genius Invokation TCG!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Come_Try_Genius_Invokation_TCG!\u25b7"
+                }
+            ]
         }
     ]
 }

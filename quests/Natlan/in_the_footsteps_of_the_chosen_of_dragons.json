@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "In the Footsteps of the Chosen of Dragons",
     "url": "https://genshin-impact.fandom.com/wiki/In_the_Footsteps_of_the_Chosen_of_Dragons",
@@ -6,24 +7,45 @@
     "rewards": [
         {
             "Name": "Adventure EXP",
-            "Value": "1,700",
+            "Value": "2,650",
             "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
             "Image": "Item_Adventure_EXP.png",
             "Rarity": "3"
         },
         {
             "Name": "Primogem",
-            "Value": "240",
+            "Value": "370",
             "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
             "Image": "Item_Primogem.png",
             "Rarity": "5"
         },
         {
             "Name": "Mora",
-            "Value": "290,000",
+            "Value": "410,000",
             "Link": "https://genshin-impact.fandom.com/wiki/Mora",
             "Image": "Item_Mora.png",
             "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "\"Little One, Great Hero!\"",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Little_One,_Great_Hero!%22",
+            "Image": "Item_Little_One%2C_Great_Hero%21_Aether.png",
+            "Rarity": "4"
         },
         {
             "Name": "\"Mighty Meaty Fireball\"",
@@ -33,53 +55,81 @@
             "Rarity": "4"
         },
         {
-            "Name": "Recipe: Sour Sauce Kipper",
+            "Name": "\"Quick, Wake Up!\"",
             "Value": "1",
-            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sour_Sauce_Kipper",
-            "Image": "Item_Sour_Sauce_Kipper.png",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22Quick,_Wake_Up!%22",
+            "Image": "Item_Quick%2C_Wake_Up%21.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Recipe: Sour Sauce Ceviche",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sour_Sauce_Ceviche",
+            "Image": "Item_Sour_Sauce_Ceviche.png",
             "Rarity": "2"
         }
     ],
     "steps": [
         {
-            "plaintext": "A Saurian Lover's Ordinary Days",
-            "markdown": "\u25c0A Saurian Lover's Ordinary Days\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Saurian_Lover%27s_Ordinary_Days\u25b7"
-        },
-        {
-            "plaintext": "Feeling Like Fish Today!",
-            "markdown": "\u25c0Feeling Like Fish Today!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Feeling_Like_Fish_Today!\u25b7"
-        },
-        {
-            "plaintext": "Gifts and Gifts in Return",
-            "markdown": "\u25c0Gifts and Gifts in Return\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gifts_and_Gifts_in_Return\u25b7"
-        },
-        {
-            "plaintext": "Lies and Promises",
-            "markdown": "\u25c0Lies and Promises\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lies_and_Promises\u25b7"
-        },
-        {
-            "plaintext": "Lights, Kamera, Action!",
-            "markdown": "\u25c0Lights, Kamera, Action!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lights,_Kamera,_Action!\u25b7"
-        },
-        {
-            "plaintext": "Special Friends",
-            "markdown": "\u25c0Special Friends\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Friends\u25b7"
-        },
-        {
-            "plaintext": "Tepetlisaurus Hide-and-Seek",
-            "markdown": "\u25c0Tepetlisaurus Hide-and-Seek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus_Hide-and-Seek\u25b7"
-        },
-        {
-            "plaintext": "Treasures and Collectors",
-            "markdown": "\u25c0Treasures and Collectors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_and_Collectors\u25b7"
-        },
-        {
-            "plaintext": "Waiting For Seeds to Sprout",
-            "markdown": "\u25c0Waiting For Seeds to Sprout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Waiting_For_Seeds_to_Sprout\u25b7"
-        },
-        {
-            "plaintext": "Weighty Wings",
-            "markdown": "\u25c0Weighty Wings\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Weighty_Wings\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0A Saurian Lover's Ordinary Days\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Saurian_Lover%27s_Ordinary_Days\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Feeling Like Fish Today!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Feeling_Like_Fish_Today!\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Friends of Fire and Water\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Friends_of_Fire_and_Water\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Gifts and Gifts in Return\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gifts_and_Gifts_in_Return\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Lies and Promises\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lies_and_Promises\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Lights, Kamera, Action!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lights,_Kamera,_Action!\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Sauro-Vet's Dilemma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sauro-Vet%27s_Dilemma\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Special Friends\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Friends\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Stones, Coconuts, and Saurian Traffickers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stones,_Coconuts,_and_Saurian_Traffickers\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tepetlisaurus Hide-and-Seek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus_Hide-and-Seek\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Lone Isle Named Night\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Lone_Isle_Named_Night\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Treasures and Collectors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_and_Collectors\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Waiting For Seeds to Sprout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Waiting_For_Seeds_to_Sprout\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Weighty Wings\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Weighty_Wings\u25b7"
+                }
+            ]
         }
     ]
 }

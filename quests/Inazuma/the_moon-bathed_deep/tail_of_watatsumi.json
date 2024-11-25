@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "\"Tail of Watatsumi\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22Tail_of_Watatsumi%22",
     "starting_location": {
-        "plaintext": "Watatsumi Island , Inazuma",
-        "markdown": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,53 +46,64 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the \"Tail\"",
-            "markdown": "Go to the \"Tail\""
-        },
-        {
-            "plaintext": "Read the stone tablet at the \"Tail\"",
-            "markdown": "Read the stone tablet at the \"Tail\""
-        },
-        {
-            "plaintext": "Break the \"Tail\" Seal",
-            "markdown": "Break the \"Tail\" Seal",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "To break the seal, simply use an Electrogranum to light up the 6 Electric Lamps.",
-                    "markdown": "To break the seal, simply use an \u25c0Electrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electrogranum\u25b7 to light up the 6 \u25c0Electric Lamps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electric_Lamp\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat the Fatui ambushers",
-            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui/Enemies\u25b7 ambushers",
-            "substeps": [
-                {
-                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the \"Tail\""
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Cryogunner Legionnaire x1",
-                    "markdown": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Read the stone tablet at the \"Tail\""
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Break the \"Tail\" Seal"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "To break the seal, simply use an \u25c0Electrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electrogranum\u25b7 to light up the 6 \u25c0Electric Lamps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electric_Lamp\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui/Enemies\u25b7 ambushers"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0Spirit Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spirit_Pearl\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Obtain the Spirit Pearl",
-            "markdown": "Obtain the \u25c0Spirit Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spirit_Pearl\u25b7"
         }
     ],
     "dialogue": true

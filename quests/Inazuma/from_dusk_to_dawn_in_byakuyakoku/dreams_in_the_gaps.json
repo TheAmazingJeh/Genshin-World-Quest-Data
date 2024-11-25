@@ -1,29 +1,34 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Dreams in the Gaps",
     "url": "https://genshin-impact.fandom.com/wiki/Dreams_in_the_Gaps",
     "starting_location": {
-        "plaintext": "The Narrows , Enkanomiya , Inazuma",
-        "markdown": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Go to The Narrows",
-            "markdown": "Go to \u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7"
-        },
-        {
-            "plaintext": "Activate the mechanism and open the gate to the secret room",
-            "markdown": "Activate the mechanism and open the gate to the secret room"
-        },
-        {
-            "plaintext": "Investigate the secret room",
-            "markdown": "Investigate the secret room"
-        },
-        {
-            "plaintext": "Obtain the fragment of the Reins of Revival",
-            "markdown": "Obtain the fragment of the \u25c0Reins of Revival\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reins_of_Revival_Fragment_(The_Narrows)\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the mechanism and open the gate to the secret room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the secret room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the fragment of the \u25c0Reins of Revival\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reins_of_Revival_Fragment_(The_Narrows)\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": false

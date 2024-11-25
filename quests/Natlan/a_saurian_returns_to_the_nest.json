@@ -1,0 +1,54 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "A Saurian Returns to the Nest",
+    "url": "https://genshin-impact.fandom.com/wiki/A_Saurian_Returns_to_the_Nest",
+    "starting_location": {
+        "text": "\u25c0Tezcatepetonco Range\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tezcatepetonco_Range\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the scored flight!"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Complete the \u25c0Warrior's Challenge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warrior%27s_Challenge\u25b7 with an S (11500 points) or higher"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

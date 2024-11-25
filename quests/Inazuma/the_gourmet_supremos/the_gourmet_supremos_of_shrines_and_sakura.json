@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Gourmet Supremos: Of Shrines and Sakura",
     "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_Of_Shrines_and_Sakura",
     "starting_location": {
-        "plaintext": "Grand Narukami Shrine , Narukami Island , Inazuma",
-        "markdown": "\u25c0Grand Narukami Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grand_Narukami_Shrine\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Grand Narukami Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grand_Narukami_Shrine_(Subarea)\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,12 +32,20 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Grand Narukami Shrine",
-            "markdown": "Go to the \u25c0Grand Narukami Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grand_Narukami_Shrine\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The quest is automatically completed when standing in front of the Sacred Sakura, with no interaction needed",
-                    "markdown": "The quest is automatically completed when standing in front of the \u25c0Sacred Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Sakura\u25b7, with no interaction needed"
+                    "tag": "li",
+                    "text": "Go to the \u25c0Grand Narukami Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grand_Narukami_Shrine_(Subarea)\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The quest is automatically completed when standing in front of the \u25c0Sacred Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Sakura\u25b7, with no interaction needed"
+                        }
+                    ]
                 }
             ]
         }

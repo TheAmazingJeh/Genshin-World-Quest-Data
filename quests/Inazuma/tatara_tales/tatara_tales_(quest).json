@@ -1,15 +1,12 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tatara Tales (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Tatara_Tales_%28Quest%29",
     "starting_location": {
-        "plaintext": "Kujou Encampment , Inazuma",
-        "markdown": "\u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
-    "requirements": {
-        "plaintext": "Complete Ritou Escape Plan",
-        "markdown": "Complete \u25c0Ritou Escape Plan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou_Escape_Plan\u25b7"
-    },
+    "requirements": null,
     "rewards": [
         {
             "Name": "Adventure EXP",
@@ -49,38 +46,61 @@
     ],
     "steps": [
         {
-            "plaintext": "Ask the two about the situation",
-            "markdown": "Ask the two about the situation"
+            "tag": "p",
+            "text": "Start the quest by approaching \u25c0Toranosuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Toranosuke\u25b7 and \u25c0Miyuki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Miyuki\u25b7 at \u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7"
         },
         {
-            "plaintext": "Look for Xavier",
-            "markdown": "Look for \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
-        },
-        {
-            "plaintext": "Observe the Mikage Furnace 0/3",
-            "markdown": "Observe the \u25c0Mikage Furnace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikage_Furnace\u25b7 0/3",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "For the rift north of the Mikage Furnace, defeat three opponents",
-                    "markdown": "For the rift north of the Mikage Furnace, defeat three opponents",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Ask the two about the situation"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Observe the \u25c0Mikage Furnace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikage_Furnace\u25b7 0/3"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_electrohammer_vanguard> \u25c0Fatui Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "For the rift north of the Mikage Furnace, defeat three opponents"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "For the rift northeast of Mikage Furnace, there will be an \u25c0Electro Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie#Electro_Seelie\u25b7. Chasing it will lead you to a spot where you can \"Investigate\""
+                        },
+                        {
+                            "tag": "li",
+                            "text": "For the rift east of Mikage Furnace, use the nearby \u25c0Thunder Sakura Bough\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Bough\u25b7 to break the \u25c0Thunder Barrier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Barrier\u25b7 and investigate the rift"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_electrohammer_vanguard> \u25c0Fatui Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Anemoboxer Vanguard x1",
-                            "markdown": "<img:fatui_anemoboxer_vanguard> \u25c0Fatui Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Anemoboxer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_anemoboxer_vanguard> \u25c0Fatui Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Anemoboxer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Cryogunner Legionnaire x1",
-                            "markdown": "<img:fatui_cryogunner_legionnaire> \u25c0Fatui Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_cryogunner_legionnaire> \u25c0Fatui Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
                             }
@@ -88,81 +108,82 @@
                     ]
                 },
                 {
-                    "plaintext": "For the rift northeast of Mikage Furnace, there will be an Electro Seelie. Chasing it will lead you to a spot where you can \"Investigate\"",
-                    "markdown": "For the rift northeast of Mikage Furnace, there will be an \u25c0Electro Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie#Electro_Seelie\u25b7. Chasing it will lead you to a spot where you can \"Investigate\""
+                    "tag": "li",
+                    "text": "Report back to Xavier."
                 },
                 {
-                    "plaintext": "For the rift east of Mikage Furnace, use the nearby Thunder Sakura Bough to break the Thunder Barrier and investigate the rift",
-                    "markdown": "For the rift east of Mikage Furnace, use the nearby \u25c0Thunder Sakura Bough\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Sakura_Bough\u25b7 to break the \u25c0Thunder Barrier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thunder_Barrier\u25b7 and investigate the rift"
-                }
-            ]
-        },
-        {
-            "plaintext": "Report back to Xavier.",
-            "markdown": "Report back to Xavier.",
-            "substeps": [
-                {
-                    "plaintext": "Obtain Kamuijima Cannon Map",
-                    "markdown": "Obtain \u25c0Kamuijima Cannon Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamuijima_Cannon_Map\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Activate the Kamuijima Cannons and destroy the rifts 0/3",
-            "markdown": "Activate the \u25c0Kamuijima Cannons\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamuijima_Cannon\u25b7 and destroy the rifts 0/3"
-        },
-        {
-            "plaintext": "Report back to Xavier",
-            "markdown": "Report back to Xavier"
-        },
-        {
-            "plaintext": "Defeat the Attacking Fatui",
-            "markdown": "Defeat the Attacking Fatui",
-            "substeps": [
-                {
-                    "plaintext": "Fatui Anemoboxer Vanguard x1",
-                    "markdown": "<img:fatui_anemoboxer_vanguard> \u25c0Fatui Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Anemoboxer_Vanguard\u25b7 x1",
-                    "img": {
-                        "fatui_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Kamuijima Cannon Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamuijima_Cannon_Map\u25b7"
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Fatui Cryogunner Legionnaire x1",
-                    "markdown": "<img:fatui_cryogunner_legionnaire> \u25c0Fatui Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryogunner_Legionnaire\u25b7 x1",
-                    "img": {
-                        "fatui_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Activate the \u25c0Kamuijima Cannons\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamuijima_Cannon\u25b7 and destroy the rifts 0/3"
                 },
                 {
-                    "plaintext": "Fatui Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_pyroslinger_bracer> \u25c0Fatui Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Get close to the Mikage Furnace",
-            "markdown": "Get close to the Mikage Furnace"
-        },
-        {
-            "plaintext": "Take a picture of the storage device",
-            "markdown": "Take a picture of the storage device",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Report back to Xavier"
+                },
                 {
-                    "plaintext": "Obtain Clear Image",
-                    "markdown": "Obtain \u25c0Clear Image\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clear_Image\u25b7"
+                    "tag": "li",
+                    "text": "Defeat the Attacking Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_anemoboxer_vanguard> \u25c0Fatui Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Anemoboxer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_cryogunner_legionnaire> \u25c0Fatui Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_pyroslinger_bracer> \u25c0Fatui Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Get close to the Mikage Furnace"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a picture of the storage device"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Clear Image\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clear_Image\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Xavier"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Xavier",
-            "markdown": "Report back to Xavier"
         }
     ],
     "dialogue": true

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Aranyaka",
     "url": "https://genshin-impact.fandom.com/wiki/Aranyaka",
@@ -84,20 +85,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Part I - Woodland Encounter",
-            "markdown": "Part I - \u25c0Woodland Encounter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Woodland_Encounter\u25b7"
-        },
-        {
-            "plaintext": "Part II - Dream Nursery",
-            "markdown": "Part II - \u25c0Dream Nursery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dream_Nursery\u25b7"
-        },
-        {
-            "plaintext": "Part III - Nursery of Lost Dreams",
-            "markdown": "Part III - \u25c0Nursery of Lost Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nursery_of_Lost_Dreams\u25b7"
-        },
-        {
-            "plaintext": "Part IV - In the End, the Forest Will Remember",
-            "markdown": "Part IV - \u25c0In the End, the Forest Will Remember\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_the_End,_the_Forest_Will_Remember\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Part I - \u25c0Woodland Encounter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Woodland_Encounter\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Part II - \u25c0Dream Nursery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dream_Nursery\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Part III - \u25c0Nursery of Lost Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nursery_of_Lost_Dreams\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Part IV - \u25c0In the End, the Forest Will Remember\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_the_End,_the_Forest_Will_Remember\u25b7"
+                }
+            ]
         }
     ]
 }

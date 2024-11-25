@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Great Mountain Survey",
     "url": "https://genshin-impact.fandom.com/wiki/The_Great_Mountain_Survey",
     "starting_location": {
-        "plaintext": "Entombed City - Outskirts , Mondstadt",
-        "markdown": "\u25c0Entombed City - Outskirts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Entombed_City_-_Outskirts\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Entombed City - Outskirts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Entombed_City_-_Outskirts\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,20 +46,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Retrieve the survey beacons (0/4)",
-            "markdown": "Retrieve the survey beacons (0/4)"
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Esther\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Esther\u25b7 near \u25c0Entombed City - Outskirts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Entombed_City_-_Outskirts\u25b7, \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
         },
         {
-            "plaintext": "Talk to Esther",
-            "markdown": "Talk to Esther"
-        },
-        {
-            "plaintext": "Place the survey beacons (0/4)",
-            "markdown": "Place the survey beacons (0/4)"
-        },
-        {
-            "plaintext": "Report back to Esther",
-            "markdown": "Report back to Esther"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Retrieve the survey beacons (0/4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Esther"
+                },
+                {
+                    "tag": "li",
+                    "text": "Place the survey beacons (0/4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Esther"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Leroy: Firing Squad",
     "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Firing_Squad",
     "starting_location": {
-        "plaintext": "Court of Fontaine: Vasari Passage , Fontaine",
-        "markdown": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,16 +39,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Benoit",
-            "markdown": "Talk to Benoit"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "The quest unlocks automatically 1 in-game day after completing \u25c0Leroy: Dying Flash\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Leroy:_Dying_Flash\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "Clean around the house (0/3)",
-            "markdown": "Clean around the house (0/3)"
-        },
-        {
-            "plaintext": "Report back to Benoit",
-            "markdown": "Report back to Benoit"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Benoit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean around the house (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Benoit"
+                }
+            ]
         }
     ],
     "dialogue": true

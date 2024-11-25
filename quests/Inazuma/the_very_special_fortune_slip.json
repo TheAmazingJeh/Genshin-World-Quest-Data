@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "The Very Special Fortune Slip",
     "url": "https://genshin-impact.fandom.com/wiki/The_Very_Special_Fortune_Slip",
@@ -56,16 +57,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Shuumatsuban Operations",
-            "markdown": "\u25c0Shuumatsuban Operations\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shuumatsuban_Operations\u25b7"
-        },
-        {
-            "plaintext": "The Replacement's Secret",
-            "markdown": "\u25c0The Replacement's Secret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Replacement%27s_Secret\u25b7"
-        },
-        {
-            "plaintext": "Where the Dandelions Find Rest",
-            "markdown": "\u25c0Where the Dandelions Find Rest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Where_the_Dandelions_Find_Rest\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Shuumatsuban Operations\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shuumatsuban_Operations\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Replacement's Secret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Replacement%27s_Secret\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Where the Dandelions Find Rest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Where_the_Dandelions_Find_Rest\u25b7"
+                }
+            ]
         }
     ]
 }

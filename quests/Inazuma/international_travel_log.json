@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "International Travel Log",
     "url": "https://genshin-impact.fandom.com/wiki/International_Travel_Log",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan",
@@ -42,67 +42,82 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Kozue",
-            "markdown": "Talk to \u25c0Kozue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kozue\u25b7"
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Midori\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Midori\u25b7 in \u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7."
         },
         {
-            "plaintext": "Talk to Ramsay inside the teahouse",
-            "markdown": "Talk to \u25c0Ramsay\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ramsay\u25b7 inside the teahouse"
-        },
-        {
-            "plaintext": "Go to the nearby beach",
-            "markdown": "Go to the nearby beach"
-        },
-        {
-            "plaintext": "Walk around the beach",
-            "markdown": "Walk around the beach",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Talk to Heihachi",
-                    "markdown": "Talk to \u25c0Heihachi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Heihachi\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Kozue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kozue\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ramsay\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ramsay\u25b7 inside the teahouse"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the nearby beach"
+                },
+                {
+                    "tag": "li",
+                    "text": "Walk around the beach"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Talk to \u25c0Heihachi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Heihachi\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ramsay"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the waterfall north of the city"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 \u00d73",
+                            "img": {
+                                "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ramsay"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to a safe spot"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the summit of the nearby mountain"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to Komore Teahouse"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Midori"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Ramsay",
-            "markdown": "Talk to Ramsay"
-        },
-        {
-            "plaintext": "Go to the waterfall north of the city",
-            "markdown": "Go to the waterfall north of the city"
-        },
-        {
-            "plaintext": "Defeat opponents",
-            "markdown": "Defeat opponents",
-            "substeps": [
-                {
-                    "plaintext": "Wooden Shield Hilichurl Guard x3",
-                    "markdown": "<img:wooden_shield_hilichurl_guard> \u25c0Wooden Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wooden_Shield_Hilichurl_Guard\u25b7 x3",
-                    "img": {
-                        "wooden_shield_hilichurl_guard": "Hilichurl_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Ramsay",
-            "markdown": "Talk to Ramsay"
-        },
-        {
-            "plaintext": "Go to a safe spot",
-            "markdown": "Go to a safe spot"
-        },
-        {
-            "plaintext": "Go to the summit of the nearby mountain",
-            "markdown": "Go to the summit of the nearby mountain"
-        },
-        {
-            "plaintext": "Return to Komore Teahouse",
-            "markdown": "Return to Komore Teahouse"
-        },
-        {
-            "plaintext": "Talk to Midori",
-            "markdown": "Talk to Midori"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Unfinished Story",
     "url": "https://genshin-impact.fandom.com/wiki/Unfinished_Story",
     "starting_location": {
-        "plaintext": "Institute of Natural Philosophy , Fontaine",
-        "markdown": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -42,8 +42,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Ann",
-            "markdown": "Talk to Ann"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Ann"
+                }
+            ]
         }
     ],
     "dialogue": true

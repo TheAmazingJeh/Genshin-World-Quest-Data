@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Hyperion's Dirge",
     "url": "https://genshin-impact.fandom.com/wiki/Hyperion%27s_Dirge",
@@ -56,16 +57,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Narrow Inquiry",
-            "markdown": "\u25c0Narrow Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narrow_Inquiry\u25b7"
+            "tag": "p",
+            "text": "The player can start this quest series with any one of the four quests in this series."
         },
         {
-            "plaintext": "Temple Inquiry",
-            "markdown": "\u25c0Temple Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_Inquiry\u25b7"
+            "tag": "p",
+            "text": "The \u25c0Hyperion's Dirge (Quest)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hyperion%27s_Dirge_(Quest)\u25b7 can be started first to receive an optional introductory dialogue for this quest series. It is recommended to start with this quest first to add it to the quest menu. It is obtained by talking to \u25c0Aberaku\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aberaku\u25b7, who is located in \u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7."
         },
         {
-            "plaintext": "Serpent's Heart Inquiry",
-            "markdown": "\u25c0Serpent's Heart Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serpent%27s_Heart_Inquiry\u25b7"
+            "tag": "p",
+            "text": "The following three inquiry quests can be done in any order. The player can start all three of these quests at the same time without completing them; and as such, Aberaku can be in multiple locations on the Enkanomiya map at the same time."
+        },
+        {
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Narrow Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narrow_Inquiry\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Temple Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temple_Inquiry\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Serpent's Heart Inquiry\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serpent%27s_Heart_Inquiry\u25b7"
+                }
+            ]
+        },
+        {
+            "tag": "p",
+            "text": "Once the three inquiry quests are completed, the player can finally complete \u25c0Hyperion's Dirge (Quest)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hyperion%27s_Dirge_(Quest)\u25b7."
         }
     ]
 }

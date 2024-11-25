@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Gourmet Supremos, Assemble!",
     "url": "https://genshin-impact.fandom.com/wiki/Gourmet_Supremos%2C_Assemble%21",
     "starting_location": {
-        "plaintext": "Inazuma",
-        "markdown": "\u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan",
@@ -56,22 +56,34 @@
     ],
     "steps": [
         {
-            "plaintext": "Collect the Special Sakura Bloom",
-            "markdown": "Collect the \u25c0Special Sakura Bloom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Sakura_Bloom\u25b7",
-            "substeps": [
+            "tag": "p",
+            "text": "Approach \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7 at the sandbar connecting \u25c0Ritou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou\u25b7 to \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 to automatically initiate the quest."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "This step will automatically be completed if one is already in your possession.",
-                    "markdown": "This step will automatically be completed if one is already in your possession."
+                    "tag": "li",
+                    "text": "Collect the \u25c0Special Sakura Bloom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Sakura_Bloom\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This step will automatically be completed if one is already in your possession."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the Special Sakura Bloom to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xudong"
                 }
             ]
-        },
-        {
-            "plaintext": "Give the Special Sakura Bloom to Xudong",
-            "markdown": "Give the Special Sakura Bloom to \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7"
-        },
-        {
-            "plaintext": "Talk to Xudong",
-            "markdown": "Talk to Xudong"
         }
     ],
     "dialogue": true

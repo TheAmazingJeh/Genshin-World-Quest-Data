@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Tatara Tales",
     "url": "https://genshin-impact.fandom.com/wiki/Tatara_Tales",
@@ -49,36 +50,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Tatara Tales (Day 1)",
-            "markdown": "\u25c0Tatara Tales\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales_(Quest)\u25b7 (Day 1)"
+            "tag": "p",
+            "text": "Some quests in this chapter may require the \u25c0Daily Reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Daily_Reset\u25b7 to pass after completing the previous quest."
         },
         {
-            "plaintext": "Tatara Tales: Priority Investigation (Day 1)",
-            "markdown": "\u25c0Tatara Tales: Priority Investigation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Priority_Investigation\u25b7 (Day 1)"
-        },
-        {
-            "plaintext": "Tatara Tales: Purification Device (Day 2)",
-            "markdown": "\u25c0Tatara Tales: Purification Device\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Purification_Device\u25b7 (Day 2)"
-        },
-        {
-            "plaintext": "Tatara Tales: Data Collection (Day 3)",
-            "markdown": "\u25c0Tatara Tales: Data Collection\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Data_Collection\u25b7 (Day 3)"
-        },
-        {
-            "plaintext": "Tatara Tales: Process Is Everything (Day 4)",
-            "markdown": "\u25c0Tatara Tales: Process Is Everything\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Process_Is_Everything\u25b7 (Day 4)"
-        },
-        {
-            "plaintext": "Tatara Tales: Functional Test (Day 5)",
-            "markdown": "\u25c0Tatara Tales: Functional Test\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Functional_Test\u25b7 (Day 5)"
-        },
-        {
-            "plaintext": "Tatara Tales: Final Preparations (Day 6)",
-            "markdown": "\u25c0Tatara Tales: Final Preparations\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Final_Preparations\u25b7 (Day 6)"
-        },
-        {
-            "plaintext": "Tatara Tales: The Last Act (Day 7)",
-            "markdown": "\u25c0Tatara Tales: The Last Act\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_The_Last_Act\u25b7 (Day 7)"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales_(Quest)\u25b7 (Day 1)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales: Priority Investigation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Priority_Investigation\u25b7 (Day 1)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales: Purification Device\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Purification_Device\u25b7 (Day 2)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales: Data Collection\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Data_Collection\u25b7 (Day 3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales: Process Is Everything\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Process_Is_Everything\u25b7 (Day 4)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales: Functional Test\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Functional_Test\u25b7 (Day 5)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales: Final Preparations\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_Final_Preparations\u25b7 (Day 6)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Tatara Tales: The Last Act\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatara_Tales:_The_Last_Act\u25b7 (Day 7)"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,85 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Sauro-Vet's Dilemma",
+    "url": "https://genshin-impact.fandom.com/wiki/Sauro-Vet%27s_Dilemma",
+    "starting_location": {
+        "text": "\u25c0Quahuacan Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Quahuacan_Cliff\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Subdue the temperamental Qucusaurus"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:qucusaurus> \u25c0Temperamental Qucusaurus \u2014 Could Someone Have Stolen Their Snacks?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qucusaurus\u25b7",
+                            "img": {
+                                "qucusaurus": "Qucusaurus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Catch up with \"Kururuk\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Have \"Kururuk\" take some medicine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Subdue \"Kururuk\""
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:qucusaurus> \u25c0Extremely Temperamental Kururuk \u2014Could the Medicine Be A Bit Too Effective?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qucusaurus\u25b7",
+                            "img": {
+                                "qucusaurus": "Qucusaurus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Mazkal"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

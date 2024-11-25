@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Ministry Missions",
     "url": "https://genshin-impact.fandom.com/wiki/Ministry_Missions",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Farewell, Archaic Lord",
@@ -28,8 +28,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Speak to Ms. Yu.",
-            "markdown": "Speak to \u25c0Ms. Yu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ms._Yu\u25b7."
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Speak to \u25c0Ms. Yu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ms._Yu\u25b7."
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "The Moon-Bathed Deep",
     "url": "https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep",
@@ -56,28 +57,33 @@
     ],
     "steps": [
         {
-            "plaintext": "The Moon-Bathed Deep",
-            "markdown": "\u25c0The Moon-Bathed Deep\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep_(Quest)\u25b7"
-        },
-        {
-            "plaintext": "\"Eye of Watatsumi\"",
-            "markdown": "\u25c0\"Eye of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Eye_of_Watatsumi%22\u25b7"
-        },
-        {
-            "plaintext": "\"Fang of Watatsumi\"",
-            "markdown": "\u25c0\"Fang of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Fang_of_Watatsumi%22\u25b7"
-        },
-        {
-            "plaintext": "\"Fin of Watatsumi\"",
-            "markdown": "\u25c0\"Fin of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Fin_of_Watatsumi%22\u25b7"
-        },
-        {
-            "plaintext": "\"Tail of Watatsumi\"",
-            "markdown": "\u25c0\"Tail of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Tail_of_Watatsumi%22\u25b7"
-        },
-        {
-            "plaintext": "\"Heart of Watatsumi\"",
-            "markdown": "\u25c0\"Heart of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Heart_of_Watatsumi%22\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Moon-Bathed Deep\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Moon-Bathed_Deep_(Quest)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Eye of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Eye_of_Watatsumi%22\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Fang of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Fang_of_Watatsumi%22\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Fin of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Fin_of_Watatsumi%22\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Tail of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Tail_of_Watatsumi%22\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Heart of Watatsumi\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Heart_of_Watatsumi%22\u25b7"
+                }
+            ]
         }
     ]
 }

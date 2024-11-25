@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scenes from Life in Meropide: An Actor's Training",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_An_Actor%27s_Training",
     "starting_location": {
-        "plaintext": "Administrative Area , Fontaine",
-        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,8 +39,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Meilhat",
-            "markdown": "Talk to Meilhat"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Meilhat"
+                }
+            ]
         }
     ],
     "dialogue": true

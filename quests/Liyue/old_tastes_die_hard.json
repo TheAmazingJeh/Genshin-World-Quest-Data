@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Old Tastes Die Hard",
     "url": "https://genshin-impact.fandom.com/wiki/Old_Tastes_Die_Hard",
     "starting_location": {
-        "plaintext": "Sea of Clouds , Liyue",
-        "markdown": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,22 +46,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Mr. Zhu",
-            "markdown": "Talk to \u25c0Mr. Zhu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mr._Zhu\u25b7"
-        },
-        {
-            "plaintext": "Give the \"Sweetened Mistress\" to Mr. Zhu",
-            "markdown": "Give the \"Sweetened Mistress\" to Mr. Zhu",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Give him a Sweet Madame of any quality. Mr. Zhu misremembered the name of the dish.",
-                    "markdown": "Give him a \u25c0Sweet Madame\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sweet_Madame\u25b7 of any quality. Mr. Zhu misremembered the name of the dish."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Mr. Zhu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mr._Zhu\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the \"Sweetened Mistress\" to Mr. Zhu"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Give him a \u25c0Sweet Madame\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sweet_Madame\u25b7 of any quality. Mr. Zhu misremembered the name of the dish."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Mr. Zhu"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Mr. Zhu",
-            "markdown": "Talk to Mr. Zhu"
         }
     ],
     "dialogue": true

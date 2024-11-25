@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Courage Is in the Heart",
     "url": "https://genshin-impact.fandom.com/wiki/Courage_Is_in_the_Heart",
     "starting_location": {
-        "plaintext": "Lokapala Jungle , Sumeru",
-        "markdown": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Static Views",
@@ -35,86 +35,113 @@
     ],
     "steps": [
         {
-            "plaintext": "Defeat the hilichurls by the house",
-            "markdown": "Defeat the hilichurls by the house",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain  Florescent Talisman",
-                    "markdown": "Obtain <img:florescent_talisman> \u25c0Florescent Talisman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Florescent_Talisman\u25b7",
-                    "img": {
-                        "florescent_talisman": "Item_Florescent_Talisman.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Paimon",
-            "markdown": "Talk to Paimon"
-        },
-        {
-            "plaintext": "Enter the Aranara house",
-            "markdown": "Enter the Aranara house"
-        },
-        {
-            "plaintext": "Search the Aranara house for clues",
-            "markdown": "Search the Aranara house for clues",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Defeat the hilichurls by the house"
+                },
                 {
-                    "plaintext": "Read Inconsistently-Written Notes",
-                    "markdown": "Read Inconsistently-Written Notes"
-                }
-            ]
-        },
-        {
-            "plaintext": "Find Arashakun in the cave",
-            "markdown": "Find Arashakun in the cave",
-            "substeps": [
-                {
-                    "plaintext": "The cave is found by following the road in front of the house east down the hill, then turning north.  It is guarded by two Hilichurl Archers and a Hilichurl Berserker.",
-                    "markdown": "The cave is found by following the road in front of the house east down the hill, then turning north.  It is guarded by two Hilichurl Archers and a Hilichurl Berserker."
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat the monsters besieging the Aranara",
-            "markdown": "Defeat the monsters besieging the Aranara",
-            "substeps": [
-                {
-                    "plaintext": "Hydro Slime x1",
-                    "markdown": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 x1",
-                    "img": {
-                        "hydro_slime": "Hydro_Slime_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the Aranara"
-        },
-        {
-            "plaintext": "Give the talisman back to Arashakun",
-            "markdown": "Give the talisman back to Arashakun"
-        },
-        {
-            "plaintext": "Talk to Arashakun",
-            "markdown": "Talk to Arashakun"
-        },
-        {
-            "plaintext": "Go to the Furry Mask Demon King's camp",
-            "markdown": "Go to the \u25c0Furry Mask Demon King\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7's camp"
-        },
-        {
-            "plaintext": "Defeat the Furry Mask Demon King",
-            "markdown": "Defeat the Furry Mask Demon King",
-            "substeps": [
-                {
-                    "plaintext": "First wave:",
-                    "markdown": "First wave:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Hilichurl x3",
-                            "markdown": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 x3",
+                            "tag": "li",
+                            "text": "Obtain <img:florescent_talisman> \u25c0Florescent Talisman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Florescent_Talisman\u25b7",
+                            "img": {
+                                "florescent_talisman": "Item_Florescent_Talisman.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Paimon"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the Aranara house"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search the Aranara house for clues"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Read Inconsistently-Written Notes"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Find Arashakun in the cave"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The cave is found by following the road in front of the house east down the hill, then turning north.  It is guarded by two Hilichurl Archers and a Hilichurl Berserker."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the monsters besieging the Aranara"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_slime> \u25c0Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7 \u00d71",
+                            "img": {
+                                "hydro_slime": "Hydro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Aranara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the talisman back to Arashakun"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arashakun"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Furry Mask Demon King\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7's camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Furry Mask Demon King"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "First wave:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Second wave:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hilichurl> \u25c0Hilichurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl\u25b7 \u00d73",
                             "img": {
                                 "hilichurl": "Hilichurl_Icon.png"
                             }
@@ -122,23 +149,22 @@
                     ]
                 },
                 {
-                    "plaintext": "Second wave:",
-                    "markdown": "Second wave:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Furry Mask Demon King: Hilichurl All Along",
-                            "markdown": "<img:hilichurl_berserker> \u25c0Furry Mask Demon King: Hilichurl All Along\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7",
+                            "tag": "li",
+                            "text": "<img:hilichurl_berserker> \u25c0Furry Mask Demon King: Hilichurl All Along\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7",
                             "img": {
                                 "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arashakun"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Arashakun",
-            "markdown": "Talk to Arashakun"
         }
     ],
     "dialogue": true

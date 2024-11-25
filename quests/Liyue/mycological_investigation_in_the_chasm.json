@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Mycological Investigation in The Chasm",
     "url": "https://genshin-impact.fandom.com/wiki/Mycological_Investigation_in_The_Chasm",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
     },
     "requirements": {
         "plaintext": "Completed Chasm Spelunkers quest",
@@ -35,15 +35,20 @@
     ],
     "steps": [
         {
-            "plaintext": "Collect 8  shining mushrooms",
-            "markdown": "Collect 8 <img:starshroom> \u25c0shining mushrooms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starshroom\u25b7",
-            "img": {
-                "starshroom": "Item_Starshroom.png"
-            }
-        },
-        {
-            "plaintext": "Bring the shining mushrooms back to Khedive for appraisal",
-            "markdown": "Bring the shining mushrooms back to Khedive for appraisal"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Collect 8 <img:starshroom> \u25c0shining mushrooms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starshroom\u25b7",
+                    "img": {
+                        "starshroom": "Item_Starshroom.png"
+                    }
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the shining mushrooms back to Khedive for appraisal"
+                }
+            ]
         }
     ],
     "dialogue": true

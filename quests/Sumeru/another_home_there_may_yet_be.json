@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Another Home There May Yet Be",
     "url": "https://genshin-impact.fandom.com/wiki/Another_Home_There_May_Yet_Be",
     "starting_location": {
-        "plaintext": "Sumeru City , Sumeru",
-        "markdown": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Sumeru City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_City\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,8 +39,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Explain the situation to the waiting Fungi",
-            "markdown": "Explain the situation to the waiting Fungi"
+            "tag": "p",
+            "text": "The quest will unlock automatically the next daily reset after completing \u25c0What Shape Does the Self Hold\u25b6\u25c1https://genshin-impact.fandom.com/wiki/What_Shape_Does_the_Self_Hold\u25b7 in \u25c0Nahida\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nahida\u25b7's \u25c0Story Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Story_Quest\u25b7, \u25c0Sapientia Oromasdis Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sapientia_Oromasdis_Chapter\u25b7: Act II - \u25c0Homecoming\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Homecoming\u25b7."
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Explain the situation to the waiting Fungi"
+                }
+            ]
         }
     ],
     "dialogue": true

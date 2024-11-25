@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Cleanup At Dawn",
     "url": "https://genshin-impact.fandom.com/wiki/Cleanup_At_Dawn",
     "starting_location": {
-        "plaintext": "Dawn Winery , Mondstadt",
-        "markdown": "\u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Song of the Dragon and Freedom",
@@ -42,22 +42,34 @@
     ],
     "steps": [
         {
-            "plaintext": "Follow Adelinde into the Dawn Winery",
-            "markdown": "Follow Adelinde into the Dawn Winery"
+            "tag": "p",
+            "text": "Talk to \u25c0Adelinde\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adelinde\u25b7 outside of the \u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7 to start the quest."
         },
         {
-            "plaintext": "Clean all the stains (0/4)",
-            "markdown": "Clean all the stains (0/4)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Use Anemo or Hydro Skills to clean the stains on the floor.",
-                    "markdown": "Use Anemo or Hydro Skills to clean the stains on the floor."
+                    "tag": "li",
+                    "text": "Follow Adelinde into the Dawn Winery"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean all the stains (0/4)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use Anemo or Hydro Skills to clean the stains on the floor."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Adelinde"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Adelinde",
-            "markdown": "Talk to Adelinde"
         }
     ],
     "dialogue": true

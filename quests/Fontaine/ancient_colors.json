@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Ancient Colors",
     "url": "https://genshin-impact.fandom.com/wiki/Ancient_Colors",
@@ -49,16 +50,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Act I - A Brush of Seafoam and Crimson",
-            "markdown": "Act I - \u25c0A Brush of Seafoam and Crimson\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Brush_of_Seafoam_and_Crimson\u25b7"
-        },
-        {
-            "plaintext": "Act II - A Gradient of Dreams and Ochre",
-            "markdown": "Act II - \u25c0A Gradient of Dreams and Ochre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gradient_of_Dreams_and_Ochre\u25b7"
-        },
-        {
-            "plaintext": "Act III - Blue Longing of Heart and Moon",
-            "markdown": "Act III - \u25c0Blue Longing of Heart and Moon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blue_Longing_of_Heart_and_Moon\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Act I - \u25c0A Brush of Seafoam and Crimson\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Brush_of_Seafoam_and_Crimson\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act II - \u25c0A Gradient of Dreams and Ochre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gradient_of_Dreams_and_Ochre\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act III - \u25c0Blue Longing of Heart and Moon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Blue_Longing_of_Heart_and_Moon\u25b7"
+                }
+            ]
         }
     ]
 }

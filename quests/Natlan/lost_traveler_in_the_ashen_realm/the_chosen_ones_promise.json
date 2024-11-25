@@ -1,0 +1,19 @@
+{
+    "version": "1.1",
+    "type": "act",
+    "name": "The Chosen One's Promise",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Chosen_One%27s_Promise",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Chosen One's Promise\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chosen_One%27s_Promise_(Quest)\u25b7"
+                }
+            ]
+        }
+    ]
+}

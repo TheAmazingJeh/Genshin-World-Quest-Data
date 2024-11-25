@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Vimana Agama: Dev Delver Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/Vimana_Agama%3A_Dev_Delver_Chapter",
     "starting_location": {
-        "plaintext": "Devantaka Mountain , Sumeru",
-        "markdown": "\u25c0Devantaka Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Devantaka_Mountain\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Devantaka Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Devantaka_Mountain\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,43 +53,62 @@
     ],
     "steps": [
         {
-            "plaintext": "Leave the Ruin Golem",
-            "markdown": "Leave the Ruin Golem"
-        },
-        {
-            "plaintext": "Check the area that was hit",
-            "markdown": "Check the area that was hit"
-        },
-        {
-            "plaintext": "Enter the underground ruins",
-            "markdown": "Enter the underground ruins"
-        },
-        {
-            "plaintext": "Investigate the underground ruins",
-            "markdown": "Investigate the underground ruins"
-        },
-        {
-            "plaintext": "Continue exploring",
-            "markdown": "Continue exploring"
-        },
-        {
-            "plaintext": "Defeat the Abyss Mages at the three locations (0/3)",
-            "markdown": "Defeat the \u25c0Abyss Mages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Mage\u25b7 at the three locations (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The first location consist of:",
-                    "markdown": "The first location consist of:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Leave the Ruin Golem"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the area that was hit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the underground ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the underground ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Abyss Mages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Mage\u25b7 at the three locations (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Cryo Abyss Mage x1",
-                            "markdown": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "The first location consist of:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The second location consist of:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The final location consist of:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
                             "img": {
                                 "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Pyro Abyss Mage x1",
-                            "markdown": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 x1",
                             "img": {
                                 "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
                             }
@@ -97,19 +116,18 @@
                     ]
                 },
                 {
-                    "plaintext": "The second location consist of:",
-                    "markdown": "The second location consist of:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Electro Abyss Mage x1",
-                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
                             "img": {
                                 "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Hydro Abyss Mage x1",
-                            "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
                             "img": {
                                 "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
                             }
@@ -117,55 +135,57 @@
                     ]
                 },
                 {
-                    "plaintext": "The final location consist of:",
-                    "markdown": "The final location consist of:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Cryo Abyss Mage x1",
-                            "markdown": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
                             "img": {
                                 "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Electro Abyss Mage x1",
-                            "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
                             "img": {
                                 "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Head to the core to shut it down",
-            "markdown": "Head to the core to shut it down"
-        },
-        {
-            "plaintext": "Defeat the Abyss Lector: Violet Lightning",
-            "markdown": "Defeat the Abyss Lector: Violet Lightning",
-            "substeps": [
+                },
                 {
-                    "plaintext": "The Blazing Thunder of the Dark Depths - The Thing From Below",
-                    "markdown": "<img:abyss_lector_violet_lightning> \u25c0The Blazing Thunder of the Dark Depths - The Thing From Below\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Lector:_Violet_Lightning\u25b7",
-                    "img": {
-                        "abyss_lector_violet_lightning": "Abyss_Lector_Violet_Lightning_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Head to the core to shut it down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Abyss Lector: Violet Lightning"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:abyss_lector_violet_lightning> \u25c0The Blazing Thunder of the Dark Depths - The Thing From Below\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Lector:_Violet_Lightning\u25b7",
+                            "img": {
+                                "abyss_lector_violet_lightning": "Abyss_Lector_Violet_Lightning_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Shut down the extraction device"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the underground ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ararycan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ararycan\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Shut down the extraction device",
-            "markdown": "Shut down the extraction device"
-        },
-        {
-            "plaintext": "Leave the underground ruins",
-            "markdown": "Leave the underground ruins"
-        },
-        {
-            "plaintext": "Talk to Ararycan",
-            "markdown": "Talk to \u25c0Ararycan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ararycan\u25b7"
         }
     ],
     "dialogue": true

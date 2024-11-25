@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Cooking, the Aroma of Homecoming",
     "url": "https://genshin-impact.fandom.com/wiki/Cooking%2C_the_Aroma_of_Homecoming",
     "starting_location": {
-        "plaintext": "Apam Woods , Sumeru",
-        "markdown": "\u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Apam Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apam_Woods\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,23 +46,28 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for Arapas",
-            "markdown": "Look for \u25c0Arapas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapas\u25b7"
-        },
-        {
-            "plaintext": "Investigate the pot emitting the aroma",
-            "markdown": "Investigate the pot emitting the aroma"
-        },
-        {
-            "plaintext": "Obtain  \"Living Spring\"",
-            "markdown": "Obtain <img:living_spring> \u25c0\"Living Spring\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Living_Spring\u25b7",
-            "img": {
-                "living_spring": "Item_Living_Spring.png"
-            }
-        },
-        {
-            "plaintext": "Give Living Spring to Arapas",
-            "markdown": "Give Living Spring to Arapas"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Look for \u25c0Arapas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapas\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the pot emitting the aroma"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain <img:living_spring> \u25c0\"Living Spring\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Living_Spring\u25b7",
+                    "img": {
+                        "living_spring": "Item_Living_Spring.png"
+                    }
+                },
+                {
+                    "tag": "li",
+                    "text": "Give Living Spring to Arapas"
+                }
+            ]
         }
     ],
     "dialogue": true

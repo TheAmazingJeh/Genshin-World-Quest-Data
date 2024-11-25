@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Every Day a New Adventure",
     "url": "https://genshin-impact.fandom.com/wiki/Every_Day_a_New_Adventure",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Reach Adventure Rank 12",
@@ -35,26 +35,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Katheryne",
-            "markdown": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "After talking to Katheryne, the player unlocks Commissions in the Adventurer Handbook.",
-                    "markdown": "After talking to Katheryne, the player unlocks \u25c0Commissions\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Commissions\u25b7 in the \u25c0Adventurer Handbook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurer_Handbook\u25b7."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7"
                 },
                 {
-                    "plaintext": "The player can optionally complete the commissions before talking to Katheryne.",
-                    "markdown": "The player can optionally complete the commissions before talking to Katheryne."
-                }
-            ]
-        },
-        {
-            "plaintext": "Complete 4 Daily Commissions then talk to Katheryne",
-            "markdown": "Complete 4 Daily Commissions then talk to Katheryne",
-            "substeps": [
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "After talking to Katheryne, the player unlocks \u25c0Commissions\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Commissions\u25b7 in the \u25c0Adventurer Handbook\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurer_Handbook\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The player can optionally complete the commissions before talking to Katheryne."
+                        }
+                    ]
+                },
                 {
-                    "plaintext": "This step is skipped if the player already completed all 4 Daily Commissions prior to step 1.",
-                    "markdown": "This step is skipped if the player already completed all 4 Daily Commissions prior to step 1."
+                    "tag": "li",
+                    "text": "Complete 4 Daily Commissions then talk to Katheryne"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This step is skipped if the player already completed all 4 Daily Commissions prior to step 1."
+                        }
+                    ]
                 }
             ]
         }

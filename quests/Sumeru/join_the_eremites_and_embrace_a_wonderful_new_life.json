@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Join the Eremites and Embrace a Wonderful New Life!",
     "url": "https://genshin-impact.fandom.com/wiki/Join_the_Eremites_and_Embrace_a_Wonderful_New_Life%21",
     "starting_location": {
-        "plaintext": "Aaru Village , Sumeru",
-        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete King Deshret and the Three Magi",
@@ -42,51 +42,71 @@
     ],
     "steps": [
         {
-            "plaintext": "Wait till daytime (6:00 \u2013 19:00)",
-            "markdown": "Wait till daytime (6:00 \u2013 19:00)"
-        },
-        {
-            "plaintext": "Talk to Sania",
-            "markdown": "Talk to \u25c0Sania\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sania\u25b7"
-        },
-        {
-            "plaintext": "Talk to Fodil",
-            "markdown": "Talk to \u25c0Fodil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fodil\u25b7"
-        },
-        {
-            "plaintext": "Go back and take a break",
-            "markdown": "Go back and take a break"
-        },
-        {
-            "plaintext": "Demonstrate for Ayten and Karima",
-            "markdown": "Demonstrate for \u25c0Ayten\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ayten\u25b7 and \u25c0Karima\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Karima\u25b7",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Finish reaching all marked points within 120 seconds.",
-                    "markdown": "Finish reaching all marked points within 120 seconds."
+                    "tag": "li",
+                    "text": "Start the World Quest by talking to \u25c0Atiyah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Atiyah\u25b7 in \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7."
                 }
             ]
         },
         {
-            "plaintext": "Talk to Ayten and Karima",
-            "markdown": "Talk to Ayten and Karima"
-        },
-        {
-            "plaintext": "Defeat all monsters",
-            "markdown": "Defeat all monsters",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Scorpion x3",
-                    "markdown": "<img:scorpion> \u25c0Scorpion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scorpion\u25b7 x3",
-                    "img": {
-                        "scorpion": "Scorpion_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Wait till daytime (6:00 \u2013 19:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Sania\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sania\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Fodil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fodil\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back and take a break"
+                },
+                {
+                    "tag": "li",
+                    "text": "Demonstrate for \u25c0Ayten\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ayten\u25b7 and \u25c0Karima\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Karima\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Finish reaching all marked points within 120 seconds."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ayten and Karima"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:scorpion> \u25c0Scorpion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scorpion\u25b7 \u00d73",
+                            "img": {
+                                "scorpion": "Scorpion_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ayten and Karima"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Ayten and Karima",
-            "markdown": "Talk to Ayten and Karima"
         }
     ],
     "dialogue": true

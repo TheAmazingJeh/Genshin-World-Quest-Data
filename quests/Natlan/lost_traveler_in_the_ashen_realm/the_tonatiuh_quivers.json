@@ -1,0 +1,35 @@
+{
+    "version": "1.1",
+    "type": "act",
+    "name": "The Tonatiuh Quivers",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Tonatiuh_Quivers",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Flowing Primal Flame (Part 1)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Flowing_Primal_Flame_(Part_1)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Flowing Primal Flame (Part 2)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Flowing_Primal_Flame_(Part_2)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Flowing Primal Flame (Part 3)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Flowing_Primal_Flame_(Part_3)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Other Side of the Sky\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Other_Side_of_the_Sky\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Moment of Awakening\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Moment_of_Awakening\u25b7"
+                }
+            ]
+        }
+    ]
+}

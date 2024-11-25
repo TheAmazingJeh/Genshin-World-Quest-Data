@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scenes from Life in Meropide: Visible Hands",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Visible_Hands",
     "starting_location": {
-        "plaintext": "Production Zone , Fontaine",
-        "markdown": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Scenes from Life in Meropide: Every Debt has a Creditor",
@@ -42,21 +42,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Defeat the wandering Primordial Aberrants in the Geode Mine Shaft",
-            "markdown": "Defeat the wandering Primordial Aberrants in the \u25c0Geode Mine Shaft\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geode_Mine_Shaft\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Bubbler Seahorse x4",
-                    "markdown": "<img:bubbler_seahorse> \u25c0Bubbler Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbler_Seahorse\u25b7 x4",
-                    "img": {
-                        "bubbler_seahorse": "Bubbler_Seahorse_Icon.png"
-                    }
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Decembre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Decembre\u25b7 in the north side of the \u25c0Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Production_Zone\u25b7 Lower Level."
         },
         {
-            "plaintext": "Report to Maupoil",
-            "markdown": "Report to Maupoil"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Defeat the wandering Primordial Aberrants in the \u25c0Geode Mine Shaft\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geode_Mine_Shaft\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:bubbler_seahorse> \u25c0Bubbler Seahorse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubbler_Seahorse\u25b7 \u00d74",
+                            "img": {
+                                "bubbler_seahorse": "Bubbler_Seahorse_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report to Maupoil"
+                }
+            ]
         }
     ],
     "dialogue": true

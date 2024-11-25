@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Make Bright the Arrows, Gather the Shields...",
     "url": "https://genshin-impact.fandom.com/wiki/Make_Bright_the_Arrows%2C_Gather_the_Shields...",
     "starting_location": {
-        "plaintext": "Tanit Camps , Sumeru",
-        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,133 +46,166 @@
     ],
     "steps": [
         {
-            "plaintext": "Wait till the next day and talk to Babel again",
-            "markdown": "Wait till the next day and talk to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7 again"
-        },
-        {
-            "plaintext": "Talk to Babel",
-            "markdown": "Talk to Babel"
-        },
-        {
-            "plaintext": "Go to the place Babel mentioned",
-            "markdown": "Go to the place Babel mentioned"
-        },
-        {
-            "plaintext": "Proceed to the place Babel mentioned",
-            "markdown": "Proceed to the place Babel mentioned"
-        },
-        {
-            "plaintext": "Enter the Fatui outpost",
-            "markdown": "Enter the Fatui outpost"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the Fatui",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Wait till the next day and talk to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7 again"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Babel"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the place Babel mentioned"
+                },
+                {
+                    "tag": "li",
+                    "text": "Proceed to the place Babel mentioned"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the Fatui outpost"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Look for clues as to Jeht's whereabouts",
-            "markdown": "Look for clues as to \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7's whereabouts"
-        },
-        {
-            "plaintext": "Track down the transferred Fatui",
-            "markdown": "Track down the transferred Fatui"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the Fatui",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Look for clues as to \u25c0Jeht\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jeht\u25b7's whereabouts"
+                },
+                {
+                    "tag": "li",
+                    "text": "Track down the transferred Fatui"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Pursue the Fatui team ahead",
-            "markdown": "Pursue the Fatui team ahead",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Pursue the Fatui team ahead"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
-                            "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Strike the Fatui camp",
-            "markdown": "Strike the Fatui camp"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the Fatui",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Strike the Fatui camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Pyro Agent x1",
-                            "markdown": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 \u00d71",
                             "img": {
                                 "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
                             }
@@ -180,23 +213,22 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate other files"
                 }
             ]
-        },
-        {
-            "plaintext": "Investigate other files",
-            "markdown": "Investigate other files"
         }
     ],
     "dialogue": true

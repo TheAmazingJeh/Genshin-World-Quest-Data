@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Vimana Agama: Royinjan's Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/Vimana_Agama%3A_Royinjan%27s_Chapter",
     "starting_location": {
-        "plaintext": "Port Ormos , Sumeru",
-        "markdown": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,56 +39,67 @@
     ],
     "steps": [
         {
-            "plaintext": "Find the secret base",
-            "markdown": "Find the secret base",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain \"Rhythm of Vamadha\" to turn Vamadha with Vintage Lyre.",
-                    "markdown": "Obtain \"Rhythm of Vamadha\" to turn \u25c0Vamadha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vamadha\u25b7 with \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7."
+                    "tag": "li",
+                    "text": "Find the secret base"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \"Rhythm of Vamadha\" to turn \u25c0Vamadha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vamadha\u25b7 with \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Turn the Vamadha"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the secret base"
+                },
+                {
+                    "tag": "li",
+                    "text": "Dig for the buried item"
+                },
+                {
+                    "tag": "li",
+                    "text": "Dig for the Amiti Device"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Amadhiah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Amadhiah\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for the mechanical components (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Complete \u25c0Royinjan's Chapter: Linga\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter:_Linga\u25b7 and \u25c0Royinjan's Chapter: Yoni\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter:_Yoni\u25b7 to acquire these items."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the secret base"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Royinjan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan\u25b7 in the secret base"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Turn the Vamadha",
-            "markdown": "Turn the Vamadha"
-        },
-        {
-            "plaintext": "Investigate the secret base",
-            "markdown": "Investigate the secret base"
-        },
-        {
-            "plaintext": "Dig for the buried item",
-            "markdown": "Dig for the buried item"
-        },
-        {
-            "plaintext": "Dig for the Amiti Device",
-            "markdown": "Dig for the Amiti Device"
-        },
-        {
-            "plaintext": "Talk to Amadhiah",
-            "markdown": "Talk to \u25c0Amadhiah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Amadhiah\u25b7"
-        },
-        {
-            "plaintext": "Search for the mechanical components (0/2)",
-            "markdown": "Search for the mechanical components (0/2)",
-            "substeps": [
-                {
-                    "plaintext": "Complete Royinjan's Chapter: Linga and Royinjan's Chapter: Yoni to acquire these items.",
-                    "markdown": "Complete \u25c0Royinjan's Chapter: Linga\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter:_Linga\u25b7 and \u25c0Royinjan's Chapter: Yoni\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter:_Yoni\u25b7 to acquire these items."
-                }
-            ]
-        },
-        {
-            "plaintext": "Return to the secret base",
-            "markdown": "Return to the secret base"
-        },
-        {
-            "plaintext": "Talk to Royinjan in the secret base",
-            "markdown": "Talk to \u25c0Royinjan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Royinjan\u25b7 in the secret base"
-        },
-        {
-            "plaintext": "Talk to Jazari",
-            "markdown": "Talk to \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7"
         }
     ],
     "dialogue": true

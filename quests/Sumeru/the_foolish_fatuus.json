@@ -1,11 +1,12 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Foolish Fatuus",
     "url": "https://genshin-impact.fandom.com/wiki/The_Foolish_Fatuus",
     "starting_location": null,
     "requirements": {
         "plaintext": "Complete 8 Strange Energy Extraction Device puzzles in Eremite camps.",
-        "markdown": "Complete 8 Strange Energy Extraction Device puzzles in Eremite camps."
+        "markdown": "Complete 8 Strange \u25c0Energy Extraction Device\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Energy_Extraction_Device\u25b7 puzzles in Eremite camps."
     },
     "rewards": [
         {
@@ -53,119 +54,140 @@
     ],
     "steps": [
         {
-            "plaintext": "Fight Oleg",
-            "markdown": "Fight Oleg",
-            "substeps": [
+            "tag": "p",
+            "text": "To start the quest, approach \u25c0Oleg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oleg\u25b7 and \u25c0Kasim\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kasim\u25b7 at the Eremite camp southwest of \u25c0Yasna Monument\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yasna_Monument\u25b7."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Oleg: Slippery Viper",
-                    "markdown": "<img:fatui_pyro_agent> \u25c0Oleg: Slippery Viper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
-                    "img": {
-                        "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Fight Oleg"
                 },
                 {
-                    "plaintext": "The Eremite enemies who normally spawn at the camp will aggro during the fight and will continue to attack and damage the active character while the cutscene plays. Defeating them while fighting Oleg is recommended.",
-                    "markdown": "The Eremite enemies who normally spawn at the camp will aggro during the fight and will continue to attack and damage the active character while the cutscene plays. Defeating them while fighting Oleg is recommended."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to Camp 2",
-            "markdown": "Go to Camp 2"
-        },
-        {
-            "plaintext": "Fight Oleg",
-            "markdown": "Fight Oleg"
-        },
-        {
-            "plaintext": "Go to Camp 3",
-            "markdown": "Go to Camp 3"
-        },
-        {
-            "plaintext": "Fight Oleg",
-            "markdown": "Fight Oleg"
-        },
-        {
-            "plaintext": "Follow the path and go to the last camp",
-            "markdown": "Follow the path and go to the last camp"
-        },
-        {
-            "plaintext": "Defeat Kasim the Bandit",
-            "markdown": "Defeat Kasim the Bandit",
-            "substeps": [
-                {
-                    "plaintext": "Great Bandit Kasim: The Legendary Bandit?",
-                    "markdown": "<img:eremite_sword-dancer> \u25c0Great Bandit Kasim: The Legendary Bandit?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7",
-                    "img": {
-                        "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Interrogate Kasim",
-            "markdown": "Interrogate Kasim",
-            "substeps": [
-                {
-                    "plaintext": "If Kasim's willpower is broken, skip the next step.",
-                    "markdown": "If Kasim's willpower is broken, skip the next step."
-                }
-            ]
-        },
-        {
-            "plaintext": "Search the camp for clues about the Fatui stronghold",
-            "markdown": "Search the camp for clues about the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7 stronghold"
-        },
-        {
-            "plaintext": "Go to the secret contact campsite",
-            "markdown": "Go to the secret contact campsite"
-        },
-        {
-            "plaintext": "Light the torches at night (20:00 \u2013 24:00)",
-            "markdown": "Light the torches at night (20:00 \u2013 24:00)"
-        },
-        {
-            "plaintext": "Go to the Fatui stronghold",
-            "markdown": "Go to the Fatui stronghold"
-        },
-        {
-            "plaintext": "Talk to Oleg, who will check your watchword",
-            "markdown": "Talk to Oleg, who will check your watchword"
-        },
-        {
-            "plaintext": "Follow Oleg",
-            "markdown": "Follow Oleg"
-        },
-        {
-            "plaintext": "Fight Oleg",
-            "markdown": "Fight Oleg",
-            "substeps": [
-                {
-                    "plaintext": "Oleg: Slippery Viper",
-                    "markdown": "<img:fatui_pyro_agent> \u25c0Oleg: Slippery Viper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
-                    "img": {
-                        "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_pyro_agent> \u25c0Oleg: Slippery Viper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
+                            "img": {
+                                "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The Eremite enemies who normally spawn at the camp will aggro during the fight and will continue to attack and damage the active character while the cutscene plays. Defeating them while fighting Oleg is recommended."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to Camp 2"
                 },
                 {
-                    "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
-                    "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
-                    "img": {
-                        "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Fight Oleg"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Camp 3"
+                },
+                {
+                    "tag": "li",
+                    "text": "Fight Oleg"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the path and go to the last camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Kasim the Bandit"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_sword-dancer> \u25c0Great Bandit Kasim: The Legendary Bandit?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Sword-Dancer\u25b7",
+                            "img": {
+                                "eremite_sword-dancer": "Eremite_Sword-Dancer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Interrogate Kasim"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "If Kasim's willpower is broken, skip the next step."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Search the camp for clues about the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7 stronghold"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the secret contact campsite"
+                },
+                {
+                    "tag": "li",
+                    "text": "Light the torches at night (20:00 \u2013 24:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Fatui stronghold"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Oleg, who will check your watchword"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Oleg"
+                },
+                {
+                    "tag": "li",
+                    "text": "Fight Oleg"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_pyro_agent> \u25c0Oleg: Slippery Viper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
+                            "img": {
+                                "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Rukh Shah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rukh_Shah\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Rukh Shah",
-            "markdown": "Talk to \u25c0Rukh Shah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rukh_Shah\u25b7"
         }
     ],
     "dialogue": true

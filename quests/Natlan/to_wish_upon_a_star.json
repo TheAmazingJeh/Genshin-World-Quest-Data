@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "To Wish Upon a Star",
     "url": "https://genshin-impact.fandom.com/wiki/To_Wish_Upon_a_Star",
     "starting_location": {
-        "plaintext": "Coatepec Mountain , Natlan",
-        "markdown": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,28 +32,42 @@
     ],
     "steps": [
         {
-            "plaintext": "Go down below with Orqo",
-            "markdown": "Go down below with Orqo"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Orqo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orqo\u25b7 near the hole in the East of \u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7."
+                }
+            ]
         },
         {
-            "plaintext": "Talk to Orqo",
-            "markdown": "Talk to Orqo"
-        },
-        {
-            "plaintext": "Collect the scattered star shards",
-            "markdown": "Collect the scattered star shards"
-        },
-        {
-            "plaintext": "Talk to Orqo",
-            "markdown": "Talk to Orqo"
-        },
-        {
-            "plaintext": "Return the scattered star fragments",
-            "markdown": "Return the scattered star fragments"
-        },
-        {
-            "plaintext": "Wait for the hidden power to awaken...",
-            "markdown": "Wait for the hidden power to awaken..."
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go down below with Orqo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Orqo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect the scattered star shards"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Orqo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return the scattered star fragments"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait for the hidden power to awaken..."
+                }
+            ]
         }
     ],
     "dialogue": true

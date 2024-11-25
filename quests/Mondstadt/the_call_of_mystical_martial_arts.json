@@ -1,9 +1,15 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Call of Mystical Martial Arts",
     "url": "https://genshin-impact.fandom.com/wiki/The_Call_of_Mystical_Martial_Arts",
-    "starting_location": null,
-    "requirements": null,
+    "starting_location": {
+        "text": "\u25c0Windwail Highland\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Windwail_Highland\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+    },
+    "requirements": {
+        "plaintext": "Complete For a Tomorrow Without Tears",
+        "markdown": "Complete \u25c0For a Tomorrow Without Tears\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_a_Tomorrow_Without_Tears\u25b7"
+    },
     "rewards": [
         {
             "Name": "Adventure EXP",
@@ -29,36 +35,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to Windwail Highland",
-            "markdown": "Go to Windwail Highland"
-        },
-        {
-            "plaintext": "Save the adventurer",
-            "markdown": "Save the adventurer"
-        },
-        {
-            "plaintext": "Talk to the adventurer",
-            "markdown": "Talk to the adventurer"
-        },
-        {
-            "plaintext": "Continue forward with Gesine",
-            "markdown": "Continue forward with Gesine"
-        },
-        {
-            "plaintext": "Go to the Stone Gate",
-            "markdown": "Go to the Stone Gate"
-        },
-        {
-            "plaintext": "Take a commemorative photo nearby",
-            "markdown": "Take a commemorative photo nearby"
-        },
-        {
-            "plaintext": "Talk to Gesine",
-            "markdown": "Talk to Gesine"
-        },
-        {
-            "plaintext": "Arrive at Wangshu Inn",
-            "markdown": "Arrive at Wangshu Inn"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Windwail Highland\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Windwail_Highland\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Save the adventurer"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the adventurer"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue forward with \u25c0Gesine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gesine\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Stone Gate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_Gate\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a commemorative photo nearby"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Gesine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Arrive at \u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

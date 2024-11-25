@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scenes from Life in Meropide: Dead End",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Dead_End",
     "starting_location": {
-        "plaintext": "Administrative Area , Fontaine",
-        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,16 +39,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Find Clynes near the Rift of Erosion",
-            "markdown": "Find \u25c0Clynes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clynes\u25b7 near the Rift of Erosion"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Galvaryet\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Galvaryet\u25b7 on the west side of \u25c0Dormitory Block\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dormitory_Block\u25b7. This quest is unlocked during \u25c0Game of the Rich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Game_of_the_Rich\u25b7."
+                }
+            ]
         },
         {
-            "plaintext": "Help Clynes operate the terminal",
-            "markdown": "Help Clynes operate the terminal"
-        },
-        {
-            "plaintext": "Talk to Clynes",
-            "markdown": "Talk to Clynes"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Clynes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clynes\u25b7 near the Rift of Erosion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Help Clynes operate the terminal"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Clynes"
+                }
+            ]
         }
     ],
     "dialogue": true

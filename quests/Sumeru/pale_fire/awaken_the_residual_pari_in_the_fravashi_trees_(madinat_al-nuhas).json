@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Awaken the Residual Pari in the Fravashi Trees (Madinat al-Nuhas)",
     "url": "https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_%28Madinat_al-Nuhas%29",
     "starting_location": {
-        "plaintext": "Madinat al-Nuhas, Girdle of the Sands , Sumeru",
-        "markdown": "Madinat al-Nuhas, \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "Madinat al-Nuhas, \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -18,20 +18,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Let Sorush awaken the residual Pari in the Fravashi Tree",
-            "markdown": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
-        },
-        {
-            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
-            "markdown": "Talk to the residual Pari in the Fravashi Tree"
-        },
-        {
-            "plaintext": "Look for the residual Pari fragments scattered around (0/3)",
-            "markdown": "Look for the residual Pari fragments scattered around (0/3)"
-        },
-        {
-            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
-            "markdown": "Talk to the residual Pari in the Fravashi Tree"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the residual Pari in the Fravashi Tree"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the residual Pari fragments scattered around (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the residual Pari in the Fravashi Tree"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Octave of the Maushiro",
     "url": "https://genshin-impact.fandom.com/wiki/Octave_of_the_Maushiro",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,181 +46,208 @@
     ],
     "steps": [
         {
-            "plaintext": "Travel to Tsurumi Island",
-            "markdown": "Travel to \u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7"
+            "tag": "p",
+            "text": "Start the quest by approaching \u25c0Sumida\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida\u25b7's last location one day (daily \u25c0reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reset\u25b7) after completing the previous quest."
         },
         {
-            "plaintext": "Travel to Tsurumi Island",
-            "markdown": "Travel to Tsurumi Island"
-        },
-        {
-            "plaintext": "Talk to Ruu",
-            "markdown": "Talk to \u25c0Ruu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruu\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain  Peculiar Pinion",
-                    "markdown": "Obtain <img:peculiar_pinion_(gadget)> \u25c0Peculiar Pinion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peculiar_Pinion_(Gadget)\u25b7",
-                    "img": {
-                        "peculiar_pinion_(gadget)": "Item_Peculiar_Pinion.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to your destination and use the feather",
-            "markdown": "Go to your destination and use the feather"
-        },
-        {
-            "plaintext": "Talk to the illusions",
-            "markdown": "Talk to the illusions"
-        },
-        {
-            "plaintext": "Try look [sic] for buried objects",
-            "markdown": "Try look [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] for buried objects",
-            "substeps": [
-                {
-                    "plaintext": "Obtain  Maushiro",
-                    "markdown": "Obtain <img:maushiro> \u25c0Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maushiro\u25b7",
-                    "img": {
-                        "maushiro": "Item_Maushiro.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the ceremonial site",
-            "markdown": "Go to the ceremonial site"
-        },
-        {
-            "plaintext": "Listen in on the locals' conversations (0/3)",
-            "markdown": "Listen in on the locals' conversations (0/3)"
-        },
-        {
-            "plaintext": "Go to Wakukau Shoal",
-            "markdown": "Go to \u25c0Wakukau Shoal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wakukau_Shoal\u25b7"
-        },
-        {
-            "plaintext": "Use the feather to search for clues",
-            "markdown": "Use the feather to search for clues"
-        },
-        {
-            "plaintext": "Talk to the illusions",
-            "markdown": "Talk to the illusions"
-        },
-        {
-            "plaintext": "Solve the mystery of the stones",
-            "markdown": "Solve the mystery of the stones",
-            "substeps": [
-                {
-                    "plaintext": "Use the Peculiar Pinion on the Mysterious Carving to spawn an Electro Seelie.",
-                    "markdown": "Use the Peculiar Pinion on the \u25c0Mysterious Carving\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Carvings\u25b7 to spawn an \u25c0Electro Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Seelie\u25b7."
+                    "tag": "li",
+                    "text": "Travel to \u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7"
                 },
                 {
-                    "plaintext": "Follow the Electro Seelie until it spawns another Mysterious Carving.",
-                    "markdown": "Follow the Electro Seelie until it spawns another Mysterious Carving."
+                    "tag": "li",
+                    "text": "Travel to Tsurumi Island"
                 },
                 {
-                    "plaintext": "Use the Peculiar Pinion on the Mysterious Carving. Ishine Script will appear on the cliff wall.",
-                    "markdown": "Use the Peculiar Pinion on the Mysterious Carving. \u25c0Ishine Script\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Languages#Ishine_Script\u25b7 will appear on the cliff wall."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ruu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruu\u25b7"
                 },
                 {
-                    "plaintext": "Hit the stones at the previous location in the same order as the script on the cliff wall (left to right).",
-                    "markdown": "Hit the stones at the previous location in the same order as the script on the cliff wall (left to right)."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to the illusions",
-            "markdown": "Talk to the illusions"
-        },
-        {
-            "plaintext": "Go to Oina Beach",
-            "markdown": "Go to \u25c0Oina Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oina_Beach\u25b7"
-        },
-        {
-            "plaintext": "Use the feather to search for clues",
-            "markdown": "Use the feather to search for clues"
-        },
-        {
-            "plaintext": "Talk to the illusions",
-            "markdown": "Talk to the illusions"
-        },
-        {
-            "plaintext": "Restore the stones and solve the puzzle",
-            "markdown": "Restore the stones and solve the puzzle",
-            "substeps": [
-                {
-                    "plaintext": "Move the stones until they stop in front of the tiles with the same Ishine Script.",
-                    "markdown": "Move the stones until they stop in front of the tiles with the same Ishine Script."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to the illusions",
-            "markdown": "Talk to the illusions"
-        },
-        {
-            "plaintext": "Go to Autake Plains",
-            "markdown": "Go to \u25c0Autake Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Plains\u25b7"
-        },
-        {
-            "plaintext": "Use the feather to search for clues",
-            "markdown": "Use the feather to search for clues"
-        },
-        {
-            "plaintext": "Talk to the illusions",
-            "markdown": "Talk to the illusions"
-        },
-        {
-            "plaintext": "Continue looking for clues",
-            "markdown": "Continue looking for clues"
-        },
-        {
-            "plaintext": "Use the feather to search for clues",
-            "markdown": "Use the feather to search for clues"
-        },
-        {
-            "plaintext": "Find the missing stones (0/3)",
-            "markdown": "Find the missing stones (0/3)",
-            "substeps": [
-                {
-                    "plaintext": "Obtain  Autake Slate x3",
-                    "markdown": "Obtain <img:autake_slate> \u25c0Autake Slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Slate\u25b7 x3",
-                    "img": {
-                        "autake_slate": "Item_Mysterious_Stone.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:peculiar_pinion_(gadget)> \u25c0Peculiar Pinion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Peculiar_Pinion_(Gadget)\u25b7",
+                            "img": {
+                                "peculiar_pinion_(gadget)": "Item_Peculiar_Pinion.png"
+                            }
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Follow the 3 Seelies and pick up the respective Autake Slates. The Seelies will return to their original locations after the slates are obtained.",
-                    "markdown": "Follow the 3 \u25c0Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 and pick up the respective Autake Slates. The Seelies will return to their original locations after the slates are obtained."
-                }
-            ]
-        },
-        {
-            "plaintext": "Return the stones to their rightful place",
-            "markdown": "Return the stones to their rightful place"
-        },
-        {
-            "plaintext": "Solve the mystery of the stones",
-            "markdown": "Solve the mystery of the stones",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Go to your destination and use the feather"
+                },
                 {
-                    "plaintext": "Hit the stones in the same order as the script on the pillar (top to bottom).",
-                    "markdown": "Hit the stones in the same order as the script on the pillar (top to bottom)."
+                    "tag": "li",
+                    "text": "Talk to the illusions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try look [\u25c0sic\u25b6\u25c1https://en.wikipedia.org/wiki/sic\u25b7] for buried objects"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:maushiro> \u25c0Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maushiro\u25b7",
+                            "img": {
+                                "maushiro": "Item_Maushiro.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the ceremonial site"
+                },
+                {
+                    "tag": "li",
+                    "text": "Listen in on the locals' conversations (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Wakukau Shoal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wakukau_Shoal\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the feather to search for clues"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the illusions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Solve the mystery of the stones"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the Peculiar Pinion on the \u25c0Mysterious Carving\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Carvings\u25b7 to spawn an \u25c0Electro Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Seelie\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Follow the Electro Seelie until it spawns another Mysterious Carving."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the Peculiar Pinion on the Mysterious Carving. \u25c0Ishine Script\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Languages#Ishine_Script\u25b7 will appear on the cliff wall."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Hit the stones at the previous location in the same order as the script on the cliff wall (left to right)."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the illusions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Oina Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oina_Beach\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the feather to search for clues"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the illusions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Restore the stones and solve the puzzle"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Move the stones until they stop in front of the tiles with the same Ishine Script."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the illusions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Autake Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Plains\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the feather to search for clues"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the illusions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue looking for clues"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the feather to search for clues"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the missing stones (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:autake_slate> \u25c0Autake Slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Slate\u25b7 \u00d73",
+                            "img": {
+                                "autake_slate": "Item_Mysterious_Stone.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Follow the 3 \u25c0Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 and pick up the respective Autake Slates. The Seelies will return to their original locations after the slates are obtained."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return the stones to their rightful place"
+                },
+                {
+                    "tag": "li",
+                    "text": "Solve the mystery of the stones"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Hit the stones in the same order as the script on the pillar (top to bottom)."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the illusions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the ceremonial site"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Sumida"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to the illusions",
-            "markdown": "Talk to the illusions"
-        },
-        {
-            "plaintext": "Return to the ceremonial site",
-            "markdown": "Return to the ceremonial site"
-        },
-        {
-            "plaintext": "Talk to Sumida",
-            "markdown": "Talk to Sumida"
         }
     ],
     "dialogue": true

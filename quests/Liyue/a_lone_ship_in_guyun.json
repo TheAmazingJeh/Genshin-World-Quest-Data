@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Lone Ship In Guyun",
     "url": "https://genshin-impact.fandom.com/wiki/A_Lone_Ship_In_Guyun",
     "starting_location": {
-        "plaintext": "Sea of Clouds , Liyue",
-        "markdown": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Sea of Clouds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Clouds\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,74 +46,88 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Suling",
-            "markdown": "Talk to \u25c0Suling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suling\u25b7"
-        },
-        {
-            "plaintext": "Talk to Sea Drake",
-            "markdown": "Talk to \u25c0Sea Drake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_Drake\u25b7"
-        },
-        {
-            "plaintext": "Talk to Xu Liushi",
-            "markdown": "Talk to \u25c0Xu Liushi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xu_Liushi\u25b7"
-        },
-        {
-            "plaintext": "Talk to Furong",
-            "markdown": "Talk to \u25c0Furong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Furong\u25b7"
-        },
-        {
-            "plaintext": "Talk to Mora-Grubber",
-            "markdown": "Talk to \u25c0Mora-Grubber\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mora-Grubber\u25b7"
-        },
-        {
-            "plaintext": "Talk to Yinxing",
-            "markdown": "Talk to \u25c0Yinxing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yinxing\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Give the letter to Bolai",
-                    "markdown": "Give \u25c0the letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yinxing%27s_Letter_to_Bolai\u25b7 to \u25c0Bolai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bolai\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Suling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Suling\u25b7"
                 },
                 {
-                    "plaintext": "Report back to Yinxing",
-                    "markdown": "Report back to Yinxing"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Sea Drake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_Drake\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Xu Liushi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xu_Liushi\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Furong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Furong\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Mora-Grubber\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mora-Grubber\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Yinxing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yinxing\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Little Yue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Yue\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Juza\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Juza\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Juza"
                 }
             ]
         },
         {
-            "plaintext": "Talk to Little Yue",
-            "markdown": "Talk to \u25c0Little Yue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Yue\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Help Little Yue look for Starconches on the beach",
-                    "markdown": "Help Little Yue look for \u25c0Starconches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starconch\u25b7 on the beach"
+                    "tag": "li",
+                    "text": "Give \u25c0the letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yinxing%27s_Letter_to_Bolai\u25b7 to \u25c0Bolai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bolai\u25b7"
                 },
                 {
-                    "plaintext": "Talk to Little Yue",
-                    "markdown": "Talk to Little Yue"
-                },
-                {
-                    "plaintext": "Give the present to Changchang",
-                    "markdown": "Give \u25c0the present\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Yue%27s_Gift\u25b7 to \u25c0Changchang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Changchang\u25b7"
-                },
-                {
-                    "plaintext": "Talk to Little Yue",
-                    "markdown": "Talk to Little Yue"
+                    "tag": "li",
+                    "text": "Report back to Yinxing"
                 }
             ]
         },
         {
-            "plaintext": "Talk to Juza",
-            "markdown": "Talk to \u25c0Juza\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Juza\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Give 3 portions of meat to Juza",
-                    "markdown": "Give 3 portions of meat to Juza"
+                    "tag": "li",
+                    "text": "Help Little Yue look for \u25c0Starconches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starconch\u25b7 on the beach"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Little Yue"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give \u25c0the present\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Yue%27s_Gift\u25b7 to \u25c0Changchang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Changchang\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Little Yue"
                 }
             ]
         },
         {
-            "plaintext": "Report back to Juza",
-            "markdown": "Report back to Juza"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Give 3 portions of meat to Juza"
+                }
+            ]
         }
     ],
     "dialogue": true

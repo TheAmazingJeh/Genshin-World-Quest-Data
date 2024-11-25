@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Seeker No Finding",
     "url": "https://genshin-impact.fandom.com/wiki/Seeker_No_Finding",
     "starting_location": {
-        "plaintext": "Ameyalco Waters , Natlan",
-        "markdown": "\u25c0Ameyalco Waters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ameyalco_Waters\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Ameyalco Waters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ameyalco_Waters\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,55 +60,77 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to the Upper Sanctum",
-            "markdown": "Head to \u25c0the Upper Sanctum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Upper_Sanctum\u25b7"
-        },
-        {
-            "plaintext": "Head to the next floating island",
-            "markdown": "Head to the next floating island"
-        },
-        {
-            "plaintext": "Examine the Iridescent Inscription",
-            "markdown": "Examine the Iridescent Inscription"
-        },
-        {
-            "plaintext": "Head to the last floating island",
-            "markdown": "Head to the last floating island"
-        },
-        {
-            "plaintext": "Examine the Iridescent Inscription",
-            "markdown": "Examine the Iridescent Inscription"
-        },
-        {
-            "plaintext": "Explore the floating island",
-            "markdown": "Explore the floating island"
-        },
-        {
-            "plaintext": "Investigate the giant stone tablet",
-            "markdown": "Investigate the giant stone tablet"
-        },
-        {
-            "plaintext": "Complete the trial",
-            "markdown": "Complete the trial"
-        },
-        {
-            "plaintext": "Head to the center of the Upper Sanctum",
-            "markdown": "Head to the center of the Upper Sanctum"
-        },
-        {
-            "plaintext": "Go over to the stone tablet in the middle",
-            "markdown": "Go over to the stone tablet in the middle"
-        },
-        {
-            "plaintext": "Defeat the monsters that have been awakened",
-            "markdown": "Defeat the monsters that have been awakened",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Guardian Avatar of Lava,  Summoned Avatar of Lava,  Awakened Avatar of Lava",
-                    "markdown": "<img:avatar_of_lava> \u25c0Guardian Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avatar_of_Lava\u25b7, <img:avatar_of_lava> \u25c0Summoned Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avatar_of_Lava\u25b7, <img:avatar_of_lava> \u25c0Awakened Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avatar_of_Lava\u25b7",
-                    "img": {
-                        "avatar_of_lava": "Fluid_Avatar_of_Lava_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Head to \u25c0the Upper Sanctum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Upper_Sanctum\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the next floating island"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the Iridescent Inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the last floating island"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the Iridescent Inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the floating island"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the giant stone tablet"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete the trial"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the center of the Upper Sanctum"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go over to the stone tablet in the middle"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the monsters that have been awakened"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:avatar_of_lava> \u25c0Guardian Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avatar_of_Lava\u25b7",
+                            "img": {
+                                "avatar_of_lava": "Fluid_Avatar_of_Lava_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:avatar_of_lava> \u25c0Summoned Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avatar_of_Lava\u25b7",
+                            "img": {
+                                "avatar_of_lava": "Fluid_Avatar_of_Lava_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:avatar_of_lava> \u25c0Awakened Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avatar_of_Lava\u25b7",
+                            "img": {
+                                "avatar_of_lava": "Fluid_Avatar_of_Lava_Icon.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }

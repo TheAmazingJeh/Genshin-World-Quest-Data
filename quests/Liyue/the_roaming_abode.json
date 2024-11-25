@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Roaming Abode",
     "url": "https://genshin-impact.fandom.com/wiki/The_Roaming_Abode",
     "starting_location": {
-        "plaintext": "Mt. Lingmeng , Liyue",
-        "markdown": "\u25c0Mt. Lingmeng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Lingmeng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Mt. Lingmeng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Lingmeng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,44 +39,49 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for clues in the direction indicated by Xiangjun",
-            "markdown": "Look for clues in the direction indicated by Xiangjun"
-        },
-        {
-            "plaintext": "Search for a \"path\"",
-            "markdown": "Search for a \"path\""
-        },
-        {
-            "plaintext": "Enter the cavern",
-            "markdown": "Enter the cavern"
-        },
-        {
-            "plaintext": "Examine the cavern",
-            "markdown": "Examine the cavern"
-        },
-        {
-            "plaintext": "Go near Mt. Xuanlian",
-            "markdown": "Go near \u25c0Mt. Xuanlian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Xuanlian\u25b7"
-        },
-        {
-            "plaintext": "Obtain the \"blessed waters\"",
-            "markdown": "Obtain the \u25c0\"blessed waters\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xuanlian_Sacred_Water\u25b7"
-        },
-        {
-            "plaintext": "Return to Qiaoying Village",
-            "markdown": "Return to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7"
-        },
-        {
-            "plaintext": "Go to the herb gatherer's house",
-            "markdown": "Go to the herb gatherer's house"
-        },
-        {
-            "plaintext": "Water the divine herb",
-            "markdown": "Water the divine herb"
-        },
-        {
-            "plaintext": "Talk to Uncle Luo",
-            "markdown": "Talk to \u25c0Uncle Luo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_Luo\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Look for clues in the direction indicated by Xiangjun"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for a \"path\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the cavern"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the cavern"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go near \u25c0Mt. Xuanlian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Xuanlian\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0\"blessed waters\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xuanlian_Sacred_Water\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to \u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the herb gatherer's house"
+                },
+                {
+                    "tag": "li",
+                    "text": "Water the divine herb"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Uncle Luo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_Luo\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

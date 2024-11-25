@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "\"The Falcon's Hunt\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22The_Falcon%27s_Hunt%22",
     "starting_location": {
-        "plaintext": "Tanit Camps",
-        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
+        "text": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,58 +46,76 @@
     ],
     "steps": [
         {
-            "plaintext": "Wait till the next morning (08:00 \u2013 12:00)",
-            "markdown": "Wait till the next morning (08:00 \u2013 12:00)"
-        },
-        {
-            "plaintext": "Talk to Masseira",
-            "markdown": "Talk to \u25c0Masseira\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Masseira\u25b7"
-        },
-        {
-            "plaintext": "Talk to Tadhla",
-            "markdown": "Talk to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7"
-        },
-        {
-            "plaintext": "Go to the Red Vulture's lair",
-            "markdown": "Go to the Red Vulture's lair"
-        },
-        {
-            "plaintext": "Search for traces of the Red Vulture on the way",
-            "markdown": "Search for traces of the \u25c0Red Vulture\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Red_Vulture\u25b7 on the way"
-        },
-        {
-            "plaintext": "Go to the Red Vulture's lair",
-            "markdown": "Go to the Red Vulture's lair"
-        },
-        {
-            "plaintext": "Enter the Red Vulture's lair",
-            "markdown": "Enter the Red Vulture's lair"
-        },
-        {
-            "plaintext": "Wait till the next morning (01:00 \u2013 03:00)",
-            "markdown": "Wait till the next morning (01:00 \u2013 03:00)"
-        },
-        {
-            "plaintext": "Go to the hiding place and wait until the Red Vulture returns to the lair",
-            "markdown": "Go to the hiding place and wait until the Red Vulture returns to the lair",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "This step occurs if the player leaves the area before the next morning comes",
-                    "markdown": "This step occurs if the player leaves the area before the next morning comes"
-                }
-            ]
-        },
-        {
-            "plaintext": "Hunt the Red Vulture/Hunt the Enraged Red Vulture",
-            "markdown": "Hunt the Red Vulture/Hunt the Enraged Red Vulture",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Wait till the next morning (08:00 \u2013 12:00)"
+                },
                 {
-                    "plaintext": "Version 1:",
-                    "markdown": "Version 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Talk to \u25c0Masseira\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Masseira\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Red Vulture's lair"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for traces of the \u25c0Red Vulture\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Red_Vulture\u25b7 on the way"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Red Vulture's lair"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the Red Vulture's lair"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait till the next morning (01:00 \u2013 03:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the hiding place and wait until the Red Vulture returns to the lair"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Red Vulture \u2014 Hunter from on High",
-                            "markdown": "<img:consecrated_red_vulture> \u25c0Red Vulture \u2014 Hunter from on High\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Red_Vulture\u25b7",
+                            "tag": "li",
+                            "text": "This step occurs if the player leaves the area before the next morning comes"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Hunt the Red Vulture/Hunt the Enraged Red Vulture"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Version 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Version 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:consecrated_red_vulture> \u25c0Red Vulture \u2014 Hunter from on High\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Red_Vulture\u25b7",
                             "img": {
                                 "consecrated_red_vulture": "Consecrated_Red_Vulture_Icon.png"
                             }
@@ -105,124 +123,144 @@
                     ]
                 },
                 {
-                    "plaintext": "Version 2:",
-                    "markdown": "Version 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Enraged Red Vulture \u2014 \"My Precious!\"",
-                            "markdown": "<img:consecrated_red_vulture> \u25c0Enraged Red Vulture \u2014 \"My Precious!\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Red_Vulture\u25b7",
+                            "tag": "li",
+                            "text": "<img:consecrated_red_vulture> \u25c0Enraged Red Vulture \u2014 \"My Precious!\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Red_Vulture\u25b7",
                             "img": {
                                 "consecrated_red_vulture": "Consecrated_Red_Vulture_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Rest for a night and talk to Tadhla",
-            "markdown": "Rest for a night and talk to Tadhla"
-        },
-        {
-            "plaintext": "Go to the Scorpion's lair",
-            "markdown": "Go to the \u25c0Scorpion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scorpion\u25b7's lair"
-        },
-        {
-            "plaintext": "Enter the Scorpion's lair",
-            "markdown": "Enter the Scorpion's lair"
-        },
-        {
-            "plaintext": "Conceal yourself in the hiding place",
-            "markdown": "Conceal yourself in the hiding place"
-        },
-        {
-            "plaintext": "Hunt the stunned Scorpion/Hunt the poisoned Scorpion/Hunt the Scorpion",
-            "markdown": "Hunt the stunned Scorpion/Hunt the poisoned Scorpion/Hunt the Scorpion",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Rest for a night and talk to Tadhla"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Scorpion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scorpion\u25b7's lair"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the Scorpion's lair"
+                },
+                {
+                    "tag": "li",
+                    "text": "Conceal yourself in the hiding place"
+                },
+                {
+                    "tag": "li",
+                    "text": "Hunt the stunned Scorpion/Hunt the poisoned Scorpion/Hunt the Scorpion"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Version 1:",
-                            "markdown": "Version 1:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Stunned Scorpion \u2014 Savage, Not Shrewd...",
-                                    "markdown": "<img:consecrated_scorpion> \u25c0Stunned Scorpion \u2014 Savage, Not Shrewd...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
-                                    "img": {
-                                        "consecrated_scorpion": "Consecrated_Scorpion_Icon.png"
-                                    }
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Wave 1:"
                         },
                         {
-                            "plaintext": "Version 2:",
-                            "markdown": "Version 2:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Poisoned Scorpion \u2014 Is This About Revenge?",
-                                    "markdown": "<img:consecrated_scorpion> \u25c0Poisoned Scorpion \u2014 Is This About Revenge?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
-                                    "img": {
-                                        "consecrated_scorpion": "Consecrated_Scorpion_Icon.png"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "plaintext": "Version 3:",
-                            "markdown": "Version 3:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Scorpion \u2014 Lethal Ambusher",
-                                    "markdown": "<img:consecrated_scorpion> \u25c0Scorpion \u2014 Lethal Ambusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
-                                    "img": {
-                                        "consecrated_scorpion": "Consecrated_Scorpion_Icon.png"
-                                    }
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Wave 2:"
                         }
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Necrotic Scorpion \u2014 The Hunter's Twin",
-                            "markdown": "<img:consecrated_scorpion> \u25c0Necrotic Scorpion \u2014 The Hunter's Twin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
+                            "tag": "li",
+                            "text": "Version 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Version 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Version 3:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:consecrated_scorpion> \u25c0Stunned Scorpion \u2014 Savage, Not Shrewd...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
                             "img": {
                                 "consecrated_scorpion": "Consecrated_Scorpion_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Enter the Flying Serpent's cave",
-            "markdown": "Enter the \u25c0Flying Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flying_Serpent\u25b7's cave"
-        },
-        {
-            "plaintext": "Hunt the Flying Serpent",
-            "markdown": "Hunt the Flying Serpent",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Flying Serpent \u2014 Fallen Envoy",
-                    "markdown": "<img:consecrated_flying_serpent> \u25c0Flying Serpent \u2014 Fallen Envoy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Flying_Serpent\u25b7",
-                    "img": {
-                        "consecrated_flying_serpent": "Consecrated_Flying_Serpent_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:consecrated_scorpion> \u25c0Poisoned Scorpion \u2014 Is This About Revenge?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
+                            "img": {
+                                "consecrated_scorpion": "Consecrated_Scorpion_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:consecrated_scorpion> \u25c0Scorpion \u2014 Lethal Ambusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
+                            "img": {
+                                "consecrated_scorpion": "Consecrated_Scorpion_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:consecrated_scorpion> \u25c0Necrotic Scorpion \u2014 The Hunter's Twin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Scorpion\u25b7",
+                            "img": {
+                                "consecrated_scorpion": "Consecrated_Scorpion_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the \u25c0Flying Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flying_Serpent\u25b7's cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Hunt the Flying Serpent"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:consecrated_flying_serpent> \u25c0Flying Serpent \u2014 Fallen Envoy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Flying_Serpent\u25b7",
+                            "img": {
+                                "consecrated_flying_serpent": "Consecrated_Flying_Serpent_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain \u25c0Liloupar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liloupar\u25b7's fragment"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Masseira"
                 }
             ]
-        },
-        {
-            "plaintext": "Obtain Liloupar's fragment",
-            "markdown": "Obtain \u25c0Liloupar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liloupar\u25b7's fragment"
-        },
-        {
-            "plaintext": "Report back to Masseira",
-            "markdown": "Report back to Masseira"
         }
     ],
     "dialogue": true

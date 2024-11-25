@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Fishing Game",
     "url": "https://genshin-impact.fandom.com/wiki/Fishing_Game",
     "starting_location": {
-        "plaintext": "Merusea Village , Fontaine",
-        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ancient Colors",
@@ -49,19 +49,24 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Iara",
-            "markdown": "Talk to Iara"
-        },
-        {
-            "plaintext": "Place the bait",
-            "markdown": "Place the bait"
-        },
-        {
-            "plaintext": "Defeat  Ball Octopus x1",
-            "markdown": "Defeat <img:ball_octopus> \u25c0Ball Octopus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ball_Octopus\u25b7 x1",
-            "img": {
-                "ball_octopus": "Ball_Octopus_Icon.png"
-            }
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Iara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Place the bait"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat <img:ball_octopus> \u25c0Ball Octopus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ball_Octopus\u25b7 \u00d71",
+                    "img": {
+                        "ball_octopus": "Ball_Octopus_Icon.png"
+                    }
+                }
+            ]
         }
     ],
     "dialogue": true

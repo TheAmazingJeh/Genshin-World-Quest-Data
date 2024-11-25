@@ -1,0 +1,104 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "An Air Race and an Alibi",
+    "url": "https://genshin-impact.fandom.com/wiki/An_Air_Race_and_an_Alibi",
+    "starting_location": null,
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Head to the starting point of the air race"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Lliwa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lliwa\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete all challenges in the air race"
+                },
+                {
+                    "tag": "li",
+                    "text": "Reach the destination"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Taruka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taruka\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Help \u25c0Lamizana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lamizana\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat enemies"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "During this step, Lamizana assists the player as a \u25c0Spiritspeaker Warrior: Contemplator\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spiritspeaker_Warrior:_Contemplator\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:iktomisaurus> \u25c0Iktomisaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iktomisaurus\u25b7 \u00d73",
+                            "img": {
+                                "iktomisaurus": "Iktomisaurus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Lamizana"
+                },
+                {
+                    "tag": "li",
+                    "text": "Escape the pursuit and plan your next move"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the scene of the incident"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for clues alongside your \u25c0Saurian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saurian\u25b7 companion"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

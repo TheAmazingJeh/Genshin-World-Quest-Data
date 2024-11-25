@@ -1,0 +1,67 @@
+{
+    "version": "1.1",
+    "type": "series",
+    "name": "From One Case to Another",
+    "url": "https://genshin-impact.fandom.com/wiki/From_One_Case_to_Another",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "900",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "120",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "110,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "4",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "6",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Incidents Are Ever Sudden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Incidents_Are_Ever_Sudden\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Beat the Clock: 24 Hours\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Beat_the_Clock:_24_Hours\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0An Air Race and an Alibi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Air_Race_and_an_Alibi\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Farewell, Final Saurus Cracker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Farewell,_Final_Saurus_Cracker\u25b7"
+                }
+            ]
+        }
+    ]
+}

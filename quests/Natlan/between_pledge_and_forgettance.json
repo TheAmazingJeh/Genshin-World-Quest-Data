@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Between Pledge and Forgettance",
     "url": "https://genshin-impact.fandom.com/wiki/Between_Pledge_and_Forgettance",
@@ -61,25 +62,30 @@
             "Rarity": "3"
         },
         {
-            "Name": "Golden Entreaty",
+            "Name": "Golden Entreaty (Revelations from the Past)",
             "Value": "1",
-            "Link": "https://genshin-impact.fandom.com/wiki/Golden_Entreaty",
+            "Link": "https://genshin-impact.fandom.com/wiki/Golden_Entreaty_(Revelations_from_the_Past)",
             "Image": "Item_Golden_Entreaty.png",
             "Rarity": "4"
         }
     ],
     "steps": [
         {
-            "plaintext": "Lost in the Woods",
-            "markdown": "\u25c0Lost in the Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lost_in_the_Woods\u25b7"
-        },
-        {
-            "plaintext": "Rite of the Bold",
-            "markdown": "\u25c0Rite of the Bold\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rite_of_the_Bold\u25b7"
-        },
-        {
-            "plaintext": "Revelations from the Past",
-            "markdown": "\u25c0Revelations from the Past\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Revelations_from_the_Past\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Lost in the Woods\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lost_in_the_Woods\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Rite of the Bold\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rite_of_the_Bold\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Revelations from the Past\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Revelations_from_the_Past\u25b7"
+                }
+            ]
         }
     ]
 }

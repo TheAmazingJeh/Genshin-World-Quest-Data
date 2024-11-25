@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Royinjan's Chapter: Linga",
     "url": "https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter%3A_Linga",
     "starting_location": {
-        "plaintext": "Vimara Village , Sumeru",
-        "markdown": "\u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,54 +39,68 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for the submerged caveSubmerged cave locationAdditional context",
-            "markdown": "Look for the submerged cave\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Linga_Start_Location.png\u25b7Submerged cave location\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Linga_Start_Location_Context.png\u25b7Additional context"
-        },
-        {
-            "plaintext": "Lower the water level",
-            "markdown": "Lower the water level",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Guide the two Seelies in the cave to unlock the device.",
-                    "markdown": "Guide the two \u25c0Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 in the cave to unlock the device."
+                    "tag": "li",
+                    "text": "Look for the submerged cave\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Linga_Start_Location.png\u25b7Submerged cave location\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Linga_Start_Location_Context.png\u25b7Additional context"
                 },
                 {
-                    "plaintext": "The first Seelie is in the middle of the lake. Use the Four-Leaf Sigil to get to it.",
-                    "markdown": "The first Seelie is in the middle of the lake. Use the \u25c0Four-Leaf Sigil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Four-Leaf_Sigil\u25b7 to get to it."
+                    "tag": "li",
+                    "text": "Lower the water level"
                 },
                 {
-                    "plaintext": "The second Seelie is one floor below the device.",
-                    "markdown": "The second Seelie is one floor below the device."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Guide the two \u25c0Seelies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 in the cave to unlock the device."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The first Seelie is in the middle of the lake. Use the \u25c0Four-Leaf Sigil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Four-Leaf_Sigil\u25b7 to get to it."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The second Seelie is one floor below the device."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "This step is skipped if the water level was lowered before starting the quest."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "This step is skipped if the water level was lowered before starting the quest.",
-                    "markdown": "This step is skipped if the water level was lowered before starting the quest."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the cave below",
-            "markdown": "Go to the cave below",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Go to the cave below"
+                },
                 {
-                    "plaintext": "Activate the Vamadha",
-                    "markdown": "Activate the \u25c0Vamadha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vamadha\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Lower the water level further",
-            "markdown": "Lower the water level further",
-            "substeps": [
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Activate the \u25c0Vamadha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vamadha\u25b7"
+                        }
+                    ]
+                },
                 {
-                    "plaintext": "Use the Dendrograna and make Charged Attacks at the Floating Dendro Puzzles to unseal the Dendro Monuments. Activate the three Dendro Monuments quickly to unlock the device.",
-                    "markdown": "Use the \u25c0Dendrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7 and make \u25c0Charged Attacks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charged_Attacks\u25b7 at the Floating Dendro Puzzles to unseal the \u25c0Dendro Monuments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Monument\u25b7. Activate the three Dendro Monuments quickly to unlock the device."
+                    "tag": "li",
+                    "text": "Lower the water level further"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the \u25c0Dendrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7 and make \u25c0Charged Attacks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charged_Attacks\u25b7 at the Floating Dendro Puzzles to unseal the \u25c0Dendro Monuments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Monument\u25b7. Activate the three Dendro Monuments quickly to unlock the device."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for a mechanical component"
                 }
             ]
-        },
-        {
-            "plaintext": "Search for a mechanical component",
-            "markdown": "Search for a mechanical component"
         }
     ],
     "dialogue": true

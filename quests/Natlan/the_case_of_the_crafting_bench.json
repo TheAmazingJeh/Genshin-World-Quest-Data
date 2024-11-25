@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Case of the Crafting Bench",
     "url": "https://genshin-impact.fandom.com/wiki/The_Case_of_the_Crafting_Bench",
     "starting_location": {
-        "plaintext": "Stadium of the Sacred Flame , Natlan",
-        "markdown": "\u25c0Stadium of the Sacred Flame\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stadium_of_the_Sacred_Flame\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Stadium of the Sacred Flame\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stadium_of_the_Sacred_Flame\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,124 +46,160 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the clearing near the Stadium of the Sacred Flame",
-            "markdown": "Go to the clearing near the Stadium of the Sacred Flame"
-        },
-        {
-            "plaintext": "Talk to Sumac",
-            "markdown": "Talk to Sumac"
-        },
-        {
-            "plaintext": "Duel against Sumac",
-            "markdown": "Duel against Sumac"
-        },
-        {
-            "plaintext": "Talk to Sumac",
-            "markdown": "Talk to Sumac"
-        },
-        {
-            "plaintext": "Go to the outdoor training area to collect testimony",
-            "markdown": "Go to the outdoor training area to collect testimony"
-        },
-        {
-            "plaintext": "Ask Ogun some questions",
-            "markdown": "Ask Ogun some questions"
-        },
-        {
-            "plaintext": "Talk to Ogun",
-            "markdown": "Talk to Ogun"
-        },
-        {
-            "plaintext": "Complete Ogun's challenge",
-            "markdown": "Complete Ogun's challenge"
-        },
-        {
-            "plaintext": "Talk to Pampa",
-            "markdown": "Talk to Pampa"
-        },
-        {
-            "plaintext": "Complete Pampa's challenge",
-            "markdown": "Complete Pampa's challenge"
-        },
-        {
-            "plaintext": "Talk to Pampa",
-            "markdown": "Talk to Pampa"
-        },
-        {
-            "plaintext": "Go to the People of the Springs to meet Anela",
-            "markdown": "Go to the People of the Springs to meet Anela"
-        },
-        {
-            "plaintext": "Ask Anela some questions",
-            "markdown": "Ask Anela some questions"
-        },
-        {
-            "plaintext": "Complete Anela's challenge",
-            "markdown": "Complete Anela's challenge"
-        },
-        {
-            "plaintext": "Talk to Anela",
-            "markdown": "Talk to Anela"
-        },
-        {
-            "plaintext": "Return to the Stadium of the Sacred Flame",
-            "markdown": "Return to the Stadium of the Sacred Flame"
-        },
-        {
-            "plaintext": "Talk to Sumac",
-            "markdown": "Talk to Sumac"
-        },
-        {
-            "plaintext": "Go to the outdoor training area after two days",
-            "markdown": "Go to the outdoor training area after two days"
-        },
-        {
-            "plaintext": "Go to the outdoor training area",
-            "markdown": "Go to the outdoor training area"
-        },
-        {
-            "plaintext": "Talk to Sumac",
-            "markdown": "Talk to Sumac"
-        },
-        {
-            "plaintext": "Submit the victims' testimonies to the judge",
-            "markdown": "Submit the victims' testimonies to the judge"
-        },
-        {
-            "plaintext": "Keep listening",
-            "markdown": "Keep listening"
-        },
-        {
-            "plaintext": "Submit the purchase invoice to the judge",
-            "markdown": "Submit the purchase invoice to the judge"
-        },
-        {
-            "plaintext": "Keep listening",
-            "markdown": "Keep listening"
-        },
-        {
-            "plaintext": "Chase Tozan to the destination",
-            "markdown": "Chase Tozan to the destination"
-        },
-        {
-            "plaintext": "Follow Tozan via his footprints",
-            "markdown": "Follow Tozan via his footprints"
-        },
-        {
-            "plaintext": "Talk to Tozan",
-            "markdown": "Talk to Tozan"
-        },
-        {
-            "plaintext": "Defeat the opponents",
-            "markdown": "Defeat the opponents"
-        },
-        {
-            "plaintext": "Talk to Tozan",
-            "markdown": "Talk to Tozan"
-        },
-        {
-            "plaintext": "Go to the Stadium of the Sacred Flame and report to the judge",
-            "markdown": "Go to the Stadium of the Sacred Flame and report to the judge"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the clearing near the Stadium of the Sacred Flame"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Sumac\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumac\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Duel against Sumac"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:swiftstep_seeker> \u25c0Sumac \u2014 \"First Time Far From Home\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swiftstep_Seeker\u25b7 (Will not perform Boomerang)",
+                            "img": {
+                                "swiftstep_seeker": "Swiftstep_Seeker_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Sumac"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the outdoor training area to collect testimony"
+                },
+                {
+                    "tag": "li",
+                    "text": "Ask \u25c0Ogun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ogun\u25b7 some questions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ogun"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete Ogun's challenge"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Pampa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pampa\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete Pampa's challenge"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Pampa"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0People of the Springs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/People_of_the_Springs\u25b7 to meet \u25c0Anela\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Anela\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Ask Anela some questions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete Anela's challenge"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Anela"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the Stadium of the Sacred Flame"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Sumac"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the outdoor training area after two days"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the outdoor training area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Sumac"
+                },
+                {
+                    "tag": "li",
+                    "text": "Submit the victims' testimonies to the judge"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep listening"
+                },
+                {
+                    "tag": "li",
+                    "text": "Submit the purchase invoice to the judge"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep listening"
+                },
+                {
+                    "tag": "li",
+                    "text": "Chase \u25c0Tozan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tozan\u25b7 to the destination"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Tozan via his footprints"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Tozan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:swiftstep_armed_courier> \u25c0Tozan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swiftstep_Armed_Courier\u25b7 (Will not perform Boomerang)",
+                            "img": {
+                                "swiftstep_armed_courier": "Swiftstep_Armed_Courier_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:swiftstep_armed_courier> \u25c0Tlalepa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swiftstep_Armed_Courier\u25b7 (Will not perform Boomerang)",
+                            "img": {
+                                "swiftstep_armed_courier": "Swiftstep_Armed_Courier_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Tozan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Stadium of the Sacred Flame and report to the judge"
+                }
+            ]
         }
     ],
     "dialogue": true

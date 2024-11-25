@@ -1,0 +1,111 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Stand by Me (Quest)",
+    "url": "https://genshin-impact.fandom.com/wiki/Stand_by_Me_%28Quest%29",
+    "starting_location": {
+        "text": "\u25c0Quahuacan Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Quahuacan_Cliff\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "300",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "40",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "30,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "\"What the Little Ones Teach Us\"",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/%22What_the_Little_Ones_Teach_Us%22",
+            "Image": "Item_What_the_Little_Ones_Teach_Us_Aether.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Indwell\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saurian_Indwelling\u25b7 the \u25c0Tepetlisaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus\u25b7 and then talk to Magnifico"
+                },
+                {
+                    "tag": "li",
+                    "text": "Assist with Magnifico's shoot"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Magnifico"
+                },
+                {
+                    "tag": "li",
+                    "text": "Catch up to the little Tepetlisaurus"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: Transcription missing"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eroding_avatar_of_lava> \u25c0Eroding Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eroding_Avatar_of_Lava\u25b7 \u00d71",
+                            "img": {
+                                "eroding_avatar_of_lava": "Eroding_Avatar_of_Lava_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Magnifico"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tatara Tales: The Last Act",
     "url": "https://genshin-impact.fandom.com/wiki/Tatara_Tales%3A_The_Last_Act",
     "starting_location": {
-        "plaintext": "Tatarasuna , Inazuma",
-        "markdown": "\u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,75 +60,99 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
-        },
-        {
-            "plaintext": "Get close to the Mikage Furnace",
-            "markdown": "Get close to the \u25c0Mikage Furnace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikage_Furnace\u25b7"
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Search for the missing component(s) (0/3)",
-            "markdown": "Search for the missing component(s) (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain Missing Component(s) x3",
-                    "markdown": "Obtain \u25c0Missing Component(s)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Missing_Component(s)\u25b7 x3",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Get close to the \u25c0Mikage Furnace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikage_Furnace\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for the missing component(s) (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Optional enemies",
-                            "markdown": "Optional enemies",
-                            "substeps": [
-                                {
-                                    "plaintext": "Fatui Skirmisher - Cryogunner Legionnaire x1",
-                                    "markdown": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 x1",
-                                    "img": {
-                                        "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                                    "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
-                                    "img": {
-                                        "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
-                                    }
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Obtain \u25c0Missing Component(s)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Missing_Component(s)\u25b7 \u00d73"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Bring the components back to Xavier",
-            "markdown": "Bring the components back to Xavier"
-        },
-        {
-            "plaintext": "Go deeper into the Mikage Furnace",
-            "markdown": "Go deeper into the Mikage Furnace"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the Fatui",
-            "substeps": [
+                },
                 {
-                    "plaintext": "First wave:",
-                    "markdown": "First wave:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "Optional enemies"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the components back to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go deeper into the Mikage Furnace"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "First wave:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Second wave:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
@@ -136,61 +160,70 @@
                     ]
                 },
                 {
-                    "plaintext": "Second wave:",
-                    "markdown": "Second wave:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Mirror Maiden x1",
-                            "markdown": "<img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 \u00d71",
                             "img": {
                                 "mirror_maiden": "Mirror_Maiden_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Head to the bottom of the Mikage Furnace",
-            "markdown": "Head to the bottom of the Mikage Furnace"
-        },
-        {
-            "plaintext": "Activate the Purification Device",
-            "markdown": "Activate the Purification Device"
-        },
-        {
-            "plaintext": "Protect the target from being destroyed",
-            "markdown": "Protect the target from being destroyed",
-            "substeps": [
-                {
-                    "plaintext": "There will be Lightning Bolts during the battle",
-                    "markdown": "There will be \u25c0Lightning Bolts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lightning_Bolt\u25b7 during the battle"
                 },
                 {
-                    "plaintext": "First wave:",
-                    "markdown": "First wave:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the bottom of the Mikage Furnace"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the Purification Device"
+                },
+                {
+                    "tag": "li",
+                    "text": "Protect the target from being destroyed"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Cryogunner Legionnaire x1",
-                            "markdown": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "There will be \u25c0Lightning Bolts\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lightning_Bolt\u25b7 during the battle"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "First wave:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Second wave:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Cryo Cicin Mage x1",
-                            "markdown": "<img:fatui_cryo_cicin_mage> \u25c0Fatui Cryo Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryo_Cicin_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_cryo_cicin_mage> \u25c0Fatui Cryo Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryo_Cicin_Mage\u25b7 \u00d71",
                             "img": {
                                 "fatui_cryo_cicin_mage": "Fatui_Cryo_Cicin_Mage_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
                             }
@@ -198,38 +231,37 @@
                     ]
                 },
                 {
-                    "plaintext": "Second wave:",
-                    "markdown": "Second wave:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Mirror Maiden x1",
-                            "markdown": "<img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 \u00d71",
                             "img": {
                                 "mirror_maiden": "Mirror_Maiden_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Pyro Agent x2",
-                            "markdown": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 \u00d72",
                             "img": {
                                 "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the top of the Mikage Furnace"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Toranosuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Toranosuke\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Head to the top of the Mikage Furnace",
-            "markdown": "Head to the top of the Mikage Furnace"
-        },
-        {
-            "plaintext": "Report back to Toranosuke",
-            "markdown": "Report back to \u25c0Toranosuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Toranosuke\u25b7"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Leroy: Queen of the Night's Aria",
     "url": "https://genshin-impact.fandom.com/wiki/Leroy%3A_Queen_of_the_Night%27s_Aria",
     "starting_location": {
-        "plaintext": "Court of Fontaine: Vasari Passage , Fontaine",
-        "markdown": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine: Vasari Passage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Vasari_Passage\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,28 +39,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Wait for the \"Bulle Fruit\" signal",
-            "markdown": "Wait for the \"Bulle Fruit\" signal"
-        },
-        {
-            "plaintext": "Go to the back window",
-            "markdown": "Go to the back window"
-        },
-        {
-            "plaintext": "Follow Benoit",
-            "markdown": "Follow Benoit"
-        },
-        {
-            "plaintext": "Go and ride the Navia Line",
-            "markdown": "Go and ride the Navia Line"
-        },
-        {
-            "plaintext": "Pursue Benoit",
-            "markdown": "Pursue Benoit"
-        },
-        {
-            "plaintext": "Witness the confrontation",
-            "markdown": "Witness the confrontation"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Wait for the \"Bulle Fruit\" signal"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the back window"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Benoit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go and ride the Navia Line"
+                },
+                {
+                    "tag": "li",
+                    "text": "Pursue Benoit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Witness the confrontation"
+                }
+            ]
         }
     ],
     "dialogue": true

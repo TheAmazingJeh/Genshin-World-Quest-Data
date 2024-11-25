@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Stride on Rainbows, Split the Waves",
     "url": "https://genshin-impact.fandom.com/wiki/Stride_on_Rainbows%2C_Split_the_Waves",
     "starting_location": {
-        "plaintext": "Ameyalco Waters , Natlan",
-        "markdown": "\u25c0Ameyalco Waters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ameyalco_Waters\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Ameyalco Waters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ameyalco_Waters\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,48 +46,80 @@
     ],
     "steps": [
         {
-            "plaintext": "Help Rongo chase the Flowcurrent Birds away (0/6)",
-            "markdown": "Help Rongo chase the Flowcurrent Birds away (0/6)"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Rongo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rongo\u25b7 or interact with the \u25c0Shiny Shell\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shiny_Shell_(Item)\u25b7 on the southeastern island of \u25c0Ameyalco Waters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ameyalco_Waters\u25b7."
+                }
+            ]
         },
         {
-            "plaintext": "Talk to Rongo",
-            "markdown": "Talk to Rongo"
-        },
-        {
-            "plaintext": "Talk to Rongo",
-            "markdown": "Talk to Rongo"
-        },
-        {
-            "plaintext": "Complete the surfing test",
-            "markdown": "Complete the surfing test"
-        },
-        {
-            "plaintext": "Talk to Rongo",
-            "markdown": "Talk to Rongo"
-        },
-        {
-            "plaintext": "Look around nearby for a way to repair the Spiritdoors",
-            "markdown": "Look around nearby for a way to repair the Spiritdoors"
-        },
-        {
-            "plaintext": "Talk to Rongo",
-            "markdown": "Talk to Rongo"
-        },
-        {
-            "plaintext": "Wait until the following day",
-            "markdown": "Wait until the following day"
-        },
-        {
-            "plaintext": "Check on the Great Training Arena of the Springs",
-            "markdown": "Check on the Great Training Arena of the Springs"
-        },
-        {
-            "plaintext": "Complete the Spiritway test",
-            "markdown": "Complete the Spiritway test"
-        },
-        {
-            "plaintext": "Talk to Rongo",
-            "markdown": "Talk to Rongo"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Help Rongo chase the \u25c0Flowcurrent Birds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flowcurrent_Bird\u25b7 away (0/6)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rongo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rongo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete the surfing test"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Collect 25 Pyro Particles within 600 second(s)"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rongo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look around nearby for a way to repair the Spiritdoors"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rongo"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until the following day"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check on the Great Training Arena of the Springs"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete the \u25c0Spiritway\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spiritway\u25b7 test"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Collect 120 Flowlight Orbs and reach the destination"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rongo"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Says He Who Seeks Stone",
     "url": "https://genshin-impact.fandom.com/wiki/Says_He_Who_Seeks_Stone",
     "starting_location": {
-        "plaintext": "The Chasm , Liyue",
-        "markdown": "\u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Surreptitious Seven-Star Seal Sundering",
@@ -42,12 +42,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Muning",
-            "markdown": "Talk to \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7"
-        },
-        {
-            "plaintext": "Obtain 3 Archaic Stones for Muning",
-            "markdown": "Obtain 3 \u25c0Archaic Stones\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Archaic_Stone_(Says_He_Who_Seeks_Stone)\u25b7 for Muning"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain 3 \u25c0Archaic Stones\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Archaic_Stone_(Says_He_Who_Seeks_Stone)\u25b7 for Muning"
+                }
+            ]
         }
     ],
     "dialogue": true

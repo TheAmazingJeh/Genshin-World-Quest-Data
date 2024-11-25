@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Stolen, by the Rightful Owner",
     "url": "https://genshin-impact.fandom.com/wiki/Stolen%2C_by_the_Rightful_Owner",
     "starting_location": {
-        "plaintext": "The Chasm , Liyue",
-        "markdown": "\u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Subregion)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Subregion)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Destroy the three Bedrock Keys in Surreptitious Seven-Star Seal Sundering",
@@ -49,16 +49,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for the ring that was stolen from Taliesin",
-            "markdown": "Look for the ring that was stolen from Taliesin"
+            "tag": "p",
+            "text": "Talk to \u25c0Taliesin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taliesin\u25b7 to start the quest. Before entering the underground mines, he is located at the surface camp near the easternmost waypoint of \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7. After entering the underground mines, he is located at either the first or second camp."
         },
         {
-            "plaintext": "Give the ring back to Taliesin",
-            "markdown": "Give the ring back to Taliesin"
-        },
-        {
-            "plaintext": "Talk to Taliesin",
-            "markdown": "Talk to Taliesin"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Look for the ring that was stolen from Taliesin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the ring back to Taliesin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Taliesin"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Come Try Genius Invokation TCG!",
     "url": "https://genshin-impact.fandom.com/wiki/Come_Try_Genius_Invokation_TCG%21",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -49,72 +49,77 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to Mondstadt's alchemy store",
-            "markdown": "Go to \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7's alchemy store"
-        },
-        {
-            "plaintext": "Go to The Cat's Tail",
-            "markdown": "Go to \u25c0The Cat's Tail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Cat%27s_Tail\u25b7"
-        },
-        {
-            "plaintext": "Talk to Margaret",
-            "markdown": "Talk to \u25c0Margaret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Margaret\u25b7"
-        },
-        {
-            "plaintext": "Go to the empty table to learn the rules from Diona",
-            "markdown": "Go to the empty table to learn the rules from \u25c0Diona\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Diona\u25b7"
-        },
-        {
-            "plaintext": "Learn the rules from Diona",
-            "markdown": "Learn the rules from Diona"
-        },
-        {
-            "plaintext": "Talk to Diona",
-            "markdown": "Talk to Diona"
-        },
-        {
-            "plaintext": "Have a Genius Invokation TCG duel with Sucrose",
-            "markdown": "Have a \u25c0Genius Invokation TCG\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Genius_Invokation_TCG\u25b7 duel with \u25c0Sucrose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sucrose\u25b7"
-        },
-        {
-            "plaintext": "Talk to Sucrose",
-            "markdown": "Talk to Sucrose"
-        },
-        {
-            "plaintext": "Talk to Shuyun",
-            "markdown": "Talk to \u25c0Shuyun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shuyun\u25b7"
-        },
-        {
-            "plaintext": "Go to Margaret and Claim the Casket of Tomes",
-            "markdown": "Go to Margaret and Claim the \u25c0Casket of Tomes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Casket_of_Tomes\u25b7"
-        },
-        {
-            "plaintext": "Find a player and have a duel",
-            "markdown": "Find a player and have a duel"
-        },
-        {
-            "plaintext": "Talk to Swan",
-            "markdown": "Talk to \u25c0Swan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swan\u25b7"
-        },
-        {
-            "plaintext": "Return to The Cat's Tail",
-            "markdown": "Return to The Cat's Tail"
-        },
-        {
-            "plaintext": "Go to the duel room",
-            "markdown": "Go to the duel room"
-        },
-        {
-            "plaintext": "Have a Genius Invokation TCG duel with Fischl",
-            "markdown": "Have a Genius Invokation TCG duel with \u25c0Fischl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fischl\u25b7"
-        },
-        {
-            "plaintext": "Talk to Fischl",
-            "markdown": "Talk to Fischl"
-        },
-        {
-            "plaintext": "Talk to Shuyun",
-            "markdown": "Talk to Shuyun"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7's alchemy store"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0The Cat's Tail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Cat%27s_Tail\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Margaret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Margaret\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the empty table to learn the rules from \u25c0Diona\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Diona\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Learn the rules from Diona"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Diona"
+                },
+                {
+                    "tag": "li",
+                    "text": "Have a \u25c0Genius Invokation TCG\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Genius_Invokation_TCG\u25b7 duel with \u25c0Sucrose\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sucrose\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Sucrose"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Shuyun\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shuyun\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Margaret and Claim the \u25c0Casket of Tomes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Casket_of_Tomes\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a player and have a duel"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Swan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swan\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to The Cat's Tail"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the duel room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Have a Genius Invokation TCG duel with \u25c0Fischl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fischl\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Fischl"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Shuyun"
+                }
+            ]
         }
     ],
     "dialogue": true

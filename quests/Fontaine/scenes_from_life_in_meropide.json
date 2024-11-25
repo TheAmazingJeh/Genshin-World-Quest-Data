@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Scenes from Life in Meropide",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide",
@@ -35,68 +36,86 @@
     ],
     "steps": [
         {
-            "plaintext": "Becomes available during Game of the Rich:",
-            "markdown": "Becomes available during \u25c0Game of the Rich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Game_of_the_Rich\u25b7:",
-            "substeps": [
+            "tag": "p",
+            "text": "None of the quests are strung together in a dependent order, rather all of them start and finish separate from each other."
+        },
+        {
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Scenes from Life in Meropide: A Raw Deal",
-                    "markdown": "\u25c0Scenes from Life in Meropide: A Raw Deal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_A_Raw_Deal\u25b7"
+                    "tag": "li",
+                    "text": "Becomes available during \u25c0Game of the Rich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Game_of_the_Rich\u25b7:"
                 },
                 {
-                    "plaintext": "Scenes from Life in Meropide: Chit-Chat",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Chit-Chat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Chit-Chat\u25b7"
+                    "tag": "li",
+                    "text": "Becomes available upon the first \u25c0Daily Reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Daily_Reset\u25b7 after finishing \u25c0An Eye for an Eye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Eye_for_an_Eye\u25b7 and all above quests:"
                 },
                 {
-                    "plaintext": "Scenes from Life in Meropide: Dead End",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Dead End\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Dead_End\u25b7"
-                },
-                {
-                    "plaintext": "Scenes from Life in Meropide: Fists of Fury",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Fists of Fury\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Fists_of_Fury\u25b7"
-                },
-                {
-                    "plaintext": "Scenes from Life in Meropide: Safe Operation",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Safe Operation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Safe_Operation\u25b7"
-                },
-                {
-                    "plaintext": "Scenes from Life in Meropide: Treat the Symptoms",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Treat the Symptoms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Treat_the_Symptoms\u25b7"
-                },
-                {
-                    "plaintext": "Scenes from Life in Meropide: Unfinished Task",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Unfinished Task\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Unfinished_Task\u25b7"
+                    "tag": "li",
+                    "text": "Becomes available upon the first Daily Reset after finishing all above quests:"
                 }
             ]
         },
         {
-            "plaintext": "Becomes available upon the first Daily Reset after finishing An Eye for an Eye and all above quests:",
-            "markdown": "Becomes available upon the first \u25c0Daily Reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Daily_Reset\u25b7 after finishing \u25c0An Eye for an Eye\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Eye_for_an_Eye\u25b7 and all above quests:",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Scenes from Life in Meropide: Every Debt has a Creditor",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Every Debt has a Creditor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Every_Debt_has_a_Creditor\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: A Raw Deal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_A_Raw_Deal\u25b7"
                 },
                 {
-                    "plaintext": "Scenes from Life in Meropide: The Art of Negotiation",
-                    "markdown": "\u25c0Scenes from Life in Meropide: The Art of Negotiation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_The_Art_of_Negotiation\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Chit-Chat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Chit-Chat\u25b7"
                 },
                 {
-                    "plaintext": "Scenes from Life in Meropide: Visible Hands",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Visible Hands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Visible_Hands\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Dead End\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Dead_End\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Fists of Fury\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Fists_of_Fury\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Safe Operation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Safe_Operation\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Treat the Symptoms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Treat_the_Symptoms\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Unfinished Task\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Unfinished_Task\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Becomes available upon the first Daily Reset after finishing all above quests:",
-            "markdown": "Becomes available upon the first Daily Reset after finishing all above quests:",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Scenes from Life in Meropide: An Actor's Training",
-                    "markdown": "\u25c0Scenes from Life in Meropide: An Actor's Training\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_An_Actor%27s_Training\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Every Debt has a Creditor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Every_Debt_has_a_Creditor\u25b7"
                 },
                 {
-                    "plaintext": "Scenes from Life in Meropide: Memories",
-                    "markdown": "\u25c0Scenes from Life in Meropide: Memories\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Memories\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: The Art of Negotiation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_The_Art_of_Negotiation\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Visible Hands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Visible_Hands\u25b7"
+                }
+            ]
+        },
+        {
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: An Actor's Training\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_An_Actor%27s_Training\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Scenes from Life in Meropide: Memories\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Memories\u25b7"
                 }
             ]
         }

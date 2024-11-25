@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Rhythm that Nurtures the Sprout",
     "url": "https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Nurtures_the_Sprout",
     "starting_location": {
-        "plaintext": "Ashavan Realm , Sumeru",
-        "markdown": "\u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Encounter in the Woods",
@@ -56,74 +56,88 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to the designated location to look for clues about Ashvattha's Concourses",
-            "markdown": "Head to the designated location to look for clues about Ashvattha's Concourses"
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama"
-        },
-        {
-            "plaintext": "Observe the Sumeru Roses to find the hidden song",
-            "markdown": "Observe the Sumeru Roses to find the hidden song"
-        },
-        {
-            "plaintext": "Play the music according to the pattern of the roses",
-            "markdown": "Play the music according to the pattern of the roses",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The player can now use the Vintage Lyre on a Sprouting Branch to summon Healthy Dendrograna.",
-                    "markdown": "The player can now use the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7 on a \u25c0Sprouting Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sprouting_Branch\u25b7 to summon \u25c0Healthy Dendrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7."
+                    "tag": "li",
+                    "text": "Head to the designated location to look for clues about Ashvattha's Concourses"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Observe the Sumeru Roses to find the hidden song"
+                },
+                {
+                    "tag": "li",
+                    "text": "Play the music according to the pattern of the roses"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The player can now use the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7 on a \u25c0Sprouting Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sprouting_Branch\u25b7 to summon \u25c0Healthy Dendrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Unlock the road ahead using the Rhythm of the Sprout"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep going and reach Ashvattha's Concourse"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "There are Waverider Waypoints that the player can use to spawn a Waverider to get to the Withering Zone"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the trees inside Ashvattha's Concourse"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Touch the tree to enter the quest domain \u25c0The Rhythm that Nurtures the Sprout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Nurtures_the_Sprout_(Domain)\u25b7. Bringing along a bow user is recommended. The player can skip the next step if they touch the tree immediately."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arama and enter the \u25c0Vasara Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vasara_Tree\u25b7's dream"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the dream of the Vasara Tree"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the Vasara Tree"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arama"
                 }
             ]
-        },
-        {
-            "plaintext": "Head to the designated location",
-            "markdown": "Head to the designated location"
-        },
-        {
-            "plaintext": "Unlock the road ahead using the Rhythm of the Sprout",
-            "markdown": "Unlock the road ahead using the Rhythm of the Sprout"
-        },
-        {
-            "plaintext": "Keep going and reach Ashvattha's Concourse",
-            "markdown": "Keep going and reach Ashvattha's Concourse"
-        },
-        {
-            "plaintext": "Clean up the Withering Zone",
-            "markdown": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "There are Waverider Waypoints that the player can use to spawn a Waverider to get to the Withering Zone",
-                    "markdown": "There are Waverider Waypoints that the player can use to spawn a Waverider to get to the Withering Zone"
-                }
-            ]
-        },
-        {
-            "plaintext": "Investigate the trees inside Ashvattha's Concourse",
-            "markdown": "Investigate the trees inside Ashvattha's Concourse",
-            "substeps": [
-                {
-                    "plaintext": "Touch the tree to enter the quest domain The Rhythm that Nurtures the Sprout. Bringing along a bow user is recommended. The player can skip the next step if they touch the tree immediately.",
-                    "markdown": "Touch the tree to enter the quest domain \u25c0The Rhythm that Nurtures the Sprout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Rhythm_that_Nurtures_the_Sprout_(Domain)\u25b7. Bringing along a bow user is recommended. The player can skip the next step if they touch the tree immediately."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Arama and enter the Vasara Tree's dream",
-            "markdown": "Talk to Arama and enter the \u25c0Vasara Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vasara_Tree\u25b7's dream"
-        },
-        {
-            "plaintext": "Explore the dream of the Vasara Tree",
-            "markdown": "Explore the dream of the Vasara Tree"
-        },
-        {
-            "plaintext": "Investigate the Vasara Tree",
-            "markdown": "Investigate the Vasara Tree"
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama"
         }
     ],
     "dialogue": true

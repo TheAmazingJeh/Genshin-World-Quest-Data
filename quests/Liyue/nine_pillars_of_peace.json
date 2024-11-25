@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Nine Pillars of Peace",
     "url": "https://genshin-impact.fandom.com/wiki/Nine_Pillars_of_Peace",
     "starting_location": {
-        "plaintext": "Cuijue Slope , Liyue",
-        "markdown": "\u25c0Cuijue Slope\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cuijue_Slope\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Cuijue Slope\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cuijue_Slope\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,104 +46,152 @@
     ],
     "steps": [
         {
-            "plaintext": "Collect all Stone of Remembrance (obtained by making offerings to Statues of The Seven in Liyue)",
-            "markdown": "Collect all \u25c0Stone of Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_of_Remembrance\u25b7 (obtained by making offerings to \u25c0Statues of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statues_of_The_Seven\u25b7 in \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7)"
+            "tag": "p",
+            "text": "Start the quest by interacting with the stone tablet in the middle of Cuijue Slope."
         },
         {
-            "plaintext": "Climb each of the pillars and insert the stone",
-            "markdown": "Climb each of the pillars and insert the stone",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Collect the exquisite chest that spawns after inlaying each Stone of Remembrance.",
-                    "markdown": "Collect the exquisite chest that spawns after inlaying each \u25c0Stone of Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_of_Remembrance\u25b7."
+                    "tag": "li",
+                    "text": "Collect all \u25c0Stone of Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_of_Remembrance\u25b7 (obtained by making offerings to \u25c0Statues of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statues_of_The_Seven\u25b7 in \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7)"
                 },
                 {
-                    "plaintext": "Some pillars are guarded by enemies.",
-                    "markdown": "Some pillars are guarded by enemies."
-                }
-            ]
-        },
-        {
-            "plaintext": "Enter the ruins",
-            "markdown": "Enter the ruins"
-        },
-        {
-            "plaintext": "Search the ruins",
-            "markdown": "Search the ruins",
-            "substeps": [
-                {
-                    "plaintext": "The fight does not start until you approach the inactive Ruin Guard in the center of the ruins. You can kill the spiders at the edges of the room before activating the Ruin Guard for an easier time.",
-                    "markdown": "The fight does not start until you approach the inactive Ruin Guard in the center of the ruins. You can kill the spiders at the edges of the room before activating the Ruin Guard for an easier time."
+                    "tag": "li",
+                    "text": "Climb each of the pillars and insert the stone"
                 },
                 {
-                    "plaintext": "Pyro Infusion Stones will spawn periodically during the fight. They will buff the enemies considerably but they can be destroyed to remove the buff (although sometimes it may be bugged where they cannot be destroyed; logging out and into the game resolves the bug).",
-                    "markdown": "Pyro \u25c0Infusion Stones\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Infusion_Stone\u25b7 will spawn periodically during the fight. They will buff the enemies considerably but they can be destroyed to remove the buff (although sometimes it may be bugged where they cannot be destroyed; logging out and into the game resolves the bug)."
-                },
-                {
-                    "plaintext": "There will be 3 waves of enemies:",
-                    "markdown": "There will be 3 waves of enemies:",
-                    "img": {
-                        "geovishap_hatchling": "Geovishap_Hatchling_Icon.png"
-                    },
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Ruin Guard x1",
-                            "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1",
+                            "tag": "li",
+                            "text": "Collect the exquisite chest that spawns after inlaying each \u25c0Stone of Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_of_Remembrance\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Some pillars are guarded by enemies."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search the ruins"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The fight does not start until you approach the inactive Ruin Guard in the center of the ruins. You can kill the spiders at the edges of the room before activating the Ruin Guard for an easier time."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Pyro \u25c0Infusion Stones\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Infusion_Stone\u25b7 will spawn periodically during the fight. They will buff the enemies considerably but they can be destroyed to remove the buff (although sometimes it may be bugged where they cannot be destroyed; logging out and into the game resolves the bug)."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "There will be 3 waves of enemies:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 \u00d71",
                             "img": {
                                 "ruin_guard": "Ruin_Guard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Geovishap Hatchling x2",
-                            "markdown": "<img:geovishap_hatchling> \u25c0Geovishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap_Hatchling\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:geovishap_hatchling> \u25c0Geovishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap_Hatchling\u25b7 \u00d72",
                             "img": {
                                 "geovishap_hatchling": "Geovishap_Hatchling_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Ruin Hunter x1",
-                            "markdown": "<img:ruin_hunter> \u25c0Ruin Hunter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Hunter\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:ruin_hunter> \u25c0Ruin Hunter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Hunter\u25b7 \u00d71",
                             "img": {
                                 "ruin_hunter": "Ruin_Hunter_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Search the ruins",
-            "markdown": "Search the ruins",
-            "substeps": [
+                },
                 {
-                    "plaintext": "The room in the back will have 1 Luxurious Chest, 1 Precious Chest, and 1 Royal Flora (5 Star)",
-                    "markdown": "The room in the back will have 1 Luxurious \u25c0Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chest\u25b7, 1 Precious Chest, and 1 \u25c0Royal Flora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Noblesse_Oblige\u25b7 (5 Star)"
-                }
-            ]
-        },
-        {
-            "plaintext": "Fetch a good price for the Dull Ring",
-            "markdown": "Fetch a good price for the \u25c0Dull Ring\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dull_Ring\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Talk to Bolai at Liyue Harbor",
-                    "markdown": "Talk to \u25c0Bolai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bolai\u25b7 at Liyue Harbor",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "You can choose to sell the ring for 180,000 Mora + 5 Adeptus' Temptation.",
-                            "markdown": "You can choose to sell the ring for 180,000 Mora + 5 \u25c0Adeptus' Temptation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adeptus%27_Temptation\u25b7."
+                            "tag": "li",
+                            "text": "A <img:geovishap_hatchling> \u25c0Geovishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geovishap_Hatchling\u25b7 and a trap will spawn alongside the Infusion Stone when facing the Ruin Hunter. The Geovishap Hatchling and the trap will despawn once the infusion stone is destroyed.",
+                            "img": {
+                                "geovishap_hatchling": "Geovishap_Hatchling_Icon.png"
+                            }
                         }
                     ]
                 },
                 {
-                    "plaintext": "Talk to Linlang",
-                    "markdown": "Talk to \u25c0Linlang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Linlang\u25b7",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Search the ruins"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "You can choose to sell the ring for 200,000 Mora.",
-                            "markdown": "You can choose to sell the ring for 200,000 Mora."
+                            "tag": "li",
+                            "text": "The room in the back will have 1 Luxurious \u25c0Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chest\u25b7, 1 Precious Chest, and 1 \u25c0Royal Flora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Noblesse_Oblige\u25b7 (5 Star)"
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Fetch a good price for the \u25c0Dull Ring\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dull_Ring\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Choose one option:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You can choose to sell the ring for 180,000 Mora + 5 \u25c0Adeptus' Temptation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adeptus%27_Temptation\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You can choose to sell the ring for 200,000 Mora."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Bolai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bolai\u25b7 at Liyue Harbor"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Linlang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Linlang\u25b7"
                 }
             ]
         }

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "The Chasm Delvers",
     "url": "https://genshin-impact.fandom.com/wiki/The_Chasm_Delvers",
@@ -49,38 +50,46 @@
     ],
     "steps": [
         {
-            "plaintext": "The Chasm Charters",
-            "markdown": "\u25c0The Chasm Charters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_Charters\u25b7"
-        },
-        {
-            "plaintext": "Surreptitious Seven-Star Seal Sundering",
-            "markdown": "\u25c0Surreptitious Seven-Star Seal Sundering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Surreptitious_Seven-Star_Seal_Sundering\u25b7"
-        },
-        {
-            "plaintext": "Chasm Spelunkers",
-            "markdown": "\u25c0Chasm Spelunkers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chasm_Spelunkers\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "First Miasmic Contact",
-                    "markdown": "\u25c0First Miasmic Contact\u25b6\u25c1https://genshin-impact.fandom.com/wiki/First_Miasmic_Contact\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0The Chasm Charters\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_Charters\u25b7"
                 },
                 {
-                    "plaintext": "Meeting New People... and Foiling Some Bandits",
-                    "markdown": "\u25c0Meeting New People... and Foiling Some Bandits\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Meeting_New_People..._and_Foiling_Some_Bandits\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Surreptitious Seven-Star Seal Sundering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Surreptitious_Seven-Star_Seal_Sundering\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Chasm Spelunkers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chasm_Spelunkers\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0First Miasmic Contact\u25b6\u25c1https://genshin-impact.fandom.com/wiki/First_Miasmic_Contact\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Meeting New People... and Foiling Some Bandits\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Meeting_New_People..._and_Foiling_Some_Bandits\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Heavenly Stone's Debris\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Heavenly_Stone%27s_Debris\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Perils in the Dark\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Perils_in_the_Dark\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Wherefore Did the Spiritstone Descend?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wherefore_Did_the_Spiritstone_Descend%3F\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "The Heavenly Stone's Debris",
-            "markdown": "\u25c0The Heavenly Stone's Debris\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Heavenly_Stone%27s_Debris\u25b7"
-        },
-        {
-            "plaintext": "Perils in the Dark",
-            "markdown": "\u25c0Perils in the Dark\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Perils_in_the_Dark\u25b7"
-        },
-        {
-            "plaintext": "Wherefore Did the Spiritstone Descend?",
-            "markdown": "\u25c0Wherefore Did the Spiritstone Descend?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wherefore_Did_the_Spiritstone_Descend%3F\u25b7"
         }
     ]
 }

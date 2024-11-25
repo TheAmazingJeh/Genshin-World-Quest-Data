@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "act",
     "name": "\"If She No Longer Dreams of You...\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22If_She_No_Longer_Dreams_of_You...%22",
@@ -6,8 +7,13 @@
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Mary-Ann's Story",
-            "markdown": "\u25c0Mary-Ann's Story\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mary-Ann%27s_Story\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Mary-Ann's Story\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mary-Ann%27s_Story\u25b7"
+                }
+            ]
         }
     ]
 }

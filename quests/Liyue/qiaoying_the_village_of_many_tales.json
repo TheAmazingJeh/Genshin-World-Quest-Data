@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Qiaoying, the Village of Many Tales",
     "url": "https://genshin-impact.fandom.com/wiki/Qiaoying%2C_the_Village_of_Many_Tales",
     "starting_location": {
-        "plaintext": "Qiaoying Village , Liyue",
-        "markdown": "\u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Qiaoying Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qiaoying_Village\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Qiaoying of the Sacred Mountain",
@@ -42,36 +42,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Follow the fleeing cat",
-            "markdown": "Follow the fleeing cat"
-        },
-        {
-            "plaintext": "Collect information with Guijarro",
-            "markdown": "Collect information with \u25c0Guijarro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guijarro\u25b7"
-        },
-        {
-            "plaintext": "Follow Guijarro",
-            "markdown": "Follow Guijarro"
-        },
-        {
-            "plaintext": "Take pictures of the lantern",
-            "markdown": "Take pictures of the lantern"
-        },
-        {
-            "plaintext": "Search for Guijarro",
-            "markdown": "Search for Guijarro"
-        },
-        {
-            "plaintext": "Talk to Guijarro",
-            "markdown": "Talk to Guijarro"
-        },
-        {
-            "plaintext": "Wait until the next morning (06:00 \u2013 08:00)",
-            "markdown": "Wait until the next morning (06:00 \u2013 08:00)"
-        },
-        {
-            "plaintext": "Talk to Guijarro",
-            "markdown": "Talk to Guijarro"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Follow the fleeing cat"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect information with \u25c0Guijarro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guijarro\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Guijarro"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take pictures of the lantern"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for Guijarro"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Guijarro"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until the next morning (06:00 \u2013 08:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Guijarro"
+                }
+            ]
         }
     ],
     "dialogue": true

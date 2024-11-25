@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Price",
     "url": "https://genshin-impact.fandom.com/wiki/The_Price",
     "starting_location": {
-        "plaintext": "Port Ormos , Sumeru",
-        "markdown": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -42,56 +42,64 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Paimon after getting the mysterious item",
-            "markdown": "Talk to \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 after getting the mysterious item"
-        },
-        {
-            "plaintext": "Investigate the usual place",
-            "markdown": "Investigate the usual place"
-        },
-        {
-            "plaintext": "Confront the Fatui",
-            "markdown": "Confront the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7"
-        },
-        {
-            "plaintext": "Investigate the ambush point",
-            "markdown": "Investigate the ambush point"
-        },
-        {
-            "plaintext": "Investigate the call for help",
-            "markdown": "Investigate the call for help"
-        },
-        {
-            "plaintext": "Defeat the monsters",
-            "markdown": "Defeat the monsters",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Winged Dendroshroom x1",
-                    "markdown": "<img:winged_dendroshroom> \u25c0Winged Dendroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Dendroshroom\u25b7 x1",
-                    "img": {
-                        "winged_dendroshroom": "Winged_Dendroshroom_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 after getting the mysterious item"
                 },
                 {
-                    "plaintext": "Floating Dendro Fungus x3",
-                    "markdown": "<img:floating_dendro_fungus> \u25c0Floating Dendro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Dendro_Fungus\u25b7 x3",
-                    "img": {
-                        "floating_dendro_fungus": "Floating_Dendro_Fungus_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Investigate the usual place"
+                },
+                {
+                    "tag": "li",
+                    "text": "Confront the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the ambush point"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the call for help"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:winged_dendroshroom> \u25c0Winged Dendroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Dendroshroom\u25b7 \u00d71",
+                            "img": {
+                                "winged_dendroshroom": "Winged_Dendroshroom_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:floating_dendro_fungus> \u25c0Floating Dendro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Dendro_Fungus\u25b7 \u00d73",
+                            "img": {
+                                "floating_dendro_fungus": "Floating_Dendro_Fungus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Alexandra"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take \u25c0Nika\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nika\u25b7 to \u25c0The Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eremites\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back and check on Alexandra"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Alexandra",
-            "markdown": "Talk to Alexandra"
-        },
-        {
-            "plaintext": "Take Nika to The Eremites",
-            "markdown": "Take \u25c0Nika\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nika\u25b7 to \u25c0The Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eremites\u25b7"
-        },
-        {
-            "plaintext": "Go back and check on Alexandra",
-            "markdown": "Go back and check on Alexandra"
         }
     ],
     "dialogue": true

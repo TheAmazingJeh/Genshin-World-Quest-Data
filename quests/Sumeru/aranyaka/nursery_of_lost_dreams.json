@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "act",
     "name": "Nursery of Lost Dreams",
     "url": "https://genshin-impact.fandom.com/wiki/Nursery_of_Lost_Dreams",
@@ -6,16 +7,21 @@
     "rewards": null,
     "steps": [
         {
-            "plaintext": "For Fruits, Seeds, and Trees",
-            "markdown": "\u25c0For Fruits, Seeds, and Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_Fruits,_Seeds,_and_Trees\u25b7"
-        },
-        {
-            "plaintext": "For the Children of the Past",
-            "markdown": "\u25c0For the Children of the Past\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_the_Children_of_the_Past\u25b7"
-        },
-        {
-            "plaintext": "For All Children Who Long for Life",
-            "markdown": "\u25c0For All Children Who Long for Life\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_All_Children_Who_Long_for_Life\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0For Fruits, Seeds, and Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_Fruits,_Seeds,_and_Trees\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0For the Children of the Past\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_the_Children_of_the_Past\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0For All Children Who Long for Life\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_All_Children_Who_Long_for_Life\u25b7"
+                }
+            ]
         }
     ]
 }

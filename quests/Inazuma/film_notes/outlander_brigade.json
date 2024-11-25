@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "\"Outlander Brigade!\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22Outlander_Brigade%21%22",
     "starting_location": {
-        "plaintext": "Kamisato Estate , Inazuma",
-        "markdown": "\u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Omnipresence Over Mortals and \"The Seventh Samurai\"",
@@ -42,50 +42,69 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for Xavier.",
-            "markdown": "Look for \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7."
+            "tag": "p",
+            "text": "Talk to \u25c0Furuta\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Furuta\u25b7 at \u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 to receive the quest."
         },
         {
-            "plaintext": "Learn about the progress of Xavier's film shoot",
-            "markdown": "Learn about the progress of Xavier's film shoot"
-        },
-        {
-            "plaintext": "Talk to Xavier to begin the shoot.",
-            "markdown": "Talk to Xavier to begin the shoot.",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Choose the first option for all dialogues.",
-                    "markdown": "Choose the first option for all dialogues."
+                    "tag": "li",
+                    "text": "Look for \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
                 },
                 {
-                    "plaintext": "Complete the \"Act I, Scene II\" film shoot within 2 minutes.",
-                    "markdown": "Complete the \"Act I, Scene II\" film shoot within 2 minutes."
+                    "tag": "li",
+                    "text": "Learn about the progress of Xavier's film shoot"
                 },
                 {
-                    "plaintext": "Follow the signs",
-                    "markdown": "Follow the signs"
+                    "tag": "li",
+                    "text": "Talk to Xavier to begin the shoot"
                 },
                 {
-                    "plaintext": "\"Bandits\" Defeated 0/5",
-                    "markdown": "\"Bandits\" Defeated 0/5",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Wave 1:  Nobushi: Hitsukeban x2",
-                            "markdown": "Wave 1: <img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x2",
+                            "tag": "li",
+                            "text": "Choose the first option for all dialogues."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Complete the \"Act I, Scene II\" film shoot within 2 minutes."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Follow the signs"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\"Bandits\" Defeated 0/5"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Rescued 0/2"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: <img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 \u00d72",
                             "img": {
                                 "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Wave 2:  Nobushi: Jintouban x2",
-                            "markdown": "Wave 2: <img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 x2",
+                            "tag": "li",
+                            "text": "Wave 2: <img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 \u00d72",
                             "img": {
                                 "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Wave 3:  Kairagi: Fiery Might x1",
-                            "markdown": "Wave 3: <img:kairagi_fiery_might> \u25c0Kairagi: Fiery Might\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 3: <img:kairagi_fiery_might> \u25c0Kairagi: Fiery Might\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 \u00d71",
                             "img": {
                                 "kairagi_fiery_might": "Kairagi_Fiery_Might_Icon.png"
                             }
@@ -93,30 +112,26 @@
                     ]
                 },
                 {
-                    "plaintext": "Rescued 0/2",
-                    "markdown": "Rescued 0/2"
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Uyuu Restaurant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uyuu_Restaurant\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave Uyuu Restaurant"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Go to Uyuu Restaurant",
-            "markdown": "Go to \u25c0Uyuu Restaurant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uyuu_Restaurant\u25b7"
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Leave Uyuu Restaurant",
-            "markdown": "Leave Uyuu Restaurant"
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
         }
     ],
     "dialogue": true

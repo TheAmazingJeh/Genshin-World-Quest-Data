@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Big Business",
     "url": "https://genshin-impact.fandom.com/wiki/Big_Business",
     "starting_location": {
-        "plaintext": "Wangshu Inn , Liyue",
-        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,28 +46,43 @@
     ],
     "steps": [
         {
-            "plaintext": "Get the invoices (0/3)",
-            "markdown": "Get the invoices (0/3)",
-            "substeps": [
+            "tag": "p",
+            "text": "Talk to \u25c0Landa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Landa\u25b7 at \u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 to start the quest."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The Box of Goods Invoices are located throughout Stone Gate and Dihua Marsh.",
-                    "markdown": "The \u25c0Box of Goods Invoices\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Box_of_Goods_Invoices\u25b7 are located throughout \u25c0Stone Gate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_Gate\u25b7 and \u25c0Dihua Marsh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dihua_Marsh\u25b7."
+                    "tag": "li",
+                    "text": "Get the invoices (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Bao'er"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Landa"
                 }
             ]
         },
         {
-            "plaintext": "Talk to Bao'er",
-            "markdown": "Talk to Bao'er",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "One Box of Goods Invoices is held by Bao'er, who will trade it in exchange for three Noctilucous Jade.",
-                    "markdown": "One \u25c0Box of Goods Invoices\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Box_of_Goods_Invoices\u25b7 is held by \u25c0Bao'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bao%27er\u25b7, who will trade it in exchange for three \u25c0Noctilucous Jade\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Noctilucous_Jade\u25b7."
+                    "tag": "li",
+                    "text": "The \u25c0Box of Goods Invoices\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Box_of_Goods_Invoices\u25b7 are located throughout \u25c0Stone Gate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_Gate\u25b7 and \u25c0Dihua Marsh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dihua_Marsh\u25b7."
                 }
             ]
         },
         {
-            "plaintext": "Talk to Landa",
-            "markdown": "Talk to Landa"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "One \u25c0Box of Goods Invoices\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Box_of_Goods_Invoices\u25b7 is held by \u25c0Bao'er\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bao%27er\u25b7, who will trade it in exchange for three \u25c0Noctilucous Jade\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Noctilucous_Jade\u25b7."
+                }
+            ]
         }
     ],
     "dialogue": true

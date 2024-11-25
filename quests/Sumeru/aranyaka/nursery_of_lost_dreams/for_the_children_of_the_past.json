@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "For the Children of the Past",
     "url": "https://genshin-impact.fandom.com/wiki/For_the_Children_of_the_Past",
     "starting_location": {
-        "plaintext": "Fane of Ashvattha , Sumeru",
-        "markdown": "\u25c0Fane of Ashvattha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fane_of_Ashvattha\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Fane of Ashvattha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fane_of_Ashvattha\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,124 +46,135 @@
     ],
     "steps": [
         {
-            "plaintext": "Follow Arama into \"Old Vanarana\"",
-            "markdown": "Follow \u25c0Arama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arama\u25b7 into \"\u25c0Old Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Vanarana\u25b7\""
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama"
-        },
-        {
-            "plaintext": "Go in search of the Inscriptions of Remembrance with Arama",
-            "markdown": "Go in search of the Inscriptions of Remembrance with Arama"
-        },
-        {
-            "plaintext": "Obtain the Inscription of Remembrance",
-            "markdown": "Obtain the Inscription of Remembrance"
-        },
-        {
-            "plaintext": "Continue searching for the Inscriptions of Remembrance",
-            "markdown": "Continue searching for the Inscriptions of Remembrance"
-        },
-        {
-            "plaintext": "Obtain the second Inscription of Remembrance",
-            "markdown": "Obtain the second Inscription of Remembrance"
-        },
-        {
-            "plaintext": "Continue searching for the Inscriptions of Remembrance",
-            "markdown": "Continue searching for the Inscriptions of Remembrance"
-        },
-        {
-            "plaintext": "Obtain the third Inscription of Remembrance",
-            "markdown": "Obtain the third Inscription of Remembrance"
-        },
-        {
-            "plaintext": "Go to the seal with Arama",
-            "markdown": "Go to the seal with Arama"
-        },
-        {
-            "plaintext": "Continue forward with Arama",
-            "markdown": "Continue forward with Arama"
-        },
-        {
-            "plaintext": "Try to destroy the Tumor of the Withering",
-            "markdown": "Try to destroy the Tumor of the \u25c0Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering\u25b7"
-        },
-        {
-            "plaintext": "Try to lift the seal (0/7)",
-            "markdown": "Try to lift the seal (0/7)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Hit the Stone Pillar Seals with Pyro attacks. There are four seals in the main area.",
-                    "markdown": "Hit the \u25c0Stone Pillar Seals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_Pillar_Seal\u25b7 with \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 attacks. There are four seals in the main area."
+                    "tag": "li",
+                    "text": "Follow \u25c0Arama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arama\u25b7 into \"\u25c0Old Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Vanarana\u25b7\""
                 },
                 {
-                    "plaintext": "Use the Vintage Lyre at the Claustroflora to the northeast to open a new cave.",
-                    "markdown": "Use the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7 at the \u25c0Claustroflora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Claustroflora\u25b7 to the northeast to open a new cave."
+                    "tag": "li",
+                    "text": "Talk to Arama"
                 },
                 {
-                    "plaintext": "Destroy the fifth and sixth seals within the cave.",
-                    "markdown": "Destroy the fifth and sixth seals within the cave."
+                    "tag": "li",
+                    "text": "Go in search of the Inscriptions of Remembrance with Arama"
                 },
                 {
-                    "plaintext": "Proceed deeper into the cave and use the Vintage Lyre at the Sprouting Branch to summon Healthy Dendrograna.",
-                    "markdown": "Proceed deeper into the cave and use the Vintage Lyre at the \u25c0Sprouting Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sprouting_Branch\u25b7 to summon \u25c0Healthy Dendrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7."
+                    "tag": "li",
+                    "text": "Obtain the Inscription of Remembrance"
                 },
                 {
-                    "plaintext": "Use the Healthy Dendrograna to make Charged Attacks at the four Special Valaya in the correct sequence. This also unlocks a Common Chest.",
-                    "markdown": "Use the Healthy Dendrograna to make Charged Attacks at the four \u25c0Special Valaya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valaya\u25b7 in the correct sequence. This also unlocks a \u25c0Common Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Common_Chest\u25b7."
+                    "tag": "li",
+                    "text": "Continue searching for the Inscriptions of Remembrance"
                 },
                 {
-                    "plaintext": "Destroy the seventh seal in the newly opened cave.",
-                    "markdown": "Destroy the seventh seal in the newly opened cave."
+                    "tag": "li",
+                    "text": "Obtain the second Inscription of Remembrance"
                 },
                 {
-                    "plaintext": "Use the Vintage Lyre at the Claustroflora to return to the main area.",
-                    "markdown": "Use the Vintage Lyre at the Claustroflora to return to the main area."
+                    "tag": "li",
+                    "text": "Continue searching for the Inscriptions of Remembrance"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the third Inscription of Remembrance"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the seal with Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue forward with Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try to destroy the Tumor of the \u25c0Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try to lift the seal (0/7)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Hit the \u25c0Stone Pillar Seals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stone_Pillar_Seal\u25b7 with \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 attacks. There are four seals in the main area."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the \u25c0Vintage Lyre\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vintage_Lyre\u25b7 at the \u25c0Claustroflora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Claustroflora\u25b7 to the northeast to open a new cave."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Destroy the fifth and sixth seals within the cave."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Proceed deeper into the cave and use the Vintage Lyre at the \u25c0Sprouting Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sprouting_Branch\u25b7 to summon \u25c0Healthy Dendrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the Healthy Dendrograna to make Charged Attacks at the four \u25c0Special Valaya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valaya\u25b7 in the correct sequence. This also unlocks a \u25c0Common Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Common_Chest\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Destroy the seventh seal in the newly opened cave."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the Vintage Lyre at the Claustroflora to return to the main area."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for a way down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the ruin machine(s)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7 will become invulnerable and recover its health fully once it is defeated. Reduce its HP two times to complete this step."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "At least, it proves to be a way down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet up with Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave \u25c0Aramuhukunda\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aramuhukunda\u25b7's home"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the deepest part of the cave"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama"
-        },
-        {
-            "plaintext": "Look for a way down",
-            "markdown": "Look for a way down"
-        },
-        {
-            "plaintext": "Defeat the ruin machine(s)",
-            "markdown": "Defeat the ruin machine(s)",
-            "substeps": [
-                {
-                    "plaintext": "The Ruin Grader will become invulnerable and recover its health fully once it is defeated. Reduce its HP two times to complete this step.",
-                    "markdown": "The \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7 will become invulnerable and recover its health fully once it is defeated. Reduce its HP two times to complete this step."
-                }
-            ]
-        },
-        {
-            "plaintext": "At least, it proves to be a way down",
-            "markdown": "At least, it proves to be a way down"
-        },
-        {
-            "plaintext": "Meet up with Arama",
-            "markdown": "Meet up with Arama"
-        },
-        {
-            "plaintext": "Investigate the area",
-            "markdown": "Investigate the area"
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama"
-        },
-        {
-            "plaintext": "Leave Aramuhukunda's home",
-            "markdown": "Leave \u25c0Aramuhukunda\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aramuhukunda\u25b7's home"
-        },
-        {
-            "plaintext": "Go to the deepest part of the cave",
-            "markdown": "Go to the deepest part of the cave"
         }
     ],
     "dialogue": true

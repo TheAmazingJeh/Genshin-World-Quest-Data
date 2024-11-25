@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Yaksha's Wish",
     "url": "https://genshin-impact.fandom.com/wiki/The_Yaksha%27s_Wish",
     "starting_location": {
-        "plaintext": "Minlin , Liyue",
-        "markdown": "\u25c0Minlin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Minlin\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Minlin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Minlin\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,12 +39,97 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for clues to opening the stone tablet (0/3)",
-            "markdown": "Look for clues to opening the stone tablet (0/3)",
-            "substeps": [
+            "tag": "p",
+            "text": "Interact with the Ruin Tablet in \u25c0Minlin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Minlin\u25b7 to receive the quest."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Need to carry the Light Actuators (floating light shapes) to the Ruin Tablet, opening the chests is not enough.",
-                    "markdown": "Need to carry the Light Actuators (floating light shapes) to the Ruin Tablet, opening the chests is not enough."
+                    "tag": "li",
+                    "text": "Look for clues to opening the stone tablet (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Need to carry the Light Actuators (floating light shapes) to the Ruin Tablet, opening the chests is not enough."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tag": "h",
+            "text": "Light Actuator Locations"
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Inside the Hilichurl Camp, north of the Ruin Tablet."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat the <img:stonehide_lawachurl> \u25c0Stonehide Lawachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stonehide_Lawachurl\u25b7 and the other Hilichurls to access the hut containing a Precious Chest and the Light Actuator.",
+                            "img": {
+                                "stonehide_lawachurl": "Stonehide_Lawachurl_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "It is possible to skip the fight by jumping through a window in the back of the hut. You will likely sustain damage though, and the chest won't unlock."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "On a stone platform, east-southeast of the Ruin Tablet."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "When you go near it, the Light Actuator and the Precious Chest will be locked by a barrier. Defeat the <img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 and the Hilichurls to unlock it.",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Inside a ruined tower, south of the Ruin Tablet."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Climb the tallest peak southwest of the ruins, then glide onto the roof of the tower."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Glide down into the room from the hole on the roof. The gates will unlock, allowing access to the Light Actuator. To unlock the Exquisite Chest, you must activate the 2 \u25c0Geo Lamps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geo_Lamp\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Break one of the Geogranum crystals on the ground to acquire a Geograna and bring it up to the Geo Lamp on the 2nd floor. The <img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 will activate if you go near it.",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Break the crystal beside the ramp leading to the tower and quickly bring the Geograna up to the Geo Lantern on the 3rd floor."
+                        }
+                    ]
                 }
             ]
         }

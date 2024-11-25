@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Latecoming Homecoming",
     "url": "https://genshin-impact.fandom.com/wiki/Latecoming_Homecoming",
     "starting_location": {
-        "plaintext": "Petrichor , Fontaine",
-        "markdown": "\u25c0Petrichor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Petrichor\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Petrichor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Petrichor\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Canticles of Harmony",
@@ -42,33 +42,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Giulietta",
-            "markdown": "Talk to Giulietta"
-        },
-        {
-            "plaintext": "Find out where Giustino went",
-            "markdown": "Find out where Giustino went"
-        },
-        {
-            "plaintext": "Follow Giovanni",
-            "markdown": "Follow Giovanni"
-        },
-        {
-            "plaintext": "Defeat the Agent",
-            "markdown": "Defeat the Agent",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Fatui Pyro Agent",
-                    "markdown": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
-                    "img": {
-                        "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to Giulietta"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find out where Giustino went"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Giovanni"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Agent"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7",
+                            "img": {
+                                "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the designated location"
                 }
             ]
-        },
-        {
-            "plaintext": "Head to the designated location",
-            "markdown": "Head to the designated location"
         }
     ],
     "dialogue": true

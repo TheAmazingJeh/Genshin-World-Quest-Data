@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Riddles Awaiting Answers",
     "url": "https://genshin-impact.fandom.com/wiki/Riddles_Awaiting_Answers",
     "starting_location": {
-        "plaintext": "Institute of Natural Philosophy , Fontaine",
-        "markdown": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Institute of Natural Philosophy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Institute_of_Natural_Philosophy\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -28,8 +28,22 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Caterpillar",
-            "markdown": "Talk to \u25c0Caterpillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Caterpillar\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "The quest is obtained automatically upon entering \u25c0The Narzissenkreuz Ordo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Ordo\u25b7 after completion of \u25c0Unfinished Comedy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Unfinished_Comedy\u25b7."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Caterpillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Caterpillar\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

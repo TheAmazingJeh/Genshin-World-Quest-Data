@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Furious Mouth of the Spring",
     "url": "https://genshin-impact.fandom.com/wiki/Furious_Mouth_of_the_Spring",
     "starting_location": {
-        "plaintext": "Loch Urania , Fontaine",
-        "markdown": "\u25c0Loch Urania\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Loch_Urania\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Loch Urania\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Loch_Urania\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,19 +46,27 @@
     ],
     "steps": [
         {
-            "plaintext": "Search for the \"key\" near the \"Mouth of the Spring\"",
-            "markdown": "Search for the \"key\" near the \"Mouth of the Spring\""
-        },
-        {
-            "plaintext": "Subdue the enraged vishap",
-            "markdown": "Subdue the enraged vishap",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Enraged Vishap \u2014 \"Woke Up on the Wrong Side of the Bed, Did You?\"",
-                    "markdown": "<img:primordial_bathysmal_vishap> \u25c0Enraged Vishap \u2014 \"Woke Up on the Wrong Side of the Bed, Did You?\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap\u25b7",
-                    "img": {
-                        "primordial_bathysmal_vishap": "Primordial_Bathysmal_Vishap_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Search for the \"key\" near the \"Mouth of the Spring\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Subdue the enraged vishap"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primordial_bathysmal_vishap> \u25c0Enraged Vishap \u2014 \"Woke Up on the Wrong Side of the Bed, Did You?\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap\u25b7",
+                            "img": {
+                                "primordial_bathysmal_vishap": "Primordial_Bathysmal_Vishap_Icon.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }

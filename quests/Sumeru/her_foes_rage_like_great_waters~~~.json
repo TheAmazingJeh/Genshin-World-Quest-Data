@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Her Foes Rage Like Great Waters...",
     "url": "https://genshin-impact.fandom.com/wiki/Her_Foes_Rage_Like_Great_Waters...",
@@ -42,16 +43,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Behold, the Sign Comes Like A Thief...",
-            "markdown": "\u25c0Behold, the Sign Comes Like A Thief...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Behold,_the_Sign_Comes_Like_A_Thief...\u25b7"
-        },
-        {
-            "plaintext": "Make Bright the Arrows, Gather the Shields...",
-            "markdown": "\u25c0Make Bright the Arrows, Gather the Shields...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Make_Bright_the_Arrows,_Gather_the_Shields...\u25b7"
-        },
-        {
-            "plaintext": "For Her Judgment Reaches to the Skies...",
-            "markdown": "\u25c0For Her Judgment Reaches to the Skies...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_Her_Judgment_Reaches_to_the_Skies...\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Behold, the Sign Comes Like A Thief...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Behold,_the_Sign_Comes_Like_A_Thief...\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Make Bright the Arrows, Gather the Shields...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Make_Bright_the_Arrows,_Gather_the_Shields...\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0For Her Judgment Reaches to the Skies...\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_Her_Judgment_Reaches_to_the_Skies...\u25b7"
+                }
+            ]
         }
     ]
 }

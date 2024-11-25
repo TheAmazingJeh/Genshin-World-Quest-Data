@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "In Search of Lost Time: South",
     "url": "https://genshin-impact.fandom.com/wiki/In_Search_of_Lost_Time%3A_South",
     "starting_location": {
-        "plaintext": "New Fontaine Research Institute , Fontaine",
-        "markdown": "\u25c0New Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/New_Fontaine_Research_Institute\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0New Fontaine Research Institute\u25b6\u25c1https://genshin-impact.fandom.com/wiki/New_Fontaine_Research_Institute\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,33 +39,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Enter the sunken hydrology research station",
-            "markdown": "Enter the sunken hydrology research station"
-        },
-        {
-            "plaintext": "Investigate the main control room",
-            "markdown": "Investigate the main control room"
-        },
-        {
-            "plaintext": "Find a way to charge the research terminal",
-            "markdown": "Find a way to charge the research terminal",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Deepwater Assault Mek x1",
-                    "markdown": "<img:deepwater_assault_mek> \u25c0Deepwater Assault Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Deepwater_Assault_Mek\u25b7 x1",
-                    "img": {
-                        "deepwater_assault_mek": "Deepwater_Assault_Mek_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Enter the sunken hydrology research station"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the main control room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a way to charge the research terminal"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:deepwater_assault_mek> \u25c0Deepwater Assault Mek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Deepwater_Assault_Mek\u25b7 \u00d71",
+                            "img": {
+                                "deepwater_assault_mek": "Deepwater_Assault_Mek_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the research terminal to access the hydrology research data"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Broglie"
                 }
             ]
-        },
-        {
-            "plaintext": "Use the research terminal to access the hydrology research data",
-            "markdown": "Use the research terminal to access the hydrology research data"
-        },
-        {
-            "plaintext": "Talk to Broglie",
-            "markdown": "Talk to Broglie"
         }
     ],
     "dialogue": true

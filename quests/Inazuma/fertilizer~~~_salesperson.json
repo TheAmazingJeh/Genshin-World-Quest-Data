@@ -1,14 +1,14 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Fertilizer... Salesperson?",
     "url": "https://genshin-impact.fandom.com/wiki/Fertilizer..._Salesperson%3F",
     "starting_location": {
-        "plaintext": "Watatsumi Island , Inazuma",
-        "markdown": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Watatsumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Watatsumi_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
-        "plaintext": "Complete In Another Land Reach Adventure Rank 40 Complete Dracaena Somnolenta Chapter Act I: Warriors' Dreams Like Spring Grass Renewing",
-        "markdown": "Complete \u25c0In Another Land\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_Another_Land\u25b7 Reach \u25c0Adventure Rank\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventure_Rank\u25b7 40 Complete \u25c0Dracaena Somnolenta Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dracaena_Somnolenta_Chapter\u25b7 Act I: \u25c0Warriors' Dreams Like Spring Grass Renewing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warriors%27_Dreams_Like_Spring_Grass_Renewing\u25b7"
+        "plaintext": "",
+        "markdown": ""
     },
     "rewards": [
         {
@@ -42,69 +42,84 @@
     ],
     "steps": [
         {
-            "plaintext": "Return the next day and appraise the fertilizer situation",
-            "markdown": "Return the next day and appraise the fertilizer situation",
-            "substeps": [
-                {
-                    "plaintext": "The \"next day\" is by in-game time. It is sufficient to wait until 00:00 next day.",
-                    "markdown": "The \"next day\" is by in-game time. It is sufficient to wait until 00:00 next day."
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Iwata\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iwata\u25b7 in \u25c0Bourou Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bourou_Village\u25b7."
         },
         {
-            "plaintext": "Return and appraise the fertilizer situation",
-            "markdown": "Return and appraise the fertilizer situation"
-        },
-        {
-            "plaintext": "Defeat all opponents",
-            "markdown": "Defeat all opponents",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Large Cryo Slime x1",
-                    "markdown": "<img:large_cryo_slime> \u25c0Large Cryo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Cryo_Slime\u25b7 x1",
-                    "img": {
-                        "large_cryo_slime": "Large_Cryo_Slime_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Return the next day and appraise the fertilizer situation"
                 },
                 {
-                    "plaintext": "Large Electro Slime x1",
-                    "markdown": "<img:large_electro_slime> \u25c0Large Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Electro_Slime\u25b7 x1",
-                    "img": {
-                        "large_electro_slime": "Large_Electro_Slime_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The \"next day\" is by in-game time. It is sufficient to wait until 00:00 next day."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Electro Slime x2",
-                    "markdown": "<img:electro_slime> \u25c0Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Slime\u25b7 x2",
-                    "img": {
-                        "electro_slime": "Electro_Slime_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Return and appraise the fertilizer situation"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:large_cryo_slime> \u25c0Large Cryo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Cryo_Slime\u25b7 \u00d71",
+                            "img": {
+                                "large_cryo_slime": "Large_Cryo_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:large_electro_slime> \u25c0Large Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Electro_Slime\u25b7 \u00d71",
+                            "img": {
+                                "large_electro_slime": "Large_Electro_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:electro_slime> \u25c0Electro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Slime\u25b7 \u00d72",
+                            "img": {
+                                "electro_slime": "Electro_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Iwata"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go with \u25c0Gorou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gorou\u25b7 to investigate the suspicious person"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Kaushik\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaushik\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Kaushik"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take Kaushik and report back to Gorou"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go with \u25c0Alrani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Alrani\u25b7 to look for Iwata"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Iwata",
-            "markdown": "Talk to Iwata"
-        },
-        {
-            "plaintext": "Go with Gorou to investigate the suspicious person",
-            "markdown": "Go with \u25c0Gorou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gorou\u25b7 to investigate the suspicious person"
-        },
-        {
-            "plaintext": "Find Kaushik",
-            "markdown": "Find \u25c0Kaushik\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaushik\u25b7"
-        },
-        {
-            "plaintext": "Talk to Kaushik",
-            "markdown": "Talk to Kaushik"
-        },
-        {
-            "plaintext": "Take Kaushik and report back to Gorou",
-            "markdown": "Take Kaushik and report back to Gorou"
-        },
-        {
-            "plaintext": "Go with Alrani to look for Iwata",
-            "markdown": "Go with \u25c0Alrani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Alrani\u25b7 to look for Iwata"
         }
     ],
     "dialogue": true

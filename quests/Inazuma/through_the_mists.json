@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Through the Mists",
     "url": "https://genshin-impact.fandom.com/wiki/Through_the_Mists",
@@ -42,20 +43,91 @@
     ],
     "steps": [
         {
-            "plaintext": "A Particularly Particular Author",
-            "markdown": "\u25c0A Particularly Particular Author\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Particularly_Particular_Author\u25b7"
+            "tag": "h",
+            "text": "World Quest Series"
         },
         {
-            "plaintext": "Octave of the Maushiro",
-            "markdown": "\u25c0Octave of the Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Octave_of_the_Maushiro\u25b7"
+            "tag": "p",
+            "text": "Quests in this series require the daily \u25c0reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reset\u25b7 to pass after completing the previous quest"
         },
         {
-            "plaintext": "The Sea of Fog and the Rite of the Trees",
-            "markdown": "\u25c0The Sea of Fog and the Rite of the Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Sea_of_Fog_and_the_Rite_of_the_Trees\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0A Particularly Particular Author\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Particularly_Particular_Author\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Octave of the Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Octave_of_the_Maushiro\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Sea of Fog and the Rite of the Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Sea_of_Fog_and_the_Rite_of_the_Trees\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Sun-Wheel and Mt. Kanna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Sun-Wheel_and_Mt._Kanna\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "The Sun-Wheel and Mt. Kanna",
-            "markdown": "\u25c0The Sun-Wheel and Mt. Kanna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Sun-Wheel_and_Mt._Kanna\u25b7"
+            "tag": "h",
+            "text": "Follow-Up Quests"
+        },
+        {
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Saga of Mr. Forgetful\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Saga_of_Mr._Forgetful\u25b7"
+                }
+            ]
+        },
+        {
+            "tag": "h",
+            "text": "Follow-Up Hidden Exploration Objectives"
+        },
+        {
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0\"Boatman\"'s Task\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Boatman%22%27s_Task\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Abe's Fungi Needs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abe%27s_Fungi_Needs\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0A Gift To Shitoki, Wrapped In Conches\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Gift_To_Shitoki,_Wrapped_In_Conches\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Ipe's Fishing Advice\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ipe%27s_Fishing_Advice\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Lighting Chise's Path\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lighting_Chise%27s_Path\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Kito And Kina's Request\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kito_And_Kina%27s_Request\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Nonno's Hide And Seek\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nonno%27s_Hide_And_Seek\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Rero's Joke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rero%27s_Joke\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Una's Longing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Una%27s_Longing\u25b7"
+                }
+            ]
         }
     ]
 }

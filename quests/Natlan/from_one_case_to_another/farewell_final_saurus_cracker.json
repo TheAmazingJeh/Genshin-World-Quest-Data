@@ -1,0 +1,96 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Farewell, Final Saurus Cracker",
+    "url": "https://genshin-impact.fandom.com/wiki/Farewell%2C_Final_Saurus_Cracker",
+    "starting_location": null,
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Flower-Feather Clan Reputation EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Flower-Feather_Clan_Reputation_EXP",
+            "Image": "Item_Flower-Feather_Clan_Reputation_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Indwell\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saurian_Indwelling\u25b7 an \u25c0Iktomisaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iktomisaurus\u25b7 and track the strange scent"
+                },
+                {
+                    "tag": "li",
+                    "text": "Get to an elevated vantage point to get a better view of the situation"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check for clues nearby"
+                },
+                {
+                    "tag": "li",
+                    "text": "Disguise yourself and follow the Iktomisaurus patrol to infiltrate the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a way out"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat your opponents"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the flight school"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Taruka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taruka\u25b7"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

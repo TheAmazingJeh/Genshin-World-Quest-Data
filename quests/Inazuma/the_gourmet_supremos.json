@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "The Gourmet Supremos",
     "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos",
@@ -112,28 +113,149 @@
     ],
     "steps": [
         {
-            "plaintext": "Gourmet Supremos, Assemble!",
-            "markdown": "\u25c0Gourmet Supremos, Assemble!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gourmet_Supremos,_Assemble!\u25b7"
+            "tag": "h",
+            "text": "World Quests"
         },
         {
-            "plaintext": "The Gourmet Supremos: Of Shrines and Sakura",
-            "markdown": "\u25c0The Gourmet Supremos: Of Shrines and Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Of_Shrines_and_Sakura\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Gourmet Supremos, Assemble!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gourmet_Supremos,_Assemble!\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Of Shrines and Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Of_Shrines_and_Sakura\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: The Seashore Strider\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Seashore_Strider\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: The Deep Divers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Deep_Divers\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: On the Road\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_On_the_Road\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: The Importance of Eating Well\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "The Gourmet Supremos: The Seashore Strider",
-            "markdown": "\u25c0The Gourmet Supremos: The Seashore Strider\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Seashore_Strider\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Gourmet Supremos: Within Our Duties\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gourmet_Supremos:_Within_Our_Duties\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Cleanup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Cleanup\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "The Gourmet Supremos: The Deep Divers",
-            "markdown": "\u25c0The Gourmet Supremos: The Deep Divers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Deep_Divers\u25b7"
+            "tag": "h",
+            "text": "Commissions"
         },
         {
-            "plaintext": "The Gourmet Supremos: On the Road",
-            "markdown": "\u25c0The Gourmet Supremos: On the Road\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_On_the_Road\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Breakthrough Thinking\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Breakthrough_Thinking\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Where'd the Ingredients Go?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Where%27d_the_Ingredients_Go%3F\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Foodie Quiz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Foodie_Quiz\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Cook-Off\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Cook-Off\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Extreme Cookery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Extreme_Cookery\u25b7"
+                }
+            ]
         },
         {
-            "plaintext": "The Gourmet Supremos: The Importance of Eating Well",
-            "markdown": "\u25c0The Gourmet Supremos: The Importance of Eating Well\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well\u25b7"
+            "tag": "h",
+            "text": "Main Sequence"
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Gourmet Supremos, Assemble!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gourmet_Supremos,_Assemble!\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Of Shrines and Sakura\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Of_Shrines_and_Sakura\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: The Seashore Strider\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Seashore_Strider\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: The Deep Divers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Deep_Divers\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: On the Road\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_On_the_Road\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Breakthrough Thinking\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Breakthrough_Thinking\u25b7 (Commission)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: The Importance of Eating Well\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_The_Importance_of_Eating_Well\u25b7 (Completion of this World Quest opens 4 Commission Quests)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Commission Quests"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Gourmet Supremos: Within Our Duties\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gourmet_Supremos:_Within_Our_Duties\u25b7 (Requires completion of all 4 Commission Quests and related Achievements)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Cleanup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Cleanup\u25b7"
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Where'd the Ingredients Go?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Where%27d_the_Ingredients_Go%3F\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Foodie Quiz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Foodie_Quiz\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Cook-Off\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Cook-Off\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Gourmet Supremos: Extreme Cookery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos:_Extreme_Cookery\u25b7"
+                }
+            ]
         }
     ]
 }

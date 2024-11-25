@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Gifted Rose: Ballad of Days Gone By",
     "url": "https://genshin-impact.fandom.com/wiki/A_Gifted_Rose%3A_Ballad_of_Days_Gone_By",
     "starting_location": {
-        "plaintext": "Land of Lower Setekh , Sumeru",
-        "markdown": "\u25c0Land of Lower Setekh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Lower_Setekh\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Land of Lower Setekh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Lower_Setekh\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,8 +60,13 @@
     ],
     "steps": [
         {
-            "plaintext": "\"Awaken\" the seeds",
-            "markdown": "\"Awaken\" the seeds"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\"Awaken\" the seeds"
+                }
+            ]
         }
     ],
     "dialogue": true

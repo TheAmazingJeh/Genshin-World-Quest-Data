@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Children of Vimara Village",
     "url": "https://genshin-impact.fandom.com/wiki/The_Children_of_Vimara_Village",
     "starting_location": {
-        "plaintext": "Avidya Forest , Sumeru",
-        "markdown": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,60 +39,71 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Rana once you are ready",
-            "markdown": "Talk to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7 once you are ready",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "This step only appears if \"Okay, but I have a few things to take care of before that...\" was selected in Woodland Encounter.",
-                    "markdown": "This step only appears if \"Okay, but I have a few things to take care of before that...\" was selected in \u25c0Woodland Encounter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Woodland_Encounter\u25b7."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7 once you are ready"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This step only appears if \"Okay, but I have a few things to take care of before that...\" was selected in \u25c0Woodland Encounter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Woodland_Encounter\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Rana"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rana"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the elders in the village"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Rana"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This step restarts if the Traveler moves too far away from her"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0the man\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Alphonso\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the children to Rana's house"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the children (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave Vimara Village and go to the designated location"
                 }
             ]
-        },
-        {
-            "plaintext": "Follow Rana",
-            "markdown": "Follow Rana"
-        },
-        {
-            "plaintext": "Clean up the Withering Zone",
-            "markdown": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
-        },
-        {
-            "plaintext": "Talk to Rana",
-            "markdown": "Talk to Rana"
-        },
-        {
-            "plaintext": "Go to Vimara Village",
-            "markdown": "Go to \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7"
-        },
-        {
-            "plaintext": "Talk to the elders in the village",
-            "markdown": "Talk to the elders in the village"
-        },
-        {
-            "plaintext": "Follow Rana",
-            "markdown": "Follow Rana",
-            "substeps": [
-                {
-                    "plaintext": "This step restarts if the Traveler moves too far away from her",
-                    "markdown": "This step restarts if the Traveler moves too far away from her"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to the man",
-            "markdown": "Talk to \u25c0the man\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Alphonso\u25b7"
-        },
-        {
-            "plaintext": "Follow the children to Rana's house",
-            "markdown": "Follow the children to Rana's house"
-        },
-        {
-            "plaintext": "Talk to the children (0/3)",
-            "markdown": "Talk to the children (0/3)"
-        },
-        {
-            "plaintext": "Leave Vimara Village and go to the designated location",
-            "markdown": "Leave Vimara Village and go to the designated location"
         }
     ],
     "dialogue": true

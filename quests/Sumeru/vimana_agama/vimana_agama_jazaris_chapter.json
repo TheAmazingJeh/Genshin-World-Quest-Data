@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Vimana Agama: Jazari's Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/Vimana_Agama%3A_Jazari%27s_Chapter",
     "starting_location": {
-        "plaintext": "Ardravi Valley , Sumeru",
-        "markdown": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,89 +46,103 @@
     ],
     "steps": [
         {
-            "plaintext": "Open the Ruin Golem seal",
-            "markdown": "Open the \u25c0Ruin Golem\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Golem_(Devantaka_Mountain)\u25b7 seal"
-        },
-        {
-            "plaintext": "Enter the Ruin Golem",
-            "markdown": "Enter the Ruin Golem"
-        },
-        {
-            "plaintext": "Activate the relays",
-            "markdown": "Activate the relays"
-        },
-        {
-            "plaintext": "Link the lower power system",
-            "markdown": "Link the lower power system"
-        },
-        {
-            "plaintext": "Talk to Jazari",
-            "markdown": "Talk to \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7"
-        },
-        {
-            "plaintext": "Connect all four relays in the middle",
-            "markdown": "Connect all four relays in the middle",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Get all 3 Energy Blocks",
-                    "markdown": "Get all 3 \u25c0Energy Blocks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Energy_Block\u25b7"
+                    "tag": "li",
+                    "text": "Open the \u25c0Ruin Golem\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Golem_(Devantaka_Mountain)\u25b7 seal"
                 },
                 {
-                    "plaintext": "Power relay with door that requires 3 Energy Blocks.",
-                    "markdown": "Power relay with door that requires 3 Energy Blocks."
+                    "tag": "li",
+                    "text": "Enter the Ruin Golem"
                 },
                 {
-                    "plaintext": "Power relay with door that requires 2 Energy Blocks.",
-                    "markdown": "Power relay with door that requires 2 Energy Blocks."
+                    "tag": "li",
+                    "text": "Activate the relays"
                 },
                 {
-                    "plaintext": "Power relay with door that requires 1 Energy Block.",
-                    "markdown": "Power relay with door that requires 1 Energy Block."
+                    "tag": "li",
+                    "text": "Link the lower power system"
                 },
                 {
-                    "plaintext": "Power relay without door.",
-                    "markdown": "Power relay without door."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Jazari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jazari\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Connect all four relays in the middle"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Black Serpent Knight"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:black_serpent_knight_windcutter> \u25c0Ynghildr - Sword of a Lost Homeland\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Black_Serpent_Knight:_Windcutter\u25b7",
+                            "img": {
+                                "black_serpent_knight_windcutter": "Black_Serpent_Knight_Windcutter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jazari"
+                },
+                {
+                    "tag": "li",
+                    "text": "Connect to the pilot cabin power system"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the pilot cabin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the Ruin Golem"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Press Activate, then attack three times)"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jazari"
                 }
             ]
         },
         {
-            "plaintext": "Defeat the Black Serpent Knight",
-            "markdown": "Defeat the Black Serpent Knight",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Ynghildr - Sword of a Lost Homeland",
-                    "markdown": "<img:black_serpent_knight_windcutter> \u25c0Ynghildr - Sword of a Lost Homeland\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Black_Serpent_Knight:_Windcutter\u25b7",
-                    "img": {
-                        "black_serpent_knight_windcutter": "Black_Serpent_Knight_Windcutter_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Get all 3 \u25c0Energy Blocks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Energy_Block\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Power relay with door that requires 3 Energy Blocks."
+                },
+                {
+                    "tag": "li",
+                    "text": "Power relay with door that requires 2 Energy Blocks."
+                },
+                {
+                    "tag": "li",
+                    "text": "Power relay with door that requires 1 Energy Block."
+                },
+                {
+                    "tag": "li",
+                    "text": "Power relay without door."
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Jazari",
-            "markdown": "Talk to Jazari"
-        },
-        {
-            "plaintext": "Connect to the pilot cabin power system",
-            "markdown": "Connect to the pilot cabin power system"
-        },
-        {
-            "plaintext": "Enter the pilot cabin",
-            "markdown": "Enter the pilot cabin"
-        },
-        {
-            "plaintext": "Activate the Ruin Golem",
-            "markdown": "Activate the Ruin Golem",
-            "substeps": [
-                {
-                    "plaintext": "Press Activate, then attack three times)",
-                    "markdown": "Press Activate, then attack three times)"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Jazari",
-            "markdown": "Talk to Jazari"
         }
     ],
     "dialogue": true

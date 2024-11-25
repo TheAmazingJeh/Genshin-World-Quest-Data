@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Unbegun, Unending Story",
     "url": "https://genshin-impact.fandom.com/wiki/Unbegun%2C_Unending_Story",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Adventure Rank 35",
@@ -13,16 +13,24 @@
     "rewards": [],
     "steps": [
         {
-            "plaintext": "Enter the room on the lower level of the Knights of Favonius Library",
-            "markdown": "Enter the room on the lower level of the \u25c0Knights of Favonius Library\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Knights_of_Favonius_Library\u25b7"
-        },
-        {
-            "plaintext": "Explore the mysterious room\u200d[Does this step ever appear in the game? When does the quest end?]",
-            "markdown": "Explore the \u25c0mysterious room\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Room\u25b7\u200d[Does this step ever appear in the game? When does the quest end?]",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "While in the room, the player's party is limited to the Traveler. They cannot use their Talents, and the Party screen cannot be accessed.",
-                    "markdown": "While in the room, the player's party is limited to the \u25c0Traveler\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveler\u25b7. They cannot use their \u25c0Talents\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Talent\u25b7, and the \u25c0Party\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Party\u25b7 screen cannot be accessed."
+                    "tag": "li",
+                    "text": "Enter the room on the lower level of the \u25c0Knights of Favonius Library\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Knights_of_Favonius_Library\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the \u25c0mysterious room\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Room\u25b7\u200d[Does this step ever appear in the game? When does the quest end?]"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "While in the room, the player's party is limited to the \u25c0Traveler\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveler\u25b7. They cannot use their \u25c0Talents\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Talent\u25b7, and the \u25c0Party\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Party\u25b7 screen cannot be accessed."
+                        }
+                    ]
                 }
             ]
         }

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Gazing Three Thousand Miles Away",
     "url": "https://genshin-impact.fandom.com/wiki/Gazing_Three_Thousand_Miles_Away",
     "starting_location": {
-        "plaintext": "Jakotsu Mine , Yashiori Island",
-        "markdown": "\u25c0Jakotsu Mine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine\u25b7 , \u25c0Yashiori Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yashiori_Island\u25b7"
+        "text": "\u25c0Jakotsu Mine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine\u25b7 , \u25c0Yashiori Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yashiori_Island\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan",
@@ -56,64 +56,75 @@
     ],
     "steps": [
         {
-            "plaintext": "Gather 12 chunks of Crystal Marrow",
-            "markdown": "Gather 12 chunks of \u25c0Crystal Marrow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crystal_Marrow\u25b7"
-        },
-        {
-            "plaintext": "Obtain the treasure mentioned by Chouji",
-            "markdown": "Obtain the treasure mentioned by Chouji"
-        },
-        {
-            "plaintext": "Confront Chouji",
-            "markdown": "Confront Chouji"
-        },
-        {
-            "plaintext": "Rest until 11:00 \u2013 14:00 the next day and talk to Chouji",
-            "markdown": "Rest until 11:00 \u2013 14:00 the next day and talk to Chouji"
-        },
-        {
-            "plaintext": "Talk to Chouji",
-            "markdown": "Talk to Chouji"
-        },
-        {
-            "plaintext": "Gather 12 chunks of Crystal Marrow",
-            "markdown": "Gather 12 chunks of Crystal Marrow"
-        },
-        {
-            "plaintext": "Go to Chouji's home",
-            "markdown": "Go to Chouji's home"
-        },
-        {
-            "plaintext": "Learn how to make Imported Poultry",
-            "markdown": "Learn how to make Imported Poultry"
-        },
-        {
-            "plaintext": "Share the dish you made with Chouji",
-            "markdown": "Share the dish you made with Chouji",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "There is a sheltered cooking campfire at the east of his home.",
-                    "markdown": "There is a sheltered cooking campfire at the east of his home."
+                    "tag": "li",
+                    "text": "Gather 12 chunks of \u25c0Crystal Marrow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crystal_Marrow\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the treasure mentioned by Chouji"
+                },
+                {
+                    "tag": "li",
+                    "text": "Confront Chouji"
+                },
+                {
+                    "tag": "li",
+                    "text": "Rest until 11:00 \u2013 14:00 the next day and talk to Chouji"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Chouji"
+                },
+                {
+                    "tag": "li",
+                    "text": "Gather 12 chunks of Crystal Marrow"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Chouji's home"
+                },
+                {
+                    "tag": "li",
+                    "text": "Learn how to make Imported Poultry"
+                },
+                {
+                    "tag": "li",
+                    "text": "Share the dish you made with Chouji"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "There is a sheltered cooking campfire at the east of his home."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Solve Chouji's problem"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the shrine"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The shrine can be interacted with prior to this step."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Chouji"
                 }
             ]
-        },
-        {
-            "plaintext": "Solve Chouji's problem",
-            "markdown": "Solve Chouji's problem"
-        },
-        {
-            "plaintext": "Investigate the shrine",
-            "markdown": "Investigate the shrine",
-            "substeps": [
-                {
-                    "plaintext": "The shrine can be interacted with prior to this step.",
-                    "markdown": "The shrine can be interacted with prior to this step."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Chouji",
-            "markdown": "Talk to Chouji"
         }
     ],
     "dialogue": true

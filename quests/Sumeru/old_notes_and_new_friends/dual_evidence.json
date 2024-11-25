@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Dual Evidence",
     "url": "https://genshin-impact.fandom.com/wiki/Dual_Evidence",
     "starting_location": {
-        "plaintext": "Aaru Village , Sumeru",
-        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Golden Slumber",
@@ -56,71 +56,91 @@
     ],
     "steps": [
         {
-            "plaintext": "Enter Aaru Village with Kalantari",
-            "markdown": "Enter \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 with \u25c0Kalantari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kalantari\u25b7"
-        },
-        {
-            "plaintext": "Talk to Soheil",
-            "markdown": "Talk to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
-        },
-        {
-            "plaintext": "Go to the location indicated by the stone slate",
-            "markdown": "Go to \u25c0the location indicated by the stone slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Duat_Hall\u25b7"
-        },
-        {
-            "plaintext": "Follow the stone slate's guidance and obtain full clearance (0/3)",
-            "markdown": "Follow \u25c0the stone slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Sand_Slate\u25b7's guidance and obtain full clearance (0/3)",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Explore the Place of Rebirth, Place of Breath, and Place of Swallowing ruins",
-                    "markdown": "Explore the \u25c0Place of Rebirth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Rebirth\u25b7, \u25c0Place of Breath\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Breath\u25b7, and \u25c0Place of Swallowing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Swallowing\u25b7 ruins"
+                    "tag": "li",
+                    "text": "Start the quest by approaching the \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7 near \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Head to the Great Hall of Truths following the guidance of the slate",
-            "markdown": "Head to the Great Hall of Truths following the guidance of the slate"
-        },
-        {
-            "plaintext": "Examine the giant device",
-            "markdown": "Examine the giant device"
-        },
-        {
-            "plaintext": "Explore the area and find a way to activate the giant device",
-            "markdown": "Explore the area and find a way to activate the giant device"
-        },
-        {
-            "plaintext": "Continue forward",
-            "markdown": "Continue forward"
-        },
-        {
-            "plaintext": "Light the Primal Torches (0/3)",
-            "markdown": "Light the Primal Torches (0/3)"
-        },
-        {
-            "plaintext": "Activate the device",
-            "markdown": "Activate the device"
-        },
-        {
-            "plaintext": "Defeat the \"big guy with evil intentions\"",
-            "markdown": "Defeat the \"big guy with evil intentions\"",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Field Annihilation Array: The Evincing Shadow",
-                    "markdown": "<img:algorithm_of_semi-intransient_matrix_of_overseer_network> \u25c0Field Annihilation Array: The Evincing Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network\u25b7",
-                    "img": {
-                        "algorithm_of_semi-intransient_matrix_of_overseer_network": "Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Enter \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 with \u25c0Kalantari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kalantari\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0the location indicated by the stone slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Duat_Hall\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow \u25c0the stone slate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scarlet_Sand_Slate\u25b7's guidance and obtain full clearance (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Explore the \u25c0Place of Rebirth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Rebirth\u25b7, \u25c0Place of Breath\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Breath\u25b7, and \u25c0Place of Swallowing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Place_of_Swallowing\u25b7 ruins"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the Great Hall of Truths following the guidance of the slate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the giant device"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the area and find a way to activate the giant device"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue forward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Light the Primal Torches (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the device"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \"big guy with evil intentions\""
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:algorithm_of_semi-intransient_matrix_of_overseer_network> \u25c0Field Annihilation Array: The Evincing Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network\u25b7",
+                            "img": {
+                                "algorithm_of_semi-intransient_matrix_of_overseer_network": "Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for valuable items"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to Aaru Village and talk to Soheil"
                 }
             ]
-        },
-        {
-            "plaintext": "Look for valuable items",
-            "markdown": "Look for valuable items"
-        },
-        {
-            "plaintext": "Return to Aaru Village and talk to Soheil",
-            "markdown": "Return to Aaru Village and talk to Soheil"
         }
     ],
     "dialogue": true

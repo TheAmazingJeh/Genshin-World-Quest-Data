@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Royinjan's Chapter: Yoni",
     "url": "https://genshin-impact.fandom.com/wiki/Royinjan%27s_Chapter%3A_Yoni",
     "starting_location": {
-        "plaintext": "Vimara Village , Sumeru",
-        "markdown": "\u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,30 +39,38 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the designated areaDesignated areaAdditional context",
-            "markdown": "Go to the designated area\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Yoni_Start_Location.png\u25b7Designated area\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Yoni_Start_Location_Context.png\u25b7Additional context"
-        },
-        {
-            "plaintext": "Find an entrance",
-            "markdown": "Find an entrance",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Break the Dendrogranum-Locked Rock with the nearby Auspicious Branch",
-                    "markdown": "Break the \u25c0Dendrogranum-Locked Rock\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum-Locked_Rock\u25b7 with the nearby \u25c0Auspicious Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Auspicious_Branch\u25b7"
+                    "tag": "li",
+                    "text": "Go to the designated area\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Yoni_Start_Location.png\u25b7Designated area\u25c0\u25b6\u25c1https://genshin-impact.fandom.com/wiki/File:World_Quest_Royinjan%27s_Chapter_Yoni_Start_Location_Context.png\u25b7Additional context"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find an entrance"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Break the \u25c0Dendrogranum-Locked Rock\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum-Locked_Rock\u25b7 with the nearby \u25c0Auspicious Branch\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Auspicious_Branch\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the path"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up \u25c0The Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for a mechanical component"
                 }
             ]
-        },
-        {
-            "plaintext": "Follow the path",
-            "markdown": "Follow the path"
-        },
-        {
-            "plaintext": "Clean up The Withering",
-            "markdown": "Clean up \u25c0The Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7"
-        },
-        {
-            "plaintext": "Search for a mechanical component",
-            "markdown": "Search for a mechanical component"
         }
     ],
     "dialogue": true

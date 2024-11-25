@@ -1,128 +1,154 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Kunado's Trial",
     "url": "https://genshin-impact.fandom.com/wiki/Kunado%27s_Trial",
     "starting_location": {
-        "plaintext": "Enkanomiya",
-        "markdown": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+        "text": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
     },
     "requirements": null,
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Go to The Emanant Skylight",
-            "markdown": "Go to \u25c0The Emanant Skylight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Emanant_Skylight\u25b7"
-        },
-        {
-            "plaintext": "Investigate the water in the pool during Evernight",
-            "markdown": "Investigate the water in the pool during \u25c0Evernight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Step is completed upon reaching the Time Tunnel, even if the player does not go through it",
-                    "markdown": "Step is completed upon reaching the \u25c0Time Tunnel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Time_Tunnel\u25b7, even if the player does not go through it"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to the afterimage in front of the seal",
-            "markdown": "Talk to the afterimage in front of the seal"
-        },
-        {
-            "plaintext": "Release all the Flames of the High Gate (0/4)",
-            "markdown": "Release all the Flames of the High Gate (0/4)",
-            "substeps": [
-                {
-                    "plaintext": "Switch back to Evernight if not already done so",
-                    "markdown": "Switch back to Evernight if not already done so"
+                    "tag": "li",
+                    "text": "Go to \u25c0The Emanant Skylight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Emanant_Skylight\u25b7"
                 },
                 {
-                    "plaintext": "Enemies will appear after lighting the four torches",
-                    "markdown": "Enemies will appear after lighting the four torches",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Investigate the water in the pool during \u25c0Evernight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Wave 1:",
-                            "markdown": "Wave 1:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Thundercraven Rifthound Whelp x4",
-                                    "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x4",
-                                    "img": {
-                                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "plaintext": "Wave 2:",
-                            "markdown": "Wave 2:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Hydro Abyss Mage x1",
-                                    "markdown": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 x1",
-                                    "img": {
-                                        "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Cryo Abyss Mage x1",
-                                    "markdown": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
-                                    "img": {
-                                        "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Electro Abyss Mage x1",
-                                    "markdown": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 x1",
-                                    "img": {
-                                        "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "plaintext": "Wave 3:",
-                            "markdown": "Wave 3:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Primordial Bathysmal Vishap Hatchling x1",
-                                    "markdown": "<img:primordial_bathysmal_vishap_hatchling> \u25c0Primordial Bathysmal Vishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap_Hatchling\u25b7 x1",
-                                    "img": {
-                                        "primordial_bathysmal_vishap_hatchling": "Primordial_Bathysmal_Vishap_Icon.png"
-                                    }
-                                },
-                                {
-                                    "plaintext": "Rimebiter Bathysmal Vishap Hatchling x1",
-                                    "markdown": "<img:rimebiter_bathysmal_vishap_hatchling> \u25c0Rimebiter Bathysmal Vishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rimebiter_Bathysmal_Vishap_Hatchling\u25b7 x1",
-                                    "img": {
-                                        "rimebiter_bathysmal_vishap_hatchling": "Rimebiter_Bathysmal_Vishap_Icon.png"
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "plaintext": "Wave 4:",
-                            "markdown": "Wave 4:",
-                            "substeps": [
-                                {
-                                    "plaintext": "Abyss Herald: Wicked Torrents x1",
-                                    "markdown": "<img:abyss_herald_wicked_torrents> \u25c0Abyss Herald: Wicked Torrents\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Herald:_Wicked_Torrents\u25b7 x1",
-                                    "img": {
-                                        "abyss_herald_wicked_torrents": "Abyss_Herald_Wicked_Torrents_Icon.png"
-                                    }
-                                }
-                            ]
+                            "tag": "li",
+                            "text": "Step is completed upon reaching the \u25c0Time Tunnel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Time_Tunnel\u25b7, even if the player does not go through it"
                         }
                     ]
                 },
                 {
-                    "plaintext": "After defeating the enemies, climb each statue and interact with it to disperse the seal",
-                    "markdown": "After defeating the enemies, climb each statue and interact with it to disperse the seal"
+                    "tag": "li",
+                    "text": "Talk to the afterimage in front of the seal"
+                },
+                {
+                    "tag": "li",
+                    "text": "Release all the Flames of the High Gate (0/4)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 4:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d74",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:electro_abyss_mage> \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "electro_abyss_mage": "Electro_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primordial_bathysmal_vishap_hatchling> \u25c0Primordial Bathysmal Vishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap_Hatchling\u25b7 \u00d71",
+                            "img": {
+                                "primordial_bathysmal_vishap_hatchling": "Primordial_Bathysmal_Vishap_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:rimebiter_bathysmal_vishap_hatchling> \u25c0Rimebiter Bathysmal Vishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rimebiter_Bathysmal_Vishap_Hatchling\u25b7 \u00d71",
+                            "img": {
+                                "rimebiter_bathysmal_vishap_hatchling": "Rimebiter_Bathysmal_Vishap_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:abyss_herald_wicked_torrents> \u25c0Abyss Herald: Wicked Torrents\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Herald:_Wicked_Torrents\u25b7 \u00d71",
+                            "img": {
+                                "abyss_herald_wicked_torrents": "Abyss_Herald_Wicked_Torrents_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Daimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Daimon\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Talk to Daimon",
-            "markdown": "Talk to \u25c0Daimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Daimon\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Switch back to Evernight if not already done so"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enemies will appear after lighting the four torches"
+                },
+                {
+                    "tag": "li",
+                    "text": "After defeating the enemies, climb each statue and interact with it to disperse the seal"
+                }
+            ]
         }
     ],
     "dialogue": true

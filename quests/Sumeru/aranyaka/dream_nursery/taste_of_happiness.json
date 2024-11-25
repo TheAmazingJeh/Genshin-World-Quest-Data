@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Taste of Happiness",
     "url": "https://genshin-impact.fandom.com/wiki/Taste_of_Happiness",
     "starting_location": {
-        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
-        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete step 1 of Festival Utsava",
@@ -42,32 +42,43 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to the \"brothers\" (0/4)",
-            "markdown": "Talk to the \"brothers\" (0/4)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Help Arachatora adjust the flame",
-                    "markdown": "Help \u25c0Arachatora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arachatora\u25b7 adjust the flame"
+                    "tag": "li",
+                    "text": "Talk to the \"brothers\" (0/4)"
                 },
                 {
-                    "plaintext": "Get some water for Arapas",
-                    "markdown": "Get some water for \u25c0Arapas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapas\u25b7",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "The location is next to Aramani, who is actually at the south of Vanarana",
-                            "markdown": "The location is next to \u25c0Aramani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aramani\u25b7, who is actually at the south of \u25c0Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7"
+                            "tag": "li",
+                            "text": "Help \u25c0Arachatora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arachatora\u25b7 adjust the flame"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Get some water for \u25c0Arapas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapas\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Give the water to Arapas"
                         }
                     ]
                 },
                 {
-                    "plaintext": "Give the water to Arapas",
-                    "markdown": "Give the water to Arapas"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The location is next to \u25c0Aramani\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aramani\u25b7, who is actually at the south of \u25c0Vanarana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give a bowl of \u25c0Delicious Radish Veggie Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Radish_Veggie_Soup\u25b7 to \u25c0Arapacati\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapacati\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Give a bowl of Delicious Radish Veggie Soup to Arapacati",
-            "markdown": "Give a bowl of \u25c0Delicious Radish Veggie Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Radish_Veggie_Soup\u25b7 to \u25c0Arapacati\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arapacati\u25b7"
         }
     ],
     "dialogue": true

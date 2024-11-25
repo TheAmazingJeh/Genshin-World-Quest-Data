@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Pale Fire (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Pale_Fire_%28Quest%29",
     "starting_location": {
-        "plaintext": "Vourukasha Oasis , Sumeru",
-        "markdown": "\u25c0Vourukasha Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vourukasha_Oasis\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vourukasha Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vourukasha_Oasis\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Awaken the Residual Pari in the Fravashi Trees (once)",
@@ -49,26 +49,34 @@
     ],
     "steps": [
         {
-            "plaintext": "(If The Splendorous Sky That Day has not been completed) The secrets of Fravashi Trees",
-            "markdown": "(If \u25c0The Splendorous Sky That Day\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Splendorous_Sky_That_Day\u25b7 has not been completed) The secrets of \u25c0Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
-        },
-        {
-            "plaintext": "(If The Splendorous Sky That Day has been completed) Talk to Zurvan",
-            "markdown": "(If The Splendorous Sky That Day has been completed) Talk to \u25c0Zurvan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zurvan\u25b7"
-        },
-        {
-            "plaintext": "Look for a Fravashi Tree",
-            "markdown": "Look for a Fravashi Tree",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "To proceed past this step, all 10 versions of Awaken the Residual Pari in the Fravashi Trees must be completed.",
-                    "markdown": "To proceed past this step, all 10 versions of \u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees\u25b7 must be completed."
+                    "tag": "li",
+                    "text": "(If \u25c0The Splendorous Sky That Day\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Splendorous_Sky_That_Day\u25b7 has not been completed) The secrets of \u25c0Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "(If The Splendorous Sky That Day has been completed) Talk to \u25c0Zurvan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zurvan\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for a Fravashi Tree"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "To proceed past this step, all 10 versions of \u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees\u25b7 must be completed."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Zurvan"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Zurvan",
-            "markdown": "Talk to Zurvan"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Pizza From Another Land",
     "url": "https://genshin-impact.fandom.com/wiki/Pizza_From_Another_Land",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete The Whispers of the Crane and the White Rabbit",
@@ -35,20 +35,62 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Kiminami Anna",
-            "markdown": "Talk to Kiminami Anna"
+            "tag": "h",
+            "text": "Lavender Melon Version"
         },
         {
-            "plaintext": "Talk to Rie",
-            "markdown": "Talk to \u25c0Rie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rie\u25b7"
+            "tag": "p",
+            "text": "If Mondstadtian ingredients were used in \u25c0Food From Afar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Food_From_Afar\u25b7"
         },
         {
-            "plaintext": "Talk to Kiminami Anna",
-            "markdown": "Talk to Kiminami Anna"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Kiminami Anna"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Rie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rie\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Kiminami Anna"
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the Lavender Melon back to Kiminami Anna"
+                }
+            ]
         },
         {
-            "plaintext": "Bring the Lavender Melon back to Kiminami Anna",
-            "markdown": "Bring the Lavender Melon back to Kiminami Anna"
+            "tag": "h",
+            "text": "Cheese Version"
+        },
+        {
+            "tag": "p",
+            "text": "If Inazuman ingredients were mostly used in \u25c0Food From Afar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Food_From_Afar\u25b7"
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Kiminami Anna"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Matsumoto\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Matsumoto\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Kiminami Anna"
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the Cheese back to Kiminami Anna"
+                }
+            ]
         }
     ],
     "dialogue": true

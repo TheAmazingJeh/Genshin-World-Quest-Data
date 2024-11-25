@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Mary-Ann's Story",
     "url": "https://genshin-impact.fandom.com/wiki/Mary-Ann%27s_Story",
     "starting_location": {
-        "plaintext": "Court of Fontaine Region , Fontaine",
-        "markdown": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,36 +53,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Ann",
-            "markdown": "Talk to \u25c0Ann\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ann\u25b7"
-        },
-        {
-            "plaintext": "Find the owner of the voice",
-            "markdown": "Find the owner of the voice"
-        },
-        {
-            "plaintext": "Talk to Mary-Ann",
-            "markdown": "Talk to \u25c0Mary-Ann\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mary-Ann\u25b7"
-        },
-        {
-            "plaintext": "Follow Mary-Ann",
-            "markdown": "Follow Mary-Ann"
-        },
-        {
-            "plaintext": "Feed the \"dog\"",
-            "markdown": "Feed the \"dog\""
-        },
-        {
-            "plaintext": "Talk to Mary-Ann",
-            "markdown": "Talk to Mary-Ann"
-        },
-        {
-            "plaintext": "Go with the flow...",
-            "markdown": "Go with the flow..."
-        },
-        {
-            "plaintext": "Talk to Ann",
-            "markdown": "Talk to Ann"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ann\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ann\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the owner of the voice"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Mary-Ann\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mary-Ann\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Mary-Ann"
+                },
+                {
+                    "tag": "li",
+                    "text": "Feed the \"dog\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Mary-Ann"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go with the flow..."
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Ann"
+                }
+            ]
         }
     ],
     "dialogue": true

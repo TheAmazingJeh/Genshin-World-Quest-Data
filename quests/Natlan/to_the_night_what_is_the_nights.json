@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "To the Night, What is the Night's",
     "url": "https://genshin-impact.fandom.com/wiki/To_the_Night%2C_What_is_the_Night%27s",
     "starting_location": {
-        "plaintext": "Tequemecan Valley , Natlan",
-        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,32 +60,57 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to the strange person",
-            "markdown": "Talk to the strange person"
-        },
-        {
-            "plaintext": "Go to the camp",
-            "markdown": "Go to the camp"
-        },
-        {
-            "plaintext": "Talk to Legba",
-            "markdown": "Talk to Legba"
-        },
-        {
-            "plaintext": "Open the gate",
-            "markdown": "Open the gate"
-        },
-        {
-            "plaintext": "Search the ruins",
-            "markdown": "Search the ruins"
-        },
-        {
-            "plaintext": "Find a way to venture deeper into the ruins",
-            "markdown": "Find a way to venture deeper into the ruins"
-        },
-        {
-            "plaintext": "Place the Obsidian Statue back on the Altar",
-            "markdown": "Place the Obsidian Statue back on the Altar"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to the strange person"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Legba\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Legba\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a way to venture deeper into the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Will of the \u25c0Wayob\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wayob\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:foliar-swift_wayob_manifestation> \u25c0Wayob's Wrathful Manifestation \u2014 Guardian of the Ancient Altar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Foliar-Swift_Wayob_Manifestation\u25b7",
+                            "img": {
+                                "foliar-swift_wayob_manifestation": "Foliar-Swift_Wayob_Manifestation_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Legba"
+                },
+                {
+                    "tag": "li",
+                    "text": "Place the Obsidian Statue back on the Altar"
+                }
+            ]
         }
     ],
     "dialogue": true

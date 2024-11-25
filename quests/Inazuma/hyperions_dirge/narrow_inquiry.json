@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Narrow Inquiry",
     "url": "https://genshin-impact.fandom.com/wiki/Narrow_Inquiry",
     "starting_location": {
-        "plaintext": "The Narrows , Enkanomiya , Inazuma",
-        "markdown": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "The Subterranean Trials of Drake and Serpent",
@@ -21,25 +21,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Activate the spirit's trial",
-            "markdown": "Activate the spirit's trial",
-            "substeps": [
-                {
-                    "plaintext": "Defeat 3 opponents in 30 second(s) Primordial Bathysmal Vishap Hatchling x3",
-                    "markdown": "Defeat 3 opponents in 30 second(s)<img:primordial_bathysmal_vishap_hatchling> \u25c0Primordial Bathysmal Vishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap_Hatchling\u25b7 x3",
-                    "img": {
-                        "primordial_bathysmal_vishap_hatchling": "Primordial_Bathysmal_Vishap_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "A Precious Chest will spawn after defeating the opponents.",
-                    "markdown": "A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will spawn after defeating the opponents."
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by going to the start location and using \u25c0Key Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_Sigil\u25b7 to activate the Seals. Aberaku will appear after the Seals have been activated. Talk to him to start the quest."
         },
         {
-            "plaintext": "Obtain the offerings from the spirit",
-            "markdown": "Obtain the \u25c0offerings from the spirit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Offerings_of_The_Narrows\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Activate the spirit's trial"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat 3 opponents in 30 second(s)<img:primordial_bathysmal_vishap_hatchling> \u25c0Primordial Bathysmal Vishap Hatchling\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap_Hatchling\u25b7 \u00d73",
+                            "img": {
+                                "primordial_bathysmal_vishap_hatchling": "Primordial_Bathysmal_Vishap_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "A \u25c0Precious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Precious_Chest\u25b7 will spawn after defeating the opponents."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0offerings from the spirit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Offerings_of_The_Narrows\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

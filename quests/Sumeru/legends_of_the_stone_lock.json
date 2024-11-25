@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Legends of the Stone Lock",
     "url": "https://genshin-impact.fandom.com/wiki/Legends_of_the_Stone_Lock",
     "starting_location": {
-        "plaintext": "Ashavan Realm , Sumeru",
-        "markdown": "\u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Ashavan Realm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ashavan_Realm\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Clear all 16 Stone Pillar Seals",
@@ -42,29 +42,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the cavern Aradashan mentioned",
-            "markdown": "Go to the cavern Aradashan mentioned"
-        },
-        {
-            "plaintext": "Go to the seal's location at the bottom of the lake",
-            "markdown": "Go to the seal's location at the bottom of the lake"
-        },
-        {
-            "plaintext": "Challenge the Bulky Iron Chunk",
-            "markdown": "Challenge the Bulky Iron Chunk",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Perpetual Mechanical Array",
-                    "markdown": "<img:perpetual_mechanical_array> \u25c0Perpetual Mechanical Array\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Perpetual_Mechanical_Array\u25b7",
-                    "img": {
-                        "perpetual_mechanical_array": "Perpetual_Mechanical_Array_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the cavern Aradashan mentioned"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the seal's location at the bottom of the lake"
+                },
+                {
+                    "tag": "li",
+                    "text": "Challenge the Bulky Iron Chunk"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:perpetual_mechanical_array> \u25c0Perpetual Mechanical Array\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Perpetual_Mechanical_Array\u25b7",
+                            "img": {
+                                "perpetual_mechanical_array": "Perpetual_Mechanical_Array_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Aradashan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aradashan\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Aradashan",
-            "markdown": "Talk to \u25c0Aradashan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aradashan\u25b7"
         }
     ],
     "dialogue": true

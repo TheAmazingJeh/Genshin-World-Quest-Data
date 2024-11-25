@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Commission's Commission",
     "url": "https://genshin-impact.fandom.com/wiki/The_Commission%27s_Commission",
     "starting_location": {
-        "plaintext": "Kamisato Estate , Narukami Island , Inazuma",
-        "markdown": "\u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Kamisato Estate\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamisato_Estate\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete A Flower Blooms in a Prison",
@@ -28,8 +28,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Madarame Hyakubei",
-            "markdown": "Talk to \u25c0Madarame Hyakubei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Madarame_Hyakubei\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Madarame Hyakubei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Madarame_Hyakubei\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

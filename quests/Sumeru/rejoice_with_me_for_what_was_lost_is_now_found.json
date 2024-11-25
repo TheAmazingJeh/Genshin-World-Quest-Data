@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Rejoice With Me, for What Was Lost Is Now Found",
     "url": "https://genshin-impact.fandom.com/wiki/Rejoice_With_Me%2C_for_What_Was_Lost_Is_Now_Found",
     "starting_location": {
-        "plaintext": "Tanit Camps , Sumeru",
-        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete The Dirge of Bilqis",
@@ -42,75 +42,83 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for clues in Aderfi's tent",
-            "markdown": "Look for clues in \u25c0Aderfi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aderfi\u25b7's tent"
-        },
-        {
-            "plaintext": "Check on Benben",
-            "markdown": "Check on \u25c0Benben\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Benben\u25b7"
-        },
-        {
-            "plaintext": "Investigate within the tent",
-            "markdown": "Investigate within the tent"
-        },
-        {
-            "plaintext": "View Letter",
-            "markdown": "View Letter"
-        },
-        {
-            "plaintext": "Head over to the designated location in the letter",
-            "markdown": "Head over to the designated location in the letter"
-        },
-        {
-            "plaintext": "Wait at the location of the secret meeting",
-            "markdown": "Wait at the location of the secret meeting"
-        },
-        {
-            "plaintext": "Defeat the Fatui",
-            "markdown": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x1",
-                    "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x1",
+                    "tag": "li",
+                    "text": "Look for clues in \u25c0Aderfi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aderfi\u25b7's tent"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check on \u25c0Benben\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Benben\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate within the tent"
+                },
+                {
+                    "tag": "li",
+                    "text": "View Letter"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head over to the designated location in the letter"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait at the location of the secret meeting"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Fatui\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_electro_cicin_mage> \u25c0Fatui Electro Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Electro_Cicin_Mage\u25b7 \u00d71",
+                            "img": {
+                                "fatui_electro_cicin_mage": "Fatui_Electro_Cicin_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Fatui negotiator"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Fatui stronghold"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect a certain number of <img:energy_transformation_capacitor> \u25c0Energy Transformation Capacitors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Energy_Transformation_Capacitor\u25b7",
                     "img": {
-                        "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                        "energy_transformation_capacitor": "Item_Energy_Transformation_Capacitor.png"
                     }
                 },
                 {
-                    "plaintext": "Fatui Electro Cicin Mage x1",
-                    "markdown": "<img:fatui_electro_cicin_mage> \u25c0Fatui Electro Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Electro_Cicin_Mage\u25b7 x1",
-                    "img": {
-                        "fatui_electro_cicin_mage": "Fatui_Electro_Cicin_Mage_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Return to Jeht's tent"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the Energy Transformation Capacitors to Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Fix Benben"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to the Fatui negotiator",
-            "markdown": "Talk to the Fatui negotiator"
-        },
-        {
-            "plaintext": "Go to the Fatui stronghold",
-            "markdown": "Go to the Fatui stronghold"
-        },
-        {
-            "plaintext": "Collect a certain number of  Energy Transformation Capacitors",
-            "markdown": "Collect a certain number of <img:energy_transformation_capacitor> \u25c0Energy Transformation Capacitors\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Energy_Transformation_Capacitor\u25b7",
-            "img": {
-                "energy_transformation_capacitor": "Item_Energy_Transformation_Capacitor.png"
-            }
-        },
-        {
-            "plaintext": "Return to Jeht's tent",
-            "markdown": "Return to Jeht's tent"
-        },
-        {
-            "plaintext": "Give the Energy Transformation Capacitors to Jeht",
-            "markdown": "Give the Energy Transformation Capacitors to Jeht"
-        },
-        {
-            "plaintext": "Fix Benben",
-            "markdown": "Fix Benben"
         }
     ],
     "dialogue": true

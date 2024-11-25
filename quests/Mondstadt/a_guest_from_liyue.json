@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Guest From Liyue",
     "url": "https://genshin-impact.fandom.com/wiki/A_Guest_From_Liyue",
     "starting_location": {
-        "plaintext": "City of Mondstadt , Mondstadt",
-        "markdown": "\u25c0City of Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/City_of_Mondstadt\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0City of Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/City_of_Mondstadt\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -25,12 +25,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to The Cat's Tail",
-            "markdown": "Go to \u25c0The Cat's Tail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Cat%27s_Tail\u25b7"
-        },
-        {
-            "plaintext": "Talk to Tubby",
-            "markdown": "Talk to \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0The Cat's Tail\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Cat%27s_Tail\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

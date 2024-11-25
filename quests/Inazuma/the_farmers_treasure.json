@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Farmer's Treasure",
     "url": "https://genshin-impact.fandom.com/wiki/The_Farmer%27s_Treasure",
     "starting_location": {
-        "plaintext": "Jinren Island , Narukami Island , Inazuma",
-        "markdown": "\u25c0Jinren Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinren_Island\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Jinren Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinren_Island\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan and Searching for Saimon Jirou",
@@ -49,66 +49,248 @@
     ],
     "steps": [
         {
-            "plaintext": "Optional Steps",
-            "markdown": "Optional Steps",
-            "substeps": [
-                {
-                    "plaintext": "Check the Missing Person Bulletin Boards around Konda Village.",
-                    "markdown": "Check the \u25c0Missing Person Bulletin Boards\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Missing_Person_Bulletin_Board\u25b7 around \u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7."
-                },
-                {
-                    "plaintext": "Talk to Saimon Katsumi, just north of the southern Teleport Waypoint in Byakko Plain.",
-                    "markdown": "Talk to \u25c0Saimon Katsumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saimon_Katsumi\u25b7, just north of the southern \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 in \u25c0Byakko Plain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Byakko_Plain\u25b7."
-                },
-                {
-                    "plaintext": "Talk to Ishikawa in Kujou Encampment, just east of the Teleport Waypoint.",
-                    "markdown": "Talk to \u25c0Ishikawa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ishikawa\u25b7 in \u25c0Kujou Encampment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kujou_Encampment\u25b7, just east of the Teleport Waypoint."
-                },
-                {
-                    "plaintext": "Talk to Ono near the northern gate of the Kujou Encampment.",
-                    "markdown": "Talk to \u25c0Ono\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ono\u25b7 near the northern gate of the Kujou Encampment."
-                },
-                {
-                    "plaintext": "Talk to Ogura Yuu at the watch tower to the south-east of the Teleport Waypoint in Kujou Encampment.",
-                    "markdown": "Talk to \u25c0Ogura Yuu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ogura_Yuu\u25b7 at the watch tower to the south-east of the Teleport Waypoint in Kujou Encampment."
-                },
-                {
-                    "plaintext": "Report back to Saimon Katsumi in Konda Village, just west of the southern Teleport Waypoint at his house.",
-                    "markdown": "Report back to Saimon Katsumi in Konda Village, just west of the southern Teleport Waypoint at his house."
-                }
-            ]
+            "tag": "p",
+            "text": "Upon picking up the 4th Old Stone Slate:"
         },
         {
-            "plaintext": "Head to Jinren Island and climb to the top of the largest island.",
-            "markdown": "Head to \u25c0Jinren Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinren_Island\u25b7 and climb to the top of the largest island."
-        },
-        {
-            "plaintext": "On the top of the largest island, free \"???\" from the cage.",
-            "markdown": "On the top of the largest island, free \"???\" from the cage.",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The key is in the tallest tree on the opposite end of the plateau.",
-                    "markdown": "The key is in the tallest tree on the opposite end of the plateau."
-                }
-            ]
-        },
-        {
-            "plaintext": "After a small cutscene, the player will be near the Jinren Island waypoint and will start a conversation with \"???\"",
-            "markdown": "After a small cutscene, the player will be near the Jinren Island waypoint and will start a conversation with \"???\"",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Report back to Saimon Jirou"
+                },
                 {
-                    "plaintext": "\"???\" reveals himself to be Saimon Jirou. He will tell the player to collect 4 Old Stone Slates.",
-                    "markdown": "\"???\" reveals himself to be \u25c0Saimon Jirou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saimon_Jirou\u25b7. He will tell the player to collect 4 \u25c0Old Stone Slates\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Stone_Slate\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Once the player has all 4 Old Stone Slates, The Farmer's Treasure will appear in the player's journal.",
-            "markdown": "Once the player has all 4 Old Stone Slates, The Farmer's Treasure will appear in the player's journal.",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Find the fifth Old Stone Slate"
+                },
                 {
-                    "plaintext": "To get all 4 Old Stone Slates, the player must at least reach the World Quest Cleansing Defilement in Series Sacred Sakura Cleansing Ritual.",
-                    "markdown": "To get all 4 Old Stone Slates, the player must at least reach the \u25c0World Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/World_Quest\u25b7 \u25c0Cleansing Defilement\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cleansing_Defilement\u25b7 in Series \u25c0Sacred Sakura Cleansing Ritual\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Sakura_Cleansing_Ritual\u25b7."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This will be on the west coast of \u25c0Araumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araumi\u25b7 as marked on the map. Use \u25c0Elemental Sight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Elemental_Sight\u25b7 within the quest area to see where to dig."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Confront Saimon Jirou"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find Saimon Jirou on Jinren Island"
+                },
+                {
+                    "tag": "li",
+                    "text": "Confront the \u25c0Kairagi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi\u25b7 leader"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents:"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 4:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:kairagi_fiery_might> \u25c0Forgot to Name Himself \u2014 Nameless Bandit Leader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 \u00d71",
+                            "img": {
+                                "kairagi_fiery_might": "Kairagi_Fiery_Might_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_kikouban> \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7 \u00d71",
+                            "img": {
+                                "nobushi_kikouban": "Nobushi_Kikouban_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 \u00d71",
+                            "img": {
+                                "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 \u00d71",
+                            "img": {
+                                "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pyro_potioneer> \u25c0Koichirou \u2014 \"I've Been Waiting For You!\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pyro_Potioneer\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_pyro_potioneer": "Treasure_Hoarder_Pyro_Potioneer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d72",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_crusher> \u25c0Kojirou \u2014 \"Is This Feeling Loss?\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_seaman> \u25c0Treasure Hoarders: Seaman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Seaman\u25b7 \u00d72",
+                            "img": {
+                                "treasure_hoarders_seaman": "Treasure_Hoarder_Seaman_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_electrohammer_vanguard> \u25c0Vitaly \u2014 Too Long a Pencil Pusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Electrohammer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_anemoboxer_vanguard> \u25c0Fatui Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Anemoboxer_Vanguard\u25b7 \u00d71",
+                            "img": {
+                                "fatui_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_geochanter_bracer> \u25c0Fatui Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Geochanter_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_pyroslinger_bracer> \u25c0Fatui Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyroslinger_Bracer\u25b7 \u00d71",
+                            "img": {
+                                "fatui_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_cryogunner_legionnaire> \u25c0Fatui Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_hydrogunner_legionnaire> \u25c0Fatui Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Hydrogunner_Legionnaire\u25b7 \u00d71",
+                            "img": {
+                                "fatui_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the \"treasury\" front door using the key"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the \u25c0\"Treasury\" Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Treasury%22_Key\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the stone gate of the \"treasury\""
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the 4 \u25c0Old Stone Slates\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Stone_Slate\u25b7 to place the 4 additional panels for the panel puzzle."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Complete the panel puzzle by stepping on all of the panels. Lighting up all the panels will unlock the circular door. If the player steps on the same panel twice, the puzzle will reset."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the treasure"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Open the Common Chest"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Investigating\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Investigation\u25b7 the room will yield some \u25c0wheat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wheat\u25b7 and vegetables."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Saimon Katsumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saimon_Katsumi\u25b7 in \u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7"
                 }
             ]
         }

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "\"Hello,\" \"Thank You,\" and the Final \"Goodbye\"",
     "url": "https://genshin-impact.fandom.com/wiki/%22Hello%2C%22_%22Thank_You%2C%22_and_the_Final_%22Goodbye%22",
     "starting_location": {
-        "plaintext": "Land of Grounded Dreams , Sumeru",
-        "markdown": "\u25c0Land of Grounded Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Grounded_Dreams\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Land of Grounded Dreams\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Grounded_Dreams\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,16 +53,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Arana",
-            "markdown": "Talk to \u25c0Arana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arana\u25b7"
-        },
-        {
-            "plaintext": "Return to Rana",
-            "markdown": "Return to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7"
-        },
-        {
-            "plaintext": "Talk to Rana",
-            "markdown": "Talk to Rana"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Arana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arana\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rana"
+                }
+            ]
         }
     ],
     "dialogue": true

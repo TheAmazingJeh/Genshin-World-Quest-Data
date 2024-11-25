@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Trails in Tianqiu",
     "url": "https://genshin-impact.fandom.com/wiki/Trails_in_Tianqiu",
     "starting_location": {
-        "plaintext": "Tianqiu Valley , Liyue",
-        "markdown": "\u25c0Tianqiu Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tianqiu_Valley\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Tianqiu Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tianqiu_Valley\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -18,26 +18,275 @@
     ],
     "steps": [
         {
-            "plaintext": "Unlock the secret of Tianqiu Valley",
-            "markdown": "Unlock the secret of Tianqiu Valley",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by interacting with the Ancient Tablet in \u25c0Tianqiu Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tianqiu_Valley\u25b7's ruins."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Collect the Light Actuators from the 3 nearby towers.",
-                    "markdown": "Collect the Light Actuators from the 3 nearby towers."
+                    "tag": "li",
+                    "text": "Unlock the secret of Tianqiu Valley"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Collect the Light Actuators from the 3 nearby towers."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect the Treasure"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "3 \u25c0Luxurious Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chests\u25b7 will spawn, of which one will give 50 Primogems instead of the usual 10."
+                        }
+                    ]
                 }
             ]
         },
         {
-            "plaintext": "Defeat the Treasure Hoarders",
-            "markdown": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7"
+            "tag": "h",
+            "text": "North Tower"
         },
         {
-            "plaintext": "Collect the Treasure",
-            "markdown": "Collect the Treasure",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "3 Luxurious Chests will spawn, of which one will give 50 Primogems instead of the usual 10.",
-                    "markdown": "3 \u25c0Luxurious Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chests\u25b7 will spawn, of which one will give 50 Primogems instead of the usual 10."
+                    "tag": "li",
+                    "text": "Flame Torch Puzzle 1, First Floor. Triple-triangle. Shoot the upper-outermost torch, then shoot the bottom inner-most torch."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The nearby Exquisite Chest is unlocked after completing the challenge."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Flame Torch Puzzle 2, Second Floor. Assuming no Torches are lit:"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The nearby Precious Chest is unlocked after completing the challenge."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Flame Torch Puzzle 3, Third Floor. Shoot all torches on the walls in any order. There are 2 on each side of the room for a total of 8 torches."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The nearby Luxurious Chest is unlocked after completing the challenge."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Once it's done, grab the Light Actuator by walking close to it (climbing up to the pedestal). Then, bring it to the center of the ruins."
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Shoot any Torch (3 will be lit, one of them is between two unlit Torches)."
+                },
+                {
+                    "tag": "li",
+                    "text": "Shoot one of the two remaining unlit Torches (4 will be lit)."
+                },
+                {
+                    "tag": "li",
+                    "text": "Shoot the Torch (3 will be lit, one of them is between two lit Torches)."
+                },
+                {
+                    "tag": "li",
+                    "text": "Shoot any Torch (2 will be lit)."
+                },
+                {
+                    "tag": "li",
+                    "text": "Shoot the Torch not adjacent to the lit Torches (1 will be lit)."
+                },
+                {
+                    "tag": "li",
+                    "text": "Shoot any Torch not adjacent to the lit Torch (2 will be lit)."
+                },
+                {
+                    "tag": "li",
+                    "text": "Shoot the Torch adjacent to both of the lit Torches."
+                }
+            ]
+        },
+        {
+            "tag": "h",
+            "text": "South Tower"
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Time-Trial Challenge, First Floor. Kill 4 enemies within 40 seconds. They are all empowered by an Electro infusion stone nearby that can be destroyed to lower their defense."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rock_shield_hilichurl_guard> \u25c0Rock Shield Hilichurl Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rock_Shield_Hilichurl_Guard\u25b7 \u00d73",
+                            "img": {
+                                "rock_shield_hilichurl_guard": "Hilichurl_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:electro_hilichurl_shooter> \u25c0Electro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Hilichurl_Shooter\u25b7 \u00d71",
+                            "img": {
+                                "electro_hilichurl_shooter": "Electro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Time-Trial Challenge, Second Floor. Kill 5 enemies within 60 seconds. They are all empowered by a Pyro infusion stone nearby that can be destroyed to lower their defense."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:large_pyro_slime> \u25c0Large Pyro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Pyro_Slime\u25b7 \u00d72",
+                            "img": {
+                                "large_pyro_slime": "Large_Pyro_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:pyro_hilichurl_shooter> \u25c0Pyro Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Shooter\u25b7 \u00d71",
+                            "img": {
+                                "pyro_hilichurl_shooter": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:pyro_hilichurl_grenadier> \u25c0Pyro Hilichurl Grenadier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Hilichurl_Grenadier\u25b7 \u00d71",
+                            "img": {
+                                "pyro_hilichurl_grenadier": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:hilichurl_berserker> \u25c0Hilichurl Berserker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hilichurl_Berserker\u25b7 \u00d71",
+                            "img": {
+                                "hilichurl_berserker": "Pyro_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Time-Trial Challenge, Third Floor. Kill 5 enemies within 60 seconds. They are all empowered by a Cryo infusion stone nearby that can be destroyed to lower their defense."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_abyss_mage> \u25c0Hydro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "hydro_abyss_mage": "Hydro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:large_cryo_slime> \u25c0Large Cryo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Cryo_Slime\u25b7 \u00d71",
+                            "img": {
+                                "large_cryo_slime": "Large_Cryo_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:large_hydro_slime> \u25c0Large Hydro Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Large_Hydro_Slime\u25b7 \u00d71",
+                            "img": {
+                                "large_hydro_slime": "Large_Hydro_Slime_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d72",
+                            "img": {
+                                "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Once it's done, grab the Light Actuator by walking close to it (climbing up to the pedestal). Then bring it to the center of the ruins."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "An Exquisite Chest spawns after completing each challenge."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tag": "h",
+            "text": "West Tower"
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Time-Trial Challenge. Reach the top-floor and grab the Light Actuator component within 60 seconds. (Parkour Challenge)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "An Exquisite Chest is located on the topmost platform."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The \u25c0Wind Catcher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wind_Catcher\u25b7 gadget, \u25c0Geo Traveler\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveler_(Geo)\u25b7's \u25c0Elemental Skill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starfell_Sword\u25b7, \u25c0Keqing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Keqing\u25b7's held \u25c0Elemental Skill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stellar_Restoration\u25b7, \u25c0Venti\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Venti\u25b7's \u25c01st Ascension Passive\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Embrace_of_Winds\u25b7, and \u25c0Kaedehara Kazuha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha\u25b7's held \u25c0Elemental Skill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chihayaburu\u25b7, etc. can be used to reach the higher platforms."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the Light Actuator to the center of the ruins."
                 }
             ]
         }

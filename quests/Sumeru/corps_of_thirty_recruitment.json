@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Corps of Thirty Recruitment",
     "url": "https://genshin-impact.fandom.com/wiki/Corps_of_Thirty_Recruitment",
     "starting_location": {
-        "plaintext": "Treasures Street , Sumeru",
-        "markdown": "\u25c0Treasures Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_Street\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Treasures Street\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasures_Street\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Dawn (Quest)",
@@ -28,8 +28,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Effendi",
-            "markdown": "Talk to \u25c0Effendi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Effendi\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Effendi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Effendi\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

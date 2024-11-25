@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Orobashi's Legacy: Part III",
     "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy%3A_Part_III",
     "starting_location": {
-        "plaintext": "Fort Fujitou",
-        "markdown": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
+        "text": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,66 +39,83 @@
     ],
     "steps": [
         {
-            "plaintext": "Search for the ward in the Jakotsu Mine",
-            "markdown": "Search for the ward in the \u25c0Jakotsu Mine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Solve the Sacred Stone Puzzle",
-                    "markdown": "Solve the \u25c0Sacred Stone Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Stone_Puzzle\u25b7"
+                    "tag": "li",
+                    "text": "Search for the ward in the \u25c0Jakotsu Mine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine\u25b7"
                 },
                 {
-                    "plaintext": "Interact with Narukami Pillar",
-                    "markdown": "Interact with \u25c0Narukami Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Pillar\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Repair the ward",
-            "markdown": "Repair the ward",
-            "substeps": [
-                {
-                    "plaintext": "Facing the ward, go left.",
-                    "markdown": "Facing the ward, go left.",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Follow the elemental trace into a cave.",
-                            "markdown": "Follow the elemental trace into a cave."
+                            "tag": "li",
+                            "text": "Solve the \u25c0Sacred Stone Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Stone_Puzzle\u25b7"
                         },
                         {
-                            "plaintext": "Take Electrograna and bolt to the highest point. While flying, look around for an Electro barrier.",
-                            "markdown": "Take \u25c0Electrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electrograna\u25b7 and bolt to the highest point. While flying, look around for an Electro barrier."
-                        },
-                        {
-                            "plaintext": "Take Electrograna near the barrier and retrieve the Jakotsu Mine: Rock Pillar Warding Stone",
-                            "markdown": "Take Electrograna near the barrier and retrieve the \u25c0Jakotsu Mine: Rock Pillar Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine:_Rock_Pillar_Warding_Stone\u25b7"
-                        },
-                        {
-                            "plaintext": "Note: This is one of the locations for Temari mini-game with Kid Kujirai.",
-                            "markdown": "Note: This is one of the locations for \u25c0Temari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temari\u25b7 mini-game with \u25c0Kid Kujirai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kid_Kujirai\u25b7."
+                            "tag": "li",
+                            "text": "Interact with \u25c0Narukami Pillar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Pillar\u25b7"
                         }
                     ]
                 },
                 {
-                    "plaintext": "Facing the ward, go right",
-                    "markdown": "Facing the ward, go right",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Repair the ward"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Follow the elemental traces",
-                            "markdown": "Follow the elemental traces"
+                            "tag": "li",
+                            "text": "Facing the ward, go left."
                         },
                         {
-                            "plaintext": "Defeat 3 Hydro Slimes, 1 Electro Abyss Mage, then 3 Hydro Abyss Mages",
-                            "markdown": "Defeat 3 \u25c0Hydro Slimes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7, 1 \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7, then 3 \u25c0Hydro Abyss Mages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7"
+                            "tag": "li",
+                            "text": "Facing the ward, go right"
                         },
                         {
-                            "plaintext": "Retrieve the Jakotsu Mine: Rock Pillar Pearl",
-                            "markdown": "Retrieve the \u25c0Jakotsu Mine: Rock Pillar Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine:_Rock_Pillar_Pearl\u25b7"
+                            "tag": "li",
+                            "text": "Submit the two items to the ward."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Submit the two items to the ward.",
-                    "markdown": "Submit the two items to the ward."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Follow the elemental trace into a cave."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Take \u25c0Electrograna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electrograna\u25b7 and bolt to the highest point. While flying, look around for an Electro barrier."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Take Electrograna near the barrier and retrieve the \u25c0Jakotsu Mine: Rock Pillar Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine:_Rock_Pillar_Warding_Stone\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Note: This is one of the locations for \u25c0Temari\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temari\u25b7 mini-game with \u25c0Kid Kujirai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kid_Kujirai\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Follow the elemental traces"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Defeat 3 \u25c0Hydro Slimes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Slime\u25b7, 1 \u25c0Electro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Abyss_Mage\u25b7, then 3 \u25c0Hydro Abyss Mages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro_Abyss_Mage\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Retrieve the \u25c0Jakotsu Mine: Rock Pillar Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine:_Rock_Pillar_Pearl\u25b7"
+                        }
+                    ]
                 }
             ]
         }

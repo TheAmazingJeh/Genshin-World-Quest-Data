@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Golden Slumber",
     "url": "https://genshin-impact.fandom.com/wiki/Golden_Slumber",
@@ -42,20 +43,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Lost in the Sands",
-            "markdown": "\u25c0Lost in the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lost_in_the_Sands\u25b7"
-        },
-        {
-            "plaintext": "An Introduction to Indoor Archaeology",
-            "markdown": "\u25c0An Introduction to Indoor Archaeology\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Introduction_to_Indoor_Archaeology\u25b7"
-        },
-        {
-            "plaintext": "The Secret of Al-Ahmar",
-            "markdown": "\u25c0The Secret of Al-Ahmar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Secret_of_Al-Ahmar\u25b7"
-        },
-        {
-            "plaintext": "Dreams Beneath the Searing Sand",
-            "markdown": "\u25c0Dreams Beneath the Searing Sand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dreams_Beneath_the_Searing_Sand\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Lost in the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lost_in_the_Sands\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0An Introduction to Indoor Archaeology\u25b6\u25c1https://genshin-impact.fandom.com/wiki/An_Introduction_to_Indoor_Archaeology\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Secret of Al-Ahmar\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Secret_of_Al-Ahmar\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Dreams Beneath the Searing Sand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dreams_Beneath_the_Searing_Sand\u25b7"
+                }
+            ]
         }
     ]
 }

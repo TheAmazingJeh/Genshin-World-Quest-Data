@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Teapot to Call Home: Part II",
     "url": "https://genshin-impact.fandom.com/wiki/A_Teapot_to_Call_Home%3A_Part_II",
     "starting_location": {
-        "plaintext": "Serenitea Pot",
-        "markdown": "\u25c0Serenitea Pot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serenitea_Pot\u25b7"
+        "text": "\u25c0Serenitea Pot\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Serenitea_Pot\u25b7"
     },
     "requirements": {
         "plaintext": "Complete A Teapot to Call Home: Part I",
@@ -28,16 +28,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Enter the Serenitea Pot",
-            "markdown": "Enter the Serenitea Pot"
-        },
-        {
-            "plaintext": "Explore the area",
-            "markdown": "Explore the area"
-        },
-        {
-            "plaintext": "Talk to Tubby",
-            "markdown": "Talk to \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Enter the Serenitea Pot"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

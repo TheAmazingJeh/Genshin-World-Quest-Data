@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Gifts and Gifts in Return",
     "url": "https://genshin-impact.fandom.com/wiki/Gifts_and_Gifts_in_Return",
     "starting_location": {
-        "plaintext": "Tequemecan Valley , Natlan",
-        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,40 +32,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to your Saurian companion",
-            "markdown": "Talk to your Saurian companion"
-        },
-        {
-            "plaintext": "Look for a jeweler's shop in the Children of Echoes",
-            "markdown": "Look for a jeweler's shop in the Children of Echoes"
-        },
-        {
-            "plaintext": "Speak to the apprentice at the shop",
-            "markdown": "Speak to the apprentice at the shop"
-        },
-        {
-            "plaintext": "Look for the jeweler at the place he's gathering inspiration",
-            "markdown": "Look for the jeweler at the place he's gathering inspiration"
-        },
-        {
-            "plaintext": "Speak with the Gem Master",
-            "markdown": "Speak with the Gem Master"
-        },
-        {
-            "plaintext": "Retrieve the lost gem and the tools",
-            "markdown": "Retrieve the lost gem and the tools"
-        },
-        {
-            "plaintext": "Report back to the Gem Master",
-            "markdown": "Report back to the Gem Master"
-        },
-        {
-            "plaintext": "Wait until two days later",
-            "markdown": "Wait until two days later"
-        },
-        {
-            "plaintext": "Go to the gemporium to retrieve the gem",
-            "markdown": "Go to the gemporium to retrieve the gem"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to your Saurian companion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for a jeweler's shop in the Children of Echoes"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to the apprentice at the shop"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the jeweler at the place he's gathering inspiration"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak with the Gem Master"
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the lost gem and the tools"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to the Gem Master"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until two days later"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the gemporium to retrieve the gem"
+                }
+            ]
         }
     ],
     "dialogue": true

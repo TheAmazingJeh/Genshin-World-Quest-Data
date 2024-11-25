@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Limner, Dreamer, and Robotic Dog",
     "url": "https://genshin-impact.fandom.com/wiki/Limner%2C_Dreamer%2C_and_Robotic_Dog",
     "starting_location": {
-        "plaintext": "\"A Lonely Place,\" Fontaine",
-        "markdown": "\u25c0\"A Lonely Place,\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22A_Lonely_Place%22\u25b7 \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0\"A Lonely Place,\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22A_Lonely_Place%22\u25b7 \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,62 +60,73 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to the designated location",
-            "markdown": "Head to the designated location"
-        },
-        {
-            "plaintext": "Enter the waters",
-            "markdown": "Enter the waters"
-        },
-        {
-            "plaintext": "Head to the designated location",
-            "markdown": "Head to the designated location"
-        },
-        {
-            "plaintext": "Defeat Jakob",
-            "markdown": "Defeat \u25c0Jakob\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakob\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Jakob \u2014 True Nature Revealed in the End",
-                    "markdown": "<img:iniquitous_baptist> \u25c0Jakob \u2014 True Nature Revealed in the End\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iniquitous_Baptist\u25b7",
-                    "img": {
-                        "iniquitous_baptist": "Iniquitous_Baptist_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Head to the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the waters"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat \u25c0Jakob\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakob\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:iniquitous_baptist> \u25c0Jakob \u2014 True Nature Revealed in the End\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iniquitous_Baptist\u25b7",
+                            "img": {
+                                "iniquitous_baptist": "Iniquitous_Baptist_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Try to escape"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthound\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d72",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Mamere\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mamere\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the unknown space"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the prism to resonate with the ores"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet the owner of the voice"
                 }
             ]
-        },
-        {
-            "plaintext": "Try to escape",
-            "markdown": "Try to escape"
-        },
-        {
-            "plaintext": "Defeat the Rifthounds",
-            "markdown": "Defeat the \u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthound\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Rockfond Rifthound Whelp x2",
-                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x2",
-                    "img": {
-                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Mamere",
-            "markdown": "Talk to \u25c0Mamere\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mamere\u25b7"
-        },
-        {
-            "plaintext": "Explore the unknown space",
-            "markdown": "Explore the unknown space"
-        },
-        {
-            "plaintext": "Use the prism to resonate with the ores",
-            "markdown": "Use the prism to resonate with the ores"
-        },
-        {
-            "plaintext": "Meet the owner of the voice",
-            "markdown": "Meet the owner of the voice"
         }
     ],
     "dialogue": true

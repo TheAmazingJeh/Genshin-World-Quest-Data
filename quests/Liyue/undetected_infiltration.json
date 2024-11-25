@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Undetected Infiltration",
     "url": "https://genshin-impact.fandom.com/wiki/Undetected_Infiltration",
     "starting_location": {
-        "plaintext": "Tiangong Gorge , The Chasm",
-        "markdown": "\u25c0Tiangong Gorge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tiangong_Gorge\u25b7 , \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7"
+        "text": "\u25c0Tiangong Gorge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tiangong_Gorge\u25b7 , \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7"
     },
     "requirements": {
         "plaintext": "Finish talking to Zhiqiong for the first time in Surreptitious Seven-Star Seal Sundering",
@@ -49,55 +49,81 @@
     ],
     "steps": [
         {
-            "plaintext": "Meet up with Yanbo in front of the smuggler's camp",
-            "markdown": "Meet up with Yanbo in front of the smuggler's camp",
-            "substeps": [
-                {
-                    "plaintext": "Yanbo is located next to the waypoint of Lumberpick Valley.",
-                    "markdown": "Yanbo is located next to the waypoint of \u25c0Lumberpick Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lumberpick_Valley\u25b7."
-                },
-                {
-                    "plaintext": "Select one of the three options: cooking quarters, alchemy camp, or weapons stash.",
-                    "markdown": "Select one of the three options: cooking quarters, alchemy camp, or weapons stash."
-                },
-                {
-                    "plaintext": "Yanbo and his men will clear the selected camp. The player will clear the other 2 camps.",
-                    "markdown": "Yanbo and his men will clear the selected camp. The player will clear the other 2 camps."
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by defeating the \"Treasure Hoarders\" at their lair in \u25c0Tiangong Gorge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tiangong_Gorge\u25b7."
         },
         {
-            "plaintext": "Clean out the Treasure Hoarder logistic camp (1/3)",
-            "markdown": "Clean out the Treasure Hoarder logistic camp (1/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Cooking Quarters:",
-                    "markdown": "Cooking Quarters:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Meet up with Yanbo in front of the smuggler's camp"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Electro Potioneer x1",
-                            "markdown": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 x1",
+                            "tag": "li",
+                            "text": "Yanbo is located next to the waypoint of \u25c0Lumberpick Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lumberpick_Valley\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Select one of the three options: cooking quarters, alchemy camp, or weapons stash."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Yanbo and his men will clear the selected camp. The player will clear the other 2 camps."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean out the Treasure Hoarder logistic camp (1/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Cooking Quarters:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Alchemy Camp:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Weapon Stash:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Gravedigger x1",
-                            "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Crusher x1",
-                            "markdown": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_crusher> \u25c0Treasure Hoarders: Crusher\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Crusher\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_crusher": "Treasure_Hoarder_Crusher_1_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Handyman x1",
-                            "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
                             }
@@ -105,19 +131,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Alchemy Camp:",
-                    "markdown": "Alchemy Camp:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Electro Potioneer x2",
-                            "markdown": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_electro_potioneer> \u25c0Treasure Hoarders: Electro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Electro_Potioneer\u25b7 \u00d72",
                             "img": {
                                 "treasure_hoarders_electro_potioneer": "Treasure_Hoarder_Electro_Potioneer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Hydro Potioneer x2",
-                            "markdown": "<img:treasure_hoarders_hydro_potioneer> \u25c0Treasure Hoarders: Hydro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Hydro_Potioneer\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_hydro_potioneer> \u25c0Treasure Hoarders: Hydro Potioneer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Hydro_Potioneer\u25b7 \u00d72",
                             "img": {
                                 "treasure_hoarders_hydro_potioneer": "Treasure_Hoarder_Hydro_Potioneer_Icon.png"
                             }
@@ -125,59 +150,84 @@
                     ]
                 },
                 {
-                    "plaintext": "Weapon Stash:",
-                    "markdown": "Weapon Stash:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Gravedigger x1",
-                            "markdown": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_gravedigger> \u25c0Treasure Hoarders: Gravedigger\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Gravedigger\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_gravedigger": "Treasure_Hoarder_Gravedigger_1_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Scout x1",
-                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Marksman x2",
-                            "markdown": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_marksman> \u25c0Treasure Hoarders: Marksman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Marksman\u25b7 \u00d72",
                             "img": {
                                 "treasure_hoarders_marksman": "Treasure_Hoarder_Marksman_1_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat the Treasure Hoarder smuggling crew at the larger camp",
-            "markdown": "Defeat the Treasure Hoarder smuggling crew at the larger camp",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Defeat the Treasure Hoarder smuggling crew at the larger camp"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Wallenstein x1",
-                            "markdown": "<img:treasure_hoarders_wallenstein> \u25c0Treasure Hoarders: Wallenstein\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Wallenstein\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 4 (Spawn with half HP)"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 5:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 6:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_wallenstein> \u25c0Treasure Hoarders: Wallenstein\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Wallenstein\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_wallenstein": "Treasure_Hoarder_Crusher_3_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Pyro Agent x1",
-                            "markdown": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_pyro_agent> \u25c0Fatui Pyro Agent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Pyro_Agent\u25b7 \u00d71",
                             "img": {
                                 "fatui_pyro_agent": "Fatui_Pyro_Agent_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Cryo Cicin Mage x1",
-                            "markdown": "<img:fatui_cryo_cicin_mage> \u25c0Fatui Cryo Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryo_Cicin_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_cryo_cicin_mage> \u25c0Fatui Cryo Cicin Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Cryo_Cicin_Mage\u25b7 \u00d71",
                             "img": {
                                 "fatui_cryo_cicin_mage": "Fatui_Cryo_Cicin_Mage_Icon.png"
                             }
@@ -185,12 +235,11 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Scout x4",
-                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x4",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d74",
                             "img": {
                                 "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
                             }
@@ -198,12 +247,11 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Scout x4",
-                            "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x4",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d74",
                             "img": {
                                 "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
                             }
@@ -211,19 +259,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 4 (Spawn with half HP)",
-                    "markdown": "Wave 4 (Spawn with half HP)",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Treasure Hoarders: Handyman x2",
-                            "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 \u00d72",
                             "img": {
                                 "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Treasure Hoarders: Pugilist x2",
-                            "markdown": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_pugilist> \u25c0Treasure Hoarders: Pugilist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Pugilist\u25b7 \u00d72",
                             "img": {
                                 "treasure_hoarders_pugilist": "Treasure_Hoarder_Pugilist_Icon.png"
                             }
@@ -231,12 +278,11 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 5:",
-                    "markdown": "Wave 5:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Brass Bull Zhao - How is a Wild Bossy not a Heroine? x1",
-                            "markdown": "<img:treasure_hoarders_boss> \u25c0Brass Bull Zhao - How is a Wild Bossy not a Heroine?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Boss\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_boss> \u25c0Brass Bull Zhao - How is a Wild Bossy not a Heroine?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Boss\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_boss": "Treasure_Hoarder_Unknown_1_Icon.png"
                             }
@@ -244,23 +290,22 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 6:",
-                    "markdown": "Wave 6:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Chen the Flower - A Flower Can Still Be a Real Man x1",
-                            "markdown": "<img:treasure_hoarders_wallenstein> \u25c0Chen the Flower - A Flower Can Still Be a Real Man\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Wallenstein\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_wallenstein> \u25c0Chen the Flower - A Flower Can Still Be a Real Man\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Wallenstein\u25b7 \u00d71",
                             "img": {
                                 "treasure_hoarders_wallenstein": "Treasure_Hoarder_Crusher_3_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Yanbo"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Yanbo",
-            "markdown": "Report back to Yanbo"
         }
     ],
     "dialogue": true

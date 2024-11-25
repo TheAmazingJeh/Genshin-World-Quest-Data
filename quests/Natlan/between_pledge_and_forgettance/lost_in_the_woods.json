@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Lost in the Woods",
     "url": "https://genshin-impact.fandom.com/wiki/Lost_in_the_Woods",
     "starting_location": {
-        "plaintext": "Tequemecan Valley , Natlan",
-        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,52 +39,60 @@
     ],
     "steps": [
         {
-            "plaintext": "Defeat the Rifthounds",
-            "markdown": "Defeat the Rifthounds",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Wave 1:  Thundercraven Rifthound Whelp x3",
-                    "markdown": "Wave 1: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x3",
-                    "img": {
-                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Defeat the Rifthounds"
                 },
                 {
-                    "plaintext": "Wave 2:  Thundercraven Rifthound Whelp x2",
-                    "markdown": "Wave 2: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x2",
-                    "img": {
-                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d73",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2: <img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d72",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to the giant beast"
+                },
+                {
+                    "tag": "li",
+                    "text": "Shatter the rock and rescue the whelp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to the young creature"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the little one an awesome new name!"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to your Saurian companion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow your Saurian companion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the strange space"
                 }
             ]
-        },
-        {
-            "plaintext": "Speak to the giant beast",
-            "markdown": "Speak to the giant beast"
-        },
-        {
-            "plaintext": "Shatter the rock and rescue the whelp",
-            "markdown": "Shatter the rock and rescue the whelp"
-        },
-        {
-            "plaintext": "Speak to the young creature",
-            "markdown": "Speak to the young creature"
-        },
-        {
-            "plaintext": "Give the little one an awesome new name!",
-            "markdown": "Give the little one an awesome new name!"
-        },
-        {
-            "plaintext": "Talk to your Saurian companion",
-            "markdown": "Talk to your Saurian companion"
-        },
-        {
-            "plaintext": "Follow your Saurian companion",
-            "markdown": "Follow your Saurian companion"
-        },
-        {
-            "plaintext": "Leave the strange space",
-            "markdown": "Leave the strange space"
         }
     ],
     "dialogue": true

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "The Wild Fairy of Erinnyes",
     "url": "https://genshin-impact.fandom.com/wiki/The_Wild_Fairy_of_Erinnyes",
@@ -42,20 +43,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Foggy Forest Path",
-            "markdown": "\u25c0Foggy Forest Path\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path_(Quest)\u25b7"
-        },
-        {
-            "plaintext": "Wilting Weeping Willow",
-            "markdown": "\u25c0Wilting Weeping Willow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wilting_Weeping_Willow\u25b7"
-        },
-        {
-            "plaintext": "Furious Mouth of the Spring",
-            "markdown": "\u25c0Furious Mouth of the Spring\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Furious_Mouth_of_the_Spring\u25b7"
-        },
-        {
-            "plaintext": "Within the Depths of Erinnyes",
-            "markdown": "\u25c0Within the Depths of Erinnyes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Within_the_Depths_of_Erinnyes\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Foggy Forest Path\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Foggy_Forest_Path_(Quest)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Wilting Weeping Willow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wilting_Weeping_Willow\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Furious Mouth of the Spring\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Furious_Mouth_of_the_Spring\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Within the Depths of Erinnyes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Within_the_Depths_of_Erinnyes\u25b7"
+                }
+            ]
         }
     ]
 }

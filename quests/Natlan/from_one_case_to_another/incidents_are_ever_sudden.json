@@ -1,0 +1,78 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Incidents Are Ever Sudden",
+    "url": "https://genshin-impact.fandom.com/wiki/Incidents_Are_Ever_Sudden",
+    "starting_location": {
+        "text": "\u25c0Scorchwind Trial Grounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scorchwind_Trial_Grounds\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "35,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Temach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Temach\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the training course"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Cisik\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cisik\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Try the training course"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Lamizana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lamizana\u25b7 to claim your reward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect your prize"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Taruka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taruka\u25b7"
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": ""
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

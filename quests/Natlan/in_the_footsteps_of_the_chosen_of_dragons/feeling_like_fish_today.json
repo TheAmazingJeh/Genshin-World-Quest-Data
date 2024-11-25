@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Feeling Like Fish Today!",
     "url": "https://genshin-impact.fandom.com/wiki/Feeling_Like_Fish_Today%21",
     "starting_location": {
-        "plaintext": "Coatepec Mountain , Natlan",
-        "markdown": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,33 +32,41 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to your Saurian companion",
-            "markdown": "Talk to your \u25c0Saurian companion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_One\u25b7"
-        },
-        {
-            "plaintext": "Clean up the nearby waters",
-            "markdown": "Clean up the nearby waters",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Cryo Slime x1",
-                    "markdown": "<img:cryo_slime> \u25c0Cryo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Slime\u25b7 x1",
-                    "img": {
-                        "cryo_slime": "Cryo_Slime_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to your \u25c0Saurian companion\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_One\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the nearby waters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_slime> \u25c0Cryo Slime\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Slime\u25b7 \u00d71",
+                            "img": {
+                                "cryo_slime": "Cryo_Slime_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait for \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 to fish"
+                },
+                {
+                    "tag": "li",
+                    "text": "Catch the fleeing fish"
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the fish back to shore"
                 }
             ]
-        },
-        {
-            "plaintext": "Wait for Paimon to fish",
-            "markdown": "Wait for \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 to fish"
-        },
-        {
-            "plaintext": "Catch the fleeing fish",
-            "markdown": "Catch the fleeing fish"
-        },
-        {
-            "plaintext": "Bring the fish back to shore",
-            "markdown": "Bring the fish back to shore"
         }
     ],
     "dialogue": true

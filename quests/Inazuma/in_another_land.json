@@ -1,14 +1,14 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "In Another Land",
     "url": "https://genshin-impact.fandom.com/wiki/In_Another_Land",
     "starting_location": {
-        "plaintext": "Ritou , Inazuma",
-        "markdown": "\u25c0Ritou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Ritou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ritou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
-        "plaintext": "Begin Stillness, the Sublimation of Shadow",
-        "markdown": "Begin \u25c0Stillness, the Sublimation of Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stillness,_the_Sublimation_of_Shadow\u25b7"
+        "plaintext": "Start the Archon Quest Chapter II : Act II - Stillness, the Sublimation of Shadow",
+        "markdown": "Start the \u25c0Archon Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Archon_Quest\u25b7 \u25c0Chapter II\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chapter_II\u25b7 : Act II - \u25c0Stillness, the Sublimation of Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stillness,_the_Sublimation_of_Shadow\u25b7"
     },
     "rewards": [
         {
@@ -49,33 +49,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Take a photo of Eipekkusu and its owner",
-            "markdown": "Take a photo of \u25c0Eipekkusu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eipekkusu\u25b7 and its \u25c0owner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaede\u25b7"
+            "tag": "p",
+            "text": "Start the quest by talking to Alrani, who is standing outside of the \u25c0Outlander Affairs Agency\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Outlander_Affairs_Agency\u25b7."
         },
         {
-            "plaintext": "Take a photo of Syavushi Bakshesh Shoppe and its owner",
-            "markdown": "Take a photo of \u25c0Syavushi Bakshesh Shoppe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Syavushi_Bakshesh_Shoppe\u25b7 and its \u25c0owner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vahid\u25b7"
-        },
-        {
-            "plaintext": "Go to the wharf and take a photo of the fisherman",
-            "markdown": "Go to the wharf and take a photo of the \u25c0fisherman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Obata\u25b7"
-        },
-        {
-            "plaintext": "Talk to Vahid",
-            "markdown": "Talk to Vahid"
-        },
-        {
-            "plaintext": "Help Alrani gather cooking ingredients",
-            "markdown": "Help Alrani gather cooking ingredients",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The Traveler needs  Fish,  Rice and  Seagrass",
-                    "markdown": "The Traveler needs <img:fish> \u25c0Fish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fish\u25b7, <img:rice> \u25c0Rice\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rice\u25b7 and <img:seagrass> \u25c0Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seagrass\u25b7",
-                    "img": {
-                        "fish": "Item_Fish.png",
-                        "rice": "Item_Rice.png",
-                        "seagrass": "Item_Seagrass.png"
-                    }
+                    "tag": "li",
+                    "text": "Take a photo of \u25c0Eipekkusu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eipekkusu\u25b7 and its \u25c0owner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaede\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a photo of \u25c0Syavushi Bakshesh Shoppe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Syavushi_Bakshesh_Shoppe\u25b7 and its \u25c0owner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vahid\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the wharf and take a photo of the \u25c0fisherman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Obata\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Vahid"
+                },
+                {
+                    "tag": "li",
+                    "text": "Help Alrani gather cooking ingredients"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The Traveler needs <img:fish> \u25c0Fish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fish\u25b7, <img:rice> \u25c0Rice\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rice\u25b7, and <img:seagrass> \u25c0Seagrass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seagrass\u25b7.",
+                            "img": {
+                                "fish": "Item_Fish.png",
+                                "rice": "Item_Rice.png",
+                                "seagrass": "Item_Seagrass.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }

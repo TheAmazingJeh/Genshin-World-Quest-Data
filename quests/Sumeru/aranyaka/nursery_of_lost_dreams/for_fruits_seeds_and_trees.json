@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "For Fruits, Seeds, and Trees",
     "url": "https://genshin-impact.fandom.com/wiki/For_Fruits%2C_Seeds%2C_and_Trees",
     "starting_location": {
-        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
-        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,34 +46,52 @@
     ],
     "steps": [
         {
-            "plaintext": "Meet up with Arama",
-            "markdown": "Meet up with \u25c0Arama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arama\u25b7"
-        },
-        {
-            "plaintext": "Go to the Fane of Ashvattha",
-            "markdown": "Go to the \u25c0Fane of Ashvattha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fane_of_Ashvattha\u25b7"
-        },
-        {
-            "plaintext": "Talk to Arama",
-            "markdown": "Talk to Arama",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The player will be teleported into the Quest Domain For Fruits, Seeds, and Trees",
-                    "markdown": "The player will be teleported into the Quest Domain \u25c0For Fruits, Seeds, and Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_Fruits,_Seeds,_and_Trees_(Domain)\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Clean up the Withering Zone",
-            "markdown": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Meet up with \u25c0Arama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arama\u25b7"
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Go to the \u25c0Fane of Ashvattha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fane_of_Ashvattha\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arama"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Thundercraven Rifthound Whelp x6",
-                            "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x6",
+                            "tag": "li",
+                            "text": "The player will be teleported into the Quest Domain \u25c0For Fruits, Seeds, and Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/For_Fruits,_Seeds,_and_Trees_(Domain)\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d76",
                             "img": {
                                 "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
                             }
@@ -81,34 +99,33 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Thundercraven Rifthound x1",
-                            "markdown": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 \u00d71",
                             "img": {
                                 "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Rockfond Rifthound x1",
-                            "markdown": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 \u00d71",
                             "img": {
                                 "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate Ashvattha's Tree of Dreams"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go deep into the Fane of Ashvattha"
                 }
             ]
-        },
-        {
-            "plaintext": "Investigate Ashvattha's Tree of Dreams",
-            "markdown": "Investigate Ashvattha's Tree of Dreams"
-        },
-        {
-            "plaintext": "Go deep into the Fane of Ashvattha",
-            "markdown": "Go deep into the Fane of Ashvattha"
         }
     ],
     "dialogue": true

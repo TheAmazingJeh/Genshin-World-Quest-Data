@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Not to be Missed",
     "url": "https://genshin-impact.fandom.com/wiki/Not_to_be_Missed",
     "starting_location": {
-        "plaintext": "Starfell Valley , Mondstadt",
-        "markdown": "\u25c0Starfell Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starfell_Valley\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Starfell Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starfell_Valley\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete The Outlander Who Caught the Wind",
@@ -35,20 +35,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Cyrus",
-            "markdown": "Talk to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7"
-        },
-        {
-            "plaintext": "Check the suspicious location and eliminate any threats (0/3)",
-            "markdown": "Check the suspicious location and eliminate any threats (0/3)"
-        },
-        {
-            "plaintext": "Defeat the attacking monsters",
-            "markdown": "Defeat the attacking monsters"
-        },
-        {
-            "plaintext": "Talk to Cyrus",
-            "markdown": "Talk to Cyrus"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the suspicious location and eliminate any threats (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the attacking monsters"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Cyrus"
+                }
+            ]
         }
     ],
     "dialogue": true

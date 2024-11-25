@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Book of Esoteric Revelations",
     "url": "https://genshin-impact.fandom.com/wiki/Book_of_Esoteric_Revelations",
     "starting_location": {
-        "plaintext": "Merusea Village , Fontaine",
-        "markdown": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Merusea Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Merusea_Village\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,37 +53,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the place where the book is hidden",
-            "markdown": "Go to the place where the book is hidden"
-        },
-        {
-            "plaintext": "Find the pages (0/3)",
-            "markdown": "Find the pages (0/3)"
-        },
-        {
-            "plaintext": "Decipher the page",
-            "markdown": "Decipher the page"
-        },
-        {
-            "plaintext": "Find Canotila",
-            "markdown": "Find Canotila"
-        },
-        {
-            "plaintext": "Drive away the Rifthounds",
-            "markdown": "Drive away the \u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthound\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Rifthound? \u2014 Gap-Infiltrating Alien?",
-                    "markdown": "<img:thundercraven_rifthound> \u25c0Rifthound? \u2014 Gap-Infiltrating Alien?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7",
-                    "img": {
-                        "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the place where the book is hidden"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the pages (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Decipher the page"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find Canotila"
+                },
+                {
+                    "tag": "li",
+                    "text": "Drive away the \u25c0Rifthounds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rifthound\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound> \u25c0Rifthound? \u2014 Gap-Infiltrating Alien?\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7",
+                            "img": {
+                                "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep exploring"
                 }
             ]
-        },
-        {
-            "plaintext": "Keep exploring",
-            "markdown": "Keep exploring"
         }
     ],
     "dialogue": true

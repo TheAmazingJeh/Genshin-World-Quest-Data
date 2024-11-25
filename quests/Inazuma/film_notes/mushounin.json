@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Mushounin",
     "url": "https://genshin-impact.fandom.com/wiki/Mushounin",
     "starting_location": {
-        "plaintext": "Uyuu Restaurant , Inazuma City , Inazuma",
-        "markdown": "\u25c0Uyuu Restaurant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uyuu_Restaurant\u25b7 , \u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Uyuu Restaurant\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uyuu_Restaurant\u25b7 , \u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,157 +46,180 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for the two performers and talk to them (0/2)",
-            "markdown": "Look for the two performers and talk to them (0/2)"
-        },
-        {
-            "plaintext": "Wait until evening (18:00 - 20:00)",
-            "markdown": "Wait until evening (18:00 - 20:00)"
-        },
-        {
-            "plaintext": "Go to Komore Teahouse",
-            "markdown": "Go to \u25c0Komore Teahouse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Komore_Teahouse\u25b7"
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Talk to Xavier to begin the shoot",
-            "markdown": "Talk to Xavier to begin the shoot",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Choose the first option for all dialogues",
-                    "markdown": "Choose the first option for all dialogues"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Wait until evening (18:00 - 20:00)",
-            "markdown": "Wait until evening (18:00 - 20:00)"
-        },
-        {
-            "plaintext": "Go to Nazuchi Beach",
-            "markdown": "Go to \u25c0Nazuchi Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nazuchi_Beach\u25b7"
-        },
-        {
-            "plaintext": "Persuade the extras",
-            "markdown": "Persuade the extras",
-            "substeps": [
-                {
-                    "plaintext": "Kairagi: Fiery Might x1",
-                    "markdown": "<img:kairagi_fiery_might> \u25c0Kairagi: Fiery Might\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 x1",
-                    "img": {
-                        "kairagi_fiery_might": "Kairagi_Fiery_Might_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Look for the two performers and talk to them (0/2)"
                 },
                 {
-                    "plaintext": "Nobushi: Hitsukeban x1",
-                    "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x1",
-                    "img": {
-                        "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Wait until evening (18:00 \u2013 20:00)"
                 },
                 {
-                    "plaintext": "Nobushi: Kikouban x1",
-                    "markdown": "<img:nobushi_kikouban> \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7 x1",
-                    "img": {
-                        "nobushi_kikouban": "Nobushi_Kikouban_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Talk to Xavier to begin the shoot",
-            "markdown": "Talk to Xavier to begin the shoot",
-            "substeps": [
-                {
-                    "plaintext": "Do not leave the recording area of the Film Kamera",
-                    "markdown": "Do not leave the recording area of the Film Kamera"
+                    "tag": "li",
+                    "text": "Go to \u25c0Komore Teahouse\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Komore_Teahouse\u25b7"
                 },
                 {
-                    "plaintext": "\"Bandits\" Defeated 0/3",
-                    "markdown": "\"Bandits\" Defeated 0/3",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier to begin the shoot"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Yamada Hifumi x1",
-                            "markdown": "<img:kairagi_fiery_might> \u25c0Yamada Hifumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 x1",
+                            "tag": "li",
+                            "text": "Choose the first option for all dialogues"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until evening (18:00 \u2013 20:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Nazuchi Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nazuchi_Beach\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Persuade the extras"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:kairagi_fiery_might> \u25c0Kairagi: Fiery Might\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 \u00d71",
                             "img": {
                                 "kairagi_fiery_might": "Kairagi_Fiery_Might_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Nobushi: Hitsukeban x1",
-                            "markdown": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 \u00d71",
                             "img": {
                                 "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Nobushi: Kikouban x1",
-                            "markdown": "<img:nobushi_kikouban> \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 \u00d71",
                             "img": {
-                                "nobushi_kikouban": "Nobushi_Kikouban_Icon.png"
+                                "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
                             }
                         }
                     ]
                 },
                 {
-                    "plaintext": "Change positions 0/3",
-                    "markdown": "Change positions 0/3"
-                }
-            ]
-        },
-        {
-            "plaintext": "Wait until the following evening (18:00 - 20:00)",
-            "markdown": "Wait until the following evening (18:00 - 20:00)"
-        },
-        {
-            "plaintext": "Head to the designated location",
-            "markdown": "Head to the designated location"
-        },
-        {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to Xavier"
-        },
-        {
-            "plaintext": "Talk to Xavier to begin the shoot",
-            "markdown": "Talk to Xavier to begin the shoot",
-            "substeps": [
-                {
-                    "plaintext": "Choose the first options for all dialogues.",
-                    "markdown": "Choose the first options for all dialogues."
+                    "tag": "li",
+                    "text": "Talk to Xavier"
                 },
                 {
-                    "plaintext": "Do not leave the recording area of the Film Kamera",
-                    "markdown": "Do not leave the recording area of the Film Kamera"
+                    "tag": "li",
+                    "text": "Talk to Xavier to begin the shoot"
                 },
                 {
-                    "plaintext": "Samurai Defeated 0/1",
-                    "markdown": "Samurai Defeated 0/1",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Wakayama Kojuurou",
-                            "markdown": "<img:shogunate_infantry> \u25c0Wakayama Kojuurou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shogunate_Infantry\u25b7",
+                            "tag": "li",
+                            "text": "Do not leave the recording area of the Film Kamera"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\"Bandits\" Defeated 0/3"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Change positions 0/3"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:kairagi_fiery_might> \u25c0Yamada Hifumi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Fiery_Might\u25b7 \u00d71",
+                            "img": {
+                                "kairagi_fiery_might": "Kairagi_Fiery_Might_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_hitsukeban> \u25c0Nobushi: Hitsukeban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Hitsukeban\u25b7 \u00d71",
+                            "img": {
+                                "nobushi_hitsukeban": "Nobushi_Hitsukeban_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 \u00d71",
+                            "img": {
+                                "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until the following evening (18:00 \u2013 20:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the designated location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Xavier to begin the shoot"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Choose the first options for all dialogues."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Do not leave the recording area of the Film Kamera"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Samurai Defeated 0/1"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:shogunate_infantry> \u25c0Wakayama Kojuurou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shogunate_Infantry\u25b7",
                             "img": {
                                 "shogunate_infantry": "Shogunate_Infantry_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Rendezvous with everyone"
                 }
             ]
-        },
-        {
-            "plaintext": "Rendezvous with everyone",
-            "markdown": "Rendezvous with everyone"
         }
     ],
     "dialogue": true

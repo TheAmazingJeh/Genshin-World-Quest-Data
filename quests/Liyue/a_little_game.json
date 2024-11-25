@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Little Game",
     "url": "https://genshin-impact.fandom.com/wiki/A_Little_Game",
     "starting_location": {
-        "plaintext": "Mt. Tianheng , Liyue",
-        "markdown": "\u25c0Mt. Tianheng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Tianheng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Mt. Tianheng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Tianheng\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,24 +53,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Locate and talk to the childish Jiang before the allotted time of the game ends.",
-            "markdown": "Locate and talk to the childish Jiang before the allotted time of the game ends."
+            "tag": "p",
+            "text": "Talk to \u25c0Childish Jiang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Childish_Jiang\u25b7 near \u25c0Mt. Tianheng\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Tianheng\u25b7 to start the quest."
         },
         {
-            "plaintext": "Jiang's first hiding spot is just up north behind a boulder.",
-            "markdown": "Jiang's first hiding spot is just up north behind a boulder."
-        },
-        {
-            "plaintext": "Jiang's second hiding spot will be further north, he'll be standing behind a tree to the left.",
-            "markdown": "Jiang's second hiding spot will be further north, he'll be standing behind a tree to the left."
-        },
-        {
-            "plaintext": "Jiang will then move to his third hiding spot on the east side of the building.",
-            "markdown": "Jiang will then move to his third hiding spot on the east side of the building."
-        },
-        {
-            "plaintext": "Jiang's final hiding spot is another rock next to the cliff's edge to the south.",
-            "markdown": "Jiang's final hiding spot is another rock next to the cliff's edge to the south."
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Locate and talk to the childish Jiang before the allotted time of the game ends."
+                },
+                {
+                    "tag": "li",
+                    "text": "Jiang's first hiding spot is just up north behind a boulder."
+                },
+                {
+                    "tag": "li",
+                    "text": "Jiang's second hiding spot will be further north, he'll be standing behind a tree to the left."
+                },
+                {
+                    "tag": "li",
+                    "text": "Jiang will then move to his third hiding spot on the east side of the building."
+                },
+                {
+                    "tag": "li",
+                    "text": "Jiang's final hiding spot is another rock next to the cliff's edge to the south."
+                }
+            ]
         }
     ],
     "dialogue": true

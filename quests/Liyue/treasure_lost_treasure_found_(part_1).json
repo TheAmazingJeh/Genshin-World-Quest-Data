@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Treasure Lost, Treasure Found (Part 1)",
     "url": "https://genshin-impact.fandom.com/wiki/Treasure_Lost%2C_Treasure_Found_%28Part_1%29",
     "starting_location": {
-        "plaintext": "Guili Plains , Liyue",
-        "markdown": "\u25c0Guili Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Plains\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Guili Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Plains\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,38 +39,53 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to Guili Assembly to search for an ancient stone tablet (0/5)",
-            "markdown": "Head to \u25c0Guili Assembly\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Assembly\u25b7 to search for an ancient stone tablet (0/5)",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Soraya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soraya\u25b7 near the ruin in \u25c0Guili Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Plains\u25b7."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain  Transcription from a stone tablet x5",
-                    "markdown": "Obtain <img:transcription> \u25c0Transcription from a stone tablet\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transcription_from_a_ruin\u25b7 x5",
-                    "img": {
-                        "transcription": "Item_Transcription.png"
-                    }
+                    "tag": "li",
+                    "text": "Head to \u25c0Guili Assembly\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Assembly\u25b7 to search for an ancient stone tablet (0/5)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:transcription> \u25c0Transcription from a stone tablet\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transcription_from_a_ruin\u25b7 \u00d75",
+                            "img": {
+                                "transcription": "Item_Transcription.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Soraya"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for the stone tablets (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:transcription> \u25c0Transcription from a ruin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transcription_from_a_ruin\u25b7 \u00d72",
+                            "img": {
+                                "transcription": "Item_Transcription.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Soraya"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Soraya",
-            "markdown": "Talk to Soraya"
-        },
-        {
-            "plaintext": "Search for the stone tablets (0/2)",
-            "markdown": "Search for the stone tablets (0/2)",
-            "substeps": [
-                {
-                    "plaintext": "Obtain  Transcription from a ruin x2",
-                    "markdown": "Obtain <img:transcription> \u25c0Transcription from a ruin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transcription_from_a_ruin\u25b7 x2",
-                    "img": {
-                        "transcription": "Item_Transcription.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Soraya",
-            "markdown": "Talk to Soraya"
         }
     ],
     "dialogue": true

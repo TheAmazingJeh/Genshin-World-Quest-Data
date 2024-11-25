@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scenes from Life in Meropide: Safe Operation",
     "url": "https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide%3A_Safe_Operation",
     "starting_location": {
-        "plaintext": "Abandoned Production Zone , Fontaine",
-        "markdown": "\u25c0Abandoned Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abandoned_Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Abandoned Production Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abandoned_Production_Zone\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,16 +39,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the abandoned production zone",
-            "markdown": "Go to the abandoned production zone"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "This quest is unlocked during \u25c0Game of the Rich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Game_of_the_Rich\u25b7."
+                }
+            ]
         },
         {
-            "plaintext": "Operate the drive valve to open access to Supply Warehouse 1",
-            "markdown": "Operate the drive valve to open access to Supply Warehouse 1"
-        },
-        {
-            "plaintext": "Enter Supply Warehouse 1",
-            "markdown": "Enter Supply Warehouse 1"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the abandoned production zone"
+                },
+                {
+                    "tag": "li",
+                    "text": "Operate the drive valve to open access to Supply Warehouse 1"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter Supply Warehouse 1"
+                }
+            ]
         }
     ],
     "dialogue": true

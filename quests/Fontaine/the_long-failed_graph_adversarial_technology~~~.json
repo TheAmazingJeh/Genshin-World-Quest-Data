@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Long-Failed \"Graph Adversarial Technology\"...",
     "url": "https://genshin-impact.fandom.com/wiki/The_Long-Failed_%22Graph_Adversarial_Technology%22...",
     "starting_location": {
-        "plaintext": "Court of Fontaine: Quartier Lyonnais , Fontaine",
-        "markdown": "\u25c0Court of Fontaine: Quartier Lyonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Lyonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine: Quartier Lyonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Lyonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Archon Quest Prologue : Act III - Song of the Dragon and Freedom",
@@ -35,22 +35,33 @@
     ],
     "steps": [
         {
-            "plaintext": "If the player participated in the Graph Adversarial Technology Experiment Log event",
-            "markdown": "If the player participated in the \u25c0Graph Adversarial Technology Experiment Log\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Graph_Adversarial_Technology_Experiment_Log\u25b7 event",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Talk to Lepine-Pauline",
-                    "markdown": "Talk to \u25c0Lepine-Pauline\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lepine-Pauline\u25b7"
+                    "tag": "li",
+                    "text": "If the player participated in the \u25c0Graph Adversarial Technology Experiment Log\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Graph_Adversarial_Technology_Experiment_Log\u25b7 event"
+                },
+                {
+                    "tag": "li",
+                    "text": "If the player did not participate in the Graph Adversarial Technology Experiment Log event"
                 }
             ]
         },
         {
-            "plaintext": "If the player did not participate in the Graph Adversarial Technology Experiment Log event",
-            "markdown": "If the player did not participate in the Graph Adversarial Technology Experiment Log event",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Talk to Charlotte",
-                    "markdown": "Talk to \u25c0Charlotte\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charlotte\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Lepine-Pauline\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lepine-Pauline\u25b7"
+                }
+            ]
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Charlotte\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charlotte\u25b7"
                 }
             ]
         }

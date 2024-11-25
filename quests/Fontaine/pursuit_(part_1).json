@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Pursuit (Part 1)",
     "url": "https://genshin-impact.fandom.com/wiki/Pursuit_%28Part_1%29",
     "starting_location": {
-        "plaintext": "Canotila and the Book of Revealing , Fontaine",
-        "markdown": "\u25c0Canotila and the Book of Revealing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila_and_the_Book_of_Revealing\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Canotila and the Book of Revealing\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Canotila_and_the_Book_of_Revealing\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Through the Looking Glass",
@@ -42,24 +42,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Enter the world of Meditation through the Book of Revealing",
-            "markdown": "Enter the world of Meditation through the Book of Revealing"
-        },
-        {
-            "plaintext": "Pursue the figure",
-            "markdown": "Pursue the figure"
-        },
-        {
-            "plaintext": "Talk to the figure",
-            "markdown": "Talk to the figure"
-        },
-        {
-            "plaintext": "Pursue the light",
-            "markdown": "Pursue the light"
-        },
-        {
-            "plaintext": "Talk to the figure",
-            "markdown": "Talk to the figure"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Enter the world of Meditation through the Book of Revealing"
+                },
+                {
+                    "tag": "li",
+                    "text": "Pursue the figure"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the figure"
+                },
+                {
+                    "tag": "li",
+                    "text": "Pursue the light"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the figure"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Temple Where Sand Flows Like Tears",
     "url": "https://genshin-impact.fandom.com/wiki/The_Temple_Where_Sand_Flows_Like_Tears",
     "starting_location": {
-        "plaintext": "The Temples Forsaken , Sumeru",
-        "markdown": "\u25c0The Temples Forsaken\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Temples_Forsaken\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0The Temples Forsaken\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Temples_Forsaken\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,215 +53,229 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the temple on the outskirts of Gurabad",
-            "markdown": "Go to the temple on the outskirts of \u25c0Gurabad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gurabad\u25b7"
-        },
-        {
-            "plaintext": "Go to the temple's gate",
-            "markdown": "Go to the temple's gate"
-        },
-        {
-            "plaintext": "Talk to Azariq",
-            "markdown": "Talk to \u25c0Azariq\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Azariq\u25b7"
-        },
-        {
-            "plaintext": "Activate the device and open the gate",
-            "markdown": "Activate the device and open the gate",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Attacking the sand pile will prompt the message, \"It seems that this sand pile cannot be removed in this manner...\"",
-                    "markdown": "Attacking the sand pile will prompt the message, \"It seems that this sand pile cannot be removed in this manner...\""
-                }
-            ]
-        },
-        {
-            "plaintext": "Go deeper into the temple",
-            "markdown": "Go deeper into the temple"
-        },
-        {
-            "plaintext": "Activate the device within the temple",
-            "markdown": "Activate the device within the temple"
-        },
-        {
-            "plaintext": "Touch the giant device at the temple's center",
-            "markdown": "Touch the giant device at the temple's center"
-        },
-        {
-            "plaintext": "Open the gate",
-            "markdown": "Open the gate"
-        },
-        {
-            "plaintext": "Activate the device and, in turn, another machine somewhere within the temple",
-            "markdown": "Activate the device and, in turn, another machine somewhere within the temple"
-        },
-        {
-            "plaintext": "Look for another exit",
-            "markdown": "Look for another exit"
-        },
-        {
-            "plaintext": "Search the temple",
-            "markdown": "Search the temple"
-        },
-        {
-            "plaintext": "Find the activated machine",
-            "markdown": "Find the activated machine"
-        },
-        {
-            "plaintext": "Scatter the dust around the sealing machine",
-            "markdown": "Scatter the dust around the sealing machine"
-        },
-        {
-            "plaintext": "Open the gate",
-            "markdown": "Open the gate"
-        },
-        {
-            "plaintext": "Activate the device and, in turn, another machine somewhere within the temple",
-            "markdown": "Activate the device and, in turn, another machine somewhere within the temple"
-        },
-        {
-            "plaintext": "Look for a way back to the temple",
-            "markdown": "Look for a way back to the temple"
-        },
-        {
-            "plaintext": "Scatter the dust around the sealing machine",
-            "markdown": "Scatter the dust around the sealing machine"
-        },
-        {
-            "plaintext": "Open the gate",
-            "markdown": "Open the gate"
-        },
-        {
-            "plaintext": "Activate the device and, in turn, another machine somewhere within the temple",
-            "markdown": "Activate the device and, in turn, another machine somewhere within the temple"
-        },
-        {
-            "plaintext": "Look for a way back to the temple",
-            "markdown": "Look for a way back to the temple"
-        },
-        {
-            "plaintext": "Scatter the dust around the sealing machine",
-            "markdown": "Scatter the dust around the sealing machine"
-        },
-        {
-            "plaintext": "Touch the giant device at the temple's center",
-            "markdown": "Touch the giant device at the temple's center"
-        },
-        {
-            "plaintext": "Check on the situation outside the temple",
-            "markdown": "Check on the situation outside the temple"
-        },
-        {
-            "plaintext": "Go to the ruins opposite the square",
-            "markdown": "Go to the ruins opposite the square"
-        },
-        {
-            "plaintext": "Open the gate",
-            "markdown": "Open the gate"
-        },
-        {
-            "plaintext": "Search the temple ruins",
-            "markdown": "Search the temple ruins"
-        },
-        {
-            "plaintext": "Check the shining object",
-            "markdown": "Check the shining object"
-        },
-        {
-            "plaintext": "Talk to Jeht",
-            "markdown": "Talk to Jeht"
-        },
-        {
-            "plaintext": "Defeat the Primal Construct",
-            "markdown": "Defeat the Primal Construct",
-            "substeps": [
-                {
-                    "plaintext": "Anoushbord \u2014 Forgotten Mechanical Guardian",
-                    "markdown": "<img:algorithm_of_semi-intransient_matrix_of_overseer_network> \u25c0Anoushbord \u2014 Forgotten Mechanical Guardian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network\u25b7",
-                    "img": {
-                        "algorithm_of_semi-intransient_matrix_of_overseer_network": "Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Check the shining object",
-            "markdown": "Check the shining object"
-        },
-        {
-            "plaintext": "Leave through the gap caused by the collapse",
-            "markdown": "Leave through the gap caused by the collapse"
-        },
-        {
-            "plaintext": "Continue onward",
-            "markdown": "Continue onward"
-        },
-        {
-            "plaintext": "Talk to the messenger",
-            "markdown": "Talk to the messenger"
-        },
-        {
-            "plaintext": "Go through the Pairidaeza Canyon",
-            "markdown": "Go through the \u25c0Pairidaeza Canyon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pairidaeza_Canyon\u25b7"
-        },
-        {
-            "plaintext": "Talk to the fellow who is up to no good",
-            "markdown": "Talk to the fellow who is up to no good"
-        },
-        {
-            "plaintext": "Defeat the Eremites",
-            "markdown": "Defeat the Eremites",
-            "substeps": [
-                {
-                    "plaintext": "Eremite Ravenbeak Halberdier x1",
-                    "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x1",
-                    "img": {
-                        "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the temple on the outskirts of \u25c0Gurabad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gurabad\u25b7"
                 },
                 {
-                    "plaintext": "Eremite Linebreaker x2",
-                    "markdown": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 x2",
-                    "img": {
-                        "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the temple's gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Azariq\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Azariq\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the device and open the gate"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Attacking the sand pile will prompt the message, \"It seems that this sand pile cannot be removed in this manner...\""
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go deeper into the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the device within the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the giant device at the temple's center"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the device and, in turn, another machine somewhere within the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for another exit"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the activated machine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Scatter the dust around the sealing machine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the device and, in turn, another machine somewhere within the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for a way back to the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Scatter the dust around the sealing machine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the device and, in turn, another machine somewhere within the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for a way back to the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Scatter the dust around the sealing machine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the giant device at the temple's center"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check on the situation outside the temple"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the ruins opposite the square"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search the temple ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the shining object"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Jeht"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Primal Construct"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:algorithm_of_semi-intransient_matrix_of_overseer_network> \u25c0Anoushbord \u2014 Forgotten Mechanical Guardian\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network\u25b7",
+                            "img": {
+                                "algorithm_of_semi-intransient_matrix_of_overseer_network": "Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the shining object"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave through the gap caused by the collapse"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue onward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the messenger"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go through the \u25c0Pairidaeza Canyon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pairidaeza_Canyon\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the fellow who is up to no good"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Eremites"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d71",
+                            "img": {
+                                "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 \u00d72",
+                            "img": {
+                                "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Track your foe by following the footprints"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the opposing Eremites' camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue onward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the opposing Eremites' camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue onward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the opposing Eremites' camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the canyon"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the tribal settlement and report to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk with Azariq and Jeht"
                 }
             ]
-        },
-        {
-            "plaintext": "Track your foe by following the footprints",
-            "markdown": "Track your foe by following the footprints"
-        },
-        {
-            "plaintext": "Investigate the opposing Eremites' camp",
-            "markdown": "Investigate the opposing Eremites' camp"
-        },
-        {
-            "plaintext": "Continue onward",
-            "markdown": "Continue onward"
-        },
-        {
-            "plaintext": "Investigate the opposing Eremites' camp",
-            "markdown": "Investigate the opposing Eremites' camp"
-        },
-        {
-            "plaintext": "Continue onward",
-            "markdown": "Continue onward"
-        },
-        {
-            "plaintext": "Investigate the opposing Eremites' camp",
-            "markdown": "Investigate the opposing Eremites' camp"
-        },
-        {
-            "plaintext": "Leave the canyon",
-            "markdown": "Leave the canyon"
-        },
-        {
-            "plaintext": "Return to the tribal settlement and report to Babel",
-            "markdown": "Return to the tribal settlement and report to \u25c0Babel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Babel\u25b7"
-        },
-        {
-            "plaintext": "Talk with Azariq and Jeht",
-            "markdown": "Talk with Azariq and Jeht"
         }
     ],
     "dialogue": true

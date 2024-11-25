@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Fallen Falcon",
     "url": "https://genshin-impact.fandom.com/wiki/The_Fallen_Falcon",
     "starting_location": {
-        "plaintext": "Tanit Camps",
-        "markdown": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
+        "text": "\u25c0Tanit Camps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tanit_Camps\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,29 +46,46 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the place where Tadhla is waiting for you",
-            "markdown": "Go to the place where \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7 is waiting for you"
-        },
-        {
-            "plaintext": "Talk to Tadhla",
-            "markdown": "Talk to Tadhla"
-        },
-        {
-            "plaintext": "Defeat Tadhla",
-            "markdown": "Defeat Tadhla",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "Tadhla - Bent-Winged Falcon",
-                    "markdown": "<img:eremite_galehunter> \u25c0Tadhla - Bent-Winged Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Galehunter\u25b7",
-                    "img": {
-                        "eremite_galehunter": "Eremite_Galehunter_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Start the quest by talking to Masseira"
                 }
             ]
         },
         {
-            "plaintext": "Confront Masseira",
-            "markdown": "Confront Masseira"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the place where \u25c0Tadhla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tadhla\u25b7 is waiting for you"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Tadhla"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Tadhla"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_galehunter> \u25c0Tadhla - Bent-Winged Falcon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Galehunter\u25b7",
+                            "img": {
+                                "eremite_galehunter": "Eremite_Galehunter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Confront Masseira"
+                }
+            ]
         }
     ],
     "dialogue": true

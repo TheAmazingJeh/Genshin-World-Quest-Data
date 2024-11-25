@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Peace to the Slumbering",
     "url": "https://genshin-impact.fandom.com/wiki/Peace_to_the_Slumbering",
     "starting_location": {
-        "plaintext": "Land of Myriad Megaliths , Natlan",
-        "markdown": "\u25c0Land of Myriad Megaliths\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Myriad_Megaliths\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Land of Myriad Megaliths\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Myriad_Megaliths\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -17,80 +17,137 @@
         },
         {
             "Name": "Adventure EXP",
-            "Value": "400",
+            "Value": "350",
             "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
             "Image": "Item_Adventure_EXP.png",
             "Rarity": "3"
         },
         {
             "Name": "Primogem",
-            "Value": "50",
+            "Value": "40",
             "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
             "Image": "Item_Primogem.png",
             "Rarity": "5"
         },
         {
             "Name": "Mora",
-            "Value": "30,000",
+            "Value": "20,000",
             "Link": "https://genshin-impact.fandom.com/wiki/Mora",
             "Image": "Item_Mora.png",
             "Rarity": "3"
         },
         {
             "Name": "Hero's Wit",
-            "Value": "5",
+            "Value": "2",
             "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
             "Image": "Item_Hero%27s_Wit.png",
             "Rarity": "4"
         },
         {
             "Name": "Mystic Enhancement Ore",
-            "Value": "4",
+            "Value": "2",
             "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
             "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Iridescent Inscription Fragment",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Iridescent_Inscription_Fragment",
+            "Image": "Item_Iridescent_Inscription_Fragment.png",
             "Rarity": "3"
         }
     ],
     "steps": [
         {
-            "plaintext": "Check the hole below",
-            "markdown": "Check the hole below"
-        },
-        {
-            "plaintext": "Touch the inscription",
-            "markdown": "Touch the inscription"
-        },
-        {
-            "plaintext": "Follow the inscription",
-            "markdown": "Follow the inscription"
-        },
-        {
-            "plaintext": "Find the inscription fragment(s)",
-            "markdown": "Find the inscription fragment(s)"
-        },
-        {
-            "plaintext": "Go to the sealed pillar",
-            "markdown": "Go to the sealed pillar"
-        },
-        {
-            "plaintext": "Unseal the inscription",
-            "markdown": "Unseal the inscription"
-        },
-        {
-            "plaintext": "Grant the warriors peace",
-            "markdown": "Grant the warriors peace"
-        },
-        {
-            "plaintext": "Go to the sealed pillar",
-            "markdown": "Go to the sealed pillar"
-        },
-        {
-            "plaintext": "Listen to the whispers of Night",
-            "markdown": "Listen to the whispers of Night"
-        },
-        {
-            "plaintext": "Talk to Titu",
-            "markdown": "Talk to Titu"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Check the hole below"
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the inscription fragment(s)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Wave 1: <img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d73",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2: <img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d74",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3: <img:rockfond_rifthound> \u25c0Rifthound \u2014 The One Who Comes After the Inscription\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7",
+                            "img": {
+                                "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the sealed pillar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Unseal the inscription"
+                },
+                {
+                    "tag": "li",
+                    "text": "Grant the warriors peace"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:black_serpent_knight_windcutter> \u25c0\"Zephaniah\" \u2014 Warrior Who Cleaved the Dark Tide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Black_Serpent_Knight:_Windcutter\u25b7 \u00d71",
+                            "img": {
+                                "black_serpent_knight_windcutter": "Black_Serpent_Knight_Windcutter_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:black_serpent_knight_rockbreaker_ax> \u25c0\"Irizar\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Black_Serpent_Knight:_Rockbreaker_Ax\u25b7 \u00d71",
+                            "img": {
+                                "black_serpent_knight_rockbreaker_ax": "Black_Serpent_Knight_Rockbreaker_Ax_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the sealed pillar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Listen to the whispers of Night"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Titu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Titu\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Fortune Plango Vulnera",
     "url": "https://genshin-impact.fandom.com/wiki/Fortune_Plango_Vulnera",
     "starting_location": {
-        "plaintext": "Sea of Bygone Eras , Fontaine",
-        "markdown": "\u25c0Sea of Bygone Eras\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Bygone_Eras\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Sea of Bygone Eras\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sea_of_Bygone_Eras\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,71 +53,85 @@
     ],
     "steps": [
         {
-            "plaintext": "Release the Ichor to connect the aqueducts",
-            "markdown": "Release the Ichor to connect the aqueducts"
-        },
-        {
-            "plaintext": "Talk to Scylla",
-            "markdown": "Talk to \u25c0Scylla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scylla\u25b7"
-        },
-        {
-            "plaintext": "Play the symphony with Scylla",
-            "markdown": "Play the symphony with Scylla"
-        },
-        {
-            "plaintext": "Continue onward",
-            "markdown": "Continue onward"
-        },
-        {
-            "plaintext": "Defeat Boethius",
-            "markdown": "Defeat \u25c0Boethius\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Boethius\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Boethius\u2014\"The Immortal Sebastos's Second Coming\"",
-                    "markdown": "<img:statue_of_marble_and_brass> \u25c0Boethius\u2014\"The Immortal Sebastos's Second Coming\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
-                    "img": {
-                        "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Release the Ichor to connect the aqueducts"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Scylla\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scylla\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Play the symphony with Scylla"
+                },
+                {
+                    "tag": "li",
+                    "text": "Continue onward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat \u25c0Boethius\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Boethius\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:statue_of_marble_and_brass> \u25c0Boethius\u2014\"The Immortal Sebastos's Second Coming\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
+                            "img": {
+                                "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Boethius"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:statue_of_marble_and_brass> \u25c0Boethius\u2014\"Bleeding Idol\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
+                            "img": {
+                                "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Boethius or \u25c0Cassiodor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cassiodor\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:statue_of_marble_and_brass> \u25c0Phobos\u2014\"Discordant Symphony\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
+                            "img": {
+                                "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the upper level of \"\u25c0Domus Aurea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domus_Aurea\u25b7\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the \"podium\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Start playing the harp"
                 }
             ]
-        },
-        {
-            "plaintext": "Defeat Boethius",
-            "markdown": "Defeat Boethius",
-            "substeps": [
-                {
-                    "plaintext": "Boethius\u2014\"Bleeding Idol\"",
-                    "markdown": "<img:statue_of_marble_and_brass> \u25c0Boethius\u2014\"Bleeding Idol\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
-                    "img": {
-                        "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat Boethius or Cassiodor",
-            "markdown": "Defeat Boethius or \u25c0Cassiodor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cassiodor\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Phobos\u2014\"Discordant Symphony\"",
-                    "markdown": "<img:statue_of_marble_and_brass> \u25c0Phobos\u2014\"Discordant Symphony\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Statue_of_Marble_and_Brass%22\u25b7",
-                    "img": {
-                        "statue_of_marble_and_brass": "Statue_of_Marble_and_Brass_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Head to the upper level of \"Domus Aurea\"",
-            "markdown": "Head to the upper level of \"\u25c0Domus Aurea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Domus_Aurea\u25b7\""
-        },
-        {
-            "plaintext": "Head to the \"podium\"",
-            "markdown": "Head to the \"podium\""
-        },
-        {
-            "plaintext": "Start playing the harp",
-            "markdown": "Start playing the harp"
         }
     ],
     "dialogue": true

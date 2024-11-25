@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Question and Answer",
     "url": "https://genshin-impact.fandom.com/wiki/Question_and_Answer",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Reach Adventure Rank 24",
@@ -49,12 +49,24 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Swan",
-            "markdown": "Talk to \u25c0Swan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swan\u25b7",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by talking to Swan near the entrance to \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The correct answers are, in order: Stormterror's Lair, Strange yet respectable traveler, and Acting Grand Master",
-                    "markdown": "The correct answers are, in order: Stormterror's Lair, Strange yet respectable traveler, and Acting Grand Master"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Swan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Swan\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The correct answers are, in order: Stormterror's Lair, Strange yet respectable traveler, and Acting Grand Master"
+                        }
+                    ]
                 }
             ]
         }

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Khvarena of Good and Evil",
     "url": "https://genshin-impact.fandom.com/wiki/Khvarena_of_Good_and_Evil",
@@ -42,42 +43,50 @@
     ],
     "steps": [
         {
-            "plaintext": "The Splendorous Sky That Day",
-            "markdown": "\u25c0The Splendorous Sky That Day\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Splendorous_Sky_That_Day\u25b7"
-        },
-        {
-            "plaintext": "Awakening's Real Sound",
-            "markdown": "\u25c0Awakening's Real Sound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awakening%27s_Real_Sound\u25b7"
-        },
-        {
-            "plaintext": "Asipattravana Itihasa",
-            "markdown": "\u25c0Asipattravana Itihasa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asipattravana_Itihasa\u25b7"
-        },
-        {
-            "plaintext": "As the Khvarena's Light Shows",
-            "markdown": "\u25c0As the Khvarena's Light Shows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "As the Khvarena's Light Shows: Samudaya",
-                    "markdown": "\u25c0As the Khvarena's Light Shows: Samudaya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows:_Samudaya\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0The Splendorous Sky That Day\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Splendorous_Sky_That_Day\u25b7"
                 },
                 {
-                    "plaintext": "As the Khvarena's Light Shows: Dukkha",
-                    "markdown": "\u25c0As the Khvarena's Light Shows: Dukkha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows:_Dukkha\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Awakening's Real Sound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awakening%27s_Real_Sound\u25b7"
                 },
                 {
-                    "plaintext": "As the Khvarena's Light Shows: Nirodha",
-                    "markdown": "\u25c0As the Khvarena's Light Shows: Nirodha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows:_Nirodha\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Asipattravana Itihasa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asipattravana_Itihasa\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0As the Khvarena's Light Shows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0As the Khvarena's Light Shows: Samudaya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows:_Samudaya\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0As the Khvarena's Light Shows: Dukkha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows:_Dukkha\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0As the Khvarena's Light Shows: Nirodha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows:_Nirodha\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Hymn of Tir Yazad (Part 1)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Hymn_of_Tir_Yazad_(Part_1)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Hymn of Tir Yazad (Part 2)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Hymn_of_Tir_Yazad_(Part_2)\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "The Hymn of Tir Yazad (Part 1)",
-            "markdown": "\u25c0The Hymn of Tir Yazad (Part 1)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Hymn_of_Tir_Yazad_(Part_1)\u25b7"
-        },
-        {
-            "plaintext": "The Hymn of Tir Yazad (Part 2)",
-            "markdown": "\u25c0The Hymn of Tir Yazad (Part 2)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Hymn_of_Tir_Yazad_(Part_2)\u25b7"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Dish Beyond Mortal Ken",
     "url": "https://genshin-impact.fandom.com/wiki/A_Dish_Beyond_Mortal_Ken",
     "starting_location": {
-        "plaintext": "Wangshu Inn , Liyue",
-        "markdown": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Archon Quest Chapter I, Act III: A New Star Approaches",
@@ -35,62 +35,86 @@
     ],
     "steps": [
         {
-            "plaintext": "Sit by the table",
-            "markdown": "Sit by the table",
-            "substeps": [
-                {
-                    "plaintext": "You need to sit in the seats next to Jiangxue; sitting across from him will not trigger the next step.",
-                    "markdown": "You need to sit in the seats next to Jiangxue; sitting across from him will not trigger the next step."
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Smiley Yanxiao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Smiley_Yanxiao\u25b7 at \u25c0Wangshu Inn\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshu_Inn\u25b7."
         },
         {
-            "plaintext": "Give Smiley Yanxiao the ingredients",
-            "markdown": "Give Smiley Yanxiao the ingredients",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Bird Egg x1,  Snapdragon x1",
-                    "markdown": "<img:bird_egg> \u25c0Bird Egg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bird_Egg\u25b7 x1, <img:snapdragon> \u25c0Snapdragon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Snapdragon\u25b7 x1",
-                    "img": {
-                        "bird_egg": "Item_Bird_Egg.png",
-                        "snapdragon": "Item_Snapdragon.png"
-                    }
+                    "tag": "li",
+                    "text": "Sit by the table"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You need to sit in the seats next to Jiangxue; sitting across from him will not trigger the next step."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give Smiley Yanxiao the ingredients"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:bird_egg> \u25c0Bird Egg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bird_Egg\u25b7 \u00d71, <img:snapdragon> \u25c0Snapdragon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Snapdragon\u25b7 \u00d71",
+                            "img": {
+                                "bird_egg": "Item_Bird_Egg.png",
+                                "snapdragon": "Item_Snapdragon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Cut the meat"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Attack the table with a character that wields a melee weapon"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Pour pure water into the cooking pot"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Attack the stove with a \u25c0Hydro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro\u25b7 skill"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the stove up to temperature"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Attack the stove with a \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 skill"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Smiley Yanxiao"
                 }
             ]
-        },
-        {
-            "plaintext": "Cut the meat",
-            "markdown": "Cut the meat",
-            "substeps": [
-                {
-                    "plaintext": "Attack the table with a character that wields a melee weapon",
-                    "markdown": "Attack the table with a character that wields a melee weapon"
-                }
-            ]
-        },
-        {
-            "plaintext": "Pour pure water into the cooking pot",
-            "markdown": "Pour pure water into the cooking pot",
-            "substeps": [
-                {
-                    "plaintext": "Attack the stove with a Hydro skill",
-                    "markdown": "Attack the stove with a \u25c0Hydro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro\u25b7 skill"
-                }
-            ]
-        },
-        {
-            "plaintext": "Bring the stove up to temperature",
-            "markdown": "Bring the stove up to temperature",
-            "substeps": [
-                {
-                    "plaintext": "Attack the stove with a Pyro skill",
-                    "markdown": "Attack the stove with a \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 skill"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Smiley Yanxiao",
-            "markdown": "Talk to Smiley Yanxiao"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Treasure Lost, Treasure Found (Part 2)",
     "url": "https://genshin-impact.fandom.com/wiki/Treasure_Lost%2C_Treasure_Found_%28Part_2%29",
     "starting_location": {
-        "plaintext": "Guili Plains , Liyue",
-        "markdown": "\u25c0Guili Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Plains\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Guili Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Guili_Plains\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,58 +39,69 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Soraya",
-            "markdown": "Talk to Soraya"
-        },
-        {
-            "plaintext": "Enter the ruin and search for a strange jade plate (0/4)",
-            "markdown": "Enter the ruin and search for a strange jade plate (0/4)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain  Traveler's Notes x4",
-                    "markdown": "Obtain <img:travelers_notes> \u25c0Traveler's Notes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveler%27s_Notes\u25b7 x4",
-                    "img": {
-                        "travelers_notes": "Book_Ragged_Notebook.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to Soraya"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the ruin and search for a strange jade plate (0/4)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:travelers_notes> \u25c0Traveler's Notes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Traveler%27s_Notes\u25b7 \u00d74",
+                            "img": {
+                                "travelers_notes": "Book_Ragged_Notebook.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Soraya [Optional]"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the final ruin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Start clue mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Ruin Guards"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 \u00d73",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect the treasure"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Soraya"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Soraya [Optional]",
-            "markdown": "Talk to Soraya [Optional]"
-        },
-        {
-            "plaintext": "Find the final ruin",
-            "markdown": "Find the final ruin"
-        },
-        {
-            "plaintext": "Start clue mechanism",
-            "markdown": "Start clue mechanism"
-        },
-        {
-            "plaintext": "Defeat the Ruin Guards",
-            "markdown": "Defeat the Ruin Guards",
-            "substeps": [
-                {
-                    "plaintext": "Ruin Guard x3",
-                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x3",
-                    "img": {
-                        "ruin_guard": "Ruin_Guard_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Activate the mechanism",
-            "markdown": "Activate the mechanism"
-        },
-        {
-            "plaintext": "Collect the treasure",
-            "markdown": "Collect the treasure"
-        },
-        {
-            "plaintext": "Talk to Soraya",
-            "markdown": "Talk to Soraya"
         }
     ],
     "dialogue": true

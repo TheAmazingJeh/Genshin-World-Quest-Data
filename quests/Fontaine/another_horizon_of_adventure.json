@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Another Horizon of Adventure",
     "url": "https://genshin-impact.fandom.com/wiki/Another_Horizon_of_Adventure",
     "starting_location": {
-        "plaintext": "Court of Fontaine: Quartier Lyonnais , Fontaine",
-        "markdown": "\u25c0Court of Fontaine: Quartier Lyonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Lyonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine: Quartier Lyonnais\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Quartier_Lyonnais\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Chapter IV : Act II - As Light Rain Falls Without Reason",
@@ -42,8 +42,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Katheryne",
-            "markdown": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Katheryne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Katheryne\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

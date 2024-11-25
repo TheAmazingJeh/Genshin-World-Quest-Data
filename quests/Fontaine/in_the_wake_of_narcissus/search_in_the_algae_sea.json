@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "act",
     "name": "Search in the Algae Sea",
     "url": "https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea",
@@ -6,24 +7,32 @@
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Search in the Algae Sea",
-            "markdown": "\u25c0Search in the Algae Sea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea_(Quest)\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Muse's Mother",
-                    "markdown": "\u25c0Muse's Mother\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muse%27s_Mother\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Search in the Algae Sea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea_(Quest)\u25b7"
                 },
                 {
-                    "plaintext": "Meteoric Lance",
-                    "markdown": "\u25c0Meteoric Lance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Meteoric_Lance\u25b7"
-                },
-                {
-                    "plaintext": "Cupid's Lover",
-                    "markdown": "\u25c0Cupid's Lover\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cupid%27s_Lover\u25b7"
-                },
-                {
-                    "plaintext": "Thalia and Melpomene",
-                    "markdown": "\u25c0Thalia and Melpomene\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thalia_and_Melpomene\u25b7"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Muse's Mother\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muse%27s_Mother\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Meteoric Lance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Meteoric_Lance\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Cupid's Lover\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cupid%27s_Lover\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Thalia and Melpomene\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thalia_and_Melpomene\u25b7"
+                        }
+                    ]
                 }
             ]
         }

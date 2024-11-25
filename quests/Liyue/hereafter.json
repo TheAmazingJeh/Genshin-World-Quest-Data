@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Hereafter",
     "url": "https://genshin-impact.fandom.com/wiki/Hereafter",
@@ -28,16 +29,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Hereafter: The Trail of Pervases",
-            "markdown": "\u25c0Hereafter: The Trail of Pervases\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hereafter:_The_Trail_of_Pervases\u25b7"
+            "tag": "p",
+            "text": "Each quest in this series require the daily \u25c0reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reset\u25b7 to pass before the next is available."
         },
         {
-            "plaintext": "Hereafter: All is Well",
-            "markdown": "\u25c0Hereafter: All is Well\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hereafter:_All_is_Well\u25b7"
-        },
-        {
-            "plaintext": "Hereafter: Return to the Mountains",
-            "markdown": "\u25c0Hereafter: Return to the Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hereafter:_Return_to_the_Mountains\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Hereafter: The Trail of Pervases\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hereafter:_The_Trail_of_Pervases\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Hereafter: All is Well\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hereafter:_All_is_Well\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Hereafter: Return to the Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hereafter:_Return_to_the_Mountains\u25b7"
+                }
+            ]
         }
     ]
 }

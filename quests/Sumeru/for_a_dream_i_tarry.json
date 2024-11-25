@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "For a Dream I Tarry",
     "url": "https://genshin-impact.fandom.com/wiki/For_a_Dream_I_Tarry",
     "starting_location": {
-        "plaintext": "Lokapala Jungle , Sumeru",
-        "markdown": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Lokapala Jungle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lokapala_Jungle\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Sumeru's Archon Quest and Aranyaka",
@@ -42,26 +42,34 @@
     ],
     "steps": [
         {
-            "plaintext": "Help Javi look for his \"dream\"",
-            "markdown": "Help Javi look for his \"dream\""
-        },
-        {
-            "plaintext": "Give the \"dream\" to Javi",
-            "markdown": "Give the \u25c0\"dream\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Javi%27s_Dream\u25b7 to Javi"
-        },
-        {
-            "plaintext": "Collect Sumeru Rose Seeds (0/1)",
-            "markdown": "Collect \u25c0Sumeru Rose Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_Rose_Seed\u25b7 (0/1)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Purchase from Tubby or use Seed Dispensary.",
-                    "markdown": "Purchase from \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7 or use \u25c0Seed Dispensary\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seed_Dispensary\u25b7."
+                    "tag": "li",
+                    "text": "Help Javi look for his \"dream\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the \u25c0\"dream\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Javi%27s_Dream\u25b7 to Javi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect \u25c0Sumeru Rose Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru_Rose_Seed\u25b7 (0/1)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Purchase from \u25c0Tubby\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tubby\u25b7 or use \u25c0Seed Dispensary\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seed_Dispensary\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ami\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ami\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Ami",
-            "markdown": "Talk to \u25c0Ami\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ami\u25b7"
         }
     ],
     "dialogue": true

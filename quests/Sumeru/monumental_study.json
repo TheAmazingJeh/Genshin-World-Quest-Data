@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Monumental Study",
     "url": "https://genshin-impact.fandom.com/wiki/Monumental_Study",
@@ -42,16 +43,24 @@
     ],
     "steps": [
         {
-            "plaintext": "Monumental Study",
-            "markdown": "\u25c0Monumental Study\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Monumental_Study_(Quest)\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Investigate the Fatui Camps Marked by Sosi",
-                    "markdown": "\u25c0Investigate the Fatui Camps Marked by Sosi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Investigate_the_Fatui_Camps_Marked_by_Sosi\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Monumental Study\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Monumental_Study_(Quest)\u25b7"
                 },
                 {
-                    "plaintext": "Search for the Lost Monument Fragments",
-                    "markdown": "\u25c0Search for the Lost Monument Fragments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Search_for_the_Lost_Monument_Fragments\u25b7"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Investigate the Fatui Camps Marked by Sosi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Investigate_the_Fatui_Camps_Marked_by_Sosi\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Search for the Lost Monument Fragments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Search_for_the_Lost_Monument_Fragments\u25b7"
+                        }
+                    ]
                 }
             ]
         }

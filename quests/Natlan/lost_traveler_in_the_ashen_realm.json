@@ -1,0 +1,88 @@
+{
+    "version": "1.1",
+    "type": "series",
+    "name": "Lost Traveler in the Ashen Realm",
+    "url": "https://genshin-impact.fandom.com/wiki/Lost_Traveler_in_the_Ashen_Realm",
+    "starting_location": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "1,550",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "200",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "165,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "11",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "11",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "The Cornerstone of Stars and Flames",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/The_Cornerstone_of_Stars_and_Flames",
+            "Image": "Item_The_Cornerstone_of_Stars_and_Flames.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Pyrophosphorite",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Pyrophosphorite",
+            "Image": "Item_Pyrophosphorite.png",
+            "Rarity": "0"
+        },
+        {
+            "Name": "Golden Entreaty (Moment of Awakening)",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/Golden_Entreaty_(Moment_of_Awakening)",
+            "Image": "Item_Golden_Entreaty.png",
+            "Rarity": "4"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Act I: \u25c0City Buried By Ash\u25b6\u25c1https://genshin-impact.fandom.com/wiki/City_Buried_By_Ash\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act II: \u25c0A Dream of Gazing Upon the Distant Sky\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Dream_of_Gazing_Upon_the_Distant_Sky\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act III: \u25c0The Tonatiuh Quivers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Tonatiuh_Quivers\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Epilogue: \u25c0The Chosen One's Promise\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chosen_One%27s_Promise\u25b7"
+                }
+            ]
+        }
+    ]
+}

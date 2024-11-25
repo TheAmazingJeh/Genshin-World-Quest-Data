@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Subterranean Trials of Drake and Serpent",
     "url": "https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent",
     "starting_location": {
-        "plaintext": "Enkanomiya",
-        "markdown": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+        "text": "\u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,84 +46,223 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the ruins up ahead",
-            "markdown": "Go to the ruins up ahead"
+            "tag": "h",
+            "text": "Part 1"
         },
         {
-            "plaintext": "Investigate the ruin ahead",
-            "markdown": "Investigate the ruin ahead"
-        },
-        {
-            "plaintext": "Defeat the opponents that appeared",
-            "markdown": "Defeat the opponents that appeared"
-        },
-        {
-            "plaintext": "Examine the mechanism and open the great door",
-            "markdown": "Examine the mechanism and open the great door"
-        },
-        {
-            "plaintext": "Go into the ruins",
-            "markdown": "Go into the ruins"
-        },
-        {
-            "plaintext": "Talk to the person on the second floor",
-            "markdown": "Talk to the person on the second floor",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Receive A Glimpse Into the Pale Night subquest: Investigating the inscribed map will light up the Enkanomiya Map",
-                    "markdown": "Receive \u25c0A Glimpse Into the Pale Night\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Glimpse_Into_the_Pale_Night\u25b7 subquest: Investigating the inscribed map will light up the \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 \u25c0Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Map\u25b7"
+                    "tag": "li",
+                    "text": "Go to the ruins up ahead"
                 },
                 {
-                    "plaintext": "Skip to Step 11 if the Dull Golden Bridle was obtained before starting this step.",
-                    "markdown": "Skip to Step 11 if the \u25c0Dull Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dull_Golden_Bridle\u25b7 was obtained before starting this step."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the back of the library and seek out the Golden Bridle",
-            "markdown": "Go to the back of the library and seek out the \u25c0Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Bridle\u25b7"
-        },
-        {
-            "plaintext": "Investigate the rear of the library and solve the puzzle",
-            "markdown": "Investigate the rear of the library and solve the puzzle",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Investigate the ruin ahead"
+                },
                 {
-                    "plaintext": "Activate the east and south Triangular Mechanisms",
-                    "markdown": "Activate the east and south \u25c0Triangular Mechanisms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Triangular_Mechanisms\u25b7"
+                    "tag": "li",
+                    "text": "Defeat the opponents that appeared"
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the mechanism and open the great door"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go into the ruins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the person on the second floor"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Receive \u25c0A Glimpse Into the Pale Night\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Glimpse_Into_the_Pale_Night\u25b7 subquest: Investigating the inscribed map will light up the \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 \u25c0Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Map\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Skip to Step 11 if the \u25c0Dull Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dull_Golden_Bridle\u25b7 was obtained before starting this step."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the back of the library and seek out the \u25c0Golden Bridle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Golden_Bridle\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the rear of the library and solve the puzzle"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Activate the east and south \u25c0Triangular Mechanisms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Triangular_Mechanisms\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the Golden Bridle"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the library and talk to \u25c0Enjou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enjou\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Enjou's instructions and explore up ahead"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the broken bridge in front of the \u25c0Dainichi Mikoshi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainichi_Mikoshi\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Enjou"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Dainichi Mikoshi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Aru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aru\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Obtain the Golden Bridle",
-            "markdown": "Obtain the Golden Bridle"
+            "tag": "h",
+            "text": "Part 2"
         },
         {
-            "plaintext": "Go to the library and talk to Enjou",
-            "markdown": "Go to the library and talk to \u25c0Enjou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enjou\u25b7"
+            "tag": "p",
+            "text": "After completing part 1 of this quest, three other sub-quests under the From Dusk to Dawn in Byakuyakoku series become available \u2014 one sub-quest for each fragment. These quests can be completed in any order."
         },
         {
-            "plaintext": "Follow Enjou's instructions and explore up ahead",
-            "markdown": "Follow Enjou's instructions and explore up ahead"
+            "tag": "p",
+            "text": "Navigating this quest will no longer show the player any helpful info. Switch to one of the three new sub-quests to see map navigation for the fragment."
         },
         {
-            "plaintext": "Go to the broken bridge in front of the Dainichi Mikoshi",
-            "markdown": "Go to the broken bridge in front of the \u25c0Dainichi Mikoshi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainichi_Mikoshi\u25b7"
+            "tag": "p",
+            "text": "See these pages for steps and walkthrough for collecting each fragment:"
         },
         {
-            "plaintext": "Talk to Enjou",
-            "markdown": "Talk to Enjou"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Trail of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Trail_of_Drake_and_Serpent\u25b7 (fragment at the \u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0The Heart of Ouroboros\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Heart_of_Ouroboros\u25b7 (fragment at the \u25c0The Serpent's Heart\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Serpent%27s_Heart\u25b7)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Dreams in the Gaps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dreams_in_the_Gaps\u25b7 (fragment at the \u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7)"
+                }
+            ]
         },
         {
-            "plaintext": "Go to the Dainichi Mikoshi",
-            "markdown": "Go to the Dainichi Mikoshi"
+            "tag": "h",
+            "text": "Part 3"
         },
         {
-            "plaintext": "Investigate the mechanism",
-            "markdown": "Investigate the mechanism"
+            "tag": "p",
+            "text": "After collecting the three fragments, return to Dainichi Mikoshi to talk to Aru. Switch to \u25c0Evernight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight\u25b7 if Aru cannot be found."
         },
         {
-            "plaintext": "Talk to Aru",
-            "markdown": "Talk to \u25c0Aru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aru\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Aru"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the way to the final trial"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the base of the Dainichi Mikoshi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Bathysmal Vishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bathysmal_Vishap\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primordial_bathysmal_vishap> \u25c0Primordial Bathysmal Vishap\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primordial_Bathysmal_Vishap\u25b7 \u00d73",
+                            "img": {
+                                "primordial_bathysmal_vishap": "Primordial_Bathysmal_Vishap_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0Bloodbranch Coral\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bloodbranch_Coral\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Enjou"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Abyss Lector: Fathomless Flames\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Lector:_Fathomless_Flames\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:abyss_lector_fathomless_flames> \u25c0The Devouring Benthic Flame\u2014The Thing Calling Itself \"Enjou\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Abyss_Lector:_Fathomless_Flames\u25b7 \u00d71",
+                            "img": {
+                                "abyss_lector_fathomless_flames": "Abyss_Lector_Fathomless_Flames_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:pyro_abyss_mage> \u25c0Pyro Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "pyro_abyss_mage": "Pyro_Abyss_Mage_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 \u00d71",
+                            "img": {
+                                "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the thing calling itself \"Enjou\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the Bloodbranch Coral"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to \u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7 and talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

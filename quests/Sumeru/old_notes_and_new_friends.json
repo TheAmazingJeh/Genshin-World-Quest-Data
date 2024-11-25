@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Old Notes and New Friends",
     "url": "https://genshin-impact.fandom.com/wiki/Old_Notes_and_New_Friends",
@@ -42,24 +43,32 @@
     ],
     "steps": [
         {
-            "plaintext": "Dual Evidence",
-            "markdown": "\u25c0Dual Evidence\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dual_Evidence\u25b7"
-        },
-        {
-            "plaintext": "Soheil's Wish",
-            "markdown": "\u25c0Soheil's Wish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil%27s_Wish\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Invisible Barrier",
-                    "markdown": "\u25c0Invisible Barrier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Invisible_Barrier\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Dual Evidence\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dual_Evidence\u25b7"
                 },
                 {
-                    "plaintext": "Hidden Mercenaries",
-                    "markdown": "\u25c0Hidden Mercenaries\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hidden_Mercenaries\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Soheil's Wish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil%27s_Wish\u25b7"
                 },
                 {
-                    "plaintext": "Desert's Remembrance",
-                    "markdown": "\u25c0Desert's Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert%27s_Remembrance\u25b7"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Invisible Barrier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Invisible_Barrier\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Hidden Mercenaries\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hidden_Mercenaries\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Desert's Remembrance\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert%27s_Remembrance\u25b7"
+                        }
+                    ]
                 }
             ]
         }

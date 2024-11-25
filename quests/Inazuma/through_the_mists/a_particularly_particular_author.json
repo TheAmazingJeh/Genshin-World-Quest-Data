@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Particularly Particular Author",
     "url": "https://genshin-impact.fandom.com/wiki/A_Particularly_Particular_Author",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,92 +46,106 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Katheryne at the Inazuma Adventurers' Guild",
-            "markdown": "Talk to Katheryne at the Inazuma \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7"
-        },
-        {
-            "plaintext": "Talk to Sumida",
-            "markdown": "Talk to \u25c0Sumida\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain  Sumida's Letter",
-                    "markdown": "Obtain <img:sumidas_letter> \u25c0Sumida's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida%27s_Letter\u25b7",
-                    "img": {
-                        "sumidas_letter": "Book_Letter.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to Katheryne at the Inazuma \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Sumida\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:sumidas_letter> \u25c0Sumida's Letter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumida%27s_Letter\u25b7",
+                            "img": {
+                                "sumidas_letter": "Book_Letter.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Kama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kama\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Travel to \u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the mysterious young boy"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the destination and talk to \u25c0Ruu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruu\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Touch the perch"
+                },
+                {
+                    "tag": "li",
+                    "text": "Make an offering to the perch"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Ruu"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the ceremonial site"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the priest"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find your way through the mist and make an offering at the Perches (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "See below for the Perch Puzzles of \u25c0Chirai Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chirai_Shrine\u25b7, \u25c0Shirikoro Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shirikoro_Peak\u25b7, and \u25c0Autake Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Plains\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the ceremonial site"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the light"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:maushiro> \u25c0Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maushiro\u25b7",
+                            "img": {
+                                "maushiro": "Item_Maushiro.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Kama and then return"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Sumida"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Kama",
-            "markdown": "Talk to \u25c0Kama\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kama\u25b7"
-        },
-        {
-            "plaintext": "Travel to Tsurumi Island",
-            "markdown": "Travel to \u25c0Tsurumi Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsurumi_Island\u25b7"
-        },
-        {
-            "plaintext": "Talk to the mysterious young boy",
-            "markdown": "Talk to the mysterious young boy"
-        },
-        {
-            "plaintext": "Go to the destination and talk to Ruu",
-            "markdown": "Go to the destination and talk to \u25c0Ruu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruu\u25b7"
-        },
-        {
-            "plaintext": "Touch the perch",
-            "markdown": "Touch the perch"
-        },
-        {
-            "plaintext": "Make an offering to the perch",
-            "markdown": "Make an offering to the perch"
-        },
-        {
-            "plaintext": "Report back to Ruu",
-            "markdown": "Report back to Ruu"
-        },
-        {
-            "plaintext": "Go to the ceremonial site",
-            "markdown": "Go to the ceremonial site"
-        },
-        {
-            "plaintext": "Look for the priest",
-            "markdown": "Look for the priest"
-        },
-        {
-            "plaintext": "Find your way through the mist and make an offering at the Perches (0/3)",
-            "markdown": "Find your way through the mist and make an offering at the Perches (0/3)",
-            "substeps": [
-                {
-                    "plaintext": "See below for the Perch Puzzles of Chirai Shrine, Shirikoro Peak, and Autake Plains",
-                    "markdown": "See below for the Perch Puzzles of \u25c0Chirai Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chirai_Shrine\u25b7, \u25c0Shirikoro Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shirikoro_Peak\u25b7, and \u25c0Autake Plains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Autake_Plains\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Return to the ceremonial site",
-            "markdown": "Return to the ceremonial site"
-        },
-        {
-            "plaintext": "Check the light",
-            "markdown": "Check the light",
-            "substeps": [
-                {
-                    "plaintext": "Obtain  Maushiro",
-                    "markdown": "Obtain <img:maushiro> \u25c0Maushiro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maushiro\u25b7",
-                    "img": {
-                        "maushiro": "Item_Maushiro.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Kama and then return",
-            "markdown": "Talk to Kama and then return"
-        },
-        {
-            "plaintext": "Report back to Sumida",
-            "markdown": "Report back to Sumida"
         }
     ],
     "dialogue": true

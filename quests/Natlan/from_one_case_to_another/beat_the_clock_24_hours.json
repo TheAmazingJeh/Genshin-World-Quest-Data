@@ -1,0 +1,96 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "Beat the Clock: 24 Hours",
+    "url": "https://genshin-impact.fandom.com/wiki/Beat_the_Clock%3A_24_Hours",
+    "starting_location": {
+        "text": "\u25c0Quahuacan Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Quahuacan_Cliff\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "250",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "30",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "20,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Hero's Wit",
+            "Value": "2",
+            "Link": "https://genshin-impact.fandom.com/wiki/Hero%27s_Wit",
+            "Image": "Item_Hero%27s_Wit.png",
+            "Rarity": "4"
+        },
+        {
+            "Name": "Mystic Enhancement Ore",
+            "Value": "3",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore",
+            "Image": "Item_Mystic_Enhancement_Ore.png",
+            "Rarity": "3"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Investigate the area near the location \u25c0Taruka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taruka\u25b7 mentioned"
+                },
+                {
+                    "tag": "li",
+                    "text": "Sit down and rest until 20:00 \u2013 22:00 the next day"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Player must sit, or the next part will not trigger"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Indwell an \u25c0Iktomisaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iktomisaurus\u25b7 and infiltrate the inner sections of the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Eavesdrop on the secret meeting without being noticed"
+                },
+                {
+                    "tag": "li",
+                    "text": "Don the perfect disguise and escape!"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the northern camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report your findings to Taruka"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Orobashi's Legacy: Part V",
     "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy%3A_Part_V",
     "starting_location": {
-        "plaintext": "Fort Fujitou",
-        "markdown": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
+        "text": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,44 +53,55 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to Fort Mumei",
-            "markdown": "Head to \u25c0Fort Mumei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Mumei\u25b7"
-        },
-        {
-            "plaintext": "Investigate the ruins' interior",
-            "markdown": "Investigate the ruins' interior",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Solve the Sacred Stone Puzzle",
-                    "markdown": "Solve the \u25c0Sacred Stone Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Stone_Puzzle\u25b7"
+                    "tag": "li",
+                    "text": "Head to \u25c0Fort Mumei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Mumei\u25b7"
                 },
                 {
-                    "plaintext": "Defeat the Maguu Kenki",
-                    "markdown": "Defeat the \u25c0Maguu Kenki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maguu_Kenki\u25b7"
+                    "tag": "li",
+                    "text": "Investigate the ruins' interior"
+                },
+                {
+                    "tag": "li",
+                    "text": "Repair the ward"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Kaji\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaji\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Repair the ward",
-            "markdown": "Repair the ward",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Pick up the Fort Mumei: Rock Pillar Warding Stone on the ground at the western part of the boss fight area",
-                    "markdown": "Pick up the \u25c0Fort Mumei: Rock Pillar Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Mumei:_Rock_Pillar_Warding_Stone\u25b7 on the ground at the western part of the boss fight area"
+                    "tag": "li",
+                    "text": "Solve the \u25c0Sacred Stone Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Stone_Puzzle\u25b7"
                 },
                 {
-                    "plaintext": "Climb the tallest ruined wall and glide on top of the ward to pick up the Fort Mumei: Rock Pillar Pearl. There is no elemental trace leading to it.",
-                    "markdown": "Climb the tallest ruined wall and glide on top of the ward to pick up the \u25c0Fort Mumei: Rock Pillar Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Mumei:_Rock_Pillar_Pearl\u25b7. There is no elemental trace leading to it."
-                },
-                {
-                    "plaintext": "Give both items to the ward.",
-                    "markdown": "Give both items to the ward."
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Maguu Kenki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maguu_Kenki\u25b7"
                 }
             ]
         },
         {
-            "plaintext": "Report back to Kaji",
-            "markdown": "Report back to \u25c0Kaji\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaji\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Pick up the \u25c0Fort Mumei: Rock Pillar Warding Stone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Mumei:_Rock_Pillar_Warding_Stone\u25b7 on the ground at the western part of the boss fight area"
+                },
+                {
+                    "tag": "li",
+                    "text": "Climb the tallest ruined wall and glide on top of the ward to pick up the \u25c0Fort Mumei: Rock Pillar Pearl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Mumei:_Rock_Pillar_Pearl\u25b7. There is no elemental trace leading to it."
+                },
+                {
+                    "tag": "li",
+                    "text": "Give both items to the ward."
+                }
+            ]
         }
     ],
     "dialogue": true

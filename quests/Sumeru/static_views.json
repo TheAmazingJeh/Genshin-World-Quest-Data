@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Static Views",
     "url": "https://genshin-impact.fandom.com/wiki/Static_Views",
@@ -10,42 +11,56 @@
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Claim the painting in mailbox",
-            "markdown": "Claim the painting in mailbox",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The painting is added to the Mysterious Clipboard in Aranyaka.",
-                    "markdown": "The painting is added to the \u25c0Mysterious Clipboard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka_(Gadget)#Mysterious_Clipboard\u25b7 in \u25c0Aranyaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka_(Gadget)\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Proceed to the location shown in the painting",
-            "markdown": "Proceed to the location shown in the painting",
-            "substeps": [
-                {
-                    "plaintext": "Proceed to the Statue of The Seven in the reality version of Vanarana. Dig at the spot shown in the photo in the Mysterious Clipboard.",
-                    "markdown": "Proceed to the \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7 in the reality version of Vanarana. Dig at the spot shown in the photo in the Mysterious Clipboard."
+                    "tag": "li",
+                    "text": "Claim the painting in mailbox"
                 },
                 {
-                    "plaintext": "This completes Picture 1 in the Mysterious Clipboard.",
-                    "markdown": "This completes Picture 1 in the Mysterious Clipboard."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go back to Aranara's cabin",
-            "markdown": "Go back to Aranara's cabin",
-            "substeps": [
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The painting is added to the \u25c0Mysterious Clipboard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka_(Gadget)#Mysterious_Clipboard\u25b7 in \u25c0Aranyaka\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranyaka_(Gadget)\u25b7."
+                        }
+                    ]
+                },
                 {
-                    "plaintext": "Here, the mailbox can be accessed in both reality and dream version of Vanarana.",
-                    "markdown": "Here, the mailbox can be accessed in both reality and dream version of Vanarana."
+                    "tag": "li",
+                    "text": "Proceed to the location shown in the painting"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Proceed to the \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7 in the reality version of Vanarana. Dig at the spot shown in the photo in the Mysterious Clipboard."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "This completes Picture 1 in the Mysterious Clipboard."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back to Aranara's cabin"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Here, the mailbox can be accessed in both reality and dream version of Vanarana."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Paimon",
-            "markdown": "Talk to \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7"
         }
     ],
     "dialogue": true

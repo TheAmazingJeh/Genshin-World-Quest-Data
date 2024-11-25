@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Delicious Riddle",
     "url": "https://genshin-impact.fandom.com/wiki/Delicious_Riddle",
     "starting_location": {
-        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
-        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "Complete step 1 of Festival Utsava",
@@ -42,41 +42,59 @@
     ],
     "steps": [
         {
-            "plaintext": "Have a crack at Araesha's riddle",
-            "markdown": "Have a crack at Araesha's riddle",
-            "substeps": [
-                {
-                    "plaintext": "Give  Apple",
-                    "markdown": "Give <img:apple> \u25c0Apple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apple\u25b7",
-                    "img": {
-                        "apple": "Item_Apple.png"
-                    }
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Araesha\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Araesha\u25b7"
         },
         {
-            "plaintext": "Take a stab at Araesha's second riddle",
-            "markdown": "Take a stab at Araesha's second riddle",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Give  Viparyas",
-                    "markdown": "Give <img:viparyas> \u25c0Viparyas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Viparyas\u25b7",
-                    "img": {
-                        "viparyas": "Item_Viparyas.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Test your wit with Araesha's third riddle",
-            "markdown": "Test your wit with Araesha's third riddle",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Have a crack at Araesha's riddle"
+                },
                 {
-                    "plaintext": "Give  Starshroom",
-                    "markdown": "Give <img:starshroom> \u25c0Starshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starshroom\u25b7",
-                    "img": {
-                        "starshroom": "Item_Starshroom.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Give <img:apple> \u25c0Apple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Apple\u25b7",
+                            "img": {
+                                "apple": "Item_Apple.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a stab at Araesha's second riddle"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Give <img:viparyas> \u25c0Viparyas\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Viparyas\u25b7",
+                            "img": {
+                                "viparyas": "Item_Viparyas.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Test your wit with Araesha's third riddle"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Give <img:starshroom> \u25c0Starshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starshroom\u25b7",
+                            "img": {
+                                "starshroom": "Item_Starshroom.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }

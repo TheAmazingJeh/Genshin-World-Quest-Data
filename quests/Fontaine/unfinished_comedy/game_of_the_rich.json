@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Game of the Rich",
     "url": "https://genshin-impact.fandom.com/wiki/Game_of_the_Rich",
     "starting_location": {
-        "plaintext": "Administrative Area , Fontaine",
-        "markdown": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Administrative Area\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Administrative_Area\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,132 +46,175 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Darcy",
-            "markdown": "Talk to \u25c0Darcy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Darcy\u25b7"
-        },
-        {
-            "plaintext": "Go see Estienne with Darcy",
-            "markdown": "Go see \u25c0Estienne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Estienne\u25b7 with Darcy"
-        },
-        {
-            "plaintext": "Talk to the little girl",
-            "markdown": "Talk to the little girl"
-        },
-        {
-            "plaintext": "Go on an \"adventure\" with Lanoire",
-            "markdown": "Go on an \"adventure\" with \u25c0Lanoire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lanoire\u25b7"
-        },
-        {
-            "plaintext": "Hit the punching bag",
-            "markdown": "Hit the punching bag"
-        },
-        {
-            "plaintext": "Go on an \"adventure\" with Lanoire",
-            "markdown": "Go on an \"adventure\" with Lanoire"
-        },
-        {
-            "plaintext": "Listen to the noise box",
-            "markdown": "Listen to the noise box"
-        },
-        {
-            "plaintext": "Go on an \"adventure\" with Lanoire",
-            "markdown": "Go on an \"adventure\" with Lanoire"
-        },
-        {
-            "plaintext": "Go to the Rag and Bone Shop with Lanoire",
-            "markdown": "Go to the \u25c0Rag and Bone Shop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rag_and_Bone_Shop\u25b7 with Lanoire"
-        },
-        {
-            "plaintext": "Find \"Cater\"",
-            "markdown": "Find \"Cater\""
-        },
-        {
-            "plaintext": "Take a break nearby",
-            "markdown": "Take a break nearby"
-        },
-        {
-            "plaintext": "Look for Caterpillar and Lanoire",
-            "markdown": "Look for Caterpillar and Lanoire"
-        },
-        {
-            "plaintext": "Talk to Caterpillar",
-            "markdown": "Talk to Caterpillar"
-        },
-        {
-            "plaintext": "Obtain Credit Coupons (0/300)",
-            "markdown": "Obtain \u25c0Credit Coupons\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Credit_Coupons\u25b7 (0/300)",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "This quest step initiates Scenes from Life in Meropide: Safe Operation.",
-                    "markdown": "This quest step initiates \u25c0Scenes from Life in Meropide: Safe Operation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Safe_Operation\u25b7."
+                    "tag": "li",
+                    "text": "This quest may be started either by:"
                 }
             ]
         },
         {
-            "plaintext": "Meet back at the usual place",
-            "markdown": "Meet back at the usual place"
-        },
-        {
-            "plaintext": "Take a break nearby",
-            "markdown": "Take a break nearby"
-        },
-        {
-            "plaintext": "Obtain Credit Coupons (0/300)",
-            "markdown": "Obtain Credit Coupons (0/300)",
-            "substeps": [
+            "tag": "ul",
+            "steps": [
                 {
-                    "plaintext": "This quest step unlocks Scenes from Life in Meropide: Dead End, followed by Scenes from Life in Meropide: A Raw Deal.",
-                    "markdown": "This quest step unlocks \u25c0Scenes from Life in Meropide: Dead End\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Dead_End\u25b7, followed by \u25c0Scenes from Life in Meropide: A Raw Deal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_A_Raw_Deal\u25b7."
+                    "tag": "li",
+                    "text": "Approaching the underwater exterior of the \u25c0Fortress of Meropide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide\u25b7 and being caught by a searchlight. Upon being spotted, there will be a few seconds to escape its sight, failure to do so will automatically teleport the player to the Reception."
+                },
+                {
+                    "tag": "li",
+                    "text": "Entering the \u25c0Fortress of Meropide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide\u25b7 unauthorized through the broken piping section leading to the Dormitories. After surfacing, the player will be spotted by \u25c0Galvana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Galvana\u25b7 standing guard in the cave section and escorted to the Reception."
+                },
+                {
+                    "tag": "li",
+                    "text": "Teleporting to the Fortress of Meropide after unlocking it during \u25c0Archon Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Archon_Quest\u25b7 \u25c0Chapter IV\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chapter_IV\u25b7: Act III - \u25c0To the Stars Shining in the Depths\u25b6\u25c1https://genshin-impact.fandom.com/wiki/To_the_Stars_Shining_in_the_Depths\u25b7."
                 }
             ]
         },
         {
-            "plaintext": "Meet back at the usual place",
-            "markdown": "Meet back at the usual place"
-        },
-        {
-            "plaintext": "Talk to Rave",
-            "markdown": "Talk to \u25c0Rave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rave\u25b7"
-        },
-        {
-            "plaintext": "Meet back at the usual place",
-            "markdown": "Meet back at the usual place"
-        },
-        {
-            "plaintext": "Take a break nearby",
-            "markdown": "Take a break nearby"
-        },
-        {
-            "plaintext": "Obtain Credit Coupons (0/500)",
-            "markdown": "Obtain Credit Coupons (0/500)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "This quest step unlocks Scenes from Life in Meropide: Treat the Symptoms and Scenes from Life in Meropide: Fists of Fury.",
-                    "markdown": "This quest step unlocks \u25c0Scenes from Life in Meropide: Treat the Symptoms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Treat_the_Symptoms\u25b7 and \u25c0Scenes from Life in Meropide: Fists of Fury\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Fists_of_Fury\u25b7."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Darcy\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Darcy\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go see \u25c0Estienne\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Estienne\u25b7 with Darcy"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the little girl"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go on an \"adventure\" with \u25c0Lanoire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lanoire\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Hit the punching bag"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go on an \"adventure\" with Lanoire"
+                },
+                {
+                    "tag": "li",
+                    "text": "Listen to the noise box"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go on an \"adventure\" with Lanoire"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Rag and Bone Shop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rag_and_Bone_Shop\u25b7 with Lanoire"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \"Cater\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a break nearby"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for Caterpillar and Lanoire"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Caterpillar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain \u25c0Credit Coupons\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Credit_Coupons\u25b7 (0/300)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This quest step initiates \u25c0Scenes from Life in Meropide: Safe Operation\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Safe_Operation\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet back at the usual place"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a break nearby"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain Credit Coupons (0/300)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This quest step unlocks \u25c0Scenes from Life in Meropide: Dead End\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Dead_End\u25b7, followed by \u25c0Scenes from Life in Meropide: A Raw Deal\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_A_Raw_Deal\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet back at the usual place"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Rave\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rave\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet back at the usual place"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a break nearby"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain Credit Coupons (0/500)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This quest step unlocks \u25c0Scenes from Life in Meropide: Treat the Symptoms\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Treat_the_Symptoms\u25b7 and \u25c0Scenes from Life in Meropide: Fists of Fury\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Fists_of_Fury\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet back at the usual place"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a break nearby"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain Credit Coupons (0/300)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "This quest step unlocks \u25c0Scenes from Life in Meropide: Chit-Chat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Chit-Chat\u25b7 and \u25c0Scenes from Life in Meropide: Unfinished Task\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Unfinished_Task\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Administrative Area Bulletin Board\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide_Bulletin_Board\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Meet back at the usual place",
-            "markdown": "Meet back at the usual place"
-        },
-        {
-            "plaintext": "Take a break nearby",
-            "markdown": "Take a break nearby"
-        },
-        {
-            "plaintext": "Obtain Credit Coupons (0/300)",
-            "markdown": "Obtain Credit Coupons (0/300)",
-            "substeps": [
-                {
-                    "plaintext": "This quest step unlocks Scenes from Life in Meropide: Chit-Chat and Scenes from Life in Meropide: Unfinished Task.",
-                    "markdown": "This quest step unlocks \u25c0Scenes from Life in Meropide: Chit-Chat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Chit-Chat\u25b7 and \u25c0Scenes from Life in Meropide: Unfinished Task\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Scenes_from_Life_in_Meropide:_Unfinished_Task\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the Administrative Area Bulletin Board",
-            "markdown": "Go to the \u25c0Administrative Area Bulletin Board\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fortress_of_Meropide_Bulletin_Board\u25b7"
         }
     ],
     "dialogue": true

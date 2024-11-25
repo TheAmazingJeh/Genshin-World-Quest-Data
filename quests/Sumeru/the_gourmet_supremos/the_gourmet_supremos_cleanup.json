@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Gourmet Supremos: Cleanup",
     "url": "https://genshin-impact.fandom.com/wiki/The_Gourmet_Supremos%3A_Cleanup",
     "starting_location": {
-        "plaintext": "Caravan Ribat , Sumeru",
-        "markdown": "\u25c0Caravan Ribat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Caravan_Ribat\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Caravan Ribat\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Caravan_Ribat\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,8 +39,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Maryam",
-            "markdown": "Talk to \u25c0Maryam\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maryam\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Maryam\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Maryam\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

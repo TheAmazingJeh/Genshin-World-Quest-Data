@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Festering Fang",
     "url": "https://genshin-impact.fandom.com/wiki/The_Festering_Fang",
     "starting_location": {
-        "plaintext": "Dragonspine , Mondstadt",
-        "markdown": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,104 +46,139 @@
     ],
     "steps": [
         {
-            "plaintext": "Ask the adventurers at the camp for news",
-            "markdown": "Ask the adventurers at the camp for news",
-            "substeps": [
-                {
-                    "plaintext": "Talk to Iris.",
-                    "markdown": "Talk to \u25c0Iris\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iris_(Dragonspine_Adventurer_Camp)\u25b7."
-                }
-            ]
+            "tag": "p",
+            "text": "Start the quest by picking up a \u25c0Strange Tooth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Tooth\u25b7 in \u25c0Wyrmrest Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wyrmrest_Valley\u25b7, in the creepy cave (Locations in Gallery)"
         },
         {
-            "plaintext": "Talk to Orban",
-            "markdown": "Talk to \u25c0Orban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orban\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Look for a Northlander Polearm Prototype (0/1)",
-                    "markdown": "Look for a \u25c0Northlander Polearm Prototype\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Northlander_Polearm_Prototype\u25b7 (0/1)"
+                    "tag": "li",
+                    "text": "Ask the adventurers at the camp for news"
                 },
                 {
-                    "plaintext": "Look for 50 Starsilver Ore (0/50)",
-                    "markdown": "Look for 50 \u25c0Starsilver\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starsilver\u25b7 Ore (0/50)"
-                },
-                {
-                    "plaintext": "Look for another three Strange Teeth (0/3)",
-                    "markdown": "Look for another three \u25c0Strange Teeth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Tooth\u25b7 (0/3)"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Orban",
-            "markdown": "Talk to Orban"
-        },
-        {
-            "plaintext": "Obtain a Vitalized Dragontooth",
-            "markdown": "Obtain a \u25c0Vitalized Dragontooth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vitalized_Dragontooth\u25b7"
-        },
-        {
-            "plaintext": "Defeat all the Fatui",
-            "markdown": "Defeat all the Fatui",
-            "substeps": [
-                {
-                    "plaintext": "Defeat 3 Fatui skirmishers in the creepy cave at Wyrmrest Valley where one Strange Tooth can be found.",
-                    "markdown": "Defeat 3 Fatui skirmishers in the creepy cave at Wyrmrest Valley where one Strange Tooth can be found.",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "Talk to \u25c0Iris\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iris_(Dragonspine_Adventurer_Camp)\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Orban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Orban\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Look for a \u25c0Northlander Polearm Prototype\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Northlander_Polearm_Prototype\u25b7 (0/1)"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Look for 50 \u25c0Starsilver\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Starsilver\u25b7 Ore (0/50)"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Look for another three \u25c0Strange Teeth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Tooth\u25b7 (0/3)"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Orban"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain a \u25c0Vitalized Dragontooth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vitalized_Dragontooth\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat 3 Fatui skirmishers in the creepy cave at Wyrmrest Valley where one Strange Tooth can be found."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
-                            "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Vitalize the Strange Tooth with energy from the heart",
-            "markdown": "Vitalize the Strange Tooth with energy from the heart"
-        },
-        {
-            "plaintext": "Defeat all the Fatui",
-            "markdown": "Defeat all the Fatui",
-            "substeps": [
-                {
-                    "plaintext": "Defeat the interloping Skirmishers",
-                    "markdown": "Defeat the interloping Skirmishers"
                 },
                 {
-                    "plaintext": "Fatui Defeated: (0/8)",
-                    "markdown": "Fatui Defeated: (0/8)"
+                    "tag": "li",
+                    "text": "Vitalize the Strange Tooth with energy from the heart"
                 },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Defeat all the Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "Defeat the interloping Skirmishers"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Fatui Defeated: (0/8)"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Cryogunner Legionnaire x1",
-                            "markdown": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
                             }
@@ -151,19 +186,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Cryogunner Legionnaire x1",
-                            "markdown": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_cryogunner_legionnaire> \u25c0Fatui Skirmisher - Cryogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Cryogunner_Legionnaire\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_cryogunner_legionnaire": "Fatui_Cryogunner_Legionnaire_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Geochanter Bracer x2",
-                            "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d72",
                             "img": {
                                 "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
                             }
@@ -171,51 +205,53 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Geochanter Bracer x1",
-                            "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Obtain a Vitalized Dragontooth",
-            "markdown": "Obtain a Vitalized Dragontooth"
-        },
-        {
-            "plaintext": "Talk to Orban",
-            "markdown": "Talk to Orban",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Give him Vitalized Dragontooth x1, Starsilver x50, and Northlander Polearm Prototype x1.",
-                    "markdown": "Give him Vitalized Dragontooth x1, Starsilver x50, and Northlander Polearm Prototype x1."
+                    "tag": "li",
+                    "text": "Obtain a Vitalized Dragontooth"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Orban"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Give him Vitalized Dragontooth \u00d71, Starsilver \u00d750, and Northlander Polearm Prototype \u00d71."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "You obtain the \u25c0Dragonspine Spear\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Spear\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "You obtain the Dragonspine Spear",
-            "markdown": "You obtain the \u25c0Dragonspine Spear\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Spear\u25b7"
         }
     ],
     "dialogue": true

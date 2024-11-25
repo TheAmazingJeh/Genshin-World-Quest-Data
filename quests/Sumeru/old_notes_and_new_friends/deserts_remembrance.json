@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Desert's Remembrance",
     "url": "https://genshin-impact.fandom.com/wiki/Desert%27s_Remembrance",
     "starting_location": {
-        "plaintext": "Aaru Village , Sumeru",
-        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,12 +46,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Search the Tomb of Carouses",
-            "markdown": "Search the \u25c0Tomb of Carouses\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tomb_of_Carouses\u25b7"
-        },
-        {
-            "plaintext": "Talk to Soheil",
-            "markdown": "Talk to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Search the \u25c0Tomb of Carouses\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tomb_of_Carouses\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Neko Is a Cat: A \"Good Turn\" Comes Late",
     "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat%3A_A_%22Good_Turn%22_Comes_Late",
     "starting_location": {
-        "plaintext": "Asase Shrine , Inazuma",
-        "markdown": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,12 +39,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Start the quest by talking to Neko",
-            "markdown": "Start the quest by talking to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
-        },
-        {
-            "plaintext": "Talk to Ooshima Junpei",
-            "markdown": "Talk to \u25c0Ooshima Junpei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ooshima_Junpei\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Ooshima Junpei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ooshima_Junpei\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

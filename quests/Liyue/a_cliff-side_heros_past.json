@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Cliff-Side Hero's Past",
     "url": "https://genshin-impact.fandom.com/wiki/A_Cliff-Side_Hero%27s_Past",
     "starting_location": {
-        "plaintext": "Cinnabar Cliff , The Chasm",
-        "markdown": "\u25c0Cinnabar Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cinnabar_Cliff\u25b7 , \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7"
+        "text": "\u25c0Cinnabar Cliff\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cinnabar_Cliff\u25b7 , \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7"
     },
     "requirements": {
         "plaintext": "Started The Millennial Mountains quest",
@@ -49,55 +49,76 @@
     ],
     "steps": [
         {
-            "plaintext": "Defeat Tang Wuchou, self-proclaimed Guhua disciple",
-            "markdown": "Defeat \u25c0Tang Wuchou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tang_Wuchou\u25b7, self-proclaimed Guhua disciple",
-            "substeps": [
-                {
-                    "plaintext": "Tang Wuchou - (Self Proclaimed) Guhua Hero",
-                    "markdown": "<img:treasure_hoarders_carmen> \u25c0Tang Wuchou - (Self Proclaimed) Guhua Hero\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Carmen\u25b7",
-                    "img": {
-                        "treasure_hoarders_carmen": "Treasure_Hoarder_Gravedigger_2_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Give the  Bird Egg to Tang Wuchou in exchange for the jade pendant",
-            "markdown": "Give the <img:bird_egg> \u25c0Bird Egg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bird_Egg\u25b7 to Tang Wuchou in exchange for the jade pendant",
+            "tag": "p",
+            "text": "Start the quest by picking up the <img:flower_of_farsight> \u25c0Flower of Farsight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flower_of_Farsight\u25b7 which is part of \u25c0The Millennial Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Millennial_Mountains\u25b7 World Quest.",
             "img": {
-                "bird_egg": "Item_Bird_Egg.png"
+                "flower_of_farsight": "Item_Qingxin.png"
             }
         },
         {
-            "plaintext": "Look for Old Chou",
-            "markdown": "Look for \u25c0Old Chou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Chou\u25b7"
-        },
-        {
-            "plaintext": "Dig for treasure once to get Old Chou's compensatory gift",
-            "markdown": "Dig for treasure once to get Old Chou's compensatory gift",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain  Bag of Ornaments",
-                    "markdown": "Obtain <img:bag_of_ornaments> \u25c0Bag of Ornaments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bag_of_Ornaments\u25b7",
+                    "tag": "li",
+                    "text": "Defeat \u25c0Tang Wuchou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tang_Wuchou\u25b7, self-proclaimed Guhua disciple"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_carmen> \u25c0Tang Wuchou - (Self Proclaimed) Guhua Hero\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Carmen\u25b7",
+                            "img": {
+                                "treasure_hoarders_carmen": "Treasure_Hoarder_Gravedigger_2_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the <img:bird_egg> \u25c0Bird Egg\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bird_Egg\u25b7 to Tang Wuchou in exchange for the jade pendant",
                     "img": {
-                        "bag_of_ornaments": "Item_Sack.png"
+                        "bird_egg": "Item_Bird_Egg.png"
                     }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Old Chou",
-            "markdown": "Talk to Old Chou",
-            "substeps": [
+                },
                 {
-                    "plaintext": "You will be given the option to teleport back to Tang Wuchou.",
-                    "markdown": "You will be given the option to teleport back to Tang Wuchou."
+                    "tag": "li",
+                    "text": "Look for \u25c0Old Chou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Old_Chou\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Dig for treasure once to get Old Chou's compensatory gift"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:bag_of_ornaments> \u25c0Bag of Ornaments\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bag_of_Ornaments\u25b7",
+                            "img": {
+                                "bag_of_ornaments": "Item_Sack.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Old Chou"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You will be given the option to teleport back to Tang Wuchou."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Tell Tang Wuchou about Old Chou"
                 }
             ]
-        },
-        {
-            "plaintext": "Tell Tang Wuchou about Old Chou",
-            "markdown": "Tell Tang Wuchou about Old Chou"
         }
     ],
     "dialogue": true

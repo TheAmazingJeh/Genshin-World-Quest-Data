@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tracer No Tracing",
     "url": "https://genshin-impact.fandom.com/wiki/Tracer_No_Tracing",
     "starting_location": {
-        "plaintext": "Toyac Springs , Natlan",
-        "markdown": "\u25c0Toyac Springs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Toyac_Springs\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Toyac Springs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Toyac_Springs\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,36 +53,90 @@
     ],
     "steps": [
         {
-            "plaintext": "Defeat the opponents",
-            "markdown": "Defeat the opponents"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Chikya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chikya\u25b7 in a cave south of the \u25c0Toyac Springs\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Toyac_Springs\u25b7 Statue of the Seven, or by defeating the Secret Source Automaton: Hunter-Seeker at the end of the hallway."
+                }
+            ]
         },
         {
-            "plaintext": "Talk to the young woman",
-            "markdown": "Talk to the young woman"
-        },
-        {
-            "plaintext": "Investigate the ruin",
-            "markdown": "Investigate the ruin"
-        },
-        {
-            "plaintext": "Search for the Unveiling Script(s) (X/2)",
-            "markdown": "Search for the Unveiling Script(s) (X/2)"
-        },
-        {
-            "plaintext": "Integrate the Unveiling Script(s) into the Phlogiston Engraving",
-            "markdown": "Integrate the Unveiling Script(s) into the Phlogiston Engraving"
-        },
-        {
-            "plaintext": "Talk to Chikya",
-            "markdown": "Talk to Chikya"
-        },
-        {
-            "plaintext": "Ride the Spiritway back to ground level",
-            "markdown": "Ride the Spiritway back to ground level"
-        },
-        {
-            "plaintext": "Talk to Chikya",
-            "markdown": "Talk to Chikya"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Defeat the opponents"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:secret_source_automaton_hunter-seeker> \u25c0Secret Source Automaton: Hunter-Seeker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Secret_Source_Automaton:_Hunter-Seeker\u25b7 \u00d71",
+                            "img": {
+                                "secret_source_automaton_hunter-seeker": "Secret_Source_Automaton_Hunter-Seeker_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the young woman"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the ruin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for the Unveiling Script(s)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Integrate the Unveiling Script(s) into the Phlogiston Engraving"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the ruin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the mechanism in the center"
+                },
+                {
+                    "tag": "li",
+                    "text": "Search for the Unveiling Script(s) (X/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fluid_avatar_of_lava> \u25c0Fluid Avatar of Lava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fluid_Avatar_of_Lava\u25b7 \u00d71",
+                            "img": {
+                                "fluid_avatar_of_lava": "Fluid_Avatar_of_Lava_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Integrate the Unveiling Script(s) into the Phlogiston Engraving"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Chikya"
+                },
+                {
+                    "tag": "li",
+                    "text": "Ride the \u25c0Spiritway\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spiritway\u25b7 back to ground level"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Chikya"
+                }
+            ]
         }
     ],
     "dialogue": true

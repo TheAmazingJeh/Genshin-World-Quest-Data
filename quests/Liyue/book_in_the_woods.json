@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Book in the Woods",
     "url": "https://genshin-impact.fandom.com/wiki/Book_in_the_Woods",
     "starting_location": {
-        "plaintext": "Wuwang Hill , Liyue",
-        "markdown": "\u25c0Wuwang Hill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wuwang_Hill\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Wuwang Hill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wuwang_Hill\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,26 +39,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Little Nine",
-            "markdown": "Talk to \u25c0Little Nine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Nine\u25b7"
-        },
-        {
-            "plaintext": "Find the lost book in the forest (0/2)",
-            "markdown": "Find the lost book in the forest (0/2)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The player will not find the book and Paimon will suggest to return to Little Nine's location.",
-                    "markdown": "The player will not find the book and \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 will suggest to return to Little Nine's location."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go back and find Little Nine",
-            "markdown": "Go back and find Little Nine",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Talk to \u25c0Little Nine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Little_Nine\u25b7"
+                },
                 {
-                    "plaintext": "Little Nine will not be there and the quest will finish.",
-                    "markdown": "Little Nine will not be there and the quest will finish."
+                    "tag": "li",
+                    "text": "Find the lost book in the forest (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The player will not find the book and \u25c0Paimon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Paimon\u25b7 will suggest to return to Little Nine's location."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go back and find Little Nine"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Little Nine will not be there and the quest will finish."
+                        }
+                    ]
                 }
             ]
         }

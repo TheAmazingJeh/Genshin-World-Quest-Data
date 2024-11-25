@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Missing Miner",
     "url": "https://genshin-impact.fandom.com/wiki/The_Missing_Miner",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,16 +46,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Collect \"mushroom meat\" together with Uncle He",
-            "markdown": "Collect \"mushroom meat\" together with \u25c0Uncle He\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_He\u25b7"
+            "tag": "p",
+            "text": "Start this quest by interacting with the \"Work Handbook\" inside a tree log in the \u25c0Underground Waterway\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Underground_Waterway\u25b7."
         },
         {
-            "plaintext": "Defeat the Floating Fungi",
-            "markdown": "Defeat the Floating Fungi"
-        },
-        {
-            "plaintext": "Bring Uncle He back to camp to meet Jinwu",
-            "markdown": "Bring Uncle He back to camp to meet \u25c0Jinwu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinwu\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Collect \"mushroom meat\" together with \u25c0Uncle He\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Uncle_He\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Floating Fungi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring Uncle He back to camp to meet \u25c0Jinwu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jinwu\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Antigonus",
     "url": "https://genshin-impact.fandom.com/wiki/Antigonus",
     "starting_location": {
-        "plaintext": "Dainichi Mikoshi , Enkanomiya , Inazuma",
-        "markdown": "\u25c0Dainichi Mikoshi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainichi_Mikoshi\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Dainichi Mikoshi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dainichi_Mikoshi\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "The Subterranean Trials of Drake and Serpent \u200d",
@@ -42,45 +42,53 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to the afterimage in prison",
-            "markdown": "Talk to the afterimage in prison"
-        },
-        {
-            "plaintext": "Look for Antei",
-            "markdown": "Look for \u25c0Antei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Antei\u25b7"
-        },
-        {
-            "plaintext": "Talk to Antei's afterimage",
-            "markdown": "Talk to Antei's afterimage"
-        },
-        {
-            "plaintext": "Obtain the Ruin machine's core",
-            "markdown": "Obtain the \u25c0Ruin machine's core\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Machine_Core\u25b7"
-        },
-        {
-            "plaintext": "Find the abandoned Ruin Guard",
-            "markdown": "Find the abandoned Ruin Guard"
-        },
-        {
-            "plaintext": "Activate the Ruin Guard",
-            "markdown": "Activate the Ruin Guard"
-        },
-        {
-            "plaintext": "Obtain \"Before Sun and Moon\"",
-            "markdown": "Obtain \"\u25c0Before Sun and Moon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Before_Sun_and_Moon\u25b7\"",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Ruin Guard x1 (optional)",
-                    "markdown": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 x1 (optional)",
-                    "img": {
-                        "ruin_guard": "Ruin_Guard_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to the afterimage in prison"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for \u25c0Antei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Antei\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Antei's afterimage"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0Ruin machine's core\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Machine_Core\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the abandoned Ruin Guard"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the Ruin Guard"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain \"\u25c0Before Sun and Moon\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Before_Sun_and_Moon\u25b7\""
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:ruin_guard> \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7 \u00d71 (optional)",
+                            "img": {
+                                "ruin_guard": "Ruin_Guard_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Antei's afterimage"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Antei's afterimage",
-            "markdown": "Talk to Antei's afterimage"
         }
     ],
     "dialogue": true

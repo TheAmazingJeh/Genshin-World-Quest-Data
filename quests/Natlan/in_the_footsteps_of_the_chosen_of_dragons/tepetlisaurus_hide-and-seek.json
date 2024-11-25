@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tepetlisaurus Hide-and-Seek",
     "url": "https://genshin-impact.fandom.com/wiki/Tepetlisaurus_Hide-and-Seek",
     "starting_location": {
-        "plaintext": "Tequemecan Valley , Natlan",
-        "markdown": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Tequemecan Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tequemecan_Valley\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,12 +32,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Go look for your missing Saurian companion",
-            "markdown": "Go look for your missing Saurian companion"
-        },
-        {
-            "plaintext": "Say bye to the big Tepetlisaurus",
-            "markdown": "Say bye to the big Tepetlisaurus"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go look for your missing Saurian companion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Say bye to the big Tepetlisaurus"
+                }
+            ]
         }
     ],
     "dialogue": true

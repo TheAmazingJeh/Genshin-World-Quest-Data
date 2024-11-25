@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Teapot to Call Home: Part I",
     "url": "https://genshin-impact.fandom.com/wiki/A_Teapot_to_Call_Home%3A_Part_I",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete A New Star Approaches",
@@ -42,82 +42,102 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Madame Ping",
-            "markdown": "Talk to \u25c0Madame Ping\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Madame_Ping\u25b7"
-        },
-        {
-            "plaintext": "Talk to Krosl",
-            "markdown": "Talk to \u25c0Krosl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Krosl\u25b7"
-        },
-        {
-            "plaintext": "Talk to Zhiqiao",
-            "markdown": "Talk to \u25c0Zhiqiao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiao\u25b7"
-        },
-        {
-            "plaintext": "Discuss the situation with Krosl",
-            "markdown": "Discuss the situation with Krosl"
-        },
-        {
-            "plaintext": "Find a convenient place to talk to Zhiqiao",
-            "markdown": "Find a convenient place to talk to Zhiqiao"
-        },
-        {
-            "plaintext": "Talk to Shitou",
-            "markdown": "Talk to \u25c0Shitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shitou\u25b7"
-        },
-        {
-            "plaintext": "Look for the debris",
-            "markdown": "Look for the debris",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain Smaragdus Nephrite Fragment",
-                    "markdown": "Obtain \u25c0Smaragdus Nephrite Fragment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Smaragdus_Nephrite_Fragment\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Madame Ping\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Madame_Ping\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Krosl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Krosl\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Zhiqiao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiao\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Discuss the situation with Krosl"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find a convenient place to talk to Zhiqiao"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Shitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shitou\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the debris"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Smaragdus Nephrite Fragment\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Smaragdus_Nephrite_Fragment\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Shitou"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0The Jade Mystery's Affidavit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Jade_Mystery%27s_Affidavit\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Xingxi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xingxi\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Ministry of Civil Affairs' Affidavit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ministry_of_Civil_Affairs%27_Affidavit\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Baizhu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Baizhu\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Bubu Pharmacy's Affidavit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubu_Pharmacy%27s_Affidavit\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Krosl"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Smaragdus Jadeite\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Smaragdus_Jadeite\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Madame Ping"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Shitou",
-            "markdown": "Report back to Shitou",
-            "substeps": [
-                {
-                    "plaintext": "Obtain The Jade Mystery's Affidavit",
-                    "markdown": "Obtain \u25c0The Jade Mystery's Affidavit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Jade_Mystery%27s_Affidavit\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Xingxi",
-            "markdown": "Talk to \u25c0Xingxi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xingxi\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Obtain Ministry of Civil Affairs' Affidavit",
-                    "markdown": "Obtain \u25c0Ministry of Civil Affairs' Affidavit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ministry_of_Civil_Affairs%27_Affidavit\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Baizhu",
-            "markdown": "Talk to \u25c0Baizhu\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Baizhu\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "Obtain Bubu Pharmacy's Affidavit",
-                    "markdown": "Obtain \u25c0Bubu Pharmacy's Affidavit\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bubu_Pharmacy%27s_Affidavit\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Krosl",
-            "markdown": "Talk to Krosl",
-            "substeps": [
-                {
-                    "plaintext": "Obtain Smaragdus Jadeite",
-                    "markdown": "Obtain \u25c0Smaragdus Jadeite\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Smaragdus_Jadeite\u25b7"
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Madame Ping",
-            "markdown": "Talk to Madame Ping"
         }
     ],
     "dialogue": true

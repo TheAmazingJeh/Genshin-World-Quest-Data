@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Irate Iron Chunk",
     "url": "https://genshin-impact.fandom.com/wiki/Irate_Iron_Chunk",
     "starting_location": {
-        "plaintext": "Ruins of Dahri , Sumeru",
-        "markdown": "\u25c0Ruins of Dahri\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruins_of_Dahri\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Ruins of Dahri\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruins_of_Dahri\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,40 +46,45 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to the Ruins of Dahri to look for Arabalika",
-            "markdown": "Head to the \u25c0Ruins of Dahri\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruins_of_Dahri\u25b7 to look for \u25c0Arabalika\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arabalika\u25b7"
-        },
-        {
-            "plaintext": "Defeat the Ruin Guard",
-            "markdown": "Defeat the \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7"
-        },
-        {
-            "plaintext": "Defeat the Ruin Guard",
-            "markdown": "Defeat the Ruin Guard"
-        },
-        {
-            "plaintext": "Defeat the Ruin Guard",
-            "markdown": "Defeat the Ruin Guard"
-        },
-        {
-            "plaintext": "Find the mechanism and activate it",
-            "markdown": "Find the mechanism and activate it"
-        },
-        {
-            "plaintext": "Find the \"branch\" with Arabalika",
-            "markdown": "Find the \"branch\" with Arabalika"
-        },
-        {
-            "plaintext": "Make the three \"leaves\" turn towards the \"branch\"",
-            "markdown": "Make the three \"leaves\" turn towards the \"branch\""
-        },
-        {
-            "plaintext": "Defeat the Ruin Grader",
-            "markdown": "Defeat the \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7"
-        },
-        {
-            "plaintext": "Talk to Arabalika",
-            "markdown": "Talk to Arabalika"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Head to the \u25c0Ruins of Dahri\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruins_of_Dahri\u25b7 to look for \u25c0Arabalika\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arabalika\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Ruin Guard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Guard\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Ruin Guard"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Ruin Guard"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the mechanism and activate it"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the \"branch\" with Arabalika"
+                },
+                {
+                    "tag": "li",
+                    "text": "Make the three \"leaves\" turn towards the \"branch\""
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Ruin Grader\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Grader\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arabalika"
+                }
+            ]
         }
     ],
     "dialogue": true

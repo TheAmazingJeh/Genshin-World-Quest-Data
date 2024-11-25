@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Valor's Afterglow: The Faint Light Remembered",
     "url": "https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow%3A_The_Faint_Light_Remembered",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines , Liyue",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,8 +32,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Muning about Zhiqiong's departure",
-            "markdown": "Talk to \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7 about \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7's departure"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Muning\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Muning\u25b7 about \u25c0Zhiqiong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zhiqiong\u25b7's departure"
+                }
+            ]
         }
     ],
     "dialogue": true

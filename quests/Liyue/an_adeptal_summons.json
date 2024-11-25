@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "An Adeptal Summons",
     "url": "https://genshin-impact.fandom.com/wiki/An_Adeptal_Summons",
     "starting_location": {
-        "plaintext": "Mt. Aocang , Liyue",
-        "markdown": "\u25c0Mt. Aocang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Aocang\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Mt. Aocang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Aocang\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Farewell, Archaic Lord",
@@ -49,50 +49,68 @@
     ],
     "steps": [
         {
-            "plaintext": "Offer the Delicious Jewelry Soup",
-            "markdown": "Offer the Delicious \u25c0Jewelry Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jewelry_Soup\u25b7"
+            "tag": "p",
+            "text": "Start the quest by going to the central lake at \u25c0Mt. Aocang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Aocang\u25b7."
         },
         {
-            "plaintext": "Visit Cloud Retainer",
-            "markdown": "Visit \u25c0Cloud Retainer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cloud_Retainer\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Interact with the door to her domain to talk to her.",
-                    "markdown": "Interact with the door to her domain to talk to her."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the Adeptus' abode and search for the \"Dwelling in the Clouds\" Blueprints",
-            "markdown": "Go to the Adeptus' abode and search for the \u25c0\"Dwelling in the Clouds\" Blueprints\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Dwelling_in_the_Clouds%22_Blueprints\u25b7",
-            "substeps": [
-                {
-                    "plaintext": "The blueprints are located on the floating island on Qingyun Peak, unlocked by completing the Three Cranes Puzzle.",
-                    "markdown": "The blueprints are located on the floating island on \u25c0Qingyun Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingyun_Peak\u25b7, unlocked by completing the \u25c0Three Cranes Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Three_Cranes_Puzzle\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Give the blueprints to Cloud Retainer",
-            "markdown": "Give the blueprints to Cloud Retainer",
-            "substeps": [
-                {
-                    "plaintext": "Complete a time trial challenge. Reach the target location within 150 seconds (02:30 min). Slimes will spawn and grant +15 extra seconds per kill.",
-                    "markdown": "Complete a time trial challenge. Reach the target location within 150 seconds (02:30 min). Slimes will spawn and grant +15 extra seconds per kill."
+                    "tag": "li",
+                    "text": "Offer the Delicious \u25c0Jewelry Soup\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jewelry_Soup\u25b7"
                 },
                 {
-                    "plaintext": "Rotate CW/CCW \u2192 3 Hydro \u2192 3 Pyro \u2192 Rotate CW \u2192 Activate wind current \u2192 Return, 3 Electro \u2192 Return to middle platform, rotate CCW \u2192 3 Anemo \u2192 Rotate CCW \u2192 1 Electro, 1 Hydro, 1 Pyro \u2192 Rotate CW/CCW",
-                    "markdown": "Rotate CW/CCW \u2192 3 Hydro \u2192 3 Pyro \u2192 Rotate CW \u2192 Activate wind current \u2192 Return, 3 Electro \u2192 Return to middle platform, rotate CCW \u2192 3 Anemo \u2192 Rotate CCW \u2192 1 Electro, 1 Hydro, 1 Pyro \u2192 Rotate CW/CCW"
+                    "tag": "li",
+                    "text": "Visit \u25c0Cloud Retainer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cloud_Retainer\u25b7"
                 },
                 {
-                    "plaintext": "The puzzle can be skipped by using character abilities that allows the player to glide to the middle of the platform.",
-                    "markdown": "The puzzle can be skipped by using character abilities that allows the player to \u25c0glide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gliding\u25b7 to the middle of the platform."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Interact with the door to her domain to talk to her."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Adeptus' abode and search for the \u25c0\"Dwelling in the Clouds\" Blueprints\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Dwelling_in_the_Clouds%22_Blueprints\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The blueprints are located on the floating island on \u25c0Qingyun Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Qingyun_Peak\u25b7, unlocked by completing the \u25c0Three Cranes Puzzle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Three_Cranes_Puzzle\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the blueprints to Cloud Retainer"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Complete a time trial challenge. Reach the target location within 150 seconds (02:30 min). Slimes will spawn and grant +15 extra seconds per kill."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Rotate CW/CCW \u2192 3 Hydro \u2192 3 Pyro \u2192 Rotate CW \u2192 Activate wind current \u2192 Return, 3 Electro \u2192 Return to middle platform, rotate CCW \u2192 3 Anemo \u2192 Rotate CCW \u2192 1 Electro, 1 Hydro, 1 Pyro \u2192 Rotate CW/CCW"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The puzzle can be skipped by using character abilities that allows the player to \u25c0glide\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gliding\u25b7 to the middle of the platform."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Place the blueprints before Cloud Retainer"
                 }
             ]
-        },
-        {
-            "plaintext": "Place the blueprints before Cloud Retainer",
-            "markdown": "Place the blueprints before Cloud Retainer"
         }
     ],
     "dialogue": true

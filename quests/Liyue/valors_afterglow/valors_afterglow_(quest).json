@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Valor's Afterglow (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow_%28Quest%29",
     "starting_location": {
-        "plaintext": "The Chasm: Underground Mines",
-        "markdown": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
+        "text": "\u25c0The Chasm: Underground Mines\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm:_Underground_Mines\u25b7"
     },
     "requirements": {
         "plaintext": "The Chasm Delvers",
@@ -42,16 +42,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Place the measuring beacons (0/5)",
-            "markdown": "Place the measuring beacons (0/5)"
-        },
-        {
-            "plaintext": "Return to the exploration team's camp at The Chasm",
-            "markdown": "Return to the exploration team's camp at The Chasm"
-        },
-        {
-            "plaintext": "Talk to Zhiqiong",
-            "markdown": "Talk to Zhiqiong"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Place the measuring beacons (0/5)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the exploration team's camp at The Chasm"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Zhiqiong"
+                }
+            ]
         }
     ],
     "dialogue": true

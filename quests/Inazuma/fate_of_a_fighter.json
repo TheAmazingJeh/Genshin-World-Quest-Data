@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Fate of a Fighter",
     "url": "https://genshin-impact.fandom.com/wiki/Fate_of_a_Fighter",
@@ -46,64 +47,114 @@
     ],
     "steps": [
         {
-            "plaintext": "Rescue the besieged samurai",
-            "markdown": "Rescue the besieged samurai",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by approaching the shipwreck in \u25c0Nazuchi Beach\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nazuchi_Beach\u25b7."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Nobushi: Jintouban x4",
-                    "markdown": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 x4",
-                    "img": {
-                        "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Rescue the besieged samurai"
                 },
                 {
-                    "plaintext": "Kairagi: Dancing Thunder x1",
-                    "markdown": "<img:kairagi_dancing_thunder> \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 x1",
-                    "img": {
-                        "kairagi_dancing_thunder": "Kairagi_Dancing_Thunder_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 \u00d74",
+                            "img": {
+                                "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:kairagi_dancing_thunder> \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 \u00d71",
+                            "img": {
+                                "kairagi_dancing_thunder": "Kairagi_Dancing_Thunder_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the samurai"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clear out the pirate camp"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 \u00d74",
+                            "img": {
+                                "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:kairagi_dancing_thunder> \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 \u00d72",
+                            "img": {
+                                "kairagi_dancing_thunder": "Kairagi_Dancing_Thunder_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Inaba Kyuuzou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inaba_Kyuuzou\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Gather 12 \u25c0Naku Weeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Naku_Weed\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until 10:00\u201312:00 the next day and talk to \u25c0Inaba Kyuuzou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inaba_Kyuuzou\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report the situation to Inaba Kyuuzou"
                 }
             ]
         },
         {
-            "plaintext": "Talk to the samurai",
-            "markdown": "Talk to the samurai"
+            "tag": "p",
+            "text": "While the official quest ends here and Quest rewards are distributed at this point, a hidden section can be unlocked: after the quest is completed, four groups of ronin will appear around the beach, each one consisting of a single \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 and three \u25c0Nobushi: Kikouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Kikouban\u25b7, which can easily be identified from their lack of a dark aura, unlike other enemies in the area. Clearing all four groups out will result in additional tasks to appear."
         },
         {
-            "plaintext": "Clear out the pirate camp",
-            "markdown": "Clear out the pirate camp",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Nobushi: Jintouban x4",
-                    "markdown": "<img:nobushi_jintouban> \u25c0Nobushi: Jintouban\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Nobushi:_Jintouban\u25b7 x4",
-                    "img": {
-                        "nobushi_jintouban": "Nobushi_Jintouban_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Report the situation to Inaba Kyuuzou."
                 },
                 {
-                    "plaintext": "Kairagi: Dancing Thunder x2",
-                    "markdown": "<img:kairagi_dancing_thunder> \u25c0Kairagi: Dancing Thunder\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kairagi:_Dancing_Thunder\u25b7 x2",
-                    "img": {
-                        "kairagi_dancing_thunder": "Kairagi_Dancing_Thunder_Icon.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The man disappears with \u25c0Inaba Tousaburou Kyuuzou's Final Words\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inaba_Tousaburou_Kyuuzou%27s_Final_Words\u25b7 in his place."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Witness Inaba Kyuuzou's fate."
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat the three Dancing Thunder Kairagi at the location pinpointed by the quest, which is just east of \u25c0Jakotsu Mine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jakotsu_Mine\u25b7. This grants the \u25c0Wonders of the World\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wonders_of_the_World\u25b7 achievement \u25c0Oh, the Humanity!\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Oh,_the_Humanity!\u25b7 and distributes Quest rewards a second time."
+                        }
+                    ]
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Inaba Kyuuzou",
-            "markdown": "Talk to \u25c0Inaba Kyuuzou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inaba_Kyuuzou\u25b7"
-        },
-        {
-            "plaintext": "Gather 12 Naku Weeds",
-            "markdown": "Gather 12 \u25c0Naku Weeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Naku_Weed\u25b7"
-        },
-        {
-            "plaintext": "Wait until 10:00\u201312:00 the next day and talk to Inaba Kyuuzou",
-            "markdown": "Wait until 10:00\u201312:00 the next day and talk to \u25c0Inaba Kyuuzou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inaba_Kyuuzou\u25b7"
-        },
-        {
-            "plaintext": "Report the situation to Inaba Kyuuzou",
-            "markdown": "Report the situation to Inaba Kyuuzou"
         }
     ],
     "dialogue": true

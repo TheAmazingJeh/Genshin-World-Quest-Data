@@ -1,0 +1,19 @@
+{
+    "version": "1.1",
+    "type": "act",
+    "name": "City Buried By Ash",
+    "url": "https://genshin-impact.fandom.com/wiki/City_Buried_By_Ash",
+    "starting_location": null,
+    "rewards": null,
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Vaulting the Wall of Morning Mist\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vaulting_the_Wall_of_Morning_Mist\u25b7"
+                }
+            ]
+        }
+    ]
+}

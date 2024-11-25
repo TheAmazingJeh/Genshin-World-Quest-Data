@@ -1,88 +1,99 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Trail of Drake and Serpent",
     "url": "https://genshin-impact.fandom.com/wiki/The_Trail_of_Drake_and_Serpent",
     "starting_location": {
-        "plaintext": "Evernight Temple , Enkanomiya , Inazuma",
-        "markdown": "\u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": null,
     "steps": [
         {
-            "plaintext": "Go to the Evernight Temple",
-            "markdown": "Go to the \u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7"
-        },
-        {
-            "plaintext": "Follow the trail of the Bathysmal Vishaps and search for the secret room (0/3)",
-            "markdown": "Follow the trail of the \u25c0Bathysmal Vishaps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bathysmal_Vishaps\u25b7 and search for the secret room (0/3)"
-        },
-        {
-            "plaintext": "Go to the secret room",
-            "markdown": "Go to the secret room"
-        },
-        {
-            "plaintext": "Defeat all opponents:",
-            "markdown": "Defeat all opponents:",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Rockfond Rifthound Whelp x3",
-                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x3",
-                    "img": {
-                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the \u25c0Evernight Temple\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Evernight_Temple\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow the trail of the \u25c0Bathysmal Vishaps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bathysmal_Vishaps\u25b7 and search for the secret room (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the secret room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents:"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d73",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Examine the mechanism and open the gate to the secret room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go into the secret room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the secret room"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all opponents:"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 \u00d71",
+                            "img": {
+                                "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 \u00d71",
+                            "img": {
+                                "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 \u00d71",
+                            "img": {
+                                "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 \u00d71",
+                            "img": {
+                                "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the fragment of the \u25c0Reins of the Revival\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reins_of_Revival_Fragment_(Temple)\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Examine the mechanism and open the gate to the secret room",
-            "markdown": "Examine the mechanism and open the gate to the secret room"
-        },
-        {
-            "plaintext": "Go into the secret room",
-            "markdown": "Go into the secret room"
-        },
-        {
-            "plaintext": "Investigate the secret room",
-            "markdown": "Investigate the secret room"
-        },
-        {
-            "plaintext": "Defeat all opponents:",
-            "markdown": "Defeat all opponents:",
-            "substeps": [
-                {
-                    "plaintext": "Rockfond Rifthound x1",
-                    "markdown": "<img:rockfond_rifthound> \u25c0Rockfond Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound\u25b7 x1",
-                    "img": {
-                        "rockfond_rifthound": "Rockfond_Rifthound_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Rockfond Rifthound Whelp x1",
-                    "markdown": "<img:rockfond_rifthound_whelp> \u25c0Rockfond Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rockfond_Rifthound_Whelp\u25b7 x1",
-                    "img": {
-                        "rockfond_rifthound_whelp": "Rockfond_Rifthound_Whelp_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Thundercraven Rifthound x1",
-                    "markdown": "<img:thundercraven_rifthound> \u25c0Thundercraven Rifthound\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound\u25b7 x1",
-                    "img": {
-                        "thundercraven_rifthound": "Thundercraven_Rifthound_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Thundercraven Rifthound Whelp x1",
-                    "markdown": "<img:thundercraven_rifthound_whelp> \u25c0Thundercraven Rifthound Whelp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Thundercraven_Rifthound_Whelp\u25b7 x1",
-                    "img": {
-                        "thundercraven_rifthound_whelp": "Thundercraven_Rifthound_Whelp_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Obtain the fragment of the Reins of the Revival",
-            "markdown": "Obtain the fragment of the \u25c0Reins of the Revival\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Reins_of_Revival_Fragment_(Temple)\u25b7"
         }
     ],
     "dialogue": true

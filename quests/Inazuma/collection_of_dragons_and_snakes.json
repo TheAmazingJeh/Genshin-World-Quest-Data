@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Collection of Dragons and Snakes",
     "url": "https://genshin-impact.fandom.com/wiki/Collection_of_Dragons_and_Snakes",
     "starting_location": {
-        "plaintext": "The Narrows , Enkanomiya , Inazuma",
-        "markdown": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0The Narrows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narrows\u25b7 , \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "The Subterranean Trials of Drake and Serpent",
@@ -42,24 +42,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Speak to the afterimage within the library",
-            "markdown": "Speak to the afterimage within the library"
-        },
-        {
-            "plaintext": "Collect the five lost books (0/5)",
-            "markdown": "Collect the five lost books (0/5)"
-        },
-        {
-            "plaintext": "Show the books to Ema",
-            "markdown": "Show the books to \u25c0Ema\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ema\u25b7"
-        },
-        {
-            "plaintext": "Return the books to their shelves",
-            "markdown": "Return the books to their shelves"
-        },
-        {
-            "plaintext": "Investigate the picture frame that has changed",
-            "markdown": "Investigate the picture frame that has changed"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Speak to the afterimage within the library"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect the five lost books (0/5)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Show the books to \u25c0Ema\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ema\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return the books to their shelves"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the picture frame that has changed"
+                }
+            ]
         }
     ],
     "dialogue": true

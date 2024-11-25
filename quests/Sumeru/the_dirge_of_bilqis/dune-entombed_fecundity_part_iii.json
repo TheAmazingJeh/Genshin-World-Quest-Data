@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Dune-Entombed Fecundity: Part III",
     "url": "https://genshin-impact.fandom.com/wiki/Dune-Entombed_Fecundity%3A_Part_III",
     "starting_location": {
-        "plaintext": "Desert of Hadramaveth , Sumeru",
-        "markdown": "\u25c0Desert of Hadramaveth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert_of_Hadramaveth\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Desert of Hadramaveth\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Desert_of_Hadramaveth\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,199 +53,226 @@
     ],
     "steps": [
         {
-            "plaintext": "Return to the surface",
-            "markdown": "Return to the surface"
-        },
-        {
-            "plaintext": "Go to the pilot cabin",
-            "markdown": "Go to the pilot cabin"
-        },
-        {
-            "plaintext": "Drive the ancient machine to your destination",
-            "markdown": "Drive the \u25c0ancient machine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Golem_(Desert_of_Hadramaveth)\u25b7 to your destination"
-        },
-        {
-            "plaintext": "Go to your destination",
-            "markdown": "Go to your destination"
-        },
-        {
-            "plaintext": "Check on the condition of the machine's interior",
-            "markdown": "Check on the condition of the machine's interior"
-        },
-        {
-            "plaintext": "Destroy the obstructing rocks (0/3)",
-            "markdown": "Destroy the obstructing rocks (0/3)"
-        },
-        {
-            "plaintext": "Leave the pilot cabin",
-            "markdown": "Leave the pilot cabin"
-        },
-        {
-            "plaintext": "Defeat Azariq and his subordinates",
-            "markdown": "Defeat Azariq and his subordinates",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Azariq \u2014 Babel's Left Hand",
-                    "markdown": "<img:eremite_stone_enchanter> \u25c0Azariq \u2014 Babel's Left Hand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Stone_Enchanter\u25b7",
-                    "img": {
-                        "eremite_stone_enchanter": "Eremite_Stone_Enchanter_Icon.png"
-                    },
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Return to the surface"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the pilot cabin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Drive the \u25c0ancient machine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Golem_(Desert_of_Hadramaveth)\u25b7 to your destination"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to your destination"
+                },
+                {
+                    "tag": "li",
+                    "text": "Check on the condition of the machine's interior"
+                },
+                {
+                    "tag": "li",
+                    "text": "Destroy the obstructing rocks (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the pilot cabin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Azariq and his subordinates"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Eremite Linebreaker x2",
-                            "markdown": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:eremite_stone_enchanter> \u25c0Azariq \u2014 Babel's Left Hand\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Stone_Enchanter\u25b7",
+                            "img": {
+                                "eremite_stone_enchanter": "Eremite_Stone_Enchanter_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:eremite_linebreaker> \u25c0Eremite Linebreaker\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Linebreaker\u25b7 \u00d72",
                             "img": {
                                 "eremite_linebreaker": "Eremite_Linebreaker_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Axe Vanguard x1",
-                            "markdown": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_axe_vanguard> \u25c0Eremite Axe Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Axe_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "eremite_axe_vanguard": "Eremite_Axe_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Eremite Ravenbeak Halberdier x2",
-                            "markdown": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:eremite_ravenbeak_halberdier> \u25c0Eremite Ravenbeak Halberdier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Ravenbeak_Halberdier\u25b7 \u00d72",
                             "img": {
                                 "eremite_ravenbeak_halberdier": "Eremite_Ravenbeak_Halberdier_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Escape the machine",
-            "markdown": "Escape the machine"
-        },
-        {
-            "plaintext": "Leave the machine",
-            "markdown": "Leave the machine"
-        },
-        {
-            "plaintext": "Confront Aderfi",
-            "markdown": "Confront Aderfi"
-        },
-        {
-            "plaintext": "Defeat Aderfi and the Fatui",
-            "markdown": "Defeat Aderfi and the Fatui",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Aderfi \u2014 Conniving Smuggler",
-                    "markdown": "<img:eremite_crossbow> \u25c0Aderfi \u2014 Conniving Smuggler\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7",
-                    "img": {
-                        "eremite_crossbow": "Eremite_Crossbow_Icon.png"
-                    },
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Escape the machine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the machine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Confront Aderfi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat Aderfi and the Fatui"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Electrohammer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:eremite_crossbow> \u25c0Aderfi \u2014 Conniving Smuggler\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite_Crossbow\u25b7",
+                            "img": {
+                                "eremite_crossbow": "Eremite_Crossbow_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_electrohammer_vanguard> \u25c0Fatui Skirmisher - Electrohammer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Electrohammer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_electrohammer_vanguard": "Fatui_Electrohammer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Pyroslinger Bracer x1",
-                            "markdown": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_pyroslinger_bracer> \u25c0Fatui Skirmisher - Pyroslinger Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Pyroslinger_Bracer\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_pyroslinger_bracer": "Fatui_Pyroslinger_Bracer_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Anemoboxer Vanguard x1",
-                            "markdown": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_anemoboxer_vanguard> \u25c0Fatui Skirmisher - Anemoboxer Vanguard\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Anemoboxer_Vanguard\u25b7 \u00d71",
                             "img": {
                                 "fatui_skirmisher_-_anemoboxer_vanguard": "Fatui_Anemoboxer_Vanguard_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Fatui Skirmisher - Geochanter Bracer x2",
-                            "markdown": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_geochanter_bracer> \u25c0Fatui Skirmisher - Geochanter Bracer\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Geochanter_Bracer\u25b7 \u00d72",
                             "img": {
                                 "fatui_skirmisher_-_geochanter_bracer": "Fatui_Geochanter_Bracer_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Check the dropped items",
-            "markdown": "Check the dropped items"
-        },
-        {
-            "plaintext": "Follow Liloupar's instructions and return to the machine's interior",
-            "markdown": "Follow Liloupar's instructions and return to the machine's interior"
-        },
-        {
-            "plaintext": "Enter the tunnel alongside the inside of the machine",
-            "markdown": "Enter the tunnel alongside the inside of the machine"
-        },
-        {
-            "plaintext": "Go deeper into the tunnel",
-            "markdown": "Go deeper into the tunnel"
-        },
-        {
-            "plaintext": "Proceed deeper",
-            "markdown": "Proceed deeper"
-        },
-        {
-            "plaintext": "Remove the sand",
-            "markdown": "Remove the sand"
-        },
-        {
-            "plaintext": "Proceed deeper",
-            "markdown": "Proceed deeper"
-        },
-        {
-            "plaintext": "Open the ancient gate",
-            "markdown": "Open the ancient gate"
-        },
-        {
-            "plaintext": "Keep exploring",
-            "markdown": "Keep exploring"
-        },
-        {
-            "plaintext": "Open the ancient gate",
-            "markdown": "Open the ancient gate"
-        },
-        {
-            "plaintext": "Keep exploring",
-            "markdown": "Keep exploring"
-        },
-        {
-            "plaintext": "Obtain Liloupar's fragment",
-            "markdown": "Obtain Liloupar's fragment"
-        },
-        {
-            "plaintext": "Talk to Liloupar",
-            "markdown": "Talk to Liloupar"
-        },
-        {
-            "plaintext": "Head into the depths",
-            "markdown": "Head into the depths"
-        },
-        {
-            "plaintext": "Activate the ancient mechanism",
-            "markdown": "Activate the ancient mechanism"
-        },
-        {
-            "plaintext": "Activate the mechanism",
-            "markdown": "Activate the mechanism"
-        },
-        {
-            "plaintext": "Defeat the attracted monsters",
-            "markdown": "Defeat the attracted monsters",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Check the dropped items"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Liloupar's instructions and return to the machine's interior"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the tunnel alongside the inside of the machine"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go deeper into the tunnel"
+                },
+                {
+                    "tag": "li",
+                    "text": "Proceed deeper"
+                },
+                {
+                    "tag": "li",
+                    "text": "Remove the sand"
+                },
+                {
+                    "tag": "li",
+                    "text": "Proceed deeper"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the ancient gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the ancient gate"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep exploring"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain Liloupar's fragment"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Liloupar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head into the depths"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the ancient mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the mechanism"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the attracted monsters"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Primal Construct: Reshaper x2",
-                            "markdown": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x2",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 \u00d72",
                             "img": {
                                 "primal_construct_reshaper": "Primal_Construct_Icon.png"
                             }
@@ -253,53 +280,66 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Consecrated Flying Serpent x1",
-                            "markdown": "<img:consecrated_flying_serpent> \u25c0Consecrated Flying Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Flying_Serpent\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:consecrated_flying_serpent> \u25c0Consecrated Flying Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Consecrated_Flying_Serpent\u25b7 \u00d71",
                             "img": {
                                 "consecrated_flying_serpent": "Consecrated_Flying_Serpent_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Flying Serpent x2",
-                            "markdown": "<img:flying_serpent> \u25c0Flying Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flying_Serpent\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:flying_serpent> \u25c0Flying Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flying_Serpent\u25b7 \u00d72",
                             "img": {
                                 "flying_serpent": "Flying_Serpent_Icon.png"
                             }
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Go to the platform",
-            "markdown": "Go to the platform"
-        },
-        {
-            "plaintext": "Go to the Crystal Goblet of Al-Ahmar",
-            "markdown": "Go to the Crystal Goblet of Al-Ahmar"
-        },
-        {
-            "plaintext": "Defeat Ferigees",
-            "markdown": "Defeat \u25c0Ferigees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ferigees,_Guardian_of_the_Eternal_Oasis\u25b7",
-            "substeps": [
+                },
                 {
-                    "plaintext": "Wave 1:",
-                    "markdown": "Wave 1:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Go to the platform"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Crystal Goblet of Al-Ahmar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat \u25c0Ferigees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ferigees,_Guardian_of_the_Eternal_Oasis\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Primal Construct: Reshaper x1",
-                            "markdown": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 x1",
+                            "tag": "li",
+                            "text": "Wave 1:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 2:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Wave 3:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:primal_construct_reshaper> \u25c0Primal Construct: Reshaper\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Reshaper\u25b7 \u00d71",
                             "img": {
                                 "primal_construct_reshaper": "Primal_Construct_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Primal Construct: Repulsor x1",
-                            "markdown": "<img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 \u00d71",
                             "img": {
                                 "primal_construct_repulsor": "Primal_Construct_Icon.png"
                             }
@@ -307,19 +347,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 2:",
-                    "markdown": "Wave 2:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Primal Construct: Prospector x1",
-                            "markdown": "<img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:primal_construct_prospector> \u25c0Primal Construct: Prospector\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Prospector\u25b7 \u00d71",
                             "img": {
                                 "primal_construct_prospector": "Primal_Construct_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Primal Construct: Repulsor x1",
-                            "markdown": "<img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 \u00d71",
                             "img": {
                                 "primal_construct_repulsor": "Primal_Construct_Icon.png"
                             }
@@ -327,31 +366,30 @@
                     ]
                 },
                 {
-                    "plaintext": "Wave 3:",
-                    "markdown": "Wave 3:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Algorithm of Semi-Intransient Matrix of Overseer Network x1",
-                            "markdown": "<img:algorithm_of_semi-intransient_matrix_of_overseer_network> \u25c0Algorithm of Semi-Intransient Matrix of Overseer Network\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:algorithm_of_semi-intransient_matrix_of_overseer_network> \u25c0Algorithm of Semi-Intransient Matrix of Overseer Network\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network\u25b7 \u00d71",
                             "img": {
                                 "algorithm_of_semi-intransient_matrix_of_overseer_network": "Algorithm_of_Semi-Intransient_Matrix_of_Overseer_Network_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the center of the platform"
+                },
+                {
+                    "tag": "li",
+                    "text": "Activate the elevator"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the \u25c0Eternal Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eternal_Oasis\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Go to the center of the platform",
-            "markdown": "Go to the center of the platform"
-        },
-        {
-            "plaintext": "Activate the elevator",
-            "markdown": "Activate the elevator"
-        },
-        {
-            "plaintext": "Go to the Eternal Oasis",
-            "markdown": "Go to the \u25c0Eternal Oasis\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eternal_Oasis\u25b7"
         }
     ],
     "dialogue": true

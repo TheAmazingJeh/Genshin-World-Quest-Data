@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Into the Woods",
     "url": "https://genshin-impact.fandom.com/wiki/Into_the_Woods",
     "starting_location": {
-        "plaintext": "Ardravi Valley , Sumeru",
-        "markdown": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Ardravi Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ardravi_Valley\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,58 +46,66 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Withering Zone that needs to be cleaned up",
-            "markdown": "Go to the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7 that needs to be cleaned up"
-        },
-        {
-            "plaintext": "Clean up the Withering Zone",
-            "markdown": "Clean up the Withering Zone"
-        },
-        {
-            "plaintext": "Go to the Withering Zone that needs to be cleaned up",
-            "markdown": "Go to the Withering Zone that needs to be cleaned up"
-        },
-        {
-            "plaintext": "Clean up the Withering Zone",
-            "markdown": "Clean up the Withering Zone"
-        },
-        {
-            "plaintext": "Go to the area where the Spinocrocodiles are active",
-            "markdown": "Go to the area where the \u25c0Spinocrocodiles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spinocrocodile\u25b7 are active"
-        },
-        {
-            "plaintext": "Defeat a certain number of Spinocrocodiles",
-            "markdown": "Defeat a certain number of Spinocrocodiles"
-        },
-        {
-            "plaintext": "Go to the camp",
-            "markdown": "Go to the camp"
-        },
-        {
-            "plaintext": "Collect firewood (0/3)",
-            "markdown": "Collect firewood (0/3)"
-        },
-        {
-            "plaintext": "Return to the camp and talk to Rana",
-            "markdown": "Return to the camp and talk to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Co-Op Mode is disabled from this step onwards.",
-                    "markdown": "\u25c0Co-Op Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Co-Op_Mode\u25b7 is disabled from this step onwards."
+                    "tag": "li",
+                    "text": "Go to the \u25c0Withering Zone\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Withering_Zone\u25b7 that needs to be cleaned up"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the Withering Zone"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Withering Zone that needs to be cleaned up"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the Withering Zone"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the area where the \u25c0Spinocrocodiles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Spinocrocodile\u25b7 are active"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat a certain number of Spinocrocodiles"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect firewood (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the camp and talk to \u25c0Rana\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rana\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Co-Op Mode\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Co-Op_Mode\u25b7 is disabled from this step onwards."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Light the campfire"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Rana"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a rest or wait until the following day (06:00 \u2013 08:00)"
                 }
             ]
-        },
-        {
-            "plaintext": "Light the campfire",
-            "markdown": "Light the campfire"
-        },
-        {
-            "plaintext": "Talk to Rana",
-            "markdown": "Talk to Rana"
-        },
-        {
-            "plaintext": "Take a rest or wait until the following day (06:00 \u2013 08:00)",
-            "markdown": "Take a rest or wait until the following day (06:00 \u2013 08:00)"
         }
     ],
     "dialogue": true

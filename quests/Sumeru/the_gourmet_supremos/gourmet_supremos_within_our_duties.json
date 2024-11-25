@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Gourmet Supremos: Within Our Duties",
     "url": "https://genshin-impact.fandom.com/wiki/Gourmet_Supremos%3A_Within_Our_Duties",
     "starting_location": {
-        "plaintext": "Port Ormos , Sumeru",
-        "markdown": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Port Ormos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Port_Ormos\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -42,125 +42,136 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to Sumeru City",
-            "markdown": "Go to Sumeru City"
-        },
-        {
-            "plaintext": "Go to the Akademiya with Parvaneh and the rest of the group",
-            "markdown": "Go to the Akademiya with \u25c0Parvaneh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Parvaneh\u25b7 and the rest of the group"
-        },
-        {
-            "plaintext": "Go to the headquarters of the Corps of Thirty",
-            "markdown": "Go to the headquarters of the Corps of Thirty"
-        },
-        {
-            "plaintext": "Go to the Adventurers' Guild",
-            "markdown": "Go to the Adventurers' Guild"
-        },
-        {
-            "plaintext": "Taste the local specialties in Sumeru",
-            "markdown": "Taste the local specialties in Sumeru"
-        },
-        {
-            "plaintext": "Wait until the following day (08:00 \u2013 12:00)",
-            "markdown": "Wait until the following day (08:00 \u2013 12:00)"
-        },
-        {
-            "plaintext": "Find Xudong at Akademiya",
-            "markdown": "Find \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7 at Akademiya"
-        },
-        {
-            "plaintext": "Talk to Kamei Munehisa",
-            "markdown": "Talk to \u25c0Kamei Munehisa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamei_Munehisa\u25b7"
-        },
-        {
-            "plaintext": "Defeat all monsters to get materials",
-            "markdown": "Defeat all monsters to get materials",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Enemies:",
-                    "markdown": "Enemies:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Go to Sumeru City"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Akademiya with \u25c0Parvaneh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Parvaneh\u25b7 and the rest of the group"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the headquarters of the Corps of Thirty"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the Adventurers' Guild"
+                },
+                {
+                    "tag": "li",
+                    "text": "Taste the local specialties in Sumeru"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until the following day (08:00 \u2013 12:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Xudong\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xudong\u25b7 at Akademiya"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Kamei Munehisa\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kamei_Munehisa\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all monsters to get materials"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Cryo Abyss Mage x1",
-                            "markdown": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 x1",
+                            "tag": "li",
+                            "text": "Enemies:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:cryo_abyss_mage> \u25c0Cryo Abyss Mage\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Abyss_Mage\u25b7 \u00d71",
                             "img": {
                                 "cryo_abyss_mage": "Cryo_Abyss_Mage_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Crackling Axe Mitachurl x1",
-                            "markdown": "<img:crackling_axe_mitachurl> \u25c0Crackling Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crackling_Axe_Mitachurl\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:crackling_axe_mitachurl> \u25c0Crackling Axe Mitachurl\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crackling_Axe_Mitachurl\u25b7 \u00d71",
                             "img": {
                                 "crackling_axe_mitachurl": "Mitachurl_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Cryo Hilichurl Shooter x2",
-                            "markdown": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:cryo_hilichurl_shooter> \u25c0Cryo Hilichurl Shooter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cryo_Hilichurl_Shooter\u25b7 \u00d72",
                             "img": {
                                 "cryo_hilichurl_shooter": "Cryo_Hilichurl_Shooter_Icon.png"
                             }
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report to Kamei Munehisa"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Kamei Munehisa"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0Julie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Julie\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet up with Xudong"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the three servings of Fresh Fish to Parvaneh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Parvaneh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Port Ormos"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the two Potatoes to Parvaneh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Parvaneh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Gilded Journey"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the three Padisarah to Parvaneh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Parvaneh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find \u25c0N\u00e8te\u25b6\u25c1https://genshin-impact.fandom.com/wiki/N%C3%A8te\u25b7 at the Akademiya"
                 }
             ]
-        },
-        {
-            "plaintext": "Report to Kamei Munehisa",
-            "markdown": "Report to Kamei Munehisa"
-        },
-        {
-            "plaintext": "Talk to Kamei Munehisa",
-            "markdown": "Talk to Kamei Munehisa"
-        },
-        {
-            "plaintext": "Find Julie",
-            "markdown": "Find \u25c0Julie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Julie\u25b7"
-        },
-        {
-            "plaintext": "Meet up with Xudong",
-            "markdown": "Meet up with Xudong"
-        },
-        {
-            "plaintext": "Go to Vimara Village",
-            "markdown": "Go to \u25c0Vimara Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vimara_Village\u25b7"
-        },
-        {
-            "plaintext": "Give the three servings of Fresh Fish to Parvaneh",
-            "markdown": "Give the three servings of Fresh Fish to Parvaneh"
-        },
-        {
-            "plaintext": "Talk to Parvaneh",
-            "markdown": "Talk to Parvaneh"
-        },
-        {
-            "plaintext": "Go to Port Ormos",
-            "markdown": "Go to Port Ormos"
-        },
-        {
-            "plaintext": "Give the two Potatoes to Parvaneh",
-            "markdown": "Give the two Potatoes to Parvaneh"
-        },
-        {
-            "plaintext": "Talk to Parvaneh",
-            "markdown": "Talk to Parvaneh"
-        },
-        {
-            "plaintext": "Go to Gilded Journey",
-            "markdown": "Go to Gilded Journey"
-        },
-        {
-            "plaintext": "Give the three Padisarah to Parvaneh",
-            "markdown": "Give the three Padisarah to Parvaneh"
-        },
-        {
-            "plaintext": "Talk to Parvaneh",
-            "markdown": "Talk to Parvaneh"
-        },
-        {
-            "plaintext": "Find N\u00e8te at the Akademiya",
-            "markdown": "Find \u25c0N\u00e8te\u25b6\u25c1https://genshin-impact.fandom.com/wiki/N%C3%A8te\u25b7 at the Akademiya"
         }
     ],
     "dialogue": true

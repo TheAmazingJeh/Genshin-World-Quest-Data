@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Millennial Mountains",
     "url": "https://genshin-impact.fandom.com/wiki/The_Millennial_Mountains",
     "starting_location": {
-        "plaintext": "The Chasm's Maw , The Chasm , Liyue",
-        "markdown": "\u25c0The Chasm's Maw\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm%27s_Maw\u25b7 , \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0The Chasm's Maw\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm%27s_Maw\u25b7 , \u25c0The Chasm\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Chasm_(Area)\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,56 +53,71 @@
     ],
     "steps": [
         {
-            "plaintext": "Look for offerings to place before the memorial (0/6)",
-            "markdown": "Look for offerings to place before the memorial (0/6)",
-            "substeps": [
+            "tag": "p",
+            "text": "Talk to \u25c0Wang\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wang\u25b7, located east of the Teleport Waypoint at The Chasm's Maw, to start the quest. (See \u25c0Gameplay Notes\u25b6\u25c1#Gameplay_Notes\u25b7 for details.)"
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "All items can be obtained before starting this quest.",
-                    "markdown": "All items can be obtained before starting this quest."
+                    "tag": "li",
+                    "text": "Look for offerings to place before the memorial (0/6)"
                 },
                 {
-                    "plaintext": "Flower of Farsight: Climb the mountains behind the Statue of The Seven using the chasm rocks to boost your jumps. Investigate the rock and you will find Tang Wuchou. Collecting the Flower of Farsight will automatically start the world quest A Cliff-Side Hero's Past.",
-                    "markdown": "\u25c0Flower of Farsight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flower_of_Farsight\u25b7: Climb the mountains behind the Statue of The Seven using the chasm rocks to boost your jumps. Investigate the rock and you will find \u25c0Tang Wuchou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tang_Wuchou\u25b7. Collecting the Flower of Farsight will automatically start the world quest \u25c0A Cliff-Side Hero's Past\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Cliff-Side_Hero%27s_Past\u25b7."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "All items can be obtained before starting this quest."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Flower of Farsight\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flower_of_Farsight\u25b7: Climb the mountains behind the Statue of The Seven using the chasm rocks to boost your jumps. Investigate the rock and you will find \u25c0Tang Wuchou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tang_Wuchou\u25b7. Collecting the Flower of Farsight will automatically start the world quest \u25c0A Cliff-Side Hero's Past\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Cliff-Side_Hero%27s_Past\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Skyfeather\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Skyfeather\u25b7: Found at the cliff of \u25c0Glaze Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Glaze_Peak\u25b7. Teleport to \u25c0Tiangong Gorge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tiangong_Gorge\u25b7 and go over to Glaze Peak."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Cup of Commons\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cup_of_Commons\u25b7: Open the Precious Chest from the World Quest \u25c0Undetected Infiltration\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Undetected_Infiltration\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Sundial of Ages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sundial_of_Ages\u25b7: Found by heading northwest of \u25c0The Surface\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Surface\u25b7's teleport waypoint. Investigate the bowl and you will get the item."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Helm of Warding\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Helm_of_Warding\u25b7: Located in The Chasm's Maw. Follow a nearby \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 into the wooden house and down the hole, then enter the next room over. Burn the hay using Pyro or the nearby \u25c0Exploding Barrels\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Exploding_Barrel\u25b7 to reveal two investigation points, one of which yields the Helm of Warding."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Warrior's Spear\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warrior%27s_Spear\u25b7: Head to the The Chasm's Maw waypoint and go to the mountain southeast from it. Climb to the top and the spear will be there along with two Sweet Flowers."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Skyfeather: Found at the cliff of Glaze Peak. Teleport to Tiangong Gorge and go over to Glaze Peak.",
-                    "markdown": "\u25c0Skyfeather\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Skyfeather\u25b7: Found at the cliff of \u25c0Glaze Peak\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Glaze_Peak\u25b7. Teleport to \u25c0Tiangong Gorge\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tiangong_Gorge\u25b7 and go over to Glaze Peak."
+                    "tag": "li",
+                    "text": "Offer the items before the memorial"
                 },
                 {
-                    "plaintext": "Cup of Commons: Open the Precious Chest from the World Quest Undetected Infiltration.",
-                    "markdown": "\u25c0Cup of Commons\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cup_of_Commons\u25b7: Open the Precious Chest from the World Quest \u25c0Undetected Infiltration\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Undetected_Infiltration\u25b7."
+                    "tag": "li",
+                    "text": "Obtain the \u25c0Millelith\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Millelith\u25b7's treasure"
                 },
                 {
-                    "plaintext": "Sundial of Ages: Found by heading northwest of The Surface's teleport waypoint. Investigate the bowl and you will get the item.",
-                    "markdown": "\u25c0Sundial of Ages\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sundial_of_Ages\u25b7: Found by heading northwest of \u25c0The Surface\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Surface\u25b7's teleport waypoint. Investigate the bowl and you will get the item."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "There is one \u25c0Luxurious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luxurious_Chest\u25b7 and a full set of 4\u2605 \u25c0Tenacity of the Millelith\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tenacity_of_the_Millelith\u25b7 artifacts."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "Helm of Warding: Located in The Chasm's Maw. Follow a nearby Seelie into the wooden house and down the hole, then enter the next room over. Burn the hay using Pyro or the nearby Exploding Barrels to reveal two investigation points, one of which yields the Helm of Warding.",
-                    "markdown": "\u25c0Helm of Warding\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Helm_of_Warding\u25b7: Located in The Chasm's Maw. Follow a nearby \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 into the wooden house and down the hole, then enter the next room over. Burn the hay using Pyro or the nearby \u25c0Exploding Barrels\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Exploding_Barrel\u25b7 to reveal two investigation points, one of which yields the Helm of Warding."
-                },
-                {
-                    "plaintext": "Warrior's Spear: Head to the The Chasm's Maw waypoint and go to the mountain southeast from it. Climb to the top and the spear will be there along with two Sweet Flowers.",
-                    "markdown": "\u25c0Warrior's Spear\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Warrior%27s_Spear\u25b7: Head to the The Chasm's Maw waypoint and go to the mountain southeast from it. Climb to the top and the spear will be there along with two Sweet Flowers."
+                    "tag": "li",
+                    "text": "Talk to Wang about the treasure"
                 }
             ]
-        },
-        {
-            "plaintext": "Offer the items before the memorial",
-            "markdown": "Offer the items before the memorial"
-        },
-        {
-            "plaintext": "Obtain the Millelith's treasure",
-            "markdown": "Obtain the \u25c0Millelith\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Millelith\u25b7's treasure",
-            "substeps": [
-                {
-                    "plaintext": "There is one Luxurious Chest and a full set of 4\u2605 Tenacity of the Millelith artifacts.",
-                    "markdown": "There is one \u25c0Luxurious Chest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Luxurious_Chest\u25b7 and a full set of 4\u2605 \u25c0Tenacity of the Millelith\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tenacity_of_the_Millelith\u25b7 artifacts."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Wang about the treasure",
-            "markdown": "Talk to Wang about the treasure"
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Fountain Flows Again",
     "url": "https://genshin-impact.fandom.com/wiki/The_Fountain_Flows_Again",
     "starting_location": {
-        "plaintext": "Court of Fontaine Region , Fontaine",
-        "markdown": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine Region\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine_Region\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "Complete As Light Rain Falls Without Reason",
@@ -42,24 +42,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Edel",
-            "markdown": "Talk to \u25c0Edel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Edel\u25b7"
-        },
-        {
-            "plaintext": "Talk to Estelle",
-            "markdown": "Talk to \u25c0Estelle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Estelle\u25b7"
-        },
-        {
-            "plaintext": "Give the Iron Chunk x3 to Estelle",
-            "markdown": "Give the \u25c0Iron Chunk\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iron_Chunk\u25b7 x3 to Estelle"
-        },
-        {
-            "plaintext": "Talk to Estelle",
-            "markdown": "Talk to Estelle"
-        },
-        {
-            "plaintext": "Go to Erinnyes",
-            "markdown": "Go to \u25c0Erinnyes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Erinnyes\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Edel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Edel\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Estelle\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Estelle\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the \u25c0Iron Chunk\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iron_Chunk\u25b7 \u00d73 to Estelle"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Estelle"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Erinnyes\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Erinnyes\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

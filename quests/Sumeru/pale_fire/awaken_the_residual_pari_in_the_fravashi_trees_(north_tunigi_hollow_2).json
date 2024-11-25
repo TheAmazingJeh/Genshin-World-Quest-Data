@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Awaken the Residual Pari in the Fravashi Trees (North Tunigi Hollow 2)",
     "url": "https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_%28North_Tunigi_Hollow_2%29",
     "starting_location": {
-        "plaintext": "North Tunigi Hollow, Girdle of the Sands , Sumeru",
-        "markdown": "North Tunigi Hollow, \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "North Tunigi Hollow, \u25c0Girdle of the Sands\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Girdle_of_the_Sands\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -18,20 +18,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Let Sorush awaken the residual Pari in the Fravashi Tree",
-            "markdown": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
-        },
-        {
-            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
-            "markdown": "Talk to the residual Pari in the Fravashi Tree"
-        },
-        {
-            "plaintext": "Bring the Udumbara to the residual Pari",
-            "markdown": "Bring the \u25c0Udumbara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Udumbara_Pistil\u25b7 to the residual Pari"
-        },
-        {
-            "plaintext": "Talk to the residual Pari in the Fravashi Tree",
-            "markdown": "Talk to the residual Pari in the Fravashi Tree"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Let Sorush awaken the residual Pari in the \u25c0Fravashi Tree\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fravashi_Tree\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the residual Pari in the Fravashi Tree"
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the \u25c0Udumbara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Udumbara_Pistil\u25b7 to the residual Pari"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the residual Pari in the Fravashi Tree"
+                }
+            ]
         }
     ],
     "dialogue": true

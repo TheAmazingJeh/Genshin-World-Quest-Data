@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Sharpening the Axe Won't Hinder the Work",
     "url": "https://genshin-impact.fandom.com/wiki/Sharpening_the_Axe_Won%27t_Hinder_the_Work",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Knights of Favonius",
@@ -21,26 +21,28 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Wagner the blacksmith",
-            "markdown": "Talk to \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7 the blacksmith"
-        },
-        {
-            "plaintext": "Collect three Iron Chunks and give them to Wagner",
-            "markdown": "Collect three \u25c0Iron Chunks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iron_Chunk\u25b7 and give them to Wagner",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "He will mark the nearest iron deposit for you on your map.",
-                    "markdown": "He will mark the nearest iron deposit for you on your map."
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Wagner the blacksmith",
-            "markdown": "Talk to Wagner the blacksmith",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Talk to \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7 the blacksmith"
+                },
                 {
-                    "plaintext": "(You get to keep the Iron Chunks he had you fetch, unless you craft something.)",
-                    "markdown": "(You get to keep the Iron Chunks he had you fetch, unless you craft something.)"
+                    "tag": "li",
+                    "text": "Collect three \u25c0Iron Chunks\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Iron_Chunk\u25b7 and give them to Wagner"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "He will mark the nearest Iron Chunks \u25c0Mining Outcrop\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mining_Outcrop\u25b7 on the \u25c0map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Map\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Wagner the blacksmith"
                 }
             ]
         }

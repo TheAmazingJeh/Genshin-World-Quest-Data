@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Where His Life Lies",
     "url": "https://genshin-impact.fandom.com/wiki/Where_His_Life_Lies",
     "starting_location": {
-        "plaintext": "Court of Fontaine: Court Region Waterway Hub , Fontaine",
-        "markdown": "\u25c0Court of Fontaine: Court Region Waterway Hub\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Court_Region_Waterway_Hub\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Court of Fontaine: Court Region Waterway Hub\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Court_of_Fontaine:_Court_Region_Waterway_Hub\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -42,24 +42,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Opera Epiclese",
-            "markdown": "Go to the Opera Epiclese"
-        },
-        {
-            "plaintext": "Go to a more secluded place with Lutong",
-            "markdown": "Go to a more secluded place with Lutong"
-        },
-        {
-            "plaintext": "Go to the caf\u00e9 with Lutong",
-            "markdown": "Go to the caf\u00e9 with Lutong"
-        },
-        {
-            "plaintext": "Look for Menthe",
-            "markdown": "Look for Menthe"
-        },
-        {
-            "plaintext": "Meet up with Garcia's group",
-            "markdown": "Meet up with Garcia's group"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to the Opera Epiclese"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to a more secluded place with Lutong"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the caf\u00e9 with Lutong"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for Menthe"
+                },
+                {
+                    "tag": "li",
+                    "text": "Meet up with Garcia's group"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Fontaine Research Institute Chronicles",
     "url": "https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute_Chronicles",
@@ -42,16 +43,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Fontaine Research Institute, Stagnating in the Rubble",
-            "markdown": "\u25c0Fontaine Research Institute, Stagnating in the Rubble\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute,_Stagnating_in_the_Rubble\u25b7"
-        },
-        {
-            "plaintext": "Go to the Institute Dormitories and retrieve the Anchor",
-            "markdown": "\u25c0Go to the Institute Dormitories and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_Dormitories_and_retrieve_the_Anchor\u25b7"
-        },
-        {
-            "plaintext": "Go to the Institute of Clockwork Applications and retrieve the Anchor",
-            "markdown": "\u25c0Go to the Institute of Clockwork Applications and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_of_Clockwork_Applications_and_retrieve_the_Anchor\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Fontaine Research Institute, Stagnating in the Rubble\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine_Research_Institute,_Stagnating_in_the_Rubble\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Go to the Institute Dormitories and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_Dormitories_and_retrieve_the_Anchor\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Go to the Institute of Clockwork Applications and retrieve the Anchor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Go_to_the_Institute_of_Clockwork_Applications_and_retrieve_the_Anchor\u25b7"
+                }
+            ]
         }
     ]
 }

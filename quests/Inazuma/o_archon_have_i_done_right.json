@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "O Archon, Have I Done Right?",
     "url": "https://genshin-impact.fandom.com/wiki/O_Archon%2C_Have_I_Done_Right%3F",
     "starting_location": {
-        "plaintext": "Inazuma City , Inazuma",
-        "markdown": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Inazuma City\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma_City\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,44 +39,52 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Shouta",
-            "markdown": "Talk to \u25c0Shouta\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shouta\u25b7"
-        },
-        {
-            "plaintext": "Go to the shrine outside the city",
-            "markdown": "Go to the shrine outside the city"
-        },
-        {
-            "plaintext": "Defeat all the Treasure Hoarders",
-            "markdown": "Defeat all the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Treasure Hoarders: Scout x1",
-                    "markdown": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 x1",
-                    "img": {
-                        "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Talk to \u25c0Shouta\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Shouta\u25b7"
                 },
                 {
-                    "plaintext": "Treasure Hoarders: Handyman x2",
-                    "markdown": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 x2",
-                    "img": {
-                        "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Go to the shrine outside the city"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_scout> \u25c0Treasure Hoarders: Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Scout\u25b7 \u00d71",
+                            "img": {
+                                "treasure_hoarders_scout": "Treasure_Hoarder_Scout_1_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:treasure_hoarders_handyman> \u25c0Treasure Hoarders: Handyman\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders:_Handyman\u25b7 \u00d72",
+                            "img": {
+                                "treasure_hoarders_handyman": "Treasure_Hoarder_Handyman_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Help Shouta find out the reason"
+                },
+                {
+                    "tag": "li",
+                    "text": "Ask for \u25c0Kouichi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kouichi\u25b7's opinion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Ask for \u25c0Yayoi Nanatsuki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yayoi_Nanatsuki\u25b7's opinion"
                 }
             ]
-        },
-        {
-            "plaintext": "Help Shouta find out the reason",
-            "markdown": "Help Shouta find out the reason"
-        },
-        {
-            "plaintext": "Ask for Kouichi's opinion",
-            "markdown": "Ask for \u25c0Kouichi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kouichi\u25b7's opinion"
-        },
-        {
-            "plaintext": "Ask for Yayoi Nanatsuki's opinion",
-            "markdown": "Ask for \u25c0Yayoi Nanatsuki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yayoi_Nanatsuki\u25b7's opinion"
         }
     ],
     "dialogue": true

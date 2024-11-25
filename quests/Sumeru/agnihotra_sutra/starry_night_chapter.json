@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Starry Night Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/Starry_Night_Chapter",
     "starting_location": {
-        "plaintext": "Avidya Forest , Sumeru",
-        "markdown": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Avidya Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Avidya_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": {
         "plaintext": "The World of Aranara",
@@ -42,128 +42,143 @@
     ],
     "steps": [
         {
-            "plaintext": "Find Aranakin (if Risen Moon Chapter was completed first)",
-            "markdown": "Find \u25c0Aranakin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranakin\u25b7 (if Risen Moon Chapter was completed first)"
+            "tag": "p",
+            "text": "The quest will start by approaching the three \u25c0Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Eremites\u25b7 located in \u25c0Gandha Hill\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gandha_Hill\u25b7, east of \u25c0Gandharva Ville\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gandharva_Ville\u25b7, \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7, or after completing the \u25c0World Quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/World_Quest\u25b7 \u25c0Risen Moon Chapter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Risen_Moon_Chapter\u25b7 in Series \u25c0Agnihotra Sutra\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Agnihotra_Sutra\u25b7."
         },
         {
-            "plaintext": "Go probe the Eremites",
-            "markdown": "Go probe the \u25c0Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite\u25b7"
-        },
-        {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7"
-        },
-        {
-            "plaintext": "Use the Kusava to open up the path",
-            "markdown": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7 to open up the path"
-        },
-        {
-            "plaintext": "Enter the cave",
-            "markdown": "Enter the cave"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Lower the water level in the cave",
-            "markdown": "Lower the water level in the cave"
-        },
-        {
-            "plaintext": "Explore the cave",
-            "markdown": "Explore the cave"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Go to the exit of the cave",
-            "markdown": "Go to the exit of the cave"
-        },
-        {
-            "plaintext": "Leave the cave",
-            "markdown": "Leave the cave"
-        },
-        {
-            "plaintext": "Use the Kusava to open up the path",
-            "markdown": "Use the Kusava to open up the path"
-        },
-        {
-            "plaintext": "Go to the cave where the Zohrah Mushroom is located",
-            "markdown": "Go to the cave where the \u25c0Zohrah Mushroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zohrah_Mushroom\u25b7 is located"
-        },
-        {
-            "plaintext": "Talk to the people who are blocking the cave",
-            "markdown": "Talk to the people who are blocking the cave"
-        },
-        {
-            "plaintext": "Go into the cave where the Zohrah Mushroom is located",
-            "markdown": "Go into the cave where the Zohrah Mushroom is located"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Lower the water level in the cave",
-            "markdown": "Lower the water level in the cave"
-        },
-        {
-            "plaintext": "Investigate the Zohrah Mushroom",
-            "markdown": "Investigate the Zohrah Mushroom"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Drain the water and obtain the Zohrah Mushroom",
-            "markdown": "Drain the water and obtain the Zohrah Mushroom"
-        },
-        {
-            "plaintext": "Use the Kusava to break the seal on the Zohrah Mushroom (0/3)",
-            "markdown": "Use the Kusava to break the seal on the Zohrah Mushroom (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The three seals are in the north of the quest area. Use the nearby Dendrogranum to destroy the wall with a Charged Attack.",
-                    "markdown": "The three seals are in the north of the quest area. Use the nearby \u25c0Dendrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7 to destroy the wall with a \u25c0Charged Attack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charged_Attack\u25b7."
+                    "tag": "li",
+                    "text": "Find \u25c0Aranakin\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranakin\u25b7 (if Risen Moon Chapter was completed first)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go probe the \u25c0Eremites\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Eremite\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the \u25c0Aranara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aranara\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7 to open up the path"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Lower the water level in the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Explore the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the exit of the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Leave the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the Kusava to open up the path"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the cave where the \u25c0Zohrah Mushroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Zohrah_Mushroom\u25b7 is located"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the people who are blocking the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go into the cave where the Zohrah Mushroom is located"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Lower the water level in the cave"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the Zohrah Mushroom"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Drain the water and obtain the Zohrah Mushroom"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the Kusava to break the seal on the Zohrah Mushroom (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The three seals are in the north of the quest area. Use the nearby \u25c0Dendrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7 to destroy the wall with a \u25c0Charged Attack\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charged_Attack\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Eremite assassins"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the Zohrah Mushroom"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Catch up with \u25c0Lunja\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lunja\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Get the Zohrah Mushroom back from Lunja"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You can choose to negotiate or fight the Eremites. Skip the next step if you negotiate with them."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Eremites"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranakin"
                 }
             ]
-        },
-        {
-            "plaintext": "Defeat the Eremite assassins",
-            "markdown": "Defeat the Eremite assassins"
-        },
-        {
-            "plaintext": "Obtain the Zohrah Mushroom",
-            "markdown": "Obtain the Zohrah Mushroom"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
-        },
-        {
-            "plaintext": "Catch up with Lunja",
-            "markdown": "Catch up with \u25c0Lunja\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lunja\u25b7"
-        },
-        {
-            "plaintext": "Get the Zohrah Mushroom back from Lunja",
-            "markdown": "Get the Zohrah Mushroom back from Lunja",
-            "substeps": [
-                {
-                    "plaintext": "You can choose to negotiate or fight the Eremites. Skip the next step if you negotiate with them.",
-                    "markdown": "You can choose to negotiate or fight the Eremites. Skip the next step if you negotiate with them."
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat the Eremites",
-            "markdown": "Defeat the Eremites"
-        },
-        {
-            "plaintext": "Talk to Aranakin",
-            "markdown": "Talk to Aranakin"
         }
     ],
     "dialogue": true

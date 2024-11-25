@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Lost in the Snow",
     "url": "https://genshin-impact.fandom.com/wiki/Lost_in_the_Snow",
     "starting_location": {
-        "plaintext": "Dragonspine Adventurer Camp , Dragonspine",
-        "markdown": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7"
+        "text": "\u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 , \u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,38 +53,56 @@
     ],
     "steps": [
         {
-            "plaintext": "Follow the Snow-Covered Path to search for Joel's father",
-            "markdown": "Follow the Snow-Covered Path to search for Joel's father",
-            "substeps": [
-                {
-                    "plaintext": "Read the \"Neatly-Written Note\" on the ground",
-                    "markdown": "Read the \"Neatly-Written Note\" on the ground"
-                }
-            ]
+            "tag": "p",
+            "text": "Talk to \u25c0Joel\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Joel\u25b7 at the \u25c0Dragonspine Adventurer Camp\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine_Adventurer_Camp\u25b7 to start the quest."
         },
         {
-            "plaintext": "Go to the western slope of the mountain to search for Joel's father",
-            "markdown": "Go to the western slope of the mountain to search for Joel's father",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Use Pyro to melt the snow covering the \"Neatly-Written Note\" on the ground and then read it",
-                    "markdown": "Use \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 to melt the snow covering the \"Neatly-Written Note\" on the ground and then read it"
+                    "tag": "li",
+                    "text": "Follow the Snow-Covered Path to search for Joel's father"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Read the \"Neatly-Written Note\" on the ground"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to the western slope of the mountain to search for Joel's father"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use \u25c0Pyro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pyro\u25b7 to melt the snow covering the \"Neatly-Written Note\" on the ground and then read it"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head for the summit to search for Joel's father"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Break the rock wall to access the cave. Read the \"Scribbled Note\" is next to the pot"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Joel"
                 }
             ]
-        },
-        {
-            "plaintext": "Head for the summit to search for Joel's father",
-            "markdown": "Head for the summit to search for Joel's father",
-            "substeps": [
-                {
-                    "plaintext": "Break the rock wall to access the cave. Read the \"Scribbled Note\" is next to the pot",
-                    "markdown": "Break the rock wall to access the cave. Read the \"Scribbled Note\" is next to the pot"
-                }
-            ]
-        },
-        {
-            "plaintext": "Report back to Joel",
-            "markdown": "Report back to Joel"
         }
     ],
     "dialogue": true

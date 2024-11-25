@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Thief-Catcher",
     "url": "https://genshin-impact.fandom.com/wiki/Thief-Catcher",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Reach Adventure Rank 24",
@@ -42,22 +42,34 @@
     ],
     "steps": [
         {
-            "plaintext": "Defeat the Treasure Hoarders near to the Dawn Winery",
-            "markdown": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7 near to the \u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7",
-            "substeps": [
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7."
+        },
+        {
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "You will receive Treasure Hoarder's Map for the duration of this quest.",
-                    "markdown": "You will receive \u25c0Treasure Hoarder's Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarder%27s_Map\u25b7 for the duration of this quest."
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7 near to the \u25c0Dawn Winery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dawn_Winery\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You will receive \u25c0Treasure Hoarder's Map\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarder%27s_Map\u25b7 for the duration of this quest."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Treasure Hoarders guarding the camps"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Cyrus"
                 }
             ]
-        },
-        {
-            "plaintext": "Defeat the Treasure Hoarders guarding the camps",
-            "markdown": "Defeat the Treasure Hoarders guarding the camps"
-        },
-        {
-            "plaintext": "Talk to Cyrus",
-            "markdown": "Talk to Cyrus"
         }
     ],
     "dialogue": true

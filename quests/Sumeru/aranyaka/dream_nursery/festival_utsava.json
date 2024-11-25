@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Festival Utsava",
     "url": "https://genshin-impact.fandom.com/wiki/Festival_Utsava",
     "starting_location": {
-        "plaintext": "Vanarana (Subarea) , Vanarana (Area) , Sumeru",
-        "markdown": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Vanarana (Subarea)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Subarea)\u25b7 , \u25c0Vanarana (Area)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vanarana_(Area)\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,28 +39,33 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Araja",
-            "markdown": "Talk to Araja"
-        },
-        {
-            "plaintext": "Enjoy Festival Utsava with Aranara in the Vanarana in the dream",
-            "markdown": "Enjoy Festival Utsava with Aranara in the Vanarana in the dream"
-        },
-        {
-            "plaintext": "Talk to Arakavi",
-            "markdown": "Talk to Arakavi"
-        },
-        {
-            "plaintext": "Play a melody by the stage",
-            "markdown": "Play a melody by the stage"
-        },
-        {
-            "plaintext": "Look for Araja and Arama",
-            "markdown": "Look for Araja and Arama"
-        },
-        {
-            "plaintext": "Head to Araja's house to rest",
-            "markdown": "Head to Araja's house to rest"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Talk to Araja"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enjoy Festival Utsava with Aranara in the Vanarana in the dream"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Arakavi"
+                },
+                {
+                    "tag": "li",
+                    "text": "Play a melody by the stage"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for Araja and Arama"
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to Araja's house to rest"
+                }
+            ]
         }
     ],
     "dialogue": true

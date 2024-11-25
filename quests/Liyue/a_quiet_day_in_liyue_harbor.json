@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Quiet Day in Liyue Harbor",
     "url": "https://genshin-impact.fandom.com/wiki/A_Quiet_Day_in_Liyue_Harbor",
     "starting_location": {
-        "plaintext": "Liyue Harbor , Liyue",
-        "markdown": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Liyue Harbor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue_Harbor\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Farewell, Archaic Lord and Mondstadt Gastronomy Trip",
@@ -42,50 +42,58 @@
     ],
     "steps": [
         {
-            "plaintext": "Calm Freki and her brother down",
-            "markdown": "Calm \u25c0Freki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Freki\u25b7 and \u25c0her brother\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geri\u25b7 down"
-        },
-        {
-            "plaintext": "Cook the Jade Parcels",
-            "markdown": "Cook the \u25c0Jade Parcels\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jade_Parcels\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Needs to be Delicious quality",
-                    "markdown": "Needs to be Delicious quality"
+                    "tag": "li",
+                    "text": "Calm \u25c0Freki\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Freki\u25b7 and \u25c0her brother\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Geri\u25b7 down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Cook the \u25c0Jade Parcels\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Jade_Parcels\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Needs to be Delicious quality"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Freki and her brother"
+                },
+                {
+                    "tag": "li",
+                    "text": "Calm \u25c0Ivanovich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ivanovich\u25b7 down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Bolai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bolai\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Ivanovich"
+                },
+                {
+                    "tag": "li",
+                    "text": "Calm \u25c0Atsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Atsuko\u25b7 down"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Manager Kuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Manager_Kuan\u25b7, \u25c0Clerk Zhao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clerk_Zhao\u25b7, and Nervous An"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back at Atsuko"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Nervous An"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Freki and her brother",
-            "markdown": "Report back to Freki and her brother"
-        },
-        {
-            "plaintext": "Calm Ivanovich down",
-            "markdown": "Calm \u25c0Ivanovich\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ivanovich\u25b7 down"
-        },
-        {
-            "plaintext": "Talk to Bolai",
-            "markdown": "Talk to \u25c0Bolai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Bolai\u25b7"
-        },
-        {
-            "plaintext": "Report back to Ivanovich",
-            "markdown": "Report back to Ivanovich"
-        },
-        {
-            "plaintext": "Calm Atsuko down",
-            "markdown": "Calm \u25c0Atsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Atsuko\u25b7 down"
-        },
-        {
-            "plaintext": "Talk to Manager Kuan, Clerk Zhao, and Nervous An",
-            "markdown": "Talk to \u25c0Manager Kuan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Manager_Kuan\u25b7, \u25c0Clerk Zhao\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Clerk_Zhao\u25b7, and Nervous An"
-        },
-        {
-            "plaintext": "Report back at Atsuko",
-            "markdown": "Report back at Atsuko"
-        },
-        {
-            "plaintext": "Report back to Nervous An",
-            "markdown": "Report back to Nervous An"
         }
     ],
     "dialogue": true

@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Invisible Barrier",
     "url": "https://genshin-impact.fandom.com/wiki/Invisible_Barrier",
@@ -43,89 +44,109 @@
     ],
     "steps": [
         {
-            "plaintext": "Search the Transparent Ruins (0/4)",
-            "markdown": "Search the Transparent Ruins (0/4)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The Transparent Ruins can be completed in any order.",
-                    "markdown": "The Transparent Ruins can be completed in any order."
+                    "tag": "li",
+                    "text": "Search the Transparent Ruins (0/4)"
                 },
                 {
-                    "plaintext": "Northeastern ruins: Located northeast of the Mausoleum of King Deshret and northwest of the Hypostyle Desert Statue of The Seven.",
-                    "markdown": "Northeastern ruins: Located northeast of \u25c0the Mausoleum of King Deshret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Mausoleum_of_King_Deshret\u25b7 and northwest of the Hypostyle Desert \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7.",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Defeat the  Primal Construct: Repulsor x1 on the south side of the ruins to unlock the mechanism to open the door.",
-                            "markdown": "Defeat the <img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 x1 on the south side of the ruins to unlock the mechanism to open the door.",
+                            "tag": "li",
+                            "text": "The Transparent Ruins can be completed in any order."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Northeastern ruins: Located northeast of \u25c0the Mausoleum of King Deshret\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Mausoleum_of_King_Deshret\u25b7 and northwest of the Hypostyle Desert \u25c0Statue of The Seven\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Statue_of_The_Seven\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Southwestern ruins: Located south of the Mausoleum."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Northwestern ruins: Located northwest of the Mausoleum and southeast of the \u25c0Garden of Endless Pillars\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Garden_of_Endless_Pillars\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Southeastern ruins: Located southeast of the Mausoleum."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Defeat the <img:primal_construct_repulsor> \u25c0Primal Construct: Repulsor\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Primal_Construct:_Repulsor\u25b7 \u00d71 on the south side of the ruins to unlock the mechanism to open the door.",
                             "img": {
                                 "primal_construct_repulsor": "Primal_Construct_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Obtain Transparent Ruins Record (I).",
-                            "markdown": "Obtain \u25c0Transparent Ruins Record (I)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transparent_Ruins_Record_(I)\u25b7."
+                            "tag": "li",
+                            "text": "Obtain \u25c0Transparent Ruins Record (I)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transparent_Ruins_Record_(I)\u25b7."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Southwestern ruins: Located south of the Mausoleum.",
-                    "markdown": "Southwestern ruins: Located south of the Mausoleum.",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Enter the ruins from the north side and navigate through the transparent walls.",
-                            "markdown": "Enter the ruins from the north side and navigate through the transparent walls."
+                            "tag": "li",
+                            "text": "Enter the ruins from the north side and navigate through the transparent walls."
                         },
                         {
-                            "plaintext": "Obtain Transparent Ruins Record (II).",
-                            "markdown": "Obtain \u25c0Transparent Ruins Record (II)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transparent_Ruins_Record_(II)\u25b7."
+                            "tag": "li",
+                            "text": "Obtain \u25c0Transparent Ruins Record (II)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transparent_Ruins_Record_(II)\u25b7."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Northwestern ruins: Located northwest of the Mausoleum and southeast of the Garden of Endless Pillars.",
-                    "markdown": "Northwestern ruins: Located northwest of the Mausoleum and southeast of the \u25c0Garden of Endless Pillars\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Garden_of_Endless_Pillars\u25b7.",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Activate the mechanism in the small room across from the two Replicator Keystones to open the door to the Forged Primal Light.",
-                            "markdown": "Activate the mechanism in the small room across from the two \u25c0Replicator Keystones\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Replicator_Keystone\u25b7 to open the door to the \u25c0Forged Primal Light\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forged_Primal_Light\u25b7."
+                            "tag": "li",
+                            "text": "Activate the mechanism in the small room across from the two \u25c0Replicator Keystones\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Replicator_Keystone\u25b7 to open the door to the \u25c0Forged Primal Light\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Forged_Primal_Light\u25b7."
                         },
                         {
-                            "plaintext": "Activate the Replicator Keystone on the west (the one at an angle) to create the Everlight Cell.",
-                            "markdown": "Activate the Replicator Keystone on the west (the one at an angle) to create the \u25c0Everlight Cell\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Everlight_Cell\u25b7."
+                            "tag": "li",
+                            "text": "Activate the Replicator Keystone on the west (the one at an angle) to create the \u25c0Everlight Cell\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Everlight_Cell\u25b7."
                         },
                         {
-                            "plaintext": "After activating the Neverlight Cell, walk past it to the right to reach the exit and the chest.",
-                            "markdown": "After activating the \u25c0Neverlight Cell\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neverlight_Cell\u25b7, walk past it to the right to reach the exit and the chest."
+                            "tag": "li",
+                            "text": "After activating the \u25c0Neverlight Cell\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neverlight_Cell\u25b7, walk past it to the right to reach the exit and the chest."
                         },
                         {
-                            "plaintext": "Obtain Transparent Ruins Record (III).",
-                            "markdown": "Obtain \u25c0Transparent Ruins Record (III)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transparent_Ruins_Record_(III)\u25b7."
+                            "tag": "li",
+                            "text": "Obtain \u25c0Transparent Ruins Record (III)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Transparent_Ruins_Record_(III)\u25b7."
                         }
                     ]
                 },
                 {
-                    "plaintext": "Southeastern ruins: Located southeast of the Mausoleum.",
-                    "markdown": "Southeastern ruins: Located southeast of the Mausoleum.",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Enter the ruins from a hole in the wall on the east side of the ruins.",
-                            "markdown": "Enter the ruins from a hole in the wall on the east side of the ruins."
+                            "tag": "li",
+                            "text": "Enter the ruins from a hole in the wall on the east side of the ruins."
                         },
                         {
-                            "plaintext": "Remove a Loose Sand Pile to reveal a mechanism to open the door within.",
-                            "markdown": "Remove a \u25c0Loose Sand Pile\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Loose_Sand_Pile\u25b7 to reveal a mechanism to open the door within."
+                            "tag": "li",
+                            "text": "Remove a \u25c0Loose Sand Pile\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Loose_Sand_Pile\u25b7 to reveal a mechanism to open the door within."
                         },
                         {
-                            "plaintext": "The chest in this ruin does not yield a Transparent Ruin Record but must still be opened to complete the quest.",
-                            "markdown": "The chest in this ruin does not yield a Transparent Ruin Record but must still be opened to complete the quest."
+                            "tag": "li",
+                            "text": "The chest in this ruin does not yield a Transparent Ruin Record but must still be opened to complete the quest."
                         }
                     ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Soheil",
-            "markdown": "Talk to \u25c0Soheil\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Soheil\u25b7"
         }
     ],
     "dialogue": true

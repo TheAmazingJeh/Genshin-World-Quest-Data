@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Final Chapter",
     "url": "https://genshin-impact.fandom.com/wiki/The_Final_Chapter",
     "starting_location": {
-        "plaintext": "Mawtiyima Forest , Sumeru",
-        "markdown": "\u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -88,160 +88,174 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the Mawtiyima Forest",
-            "markdown": "Go to the \u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7"
-        },
-        {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the Aranara"
-        },
-        {
-            "plaintext": "Go with Aranaga to look for the Yajna Grass",
-            "markdown": "Go with Aranaga to look for the Yajna Grass"
-        },
-        {
-            "plaintext": "Talk to Aranaga",
-            "markdown": "Talk to Aranaga"
-        },
-        {
-            "plaintext": "Use the Kusava to break the seal on the Yajna Grass (0/3)",
-            "markdown": "Use the Kusava to break the seal on the Yajna Grass (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Use the Kusava to raise the platform. For the northern seal, you must remove the barrier first by using the Dendrogranum and making Charged Attacks at the floating objects.",
-                    "markdown": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7 to raise the platform. For the northern seal, you must remove the barrier first by using the \u25c0Dendrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7 and making Charged Attacks at the floating objects."
+                    "tag": "li",
+                    "text": "Go to the \u25c0Mawtiyima Forest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima_Forest\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Aranara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go with Aranaga to look for the Yajna Grass"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranaga"
+                },
+                {
+                    "tag": "li",
+                    "text": "Use the Kusava to break the seal on the Yajna Grass (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7 to raise the platform. For the northern seal, you must remove the barrier first by using the \u25c0Dendrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7 and making Charged Attacks at the floating objects."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Pick the Yajna Grass"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranaga"
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to Aranaga's little garden"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Aranaga"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait until the moon hangs high in the sky (23:00 \u2013 01:00)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Perform the \u25c0Arahaoma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arahaoma\u25b7 ritual"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Aranara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Jamikayomars and offer the elixir"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Aranara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Mawtiyima\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Reach Mawtiyima"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Aranara"
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the pollution caused by \u25c0The Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7 (0/3)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Follow the greenish pink \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 to the polluted areas in the northeast, northwest, and then south."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "At each polluted area, you must activate two seals to restore the \u25c0Dendrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7 to destroy plant-eroded stones (green), repair the seals (yellow), or raise platforms (red). You can change the color by pressing E key (PC)."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Use the restored Dendrogranum and make a Charged Attack at the polluted flower."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Go and clear the last Withering Zone"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the mutated Fungi"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:grounded_hydroshroom> \u25c0Grounded Hydroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grounded_Hydroshroom\u25b7 \u2014 Gamal",
+                            "img": {
+                                "grounded_hydroshroom": "Grounded_Hydroshroom_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:winged_cryoshroom> \u25c0Winged Cryoshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Cryoshroom\u25b7 \u2014 Alap",
+                            "img": {
+                                "winged_cryoshroom": "Winged_Cryoshroom_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:winged_dendroshroom> \u25c0Winged Dendroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Dendroshroom\u25b7 \u2014 Bet",
+                            "img": {
+                                "winged_dendroshroom": "Winged_Dendroshroom_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:floating_hydro_fungus> \u25c0Floating Hydro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Hydro_Fungus\u25b7 \u00d72",
+                            "img": {
+                                "floating_hydro_fungus": "Floating_Hydro_Fungus_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:whirling_cryo_fungus> \u25c0Whirling Cryo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whirling_Cryo_Fungus\u25b7 \u00d72",
+                            "img": {
+                                "whirling_cryo_fungus": "Whirling_Cryo_Fungus_Icon.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "<img:floating_dendro_fungus> \u25c0Floating Dendro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Dendro_Fungus\u25b7 \u00d71",
+                            "img": {
+                                "floating_dendro_fungus": "Floating_Dendro_Fungus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Clean up the last Withering Zone"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the Aranara"
                 }
             ]
-        },
-        {
-            "plaintext": "Pick the Yajna Grass",
-            "markdown": "Pick the Yajna Grass"
-        },
-        {
-            "plaintext": "Talk to Aranaga",
-            "markdown": "Talk to Aranaga"
-        },
-        {
-            "plaintext": "Return to Aranaga's little garden",
-            "markdown": "Return to Aranaga's little garden"
-        },
-        {
-            "plaintext": "Talk to Aranaga",
-            "markdown": "Talk to Aranaga"
-        },
-        {
-            "plaintext": "Wait until the moon hangs high in the sky (23:00 \u2013 01:00)",
-            "markdown": "Wait until the moon hangs high in the sky (23:00 \u2013 01:00)"
-        },
-        {
-            "plaintext": "Perform the Arahaoma ritual",
-            "markdown": "Perform the \u25c0Arahaoma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Arahaoma\u25b7 ritual"
-        },
-        {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the Aranara"
-        },
-        {
-            "plaintext": "Go to Jamikayomars and offer the elixir",
-            "markdown": "Go to Jamikayomars and offer the elixir"
-        },
-        {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the Aranara"
-        },
-        {
-            "plaintext": "Go to Mawtiyima",
-            "markdown": "Go to \u25c0Mawtiyima\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mawtiyima\u25b7"
-        },
-        {
-            "plaintext": "Reach Mawtiyima",
-            "markdown": "Reach Mawtiyima"
-        },
-        {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the Aranara"
-        },
-        {
-            "plaintext": "Clean up the pollution caused by The Withering (0/3)",
-            "markdown": "Clean up the pollution caused by \u25c0The Withering\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Withering\u25b7 (0/3)",
-            "substeps": [
-                {
-                    "plaintext": "Follow the greenish pink Seelie to the polluted areas in the northeast, northwest, and then south.",
-                    "markdown": "Follow the greenish pink \u25c0Seelie\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Seelie\u25b7 to the polluted areas in the northeast, northwest, and then south."
-                },
-                {
-                    "plaintext": "At each polluted area, you must activate two seals to restore the Dendrogranum.",
-                    "markdown": "At each polluted area, you must activate two seals to restore the \u25c0Dendrogranum\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dendrogranum\u25b7."
-                },
-                {
-                    "plaintext": "Use the Kusava to destroy plant-eroded stones (green), repair the seals (yellow), or raise platforms (red). You can change the color by pressing E key (PC).",
-                    "markdown": "Use the \u25c0Kusava\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22Kusava%22\u25b7 to destroy plant-eroded stones (green), repair the seals (yellow), or raise platforms (red). You can change the color by pressing E key (PC)."
-                },
-                {
-                    "plaintext": "Use the restored Dendrogranum and make a Charged Attack at the polluted flower.",
-                    "markdown": "Use the restored Dendrogranum and make a Charged Attack at the polluted flower."
-                }
-            ]
-        },
-        {
-            "plaintext": "Go and clear the last Withering Zone",
-            "markdown": "Go and clear the last Withering Zone"
-        },
-        {
-            "plaintext": "Defeat the mutated Fungi",
-            "markdown": "Defeat the mutated Fungi",
-            "substeps": [
-                {
-                    "plaintext": "Grounded Hydroshroom \u2014 Gamal",
-                    "markdown": "<img:grounded_hydroshroom> \u25c0Grounded Hydroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grounded_Hydroshroom\u25b7 \u2014 Gamal",
-                    "img": {
-                        "grounded_hydroshroom": "Grounded_Hydroshroom_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Winged Cryoshroom \u2014 Alap",
-                    "markdown": "<img:winged_cryoshroom> \u25c0Winged Cryoshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Cryoshroom\u25b7 \u2014 Alap",
-                    "img": {
-                        "winged_cryoshroom": "Winged_Cryoshroom_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Winged Dendroshroom \u2014 Bet",
-                    "markdown": "<img:winged_dendroshroom> \u25c0Winged Dendroshroom\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Winged_Dendroshroom\u25b7 \u2014 Bet",
-                    "img": {
-                        "winged_dendroshroom": "Winged_Dendroshroom_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Floating Hydro Fungus x2",
-                    "markdown": "<img:floating_hydro_fungus> \u25c0Floating Hydro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Hydro_Fungus\u25b7 x2",
-                    "img": {
-                        "floating_hydro_fungus": "Floating_Hydro_Fungus_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Whirling Cryo Fungus x2",
-                    "markdown": "<img:whirling_cryo_fungus> \u25c0Whirling Cryo Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Whirling_Cryo_Fungus\u25b7 x2",
-                    "img": {
-                        "whirling_cryo_fungus": "Whirling_Cryo_Fungus_Icon.png"
-                    }
-                },
-                {
-                    "plaintext": "Floating Dendro Fungus x1",
-                    "markdown": "<img:floating_dendro_fungus> \u25c0Floating Dendro Fungus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Floating_Dendro_Fungus\u25b7 x1",
-                    "img": {
-                        "floating_dendro_fungus": "Floating_Dendro_Fungus_Icon.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Clean up the last Withering Zone",
-            "markdown": "Clean up the last Withering Zone"
-        },
-        {
-            "plaintext": "Talk to the Aranara",
-            "markdown": "Talk to the Aranara"
         }
     ],
     "dialogue": true

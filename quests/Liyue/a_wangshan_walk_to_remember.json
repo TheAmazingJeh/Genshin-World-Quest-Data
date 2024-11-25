@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Wangshan Walk to Remember",
     "url": "https://genshin-impact.fandom.com/wiki/A_Wangshan_Walk_to_Remember",
     "starting_location": {
-        "plaintext": "Yilong Wharf , Liyue",
-        "markdown": "\u25c0Yilong Wharf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yilong_Wharf\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Yilong Wharf\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yilong_Wharf\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,64 +39,69 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to Wangshan Hall",
-            "markdown": "Go to \u25c0Wangshan Hall\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshan_Hall\u25b7"
-        },
-        {
-            "plaintext": "Follow Huang the Third to the site of the trial",
-            "markdown": "Follow Huang the Third to the site of the trial"
-        },
-        {
-            "plaintext": "Learn about the rules for the trial",
-            "markdown": "Learn about the rules for the trial"
-        },
-        {
-            "plaintext": "Complete the trial!",
-            "markdown": "Complete the trial!"
-        },
-        {
-            "plaintext": "Follow Huang the Third to the site of the next trial",
-            "markdown": "Follow Huang the Third to the site of the next trial"
-        },
-        {
-            "plaintext": "Open Wangshan Hall's gates",
-            "markdown": "Open Wangshan Hall's gates"
-        },
-        {
-            "plaintext": "Enter Wangshan Hall",
-            "markdown": "Enter Wangshan Hall"
-        },
-        {
-            "plaintext": "Tour Wangshan Hall with Huang the Third",
-            "markdown": "Tour Wangshan Hall with Huang the Third"
-        },
-        {
-            "plaintext": "Speak with Huang the Third and go to the next location",
-            "markdown": "Speak with Huang the Third and go to the next location"
-        },
-        {
-            "plaintext": "Tour Wangshan Hall with Huang the Third",
-            "markdown": "Tour Wangshan Hall with Huang the Third"
-        },
-        {
-            "plaintext": "Speak with Huang the Third and go to the next location",
-            "markdown": "Speak with Huang the Third and go to the next location"
-        },
-        {
-            "plaintext": "Tour Wangshan Hall with Huang the Third",
-            "markdown": "Tour Wangshan Hall with Huang the Third"
-        },
-        {
-            "plaintext": "Talk to Huang the Third",
-            "markdown": "Talk to Huang the Third"
-        },
-        {
-            "plaintext": "Step to the side and listen to Paimon's idea",
-            "markdown": "Step to the side and listen to Paimon's idea"
-        },
-        {
-            "plaintext": "Give Paimon's special dish to Huang the Third",
-            "markdown": "Give Paimon's special dish to Huang the Third"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Wangshan Hall\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wangshan_Hall\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Huang the Third to the site of the trial"
+                },
+                {
+                    "tag": "li",
+                    "text": "Learn about the rules for the trial"
+                },
+                {
+                    "tag": "li",
+                    "text": "Complete the trial!"
+                },
+                {
+                    "tag": "li",
+                    "text": "Follow Huang the Third to the site of the next trial"
+                },
+                {
+                    "tag": "li",
+                    "text": "Open Wangshan Hall's gates"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter Wangshan Hall"
+                },
+                {
+                    "tag": "li",
+                    "text": "Tour Wangshan Hall with Huang the Third"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak with Huang the Third and go to the next location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Tour Wangshan Hall with Huang the Third"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak with Huang the Third and go to the next location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Tour Wangshan Hall with Huang the Third"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Huang the Third"
+                },
+                {
+                    "tag": "li",
+                    "text": "Step to the side and listen to Paimon's idea"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give Paimon's special dish to Huang the Third"
+                }
+            ]
         }
     ],
     "dialogue": true

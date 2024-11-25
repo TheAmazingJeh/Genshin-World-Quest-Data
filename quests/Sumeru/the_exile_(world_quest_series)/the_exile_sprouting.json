@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Exile: Sprouting",
     "url": "https://genshin-impact.fandom.com/wiki/The_Exile%3A_Sprouting",
     "starting_location": {
-        "plaintext": "Aaru Village , Sumeru",
-        "markdown": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,12 +39,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Use the power of Dendro to \"fertilize\" the seeds",
-            "markdown": "Use the power of Dendro to \"fertilize\" the seeds"
+            "tag": "p",
+            "text": "Start the quest by approaching \u25c0Sabbah\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sabbah\u25b7 in \u25c0Aaru Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Aaru_Village\u25b7."
         },
         {
-            "plaintext": "Talk to Sabbah",
-            "markdown": "Talk to Sabbah"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Use the power of Dendro to \"fertilize\" the seeds"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Sabbah"
+                }
+            ]
         }
     ],
     "dialogue": true

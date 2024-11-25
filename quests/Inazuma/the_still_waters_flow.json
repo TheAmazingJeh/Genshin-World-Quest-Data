@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Still Water's Flow",
     "url": "https://genshin-impact.fandom.com/wiki/The_Still_Water%27s_Flow",
     "starting_location": {
-        "plaintext": "Sangonomiya Shrine",
-        "markdown": "\u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7"
+        "text": "\u25c0Sangonomiya Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sangonomiya_Shrine\u25b7"
     },
     "requirements": {
         "plaintext": "\"Heart of Watatsumi\"",
@@ -49,31 +49,50 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Tsuyuko",
-            "markdown": "Talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7"
-        },
-        {
-            "plaintext": "Talk to Tsuyuko at the altar",
-            "markdown": "Talk to Tsuyuko at the \u25c0altar\u25b6\u25c1#Gallery\u25b7"
-        },
-        {
-            "plaintext": "Look for the remaining Key Sigils (0/2)",
-            "markdown": "Look for the remaining \u25c0Key Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_Sigil\u25b7 (0/2)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Fin of Watatsumi:",
-                    "markdown": "Fin of Watatsumi:",
-                    "substeps": [
+                    "tag": "li",
+                    "text": "Talk to \u25c0Tsuyuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tsuyuko\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Tsuyuko at the \u25c0altar\u25b6\u25c1#Gallery\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for the remaining \u25c0Key Sigils\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Key_Sigil\u25b7 (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Ruin Defender x2",
-                            "markdown": "<img:ruin_defender> \u25c0Ruin Defender\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Defender\u25b7 x2",
+                            "tag": "li",
+                            "text": "Fin of Watatsumi:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Heart of Watatsumi:"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The Key Sigil can be picked up without fighting the enemies."
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:ruin_defender> \u25c0Ruin Defender\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Defender\u25b7 \u00d72",
                             "img": {
                                 "ruin_defender": "Ruin_Defender_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Ruin Scout x2",
-                            "markdown": "<img:ruin_scout> \u25c0Ruin Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Scout\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:ruin_scout> \u25c0Ruin Scout\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ruin_Scout\u25b7 \u00d72",
                             "img": {
                                 "ruin_scout": "Ruin_Scout_Icon.png"
                             }
@@ -81,19 +100,18 @@
                     ]
                 },
                 {
-                    "plaintext": "Heart of Watatsumi:",
-                    "markdown": "Heart of Watatsumi:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "Fatui Skirmisher - Hydrogunner Legionnaire x2",
-                            "markdown": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 x2",
+                            "tag": "li",
+                            "text": "<img:fatui_skirmisher_-_hydrogunner_legionnaire> \u25c0Fatui Skirmisher - Hydrogunner Legionnaire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fatui_Skirmisher_-_Hydrogunner_Legionnaire\u25b7 \u00d72",
                             "img": {
                                 "fatui_skirmisher_-_hydrogunner_legionnaire": "Fatui_Hydrogunner_Legionnaire_Icon.png"
                             }
                         },
                         {
-                            "plaintext": "Mirror Maiden x1",
-                            "markdown": "<img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 x1",
+                            "tag": "li",
+                            "text": "<img:mirror_maiden> \u25c0Mirror Maiden\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mirror_Maiden\u25b7 \u00d71",
                             "img": {
                                 "mirror_maiden": "Mirror_Maiden_Icon.png"
                             }
@@ -101,30 +119,29 @@
                     ]
                 },
                 {
-                    "plaintext": "The Key Sigil can be picked up without fighting the enemies.",
-                    "markdown": "The Key Sigil can be picked up without fighting the enemies."
-                }
-            ]
-        },
-        {
-            "plaintext": "Follow Tsuyuko's instructions and activate all the altars (0/2)",
-            "markdown": "Follow Tsuyuko's instructions and activate all the altars (0/2)"
-        },
-        {
-            "plaintext": "Talk to Tsuyuko",
-            "markdown": "Talk to Tsuyuko"
-        },
-        {
-            "plaintext": "Descend into Enkanomiya",
-            "markdown": "Descend into \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
-        },
-        {
-            "plaintext": "Investigate the cavern",
-            "markdown": "Investigate the cavern",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Follow Tsuyuko's instructions and activate all the altars (0/2)"
+                },
                 {
-                    "plaintext": "Upon completion of this step, the southernmost Teleport Waypoint in Enkanomiya is unlocked.",
-                    "markdown": "Upon completion of this step, the southernmost \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 in Enkanomiya is unlocked."
+                    "tag": "li",
+                    "text": "Talk to Tsuyuko"
+                },
+                {
+                    "tag": "li",
+                    "text": "Descend into \u25c0Enkanomiya\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Enkanomiya\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the cavern"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Upon completion of this step, the southernmost \u25c0Teleport Waypoint\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Teleport_Waypoint\u25b7 in Enkanomiya is unlocked."
+                        }
+                    ]
                 }
             ]
         }

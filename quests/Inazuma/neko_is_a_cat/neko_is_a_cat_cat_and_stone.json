@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Neko Is a Cat: Cat and Stone",
     "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat%3A_Cat_and_Stone",
     "starting_location": {
-        "plaintext": "Asase Shrine , Inazuma",
-        "markdown": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,24 +32,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Start the quest by talking to Neko",
-            "markdown": "Start the quest by talking to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
-        },
-        {
-            "plaintext": "Ask Taisuke and Etsuko some questions",
-            "markdown": "Ask \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7 and \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7 some questions"
-        },
-        {
-            "plaintext": "Go to Tatarasuna to look for an artisan",
-            "markdown": "Go to \u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 to look for an artisan"
-        },
-        {
-            "plaintext": "Talk to the artisan",
-            "markdown": "Talk to the artisan"
-        },
-        {
-            "plaintext": "Report back to Neko together with Ooshima Junpei",
-            "markdown": "Report back to Neko together with \u25c0Ooshima Junpei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ooshima_Junpei\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Ask \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7 and \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7 some questions"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to \u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 to look for an artisan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the artisan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Neko together with \u25c0Ooshima Junpei\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ooshima_Junpei\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

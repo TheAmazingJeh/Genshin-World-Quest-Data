@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Sacrificial Offering",
     "url": "https://genshin-impact.fandom.com/wiki/Sacrificial_Offering",
     "starting_location": {
-        "plaintext": "Mt. Yougou , Narukami Island , Inazuma",
-        "markdown": "\u25c0Mt. Yougou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Yougou\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Mt. Yougou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mt._Yougou\u25b7 , \u25c0Narukami Island\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narukami_Island\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,138 +53,177 @@
     ],
     "steps": [
         {
-            "plaintext": "Go to the abandoned shrine northeast of Konda Village",
-            "markdown": "Go to the abandoned shrine northeast of \u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7"
-        },
-        {
-            "plaintext": "Carry out the investigation at the abandoned shrine",
-            "markdown": "Carry out the investigation at the abandoned shrine",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "(Optional) Interact with the large Sky Kitsune Statue to the east.",
-                    "markdown": "(Optional) Interact with the large \u25c0Sky Kitsune Statue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sky_Kitsune_Statue\u25b7 to the east."
+                    "tag": "li",
+                    "text": "Go to the abandoned shrine northeast of \u25c0Konda Village\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Konda_Village\u25b7"
                 },
                 {
-                    "plaintext": "Interact with any Mysterious Shadow.",
-                    "markdown": "Interact with any \u25c0Mysterious Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Shadow\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Continue the investigation at the abandoned shrine (Mysterious Shadow locations in Gallery)",
-            "markdown": "Continue the investigation at the abandoned shrine (Mysterious Shadow locations in \u25c0Gallery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacrificial_Offering#Gallery\u25b7)",
-            "substeps": [
-                {
-                    "plaintext": "Talk to the three Mysterious Shadows twice until they teleport to the three kitsune statues surrounding a small stone platform.",
-                    "markdown": "Talk to the three \u25c0Mysterious Shadows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Shadow\u25b7 twice until they teleport to the three kitsune statues surrounding a small stone platform."
+                    "tag": "li",
+                    "text": "Carry out the investigation at the abandoned shrine"
                 },
                 {
-                    "plaintext": "The first shadow is in front of a small shrine near the entrance to the area. She will teleport to a kitsune statue along the road.",
-                    "markdown": "The first shadow is in front of a small shrine near the entrance to the area. She will teleport to a kitsune statue along the road."
-                },
-                {
-                    "plaintext": "The second shadow is in front of the main shrine with the Electroculus. She will teleport to the Sky Kitsune Statue located southeast of the platform with the three kitsune statues.",
-                    "markdown": "The second shadow is in front of the main shrine with the \u25c0Electroculus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electroculus\u25b7. She will teleport to the Sky Kitsune Statue located southeast of the platform with the three kitsune statues."
-                },
-                {
-                    "plaintext": "The third shadow is on the roof of the shrine. She will teleport to the trees south of the main shrine, passing the platform with the three kitsune statues.",
-                    "markdown": "The third shadow is on the roof of the shrine. She will teleport to the trees south of the main shrine, passing the platform with the three kitsune statues."
-                },
-                {
-                    "plaintext": "Once all three shadows are at the platform, they will vanish and spawn 3 Exquisite Chests.",
-                    "markdown": "Once all three shadows are at the platform, they will vanish and spawn 3 \u25c0Exquisite Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Exquisite_Chest\u25b7."
-                },
-                {
-                    "plaintext": "Investigate the platform to obtain Sacred Sakura Cleansing Summary.",
-                    "markdown": "Investigate the platform to obtain \u25c0Sacred Sakura Cleansing Summary\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Sakura_Cleansing_Summary\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Head to the Grand Narukami Shrine to investigate",
-            "markdown": "Head to the \u25c0Grand Narukami Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grand_Narukami_Shrine\u25b7 to investigate",
-            "substeps": [
-                {
-                    "plaintext": "Talk to Inagi Hotomi to obtain Memento Lens.",
-                    "markdown": "Talk to \u25c0Inagi Hotomi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inagi_Hotomi\u25b7 to obtain \u25c0Memento Lens\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Memento_Lens\u25b7."
-                }
-            ]
-        },
-        {
-            "plaintext": "Return to the abandoned shrine and use the Memento Lens to investigate",
-            "markdown": "Return to the abandoned shrine and use the Memento Lens to investigate",
-            "substeps": [
-                {
-                    "plaintext": "Observe the Earth Kitsune Statues using the lens to witness several scenes featuring the masked miko and an old man, the previous rite's worker. Three of the scenes feature the required lines; the other scenes are optional to watch:",
-                    "markdown": "Observe the \u25c0Earth Kitsune Statues\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Earth_Kitsune_Statue\u25b7 using the lens to witness several scenes featuring the masked miko and an old man, the previous rite's worker. Three of the scenes feature the required lines; the other scenes are optional to watch:",
-                    "substeps": [
+                    "tag": "ul",
+                    "steps": [
                         {
-                            "plaintext": "At the hokora (little shrine) near the torii.",
-                            "markdown": "At the \u25c0hokora\u25b6\u25c1https://en.wikipedia.org/wiki/hokora\u25b7 (little shrine) near the torii."
+                            "tag": "li",
+                            "text": "(Optional) Interact with the large \u25c0Sky Kitsune Statue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sky_Kitsune_Statue\u25b7 to the east."
                         },
                         {
-                            "plaintext": "To the right (when facing it) of the main shrine.",
-                            "markdown": "To the right (when facing it) of the main shrine."
-                        },
-                        {
-                            "plaintext": "Next to the Sky Kitsune statue.",
-                            "markdown": "Next to the Sky Kitsune statue."
-                        },
-                        {
-                            "plaintext": "Near the three Kitsune statues where you got the chests.",
-                            "markdown": "Near the three Kitsune statues where you got the chests."
-                        },
-                        {
-                            "plaintext": "Further to the east of the main shrine.",
-                            "markdown": "Further to the east of the main shrine."
-                        },
-                        {
-                            "plaintext": "South of the three Kitsunes, near where the Mysterious Shadow was in the trees.",
-                            "markdown": "South of the three Kitsunes, near where the Mysterious Shadow was in the trees."
+                            "tag": "li",
+                            "text": "Interact with any \u25c0Mysterious Shadow\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Shadow\u25b7."
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "plaintext": "Recite the sacred words in front of the Sky Kitsune Statue",
-            "markdown": "Recite the sacred words in front of the Sky Kitsune Statue"
-        },
-        {
-            "plaintext": "Obtain the ward",
-            "markdown": "Obtain the \u25c0ward\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ward_(Sacrificial_Offering)\u25b7"
-        },
-        {
-            "plaintext": "Find the barrier",
-            "markdown": "Find the barrier",
-            "substeps": [
-                {
-                    "plaintext": "The barrier is in a cave north of a small lake located south of Grand Narukami Shrine.",
-                    "markdown": "The barrier is in a cave north of a small lake located south of Grand Narukami Shrine."
                 },
                 {
-                    "plaintext": "There are two entrances to the cave:",
-                    "markdown": "There are two entrances to the cave:"
-                }
-            ]
-        },
-        {
-            "plaintext": "Destroy the barrier",
-            "markdown": "Destroy the barrier",
-            "substeps": [
-                {
-                    "plaintext": "The puzzle is solved similarly to the previous quest. Adjust the Electro lanterns with the corresponding number of petals to form the pattern given by the shrine emblem. Adjust the central lantern to \"2\", and the other 3 lanterns to \"3\".",
-                    "markdown": "The puzzle is solved similarly to the \u25c0previous quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Strange_Story_in_Konda#Puzzle\u25b7. Adjust the Electro lanterns with the corresponding number of petals to form the pattern given by the shrine emblem. Adjust the central lantern to \"2\", and the other 3 lanterns to \"3\"."
+                    "tag": "li",
+                    "text": "Continue the investigation at the abandoned shrine (Mysterious Shadow locations in \u25c0Gallery\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacrificial_Offering#Gallery\u25b7)"
                 },
                 {
-                    "plaintext": "Defeat the Mysterious Samurai.",
-                    "markdown": "Defeat the \u25c0Mysterious Samurai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ochimusha\u25b7."
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Talk to the three \u25c0Mysterious Shadows\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mysterious_Shadow\u25b7 twice until they teleport to the three kitsune statues surrounding a small stone platform."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The first shadow is in front of a small shrine near the entrance to the area. She will teleport to a kitsune statue along the road."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The second shadow is in front of the main shrine with the \u25c0Electroculus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electroculus\u25b7. She will teleport to the Sky Kitsune Statue located southeast of the platform with the three kitsune statues."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The third shadow is on the roof of the shrine. She will teleport to the trees south of the main shrine, passing the platform with the three kitsune statues."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Once all three shadows are at the platform, they will vanish and spawn 3 \u25c0Exquisite Chests\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Exquisite_Chest\u25b7."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Investigate the platform to obtain \u25c0Sacred Sakura Cleansing Summary\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sacred_Sakura_Cleansing_Summary\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Head to the \u25c0Grand Narukami Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Grand_Narukami_Shrine_(Subarea)\u25b7 to investigate"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Talk to \u25c0Inagi Hotomi\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inagi_Hotomi\u25b7 to obtain \u25c0Memento Lens\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Memento_Lens\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Return to the abandoned shrine and use the Memento Lens to investigate"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Observe the \u25c0Earth Kitsune Statues\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Earth_Kitsune_Statue\u25b7 using the lens to witness several scenes featuring the masked miko and an old man, the previous rite's worker. Three of the scenes feature the required lines; the other scenes are optional to watch:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "At the \u25c0hokora\u25b6\u25c1https://en.wikipedia.org/wiki/hokora\u25b7 (little shrine) near the torii."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "To the right (when facing it) of the main shrine."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Next to the Sky Kitsune statue."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Near the three Kitsune statues where you got the chests."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Further to the east of the main shrine."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "South of the three Kitsunes, near where the Mysterious Shadow was in the trees."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Recite the sacred words in front of the Sky Kitsune Statue"
+                },
+                {
+                    "tag": "li",
+                    "text": "Obtain the \u25c0ward\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ward_(Sacrificial_Offering)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Find the barrier"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The barrier is in a cave north of a small lake located south of Grand Narukami Shrine."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "There are two entrances to the cave:"
+                        }
+                    ]
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "One entrance has a locked gate, with an \u25c0Electroculus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electroculus\u25b7 behind it. It requires a \u25c0Rust-Worn Key\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rust-Worn_Key\u25b7, which can be found on top of a table under the well in Konda Village."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "The second can be found to the west of the locked gate. It has \u25c0Electro Crystalflies\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Electro_Crystalfly\u25b7 flying near the entrance."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Destroy the barrier"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The puzzle is solved similarly to the \u25c0previous quest\u25b6\u25c1https://genshin-impact.fandom.com/wiki/A_Strange_Story_in_Konda#Puzzle\u25b7. Adjust the Electro lanterns with the corresponding number of petals to form the pattern given by the shrine emblem. Adjust the central lantern to \"2\", and the other 3 lanterns to \"3\"."
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Defeat the \u25c0Mysterious Samurai\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ochimusha\u25b7."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Hanachirusato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hanachirusato\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Hanachirusato",
-            "markdown": "Talk to \u25c0Hanachirusato\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hanachirusato\u25b7"
         }
     ],
     "dialogue": true

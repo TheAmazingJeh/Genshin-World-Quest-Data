@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Cloud-Padded Path to the Chiwang Repose",
     "url": "https://genshin-impact.fandom.com/wiki/The_Cloud-Padded_Path_to_the_Chiwang_Repose",
     "starting_location": {
-        "plaintext": "Chiwang Terrace , Liyue",
-        "markdown": "\u25c0Chiwang Terrace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chiwang_Terrace\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Chiwang Terrace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Chiwang_Terrace\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": {
         "plaintext": "",
@@ -35,24 +35,29 @@
     ],
     "steps": [
         {
-            "plaintext": "Ascend the summit of Mt. Laixin",
-            "markdown": "Ascend the summit of Mt. Laixin"
-        },
-        {
-            "plaintext": "Speak to Lingyuan",
-            "markdown": "Speak to Lingyuan"
-        },
-        {
-            "plaintext": "Go to Carp's Rest",
-            "markdown": "Go to Carp's Rest"
-        },
-        {
-            "plaintext": "Enter Carp's Rest",
-            "markdown": "Enter Carp's Rest"
-        },
-        {
-            "plaintext": "Look for Fujin",
-            "markdown": "Look for Fujin"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Ascend the summit of Mt. Laixin"
+                },
+                {
+                    "tag": "li",
+                    "text": "Speak to Lingyuan"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go to Carp's Rest"
+                },
+                {
+                    "tag": "li",
+                    "text": "Enter Carp's Rest"
+                },
+                {
+                    "tag": "li",
+                    "text": "Look for Fujin"
+                }
+            ]
         }
     ],
     "dialogue": true

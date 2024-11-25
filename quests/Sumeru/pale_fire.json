@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Pale Fire",
     "url": "https://genshin-impact.fandom.com/wiki/Pale_Fire",
@@ -49,52 +50,60 @@
     ],
     "steps": [
         {
-            "plaintext": "Pale Fire",
-            "markdown": "\u25c0Pale Fire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pale_Fire_(Quest)\u25b7"
-        },
-        {
-            "plaintext": "The following quests can be completed in any order:",
-            "markdown": "The following quests can be completed in any order:",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_1)\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0Pale Fire\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Pale_Fire_(Quest)\u25b7"
                 },
                 {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Northwest_Tunigi_Hollow)\u25b7"
+                    "tag": "li",
+                    "text": "The following quests can be completed in any order:"
                 },
                 {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Asipattravana_Swamp)\u25b7"
-                },
-                {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_2)\u25b7"
-                },
-                {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_1)\u25b7"
-                },
-                {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(East_Tunigi_Hollow)\u25b7"
-                },
-                {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Hangeh_Afrasiyab)\u25b7"
-                },
-                {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Madinat_al-Nuhas)\u25b7"
-                },
-                {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_3)\u25b7"
-                },
-                {
-                    "plaintext": "Awaken the Residual Pari in the Fravashi Trees",
-                    "markdown": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_2)\u25b7"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_1)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Northwest_Tunigi_Hollow)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Asipattravana_Swamp)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_2)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_1)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(East_Tunigi_Hollow)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Hangeh_Afrasiyab)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(Madinat_al-Nuhas)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(North_Tunigi_Hollow_3)\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Awaken the Residual Pari in the Fravashi Trees\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Awaken_the_Residual_Pari_in_the_Fravashi_Trees_(West_Temir_Mountains_2)\u25b7"
+                        }
+                    ]
                 }
             ]
         }

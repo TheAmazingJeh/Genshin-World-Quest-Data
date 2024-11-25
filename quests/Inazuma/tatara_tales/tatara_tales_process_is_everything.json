@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Tatara Tales: Process Is Everything",
     "url": "https://genshin-impact.fandom.com/wiki/Tatara_Tales%3A_Process_Is_Everything",
     "starting_location": {
-        "plaintext": "Tatarasuna , Inazuma",
-        "markdown": "\u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Tatarasuna\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tatarasuna\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,22 +32,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Xavier",
-            "markdown": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
-        },
-        {
-            "plaintext": "Take a picture of the situation at the Mikage Furnace (0/2)",
-            "markdown": "Take a picture of the situation at the \u25c0Mikage Furnace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikage_Furnace\u25b7 (0/2)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain Somewhat Clear Image and Rather Foggy Image",
-                    "markdown": "Obtain \u25c0Somewhat Clear Image\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Somewhat_Clear_Image\u25b7 and \u25c0Rather Foggy Image\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rather_Foggy_Image\u25b7"
+                    "tag": "li",
+                    "text": "Talk to \u25c0Xavier\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Xavier\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Take a picture of the situation at the \u25c0Mikage Furnace\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mikage_Furnace\u25b7 (0/2)"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain \u25c0Somewhat Clear Image\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Somewhat_Clear_Image\u25b7 and \u25c0Rather Foggy Image\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rather_Foggy_Image\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Xavier"
                 }
             ]
-        },
-        {
-            "plaintext": "Report back to Xavier",
-            "markdown": "Report back to Xavier"
         }
     ],
     "dialogue": true

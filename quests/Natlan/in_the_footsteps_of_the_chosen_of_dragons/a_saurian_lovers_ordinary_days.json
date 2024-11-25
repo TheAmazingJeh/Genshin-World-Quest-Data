@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Saurian Lover's Ordinary Days",
     "url": "https://genshin-impact.fandom.com/wiki/A_Saurian_Lover%27s_Ordinary_Days",
     "starting_location": {
-        "plaintext": "Coatepec Mountain , Natlan",
-        "markdown": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+        "text": "\u25c0Coatepec Mountain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Coatepec_Mountain\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -30,45 +30,62 @@
             "Rarity": "3"
         },
         {
-            "Name": "Recipe: Sour Sauce Kipper",
+            "Name": "Recipe: Sour Sauce Ceviche",
             "Value": "1",
-            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sour_Sauce_Kipper",
-            "Image": "Item_Sour_Sauce_Kipper.png",
+            "Link": "https://genshin-impact.fandom.com/wiki/Recipe:_Sour_Sauce_Ceviche",
+            "Image": "Item_Sour_Sauce_Ceviche.png",
             "Rarity": "2"
         }
     ],
     "steps": [
         {
-            "plaintext": "Find a way to distract the Saurians together with your Saurian companion",
-            "markdown": "Find a way to distract the Saurians together with your Saurian companion"
-        },
-        {
-            "plaintext": "Bring the Sour Sauce Kipper from the camp",
-            "markdown": "Bring the Sour Sauce Kipper from the camp"
-        },
-        {
-            "plaintext": "Place the Sour Sauce Kipper in a suitable location",
-            "markdown": "Place the Sour Sauce Kipper in a suitable location"
-        },
-        {
-            "plaintext": "Wait for a while...",
-            "markdown": "Wait for a while..."
-        },
-        {
-            "plaintext": "Wait for your Saurian buddy to lure the Yumkasaurus away",
-            "markdown": "Wait for your Saurian buddy to lure the Yumkasaurus away"
-        },
-        {
-            "plaintext": "Negotiate with the Tepetlisaurus",
-            "markdown": "Negotiate with the Tepetlisaurus"
-        },
-        {
-            "plaintext": "Defeat the Tepetlisaurus",
-            "markdown": "Defeat the Tepetlisaurus"
-        },
-        {
-            "plaintext": "Talk to the injured person",
-            "markdown": "Talk to the injured person"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Find a way to distract the \u25c0Saurians\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Saurian\u25b7 together with your Saurian companion"
+                },
+                {
+                    "tag": "li",
+                    "text": "Bring the \u25c0Sour Sauce Ceviche\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sour_Sauce_Ceviche\u25b7 from the camp"
+                },
+                {
+                    "tag": "li",
+                    "text": "Place the Sour Sauce Ceviche in a suitable location"
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait for a while..."
+                },
+                {
+                    "tag": "li",
+                    "text": "Wait for your Saurian buddy to lure the \u25c0Yumkasaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Yumkasaurus\u25b7 away"
+                },
+                {
+                    "tag": "li",
+                    "text": "Negotiate with the \u25c0Tepetlisaurus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the Tepetlisaurus"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:tepetlisaurus> \u25c0\"Marigold\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Tepetlisaurus\u25b7",
+                            "img": {
+                                "tepetlisaurus": "Tepetlisaurus_Icon.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the injured person"
+                }
+            ]
         }
     ],
     "dialogue": true

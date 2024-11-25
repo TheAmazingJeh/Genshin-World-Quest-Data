@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "From Dusk to Dawn in Byakuyakoku",
     "url": "https://genshin-impact.fandom.com/wiki/From_Dusk_to_Dawn_in_Byakuyakoku",
@@ -35,24 +36,32 @@
     ],
     "steps": [
         {
-            "plaintext": "The Entrance to Tokoyo",
-            "markdown": "\u25c0The Entrance to Tokoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Entrance_to_Tokoyo\u25b7"
-        },
-        {
-            "plaintext": "The Subterranean Trials of Drake and Serpent",
-            "markdown": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "The Trail of Drake and Serpent",
-                    "markdown": "\u25c0The Trail of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Trail_of_Drake_and_Serpent\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0The Entrance to Tokoyo\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Entrance_to_Tokoyo\u25b7"
                 },
                 {
-                    "plaintext": "The Heart of Ouroboros",
-                    "markdown": "\u25c0The Heart of Ouroboros\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Heart_of_Ouroboros\u25b7"
+                    "tag": "li",
+                    "text": "\u25c0The Subterranean Trials of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Subterranean_Trials_of_Drake_and_Serpent\u25b7"
                 },
                 {
-                    "plaintext": "Dreams in the Gaps",
-                    "markdown": "\u25c0Dreams in the Gaps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dreams_in_the_Gaps\u25b7"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "\u25c0The Trail of Drake and Serpent\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Trail_of_Drake_and_Serpent\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0The Heart of Ouroboros\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Heart_of_Ouroboros\u25b7"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "\u25c0Dreams in the Gaps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dreams_in_the_Gaps\u25b7"
+                        }
+                    ]
                 }
             ]
         }

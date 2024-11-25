@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "And This Treasure Goes To...",
     "url": "https://genshin-impact.fandom.com/wiki/And_This_Treasure_Goes_To...",
     "starting_location": {
-        "plaintext": "Lingju Pass , Liyue",
-        "markdown": "\u25c0Lingju Pass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingju_Pass\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
+        "text": "\u25c0Lingju Pass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Lingju_Pass\u25b7 , \u25c0Liyue\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Liyue\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -46,40 +46,54 @@
     ],
     "steps": [
         {
-            "plaintext": "(Optional) Investigate the strange camp (0/3)",
-            "markdown": "(Optional) Investigate the strange camp (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Interact with the note, the bonfire, and the \"Neatly-Written Diary.\"",
-                    "markdown": "Interact with the note, the bonfire, and the \"Neatly-Written Diary.\""
-                }
-            ]
-        },
-        {
-            "plaintext": "(Optional) Look for the missing scholar",
-            "markdown": "(Optional) Look for the missing scholar"
-        },
-        {
-            "plaintext": "Defeat the Treasure Hoarders and obtain the key",
-            "markdown": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7 and obtain the key",
-            "substeps": [
+                    "tag": "li",
+                    "text": "(Optional) Investigate the strange camp (0/3)"
+                },
                 {
-                    "plaintext": "The key is in a chest which unlocks after the treasure hoarders have been defeated.",
-                    "markdown": "The key is in a chest which unlocks after the treasure hoarders have been defeated."
-                }
-            ]
-        },
-        {
-            "plaintext": "Open the cage",
-            "markdown": "Open the cage"
-        },
-        {
-            "plaintext": "Collect the treasure",
-            "markdown": "Collect the treasure",
-            "substeps": [
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Interact with the note, the bonfire, and the \"Neatly-Written Diary.\""
+                        }
+                    ]
+                },
                 {
-                    "plaintext": "It is buried besides the giant golden tree southeast of the Treasure Hoarders camp.",
-                    "markdown": "It is buried besides the giant golden tree southeast of the Treasure Hoarders camp."
+                    "tag": "li",
+                    "text": "(Optional) Look for the missing scholar"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat the \u25c0Treasure Hoarders\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Treasure_Hoarders\u25b7 and obtain the key"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "The key is in a chest which unlocks after the treasure hoarders have been defeated."
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Open the cage"
+                },
+                {
+                    "tag": "li",
+                    "text": "Collect the treasure"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "It is buried besides the giant golden tree southeast of the Treasure Hoarders camp."
+                        }
+                    ]
                 }
             ]
         }

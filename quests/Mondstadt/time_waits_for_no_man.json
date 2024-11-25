@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Time Waits For No Man",
     "url": "https://genshin-impact.fandom.com/wiki/Time_Waits_For_No_Man",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Song of the Dragon and Freedom",
@@ -35,22 +35,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Start the quest by talking to Cyrus near the Adventurers' Guild Headquarters or Angel's Share in Mondstadt.",
-            "markdown": "Start the quest by talking to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7 near the \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7 Headquarters or \u25c0Angel's Share\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Angel%27s_Share\u25b7 in Mondstadt."
-        },
-        {
-            "plaintext": "Check the suspicious location and eliminate any threats (0/3)",
-            "markdown": "Check the suspicious location and eliminate any threats (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Use the navigate button in the quest menu to find the areas",
-                    "markdown": "Use the navigate button in the quest menu to find the areas"
+                    "tag": "li",
+                    "text": "Start the quest by talking to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7 near the \u25c0Adventurers' Guild\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Adventurers%27_Guild\u25b7 Headquarters or \u25c0Angel's Share\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Angel%27s_Share\u25b7 in Mondstadt."
+                },
+                {
+                    "tag": "li",
+                    "text": "Check the suspicious location and eliminate any threats (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Cyrus"
                 }
             ]
         },
         {
-            "plaintext": "Talk to Cyrus",
-            "markdown": "Talk to Cyrus"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Use the navigate button in the quest menu to find the areas"
+                }
+            ]
         }
     ],
     "dialogue": true

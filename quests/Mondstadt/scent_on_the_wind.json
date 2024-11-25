@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Scent on the Wind",
     "url": "https://genshin-impact.fandom.com/wiki/Scent_on_the_Wind",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete The Outlander Who Caught the Wind",
@@ -35,8 +35,17 @@
     ],
     "steps": [
         {
-            "plaintext": "Purchase Fisherman's Toast",
-            "markdown": "Purchase \u25c0Fisherman's Toast\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fisherman%27s_Toast\u25b7"
+            "tag": "p",
+            "text": "Pass by \u25c0Good Hunter\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Good_Hunter\u25b7 in \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7 to start the quest."
+        },
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Purchase \u25c0Fisherman's Toast\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fisherman%27s_Toast\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Land Entombed",
     "url": "https://genshin-impact.fandom.com/wiki/A_Land_Entombed",
     "starting_location": {
-        "plaintext": "Dragonspine , Mondstadt",
-        "markdown": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -53,34 +53,46 @@
     ],
     "steps": [
         {
-            "plaintext": "Return to the base camp and ask the researchers for clues regarding the journal.",
-            "markdown": "Return to the base camp and ask the researchers for clues regarding the journal."
+            "tag": "p",
+            "text": "Start the quest by picking up one of the \u25c0Ancient Investigation Journals\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Ancient_Investigation_Journal\u25b7 in \u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7, \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7."
         },
         {
-            "plaintext": "If any parts have not been collected, obtain the following steps:",
-            "markdown": "If any parts have not been collected, obtain the following steps:",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "(If Part I is missing) Head for the \"secret chamber\" to search for journals",
-                    "markdown": "(If Part I is missing) Head for the \"secret chamber\" to search for journals"
+                    "tag": "li",
+                    "text": "Return to the base camp and ask the researchers for clues regarding the journal."
                 },
                 {
-                    "plaintext": "(If Part II is missing) Go to the \"cellar in the southwestern ruins\" to search for journals",
-                    "markdown": "(If Part II is missing) Go to the \"cellar in the southwestern ruins\" to search for journals"
+                    "tag": "li",
+                    "text": "If any parts have not been collected, obtain the following steps:"
                 },
                 {
-                    "plaintext": "(If Part III is missing) Head to \"South Base Camp\" to search for journals",
-                    "markdown": "(If Part III is missing) Head to \"South Base Camp\" to search for journals"
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "(If Part I is missing) Head for the \"secret chamber\" to search for journals"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "(If Part II is missing) Go to the \"cellar in the southwestern ruins\" to search for journals"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "(If Part III is missing) Head to \"South Base Camp\" to search for journals"
+                        },
+                        {
+                            "tag": "li",
+                            "text": "If all three parts were collected before completing Step 1, the quest directly goes to Step 3."
+                        }
+                    ]
                 },
                 {
-                    "plaintext": "If all three parts were collected before completing Step 1, the quest directly goes to Step 3.",
-                    "markdown": "If all three parts were collected before completing Step 1, the quest directly goes to Step 3."
+                    "tag": "li",
+                    "text": "Give the gathered journals to \u25c0Stevens\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stevens\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Give the gathered journals to Stevens",
-            "markdown": "Give the gathered journals to \u25c0Stevens\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stevens\u25b7"
         }
     ],
     "dialogue": true

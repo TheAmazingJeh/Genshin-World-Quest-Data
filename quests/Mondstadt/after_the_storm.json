@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "After the Storm",
     "url": "https://genshin-impact.fandom.com/wiki/After_the_Storm",
     "starting_location": {
-        "plaintext": "Mondstadt , Mondstadt",
-        "markdown": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Song of the Dragon and Freedom",
@@ -42,22 +42,30 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Wagner",
-            "markdown": "Talk to \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7"
-        },
-        {
-            "plaintext": "Go and check for crystal ore in Stormterror's Lair (0/3)",
-            "markdown": "Go and check for crystal ore in \u25c0Stormterror's Lair\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stormterror%27s_Lair\u25b7 (0/3)",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Each of these spots the player has to check has 4 Crystal Chunk nodes.",
-                    "markdown": "Each of these spots the player has to check has 4 \u25c0Crystal Chunk\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crystal_Chunk\u25b7 nodes."
+                    "tag": "li",
+                    "text": "Talk to \u25c0Wagner\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wagner\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Go and check for crystal ore in \u25c0Stormterror's Lair\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Stormterror%27s_Lair\u25b7 (0/3)"
+                },
+                {
+                    "tag": "li",
+                    "text": "Give the Crystal Chunks to Wagner"
                 }
             ]
         },
         {
-            "plaintext": "Give the Crystal Chunks to Wagner",
-            "markdown": "Give the Crystal Chunks to Wagner"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Each of these spots the player has to check has 4 \u25c0Crystal Chunk\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Crystal_Chunk\u25b7 nodes."
+                }
+            ]
         }
     ],
     "dialogue": true

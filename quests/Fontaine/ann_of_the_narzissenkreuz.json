@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Ann of the Narzissenkreuz",
     "url": "https://genshin-impact.fandom.com/wiki/Ann_of_the_Narzissenkreuz",
@@ -42,16 +43,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Act I - The Narzissenkreuz Adventure",
-            "markdown": "Act I - \u25c0The Narzissenkreuz Adventure\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure_(Act)\u25b7"
-        },
-        {
-            "plaintext": "Act II - Kingdom Through the Looking-Glass",
-            "markdown": "Act II - \u25c0Kingdom Through the Looking-Glass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kingdom_Through_the_Looking-Glass\u25b7"
-        },
-        {
-            "plaintext": "Act III - \"If She No Longer Dreams of You...\"",
-            "markdown": "Act III - \u25c0\"If She No Longer Dreams of You...\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22If_She_No_Longer_Dreams_of_You...%22\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Act I - \u25c0The Narzissenkreuz Adventure\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Narzissenkreuz_Adventure_(Act)\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act II - \u25c0Kingdom Through the Looking-Glass\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kingdom_Through_the_Looking-Glass\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act III - \u25c0\"If She No Longer Dreams of You...\"\u25b6\u25c1https://genshin-impact.fandom.com/wiki/%22If_She_No_Longer_Dreams_of_You...%22\u25b7"
+                }
+            ]
         }
     ]
 }

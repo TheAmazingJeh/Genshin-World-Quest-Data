@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "As the Khvarena's Light Shows: Dukkha",
     "url": "https://genshin-impact.fandom.com/wiki/As_the_Khvarena%27s_Light_Shows%3A_Dukkha",
     "starting_location": {
-        "plaintext": "Gate of Zulqarnain , Sumeru",
-        "markdown": "\u25c0Gate of Zulqarnain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gate_of_Zulqarnain\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Gate of Zulqarnain\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Gate_of_Zulqarnain\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,8 +32,13 @@
     ],
     "steps": [
         {
-            "plaintext": "Find the Great Song of Khvarena in the cavern",
-            "markdown": "Find the \u25c0Great Song of Khvarena\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Great_Song_of_Khvarena\u25b7 in the cavern"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Find the \u25c0Great Song of Khvarena\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Great_Song_of_Khvarena\u25b7 in the cavern"
+                }
+            ]
         }
     ],
     "dialogue": true

@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Orobashi's Legacy: Prologue",
     "url": "https://genshin-impact.fandom.com/wiki/Orobashi%27s_Legacy%3A_Prologue",
     "starting_location": {
-        "plaintext": "Fort Fujitou , Inazuma",
-        "markdown": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": {
         "plaintext": "Complete Ritou Escape Plan in Chapter II : Act I - The Immovable God and the Eternal Euthymia",
@@ -33,6 +33,11 @@
             "Rarity": "3"
         }
     ],
-    "steps": null,
+    "steps": [
+        {
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Kaji\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Kaji\u25b7 near \u25c0Fort Fujitou\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fort_Fujitou\u25b7."
+        }
+    ],
     "dialogue": true
 }

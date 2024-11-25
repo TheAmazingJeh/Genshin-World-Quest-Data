@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "A Gifted Rose: Can Stones Bloom",
     "url": "https://genshin-impact.fandom.com/wiki/A_Gifted_Rose%3A_Can_Stones_Bloom",
     "starting_location": {
-        "plaintext": "Land of Lower Setekh , Sumeru",
-        "markdown": "\u25c0Land of Lower Setekh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Lower_Setekh\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
+        "text": "\u25c0Land of Lower Setekh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Land_of_Lower_Setekh\u25b7 , \u25c0Sumeru\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sumeru\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -60,18 +60,26 @@
     ],
     "steps": [
         {
-            "plaintext": "Water the flowers",
-            "markdown": "Water the flowers",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Apply Hydro to the flowers",
-                    "markdown": "Apply \u25c0Hydro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro\u25b7 to the flowers"
+                    "tag": "li",
+                    "text": "Water the flowers"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Apply \u25c0Hydro\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Hydro\u25b7 to the flowers"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Affan"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Affan",
-            "markdown": "Talk to Affan"
         }
     ],
     "dialogue": true

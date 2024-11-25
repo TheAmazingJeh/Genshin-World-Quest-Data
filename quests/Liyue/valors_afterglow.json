@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Valor's Afterglow",
     "url": "https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow",
@@ -35,16 +36,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Valor's Afterglow (Quest) (Day 1)",
-            "markdown": "\u25c0Valor's Afterglow (Quest)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow_(Quest)\u25b7 (Day 1)"
+            "tag": "p",
+            "text": "Quests in this chapter may require the \u25c0Daily Reset\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Daily_Reset\u25b7 to pass to unlock the next quest."
         },
         {
-            "plaintext": "Valor's Afterglow: Return by Sundown (Day 2)",
-            "markdown": "\u25c0Valor's Afterglow: Return by Sundown\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow:_Return_by_Sundown\u25b7 (Day 2)"
-        },
-        {
-            "plaintext": "Valor's Afterglow: The Faint Light Remembered (Day 3)",
-            "markdown": "\u25c0Valor's Afterglow: The Faint Light Remembered\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow:_The_Faint_Light_Remembered\u25b7 (Day 3)"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "\u25c0Valor's Afterglow (Quest)\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow_(Quest)\u25b7 (Day 1)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Valor's Afterglow: Return by Sundown\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow:_Return_by_Sundown\u25b7 (Day 2)"
+                },
+                {
+                    "tag": "li",
+                    "text": "\u25c0Valor's Afterglow: The Faint Light Remembered\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Valor%27s_Afterglow:_The_Faint_Light_Remembered\u25b7 (Day 3)"
+                }
+            ]
         }
     ]
 }

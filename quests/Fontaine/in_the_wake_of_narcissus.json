@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "In the Wake of Narcissus",
     "url": "https://genshin-impact.fandom.com/wiki/In_the_Wake_of_Narcissus",
@@ -42,20 +43,25 @@
     ],
     "steps": [
         {
-            "plaintext": "Act I: Search in the Algae Sea",
-            "markdown": "Act I: \u25c0Search in the Algae Sea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea\u25b7"
-        },
-        {
-            "plaintext": "Act II: Savior's Wake",
-            "markdown": "Act II: \u25c0Savior's Wake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Savior%27s_Wake\u25b7"
-        },
-        {
-            "plaintext": "Act III: Waking from the Great Dream",
-            "markdown": "Act III: \u25c0Waking from the Great Dream\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Waking_from_the_Great_Dream\u25b7"
-        },
-        {
-            "plaintext": "Act IV: Rowboat's Wake",
-            "markdown": "Act IV: \u25c0Rowboat's Wake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rowboat%27s_Wake\u25b7"
+            "tag": "ul",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Act I: \u25c0Search in the Algae Sea\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Search_in_the_Algae_Sea\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act II: \u25c0Savior's Wake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Savior%27s_Wake\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act III: \u25c0Waking from the Great Dream\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Waking_from_the_Great_Dream\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act IV: \u25c0Rowboat's Wake\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Rowboat%27s_Wake\u25b7"
+                }
+            ]
         }
     ]
 }

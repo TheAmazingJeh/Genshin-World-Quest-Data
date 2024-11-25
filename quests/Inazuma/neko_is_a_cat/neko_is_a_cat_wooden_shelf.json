@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Neko Is a Cat: Wooden Shelf",
     "url": "https://genshin-impact.fandom.com/wiki/Neko_Is_a_Cat%3A_Wooden_Shelf",
     "starting_location": {
-        "plaintext": "Asase Shrine , Inazuma",
-        "markdown": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
+        "text": "\u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 , \u25c0Inazuma\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Inazuma\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,32 +32,37 @@
     ],
     "steps": [
         {
-            "plaintext": "Head to Asase Shrine and talk to Neko",
-            "markdown": "Head to \u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 and talk to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
-        },
-        {
-            "plaintext": "Investigate the Prayer Rack",
-            "markdown": "Investigate the Prayer Rack"
-        },
-        {
-            "plaintext": "Fix the Prayer Rack",
-            "markdown": "Fix the Prayer Rack"
-        },
-        {
-            "plaintext": "Talk to Neko",
-            "markdown": "Talk to Neko"
-        },
-        {
-            "plaintext": "Talk to Taisuke",
-            "markdown": "Talk to \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7"
-        },
-        {
-            "plaintext": "Talk to Etsuko",
-            "markdown": "Talk to \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
-        },
-        {
-            "plaintext": "Report back to Neko",
-            "markdown": "Report back to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Head to \u25c0Asase Shrine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Asase_Shrine\u25b7 and talk to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Investigate the Prayer Rack"
+                },
+                {
+                    "tag": "li",
+                    "text": "Fix the Prayer Rack"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Neko"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Taisuke\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Taisuke\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Etsuko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Etsuko\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to \u25c0Neko\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Neko\u25b7"
+                }
+            ]
         }
     ],
     "dialogue": true

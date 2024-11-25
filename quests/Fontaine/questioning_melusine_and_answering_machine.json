@@ -1,4 +1,5 @@
 {
+    "version": "1.1",
     "type": "series",
     "name": "Questioning Melusine and Answering Machine",
     "url": "https://genshin-impact.fandom.com/wiki/Questioning_Melusine_and_Answering_Machine",
@@ -42,16 +43,21 @@
     ],
     "steps": [
         {
-            "plaintext": "Act I - Vagrants and Scamps",
-            "markdown": "Act I - \u25c0Vagrants and Scamps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vagrants_and_Scamps\u25b7"
-        },
-        {
-            "plaintext": "Act II - The Red and the Black",
-            "markdown": "Act II - \u25c0The Red and the Black\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Red_and_the_Black\u25b7"
-        },
-        {
-            "plaintext": "Act III - Questions and Answers",
-            "markdown": "Act III - \u25c0Questions and Answers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Questions_and_Answers\u25b7"
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Act I - \u25c0Vagrants and Scamps\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Vagrants_and_Scamps\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act II - \u25c0The Red and the Black\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Red_and_the_Black\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Act III - \u25c0Questions and Answers\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Questions_and_Answers\u25b7"
+                }
+            ]
         }
     ]
 }

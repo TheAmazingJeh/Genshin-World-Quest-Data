@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "The Great Mountain Survey II",
     "url": "https://genshin-impact.fandom.com/wiki/The_Great_Mountain_Survey_II",
     "starting_location": {
-        "plaintext": "Dragonspine , Mondstadt",
-        "markdown": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": {
         "plaintext": "Complete In the Mountains and The Great Mountain Survey",
@@ -56,26 +56,38 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Esther",
-            "markdown": "Talk to Esther"
+            "tag": "p",
+            "text": "Start the quest by talking to \u25c0Esther\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Esther\u25b7 north of \u25c0Wyrmrest Valley\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Wyrmrest_Valley\u25b7, \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7. (Required to have finished \u25c0The Great Mountain Survey\u25b6\u25c1https://genshin-impact.fandom.com/wiki/The_Great_Mountain_Survey\u25b7 and \u25c0In the Mountains\u25b6\u25c1https://genshin-impact.fandom.com/wiki/In_the_Mountains\u25b7)."
         },
         {
-            "plaintext": "Place beacon at the very top of Dragonspine mountain",
-            "markdown": "Place beacon at the very top of \u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 mountain"
-        },
-        {
-            "plaintext": "Report back to Esther",
-            "markdown": "Report back to Esther",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "You acquire Letter to Cyrus",
-                    "markdown": "You acquire \u25c0Letter to Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Letter_to_Cyrus\u25b7"
+                    "tag": "li",
+                    "text": "Talk to Esther"
+                },
+                {
+                    "tag": "li",
+                    "text": "Place beacon at the very top of \u25c0Dragonspine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dragonspine\u25b7 mountain"
+                },
+                {
+                    "tag": "li",
+                    "text": "Report back to Esther"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "You acquire \u25c0Letter to Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Letter_to_Cyrus\u25b7"
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Deliver the letter to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7"
                 }
             ]
-        },
-        {
-            "plaintext": "Deliver the letter to Cyrus",
-            "markdown": "Deliver the letter to \u25c0Cyrus\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Cyrus\u25b7"
         }
     ],
     "dialogue": true

@@ -1,0 +1,56 @@
+{
+    "version": "1.1",
+    "type": "single",
+    "name": "The Chosen One's Promise (Quest)",
+    "url": "https://genshin-impact.fandom.com/wiki/The_Chosen_One%27s_Promise_%28Quest%29",
+    "starting_location": {
+        "text": "\u25c0Legendary Tonatiuh\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Legendary_Tonatiuh\u25b7 , \u25c0Natlan\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Natlan\u25b7"
+    },
+    "requirements": null,
+    "rewards": [
+        {
+            "Name": "Adventure EXP",
+            "Value": "100",
+            "Link": "https://genshin-impact.fandom.com/wiki/Adventure_EXP",
+            "Image": "Item_Adventure_EXP.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "Primogem",
+            "Value": "20",
+            "Link": "https://genshin-impact.fandom.com/wiki/Primogem",
+            "Image": "Item_Primogem.png",
+            "Rarity": "5"
+        },
+        {
+            "Name": "Mora",
+            "Value": "10,000",
+            "Link": "https://genshin-impact.fandom.com/wiki/Mora",
+            "Image": "Item_Mora.png",
+            "Rarity": "3"
+        },
+        {
+            "Name": "The Cornerstone of Stars and Flames",
+            "Value": "1",
+            "Link": "https://genshin-impact.fandom.com/wiki/The_Cornerstone_of_Stars_and_Flames",
+            "Image": "Item_The_Cornerstone_of_Stars_and_Flames.png",
+            "Rarity": "5"
+        }
+    ],
+    "steps": [
+        {
+            "tag": "ol",
+            "steps": [
+                {
+                    "tag": "li",
+                    "text": "Return to the Tonatiuh"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to your little Tepetlisaurus companion"
+                }
+            ]
+        }
+    ],
+    "dialogue": true
+}

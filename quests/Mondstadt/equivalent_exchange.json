@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Equivalent Exchange",
     "url": "https://genshin-impact.fandom.com/wiki/Equivalent_Exchange",
     "starting_location": {
-        "plaintext": "Favonius Cathedral , Mondstadt , Mondstadt",
-        "markdown": "\u25c0Favonius Cathedral\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Favonius_Cathedral\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
+        "text": "\u25c0Favonius Cathedral\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Favonius_Cathedral\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt_City\u25b7 , \u25c0Mondstadt\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Mondstadt\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -39,82 +39,99 @@
     ],
     "steps": [
         {
-            "plaintext": "Talk to Sara",
-            "markdown": "Talk to \u25c0Sara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sara\u25b7"
-        },
-        {
-            "plaintext": "Make a  Satisfying Salad and give it to Sara",
-            "markdown": "Make a <img:satisfying_salad> \u25c0Satisfying Salad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Satisfying_Salad\u25b7 and give it to Sara",
-            "img": {
-                "satisfying_salad": "Item_Satisfying_Salad.png"
-            },
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Obtain  Good Hunter's Specialty Dish",
-                    "markdown": "Obtain <img:good_hunters_specialty_dish> \u25c0Good Hunter's Specialty Dish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Good_Hunter%27s_Specialty_Dish\u25b7",
-                    "img": {
-                        "good_hunters_specialty_dish": "Item_Quest_Gift.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Flora",
-            "markdown": "Talk to \u25c0Flora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flora\u25b7",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Talk to \u25c0Sara\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Sara\u25b7"
+                },
                 {
-                    "plaintext": "Answering \"Yes\" will award  Flora's Bookmark immediately",
-                    "markdown": "Answering \"Yes\" will award <img:floras_bookmark> \u25c0Flora's Bookmark\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flora%27s_Bookmark\u25b7 immediately",
+                    "tag": "li",
+                    "text": "Make a <img:satisfying_salad> \u25c0Satisfying Salad\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Satisfying_Salad\u25b7 and give it to Sara",
                     "img": {
-                        "floras_bookmark": "Item_Quest_Gift.png"
+                        "satisfying_salad": "Item_Satisfying_Salad.png"
                     }
                 },
                 {
-                    "plaintext": "Answering \"No\" will require the player to give more  Dandelion Seeds for Flora's Bookmark",
-                    "markdown": "Answering \"No\" will require the player to give more <img:dandelion_seed> \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7 for Flora's Bookmark",
-                    "img": {
-                        "dandelion_seed": "Item_Dandelion_Seed.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Talk to Charles",
-            "markdown": "Talk to \u25c0Charles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charles\u25b7"
-        },
-        {
-            "plaintext": "Retrieve the cocktail ingredients",
-            "markdown": "Retrieve the cocktail ingredients",
-            "substeps": [
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:good_hunters_specialty_dish> \u25c0Good Hunter's Specialty Dish\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Good_Hunter%27s_Specialty_Dish\u25b7",
+                            "img": {
+                                "good_hunters_specialty_dish": "Item_Quest_Gift.png"
+                            }
+                        }
+                    ]
+                },
                 {
-                    "plaintext": "Obtain  Strange Cocktail Ingredient",
-                    "markdown": "Obtain <img:strange_cocktail_ingredient> \u25c0Strange Cocktail Ingredient\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Cocktail_Ingredient\u25b7",
-                    "img": {
-                        "strange_cocktail_ingredient": "Item_Parcel.png"
-                    }
-                }
-            ]
-        },
-        {
-            "plaintext": "Defeat all the slimes",
-            "markdown": "Defeat all the slimes"
-        },
-        {
-            "plaintext": "Talk to Charles",
-            "markdown": "Talk to Charles",
-            "substeps": [
+                    "tag": "li",
+                    "text": "Talk to \u25c0Flora\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flora\u25b7"
+                },
                 {
-                    "plaintext": "Obtain  Special Beverage from Angel's Share",
-                    "markdown": "Obtain <img:special_beverage_from_angels_share> \u25c0Special Beverage from Angel's Share\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Beverage_from_Angel%27s_Share\u25b7",
-                    "img": {
-                        "special_beverage_from_angels_share": "Item_Quest_Gift.png"
-                    }
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Answering \"Yes\" will award <img:floras_bookmark> \u25c0Flora's Bookmark\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Flora%27s_Bookmark\u25b7 immediately",
+                            "img": {
+                                "floras_bookmark": "Item_Quest_Gift.png"
+                            }
+                        },
+                        {
+                            "tag": "li",
+                            "text": "Answering \"No\" will require the player to give more <img:dandelion_seed> \u25c0Dandelion Seeds\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Dandelion_Seed\u25b7 for Flora's Bookmark",
+                            "img": {
+                                "dandelion_seed": "Item_Dandelion_Seed.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to \u25c0Charles\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Charles\u25b7"
+                },
+                {
+                    "tag": "li",
+                    "text": "Retrieve the cocktail ingredients"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:strange_cocktail_ingredient> \u25c0Strange Cocktail Ingredient\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Strange_Cocktail_Ingredient\u25b7",
+                            "img": {
+                                "strange_cocktail_ingredient": "Item_Parcel.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat all the slimes"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Charles"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "Obtain <img:special_beverage_from_angels_share> \u25c0Special Beverage from Angel's Share\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Special_Beverage_from_Angel%27s_Share\u25b7",
+                            "img": {
+                                "special_beverage_from_angels_share": "Item_Quest_Gift.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to Viktor"
                 }
             ]
-        },
-        {
-            "plaintext": "Talk to Viktor",
-            "markdown": "Talk to Viktor"
         }
     ],
     "dialogue": true

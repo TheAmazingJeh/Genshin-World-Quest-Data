@@ -1,10 +1,10 @@
 {
+    "version": "1.1",
     "type": "single",
     "name": "Waking from the Great Dream (Quest)",
     "url": "https://genshin-impact.fandom.com/wiki/Waking_from_the_Great_Dream_%28Quest%29",
     "starting_location": {
-        "plaintext": "Genesis of a Certain Micro-Universe , Fontaine",
-        "markdown": "\u25c0Genesis of a Certain Micro-Universe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Genesis_of_a_Certain_Micro-Universe\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
+        "text": "\u25c0Genesis of a Certain Micro-Universe\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Genesis_of_a_Certain_Micro-Universe\u25b7 , \u25c0Fontaine\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Fontaine\u25b7"
     },
     "requirements": null,
     "rewards": [
@@ -32,27 +32,35 @@
     ],
     "steps": [
         {
-            "plaintext": "Enter the ocean current",
-            "markdown": "Enter the ocean current"
-        },
-        {
-            "plaintext": "Keep moving ahead",
-            "markdown": "Keep moving ahead"
-        },
-        {
-            "plaintext": "Talk to the giant being",
-            "markdown": "Talk to the giant being"
-        },
-        {
-            "plaintext": "Defeat Narzissenkreuz",
-            "markdown": "Defeat \u25c0Narzissenkreuz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narzissenkreuz\u25b7",
-            "substeps": [
+            "tag": "ol",
+            "steps": [
                 {
-                    "plaintext": "Narzissenkreuz \u2014 Incomplete Order of the New Cosmos",
-                    "markdown": "<img:hydro_tulpa> \u25c0Narzissenkreuz \u2014 Incomplete Order of the New Cosmos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narzissenkreuz_(Enemy)\u25b7",
-                    "img": {
-                        "hydro_tulpa": "Hydro_Tulpa_Icon.png"
-                    }
+                    "tag": "li",
+                    "text": "Enter the ocean current"
+                },
+                {
+                    "tag": "li",
+                    "text": "Keep moving ahead"
+                },
+                {
+                    "tag": "li",
+                    "text": "Talk to the giant being"
+                },
+                {
+                    "tag": "li",
+                    "text": "Defeat \u25c0Narzissenkreuz\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narzissenkreuz\u25b7"
+                },
+                {
+                    "tag": "ul",
+                    "steps": [
+                        {
+                            "tag": "li",
+                            "text": "<img:hydro_tulpa> \u25c0Narzissenkreuz \u2014 Incomplete Order of the New Cosmos\u25b6\u25c1https://genshin-impact.fandom.com/wiki/Narzissenkreuz_(Enemy)\u25b7",
+                            "img": {
+                                "hydro_tulpa": "Hydro_Tulpa_Icon.png"
+                            }
+                        }
+                    ]
                 }
             ]
         }
